@@ -46,3 +46,7 @@
 	path = kompas
 	url = https://github.com/bastl-instruments/kompas.git
 	branch = master
+[submodule "venus-instruments/veno-echo"]
+	path = veno-echo
+	url = https://github.com/AdamFulford/Veno-Echo.git
+	branch = main
