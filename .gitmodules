@@ -310,3 +310,7 @@
 	path = multiversio
 	url = https://github.com/fluffyaudio/MultiVersio.git
 	branch = main
+[submodule "paulstoffregen/audio"]
+	path = teensy-audio-library
+	url = https://github.com/PaulStoffregen/Audio.git
+	branch = master
