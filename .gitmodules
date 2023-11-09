@@ -250,3 +250,7 @@
 	path = microgranny
 	url = https://github.com/bastl-instruments/bastlMicroGranny.git
 	branch = master
+[submodule "mqtthiqs/parasites"]
+	path = parasites
+	url = https://github.com/mqtthiqs/parasites.git
+	branch = master
