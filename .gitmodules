@@ -258,3 +258,7 @@
 	path = bastl-eurorack
 	url = https://github.com/bastl-instruments/eurorack.git
 	branch = master
+[submodule "pdmeyer/philip-meyer-max-tutorials"]
+	path = philip-meyer-max-tutorials
+	url = https://github.com/pdmeyer/philip-meyer-max-tutorials.git
+	branch = main
