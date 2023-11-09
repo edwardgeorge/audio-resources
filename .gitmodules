@@ -30,3 +30,7 @@
 	path = monome-rack
 	url = https://github.com/Dewb/monome-rack.git
 	branch = main
+[submodule "djphazer/o_c-benisphere-suite"]
+	path = phazerville-suite
+	url = https://github.com/djphazer/O_C-BenisphereSuite.git
+	branch = phazerville
