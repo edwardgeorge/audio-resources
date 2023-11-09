@@ -282,3 +282,7 @@
 	path = vult
 	url = https://github.com/vult-dsp/vult.git
 	branch = master
+[submodule "schollz/norns-desktop"]
+	path = norns-desktop
+	url = https://github.com/schollz/norns-desktop.git
+	branch = main
