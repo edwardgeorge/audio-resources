@@ -90,3 +90,7 @@
 	path = vaporizer2
 	url = https://github.com/VASTDynamics/Vaporizer2.git
 	branch = main
+[submodule "midilab/uclock"]
+	path = uclock
+	url = https://github.com/midilab/uClock
+	branch = main
