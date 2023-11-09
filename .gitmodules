@@ -78,3 +78,7 @@
 	path = supercollider
 	url = https://github.com/supercollider/supercollider.git
 	branch = develop
+[submodule "deezer/spleeter"]
+	path = spleeter
+	url = https://github.com/deezer/spleeter.git
+	branch = master
