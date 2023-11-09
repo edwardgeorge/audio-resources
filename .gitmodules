@@ -230,3 +230,7 @@
 	path = faust
 	url = https://github.com/grame-cncm/faust.git
 	branch = master-dev
+[submodule "aubio/aubio"]
+	path = aubio
+	url = https://github.com/aubio/aubio.git
+	branch = master
