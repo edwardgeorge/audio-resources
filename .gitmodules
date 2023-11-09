@@ -314,3 +314,7 @@
 	path = teensy-audio-library
 	url = https://github.com/PaulStoffregen/Audio.git
 	branch = master
+[submodule "monome/we"]
+	path = monome-we
+	url = https://github.com/monome/we.git
+	branch = master
