@@ -98,3 +98,7 @@
 	path = cuecat
 	url = https://github.com/rupa/cuecat.git
 	branch = main
+[submodule "hirnlego/repetita-versio"]
+	path = repetita-versio
+	url = https://github.com/hirnlego/repetita-versio.git
+	branch = master
