@@ -70,3 +70,7 @@
 	path = monome-norns
 	url = https://github.com/monome/norns.git
 	branch = main
+[submodule "ableton/link"]
+	path = ableton-link
+	url = https://github.com/Ableton/link.git
+	branch = master
