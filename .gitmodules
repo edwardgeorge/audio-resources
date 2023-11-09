@@ -50,3 +50,7 @@
 	path = veno-echo
 	url = https://github.com/AdamFulford/Veno-Echo.git
 	branch = main
+[submodule "mhetrick/nonlinearcircuits"]
+	path = mhetrick-nonlinearcircuits-vcvrack
+	url = https://github.com/mhetrick/nonlinearcircuits.git
+	branch = master
