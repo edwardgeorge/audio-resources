@@ -234,3 +234,11 @@
 	path = aubio
 	url = https://github.com/aubio/aubio.git
 	branch = master
+[submodule "scanner-darkly/orcas-heart"]
+	path = orcas-heart
+	url = https://github.com/scanner-darkly/orcas-heart.git
+	branch = main
+[submodule "scanner-darkly/multipass"]
+	path = multipass
+	url = https://github.com/scanner-darkly/multipass.git
+	branch = main
