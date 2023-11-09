@@ -274,3 +274,7 @@
 	path = er-301-pkgs/accents
 	url = https://github.com/SuperNiCd/Accents.git
 	branch = master
+[submodule "tmfset/er-301-custom-units"]
+	path = er-301-pkgs/tmfset-custom-units
+	url = https://github.com/tmfset/er-301-custom-units.git
+	branch = master
