@@ -298,3 +298,7 @@
 	path = microdexed-touch
 	url = https://codeberg.org/positionhigh/MicroDexed-touch.git
 	branch = main
+[submodule "dcoredump/synth-dexed"]
+	path = synth-dexed
+	url = https://codeberg.org/dcoredump/Synth_Dexed.git
+	branch = master
