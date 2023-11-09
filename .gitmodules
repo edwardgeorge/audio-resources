@@ -146,3 +146,7 @@
 	path = oopsy
 	url = https://github.com/electro-smith/oopsy.git
 	branch = main
+[submodule "bastl-instruments/kastle"]
+	path = kastle
+	url = https://github.com/bastl-instruments/kastle.git
+	branch = master
