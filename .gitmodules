@@ -302,3 +302,7 @@
 	path = synth-dexed
 	url = https://codeberg.org/dcoredump/Synth_Dexed.git
 	branch = master
+[submodule "probonopd/minidexed"]
+	path = minidexed
+	url = https://github.com/probonopd/MiniDexed.git
+	branch = main
