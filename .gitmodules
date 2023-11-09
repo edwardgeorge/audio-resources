@@ -82,3 +82,7 @@
 	path = spleeter
 	url = https://github.com/deezer/spleeter.git
 	branch = master
+[submodule "deezer/spleeter4max"]
+	path = spleeter4max
+	url = https://github.com/diracdeltas/spleeter4max
+	branch = master
