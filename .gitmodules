@@ -162,3 +162,7 @@
 	path = tidalcycles
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = main
+[submodule "musikinformatik/superdirt/develop"]
+	path = superdirt
+	url = https://github.com/musikinformatik/SuperDirt.git
+	branch = develop
