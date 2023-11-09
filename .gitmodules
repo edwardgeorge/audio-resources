@@ -218,3 +218,7 @@
 	path = monome-terms
 	url = https://github.com/monome/Terms.git
 	branch = master
+[submodule "yamadapc/augmented-audio"]
+	path = augmented-audio
+	url = https://github.com/yamadapc/augmented-audio.git
+	branch = master
