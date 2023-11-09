@@ -178,3 +178,7 @@
 	path = tidal-looper
 	url = https://github.com/thgrund/tidal-looper.git
 	branch = master
+[submodule "shairosenblit/tidal-sound-explorer"]
+	path = tidal-sound-explorer
+	url = https://github.com/ShaiRosenblit/tidal-sound-explorer.git
+	branch = main
