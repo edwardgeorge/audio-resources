@@ -242,3 +242,7 @@
 	path = multipass
 	url = https://github.com/scanner-darkly/multipass.git
 	branch = main
+[submodule "monome/dust"]
+	path = monome-dust
+	url = https://github.com/monome/dust.git
+	branch = master
