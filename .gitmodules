@@ -130,3 +130,19 @@
 	path = aciduino
 	url = https://github.com/midilab/aciduino.git
 	branch = master
+[submodule "electro-smith/daisyexamples"]
+	path = daisy-examples
+	url = https://github.com/electro-smith/DaisyExamples.git
+	branch = master
+[submodule "electro-smith/daisysp"]
+	path = daisysp
+	url = https://github.com/electro-smith/DaisySP.git
+	branch = master
+[submodule "electrosmith/libdaisy"]
+	path = libdaisy
+	url = https://github.com/electro-smith/libDaisy
+	branch = master
+[submodule "electro-smith/oopsy"]
+	path = oopsy
+	url = https://github.com/electro-smith/oopsy.git
+	branch = main
