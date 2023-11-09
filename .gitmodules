@@ -94,3 +94,7 @@
 	path = uclock
 	url = https://github.com/midilab/uClock
 	branch = main
+[submodule "rupa/cuecat"]
+	path = cuecat
+	url = https://github.com/rupa/cuecat.git
+	branch = main
