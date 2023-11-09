@@ -166,3 +166,7 @@
 	path = superdirt
 	url = https://github.com/musikinformatik/SuperDirt.git
 	branch = develop
+[submodule "tidalcycles/dirt"]
+	path = dirt
+	url = https://github.com/tidalcycles/Dirt.git
+	branch = master
