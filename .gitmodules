@@ -102,3 +102,7 @@
 	path = repetita-versio
 	url = https://github.com/hirnlego/repetita-versio.git
 	branch = master
+[submodule "sixolet/phonotype"]
+	path = phonotype
+	url = https://github.com/sixolet/phonotype.git
+	branch = main
