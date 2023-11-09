@@ -110,3 +110,7 @@
 	path = mozzi
 	url = https://github.com/sensorium/Mozzi.git
 	branch = master
+[submodule "v7b1/mi-ugens"]
+	path = mi-ugens
+	url = https://github.com/v7b1/mi-UGens.git
+	branch = main
