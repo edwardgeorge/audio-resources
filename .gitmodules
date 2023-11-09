@@ -26,3 +26,7 @@
 	path = monome-crow
 	url = https://github.com/monome/crow.git
 	branch = main
+[submodule "dewb/monome-rack"]
+	path = monome-rack
+	url = https://github.com/Dewb/monome-rack.git
+	branch = main
