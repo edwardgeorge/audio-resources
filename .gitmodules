@@ -54,3 +54,7 @@
 	path = mhetrick-nonlinearcircuits-vcvrack
 	url = https://github.com/mhetrick/nonlinearcircuits.git
 	branch = master
+[submodule "then-try-this/samplebrain"]
+	path = aphex-samplebrain
+	url = https://gitlab.com/then-try-this/samplebrain.git
+	branch = production
