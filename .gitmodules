@@ -150,3 +150,7 @@
 	path = kastle
 	url = https://github.com/bastl-instruments/kastle.git
 	branch = master
+[submodule "jaap3/pti-tools"]
+	path = pti-tools
+	url = https://github.com/jaap3/pti-tools.git
+	branch = main
