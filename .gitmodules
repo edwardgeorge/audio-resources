@@ -58,3 +58,7 @@
 	path = aphex-samplebrain
 	url = https://gitlab.com/then-try-this/samplebrain.git
 	branch = production
+[submodule "composingcap/grainflow"]
+	path = grainflow
+	url = https://github.com/composingcap/grainflow.git
+	branch = master
