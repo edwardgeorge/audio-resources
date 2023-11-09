@@ -286,3 +286,7 @@
 	path = norns-desktop
 	url = https://github.com/schollz/norns-desktop.git
 	branch = main
+[submodule "supercollider/sc3-plugins"]
+	path = supercollider-plugins
+	url = https://github.com/supercollider/sc3-plugins.git
+	branch = main
