@@ -38,3 +38,7 @@
 	path = telex
 	url = https://github.com/bpcmusic/telex.git
 	branch = master
+[submodule "allen-synthesis/europi"]
+	path = europi
+	url = https://github.com/Allen-Synthesis/EuroPi.git
+	branch = main
