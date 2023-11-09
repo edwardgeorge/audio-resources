@@ -42,3 +42,7 @@
 	path = europi
 	url = https://github.com/Allen-Synthesis/EuroPi.git
 	branch = main
+[submodule "bastl-instruments/kompas"]
+	path = kompas
+	url = https://github.com/bastl-instruments/kompas.git
+	branch = master
