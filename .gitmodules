@@ -182,3 +182,7 @@
 	path = tidal-sound-explorer
 	url = https://github.com/ShaiRosenblit/tidal-sound-explorer.git
 	branch = main
+[submodule "hundredrabbits/orca"]
+	path = orca
+	url = https://github.com/hundredrabbits/Orca.git
+	branch = main
