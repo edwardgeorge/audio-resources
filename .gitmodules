@@ -66,3 +66,7 @@
 	path = dexed
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
+[submodule "monome/norns"]
+	path = monome-norns
+	url = https://github.com/monome/norns.git
+	branch = main
