@@ -114,3 +114,7 @@
 	path = mi-ugens
 	url = https://github.com/v7b1/mi-UGens.git
 	branch = main
+[submodule "m4ngu/sweet-sixteen"]
+	path = sweet-sixteen
+	url = https://github.com/M4ngu/Sweet-Sixteen.git
+	branch = master
