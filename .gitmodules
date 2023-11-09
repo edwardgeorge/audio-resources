@@ -174,3 +174,7 @@
 	path = superdirtmixer
 	url = https://github.com/thgrund/SuperDirtMixer.git
 	branch = main
+[submodule "thgrund/tidal-looper"]
+	path = tidal-looper
+	url = https://github.com/thgrund/tidal-looper.git
+	branch = master
