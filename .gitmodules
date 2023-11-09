@@ -254,3 +254,7 @@
 	path = parasites
 	url = https://github.com/mqtthiqs/parasites.git
 	branch = master
+[submodule "bastl-instruments/eurorack"]
+	path = bastl-eurorack
+	url = https://github.com/bastl-instruments/eurorack.git
+	branch = master
