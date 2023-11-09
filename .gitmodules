@@ -278,3 +278,7 @@
 	path = er-301-pkgs/tmfset-custom-units
 	url = https://github.com/tmfset/er-301-custom-units.git
 	branch = master
+[submodule "vult-dsp/vult"]
+	path = vult
+	url = https://github.com/vult-dsp/vult.git
+	branch = master
