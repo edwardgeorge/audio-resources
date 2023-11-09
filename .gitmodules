@@ -122,3 +122,7 @@
 	path = monome-bowery
 	url = https://github.com/monome/bowery.git
 	branch = main
+[submodule "theslowgrowth/monomearcclone"]
+	path = monome-arc-clone
+	url = https://github.com/TheSlowGrowth/MonomeArcClone.git
+	branch = master
