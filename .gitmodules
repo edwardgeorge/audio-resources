@@ -118,3 +118,7 @@
 	path = sweet-sixteen
 	url = https://github.com/M4ngu/Sweet-Sixteen.git
 	branch = master
+[submodule "monome/bowery"]
+	path = monome-bowery
+	url = https://github.com/monome/bowery.git
+	branch = main
