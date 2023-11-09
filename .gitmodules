@@ -34,3 +34,7 @@
 	path = phazerville-suite
 	url = https://github.com/djphazer/O_C-BenisphereSuite.git
 	branch = phazerville
+[submodule "bpcmusic/telex"]
+	path = telex
+	url = https://github.com/bpcmusic/telex.git
+	branch = master
