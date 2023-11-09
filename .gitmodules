@@ -186,3 +186,35 @@
 	path = orca
 	url = https://github.com/hundredrabbits/Orca.git
 	branch = main
+[submodule "monome/monome-max-package"]
+	path = monome-max-package
+	url = https://github.com/monome/monome-max-package.git
+	branch = main
+[submodule "monome/crow-max-and-m4l"]
+	path = monome-crow-max-and-m4l
+	url = https://github.com/monome/crow-max-and-m4l.git
+	branch = main
+[submodule "monome/whitewhale"]
+	path = monome-whitewhale
+	url = https://github.com/monome/whitewhale.git
+	branch = main
+[submodule "monome/libavr32"]
+	path = monome-libavr32
+	url = https://github.com/monome/libavr32.git
+	branch = main
+[submodule "monome/earthsea"]
+	path = monome-earthsea
+	url = https://github.com/monome/earthsea.git
+	branch = main
+[submodule "monome/meadowphysics"]
+	path = monome-meadowphysics
+	url = https://github.com/monome/meadowphysics.git
+	branch = main
+[submodule "monome/kria"]
+	path = monome-whitewhale-kria
+	url = https://github.com/monome/kria.git
+	branch = master
+[submodule "monome/terms"]
+	path = monome-terms
+	url = https://github.com/monome/Terms.git
+	branch = master
