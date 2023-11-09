@@ -246,3 +246,7 @@
 	path = monome-dust
 	url = https://github.com/monome/dust.git
 	branch = master
+[submodule "bastl-instruments/microgranny"]
+	path = microgranny
+	url = https://github.com/bastl-instruments/bastlMicroGranny.git
+	branch = master
