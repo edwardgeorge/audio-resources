@@ -170,3 +170,7 @@
 	path = dirt
 	url = https://github.com/tidalcycles/Dirt.git
 	branch = master
+[submodule "thgrund/superdirtmixer"]
+	path = superdirtmixer
+	url = https://github.com/thgrund/SuperDirtMixer.git
+	branch = main
