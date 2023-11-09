@@ -126,3 +126,7 @@
 	path = monome-arc-clone
 	url = https://github.com/TheSlowGrowth/MonomeArcClone.git
 	branch = master
+[submodule "midilab/aciduino"]
+	path = aciduino
+	url = https://github.com/midilab/aciduino.git
+	branch = master
