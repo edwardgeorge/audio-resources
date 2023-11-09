@@ -266,3 +266,7 @@
 	path = rhythm-and-time-toolkit
 	url = https://github.com/pdmeyer/rhythm-and-time-toolkit.git
 	branch = main
+[submodule "mudlogger/autogen301"]
+	path = er-301-pkgs/autogen301
+	url = https://github.com/mudlogger/autogen301.git
+	branch = main
