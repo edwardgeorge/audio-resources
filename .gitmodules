@@ -318,3 +318,7 @@
 	path = monome-we
 	url = https://github.com/monome/we.git
 	branch = master
+[submodule "itsyourbedtime/orca"]
+	path = norns/orca
+	url = https://github.com/itsyourbedtime/orca.git
+	branch = main
