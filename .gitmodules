@@ -14,3 +14,15 @@
 	path = castor-and-pollux
 	url = https://github.com/wntrblm/Castor_and_Pollux.git
 	branch = main
+[submodule "monome/teletype"]
+	path = monome-teletype
+	url = https://github.com/monome/teletype.git
+	branch = main
+[submodule "monome/ansible"]
+	path = monome-ansible
+	url = https://github.com/monome/ansible
+	branch = main
+[submodule "monome/crow"]
+	path = monome-crow
+	url = https://github.com/monome/crow.git
+	branch = main
