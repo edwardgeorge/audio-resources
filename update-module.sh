@@ -24,3 +24,13 @@ then
     git -C "${toplevel}" -c protocol.file.allow=always fetch "${bundle_name}" "HEAD:${branch_name}"
     rm "${bundle_name}"
 fi
+if ! [ -z ${PUSH_BRANCH+x} ]
+then
+    git push origin "${branch_name}:${branch_name}"
+    git branch -D "${branch_name}"
+fi
+if ! [ -z ${CLEAN_UP+x} ]
+then
+    git -C "${toplevel}" submodule deinit -f "${sm_path}"
+    rm -rf "${toplevel}/.git/modules/${name}"
+fi

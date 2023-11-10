@@ -17,7 +17,10 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
     - name: update modules
-      run: ./update-all.sh
+      run: |
+        export PUSH_BRANCH=1
+        export CLEAN_UP=1
+        ./update-all.sh
     - name: git status
       run: git status
     - name: push back
