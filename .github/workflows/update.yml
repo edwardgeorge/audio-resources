@@ -15,6 +15,6 @@ jobs:
     - name: update modules
       run: ./update-all.sh
     - name: push back
-      if: ${{ github.ref == "refs/heads/main" }}
+      if: ${{ github.ref == 'refs/heads/main' }}
       run: |
         git push origin --all
