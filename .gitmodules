@@ -322,3 +322,7 @@
 	path = norns/orca
 	url = https://github.com/itsyourbedtime/orca.git
 	branch = main
+[submodule "juce-framework/juce"]
+	path = juce
+	url = https://github.com/juce-framework/JUCE.git
+	branch = master
