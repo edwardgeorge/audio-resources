@@ -6,4 +6,4 @@ do
     git submodule update --init --remote --filter=tree:0 "$sub"
     git submodule foreach '$toplevel/update-module.sh;'
 done
-git diff-index --quiet HEAD || git commit -m "update submodules"
+git diff-index --quiet HEAD || git commit -m "update submodules\n\n[skip ci]"
