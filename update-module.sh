@@ -25,8 +25,8 @@ then
     rm "${bundle_name}"
     if ! [ -z ${PUSH_BRANCH+x} ]
     then
-        git push origin "${branch_name}:${branch_name}"
-        git branch -D "${branch_name}"
+        git -C "${toplevel}" push origin "${branch_name}:${branch_name}"
+        git -C "${toplevel}" branch -D "${branch_name}"
     fi
 fi
 if ! [ -z ${CLEAN_UP+x} ]
