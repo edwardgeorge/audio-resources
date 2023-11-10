@@ -23,11 +23,11 @@ then
     git bundle verify "${bundle_name}"
     git -C "${toplevel}" -c protocol.file.allow=always fetch "${bundle_name}" "HEAD:${branch_name}"
     rm "${bundle_name}"
-fi
-if ! [ -z ${PUSH_BRANCH+x} ]
-then
-    git push origin "${branch_name}:${branch_name}"
-    git branch -D "${branch_name}"
+    if ! [ -z ${PUSH_BRANCH+x} ]
+    then
+        git push origin "${branch_name}:${branch_name}"
+        git branch -D "${branch_name}"
+    fi
 fi
 if ! [ -z ${CLEAN_UP+x} ]
 then
