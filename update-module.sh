@@ -16,6 +16,9 @@ then
     fi
 else
     echo "branch ${branch_name} does not exist. creating bundle from scratch..."
+    git config --unset remote.origin.promisor || :
+    git config --unset remote.origin.partialclonefilter || :
+    git fetch --refetch origin
     git bundle create "${bundle_name}" HEAD
 fi
 if [ -f "${bundle_name}" ]
