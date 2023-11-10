@@ -1,0 +1,34 @@
+name: add submodule
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        required: true
+      url:
+        required: true
+      branch:
+        required: true
+      path:
+        required: true
+jobs:
+  add-submodule:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+        token: ${{secrets.ACCESS_TOKEN}}
+    - env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        USER_ID=$(gh api "users/${{ github.actor }}" --jq '.id')
+        USER_NAME=$(gh api "users/${{ github.actor }}" --jq '.name')
+        USER_EMAIL="${USER_ID}+${{ github.actor }}@users.noreply.github.com"
+        git config --global user.name "${USER_NAME}"
+        git config --global user.email "${USER_EMAIL}"
+    - run: |
+        git submodule add -b ${{inputs.branch}} --name ${{inputs.name}} ${{inputs.url}} ${{inputs.path}}
+        git add ${{inputs.path}}
+        git ci -m "add submodule '${{inputs.path}}'"
+        git push origin
+        
