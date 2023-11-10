@@ -2,9 +2,9 @@
 set -e
 
 current_sha="$(git rev-parse --verify HEAD)"
-branch_name="archive/$name"
+branch_name="$name"
 bundle_name="${toplevel}/bundles/${current_sha}.bundle"
-if res="$(git -C $toplevel ls-remote --heads --exit-code origin $branch_name)"
+if res="$(git -C $toplevel ls-remote --heads --exit-code archive $branch_name)"
 then
     remote_sha=$(echo $res | awk '{print $1}')
     # create a partial bundle and fetch necessary local commits
@@ -12,7 +12,7 @@ then
     then
         echo "changes in branch, creating bundle with differences..."
         git bundle create "${bundle_name}" "${remote_sha}..HEAD"
-        git -C "${toplevel}" fetch --depth=2 --filter=tree:0 origin "${remote_sha}"
+        git -C "${toplevel}" fetch --depth=2 --filter=tree:0 archive "${remote_sha}"
     fi
 else
     echo "branch ${branch_name} does not exist. creating bundle from scratch..."
@@ -25,7 +25,7 @@ then
     rm "${bundle_name}"
     if ! [ -z ${PUSH_BRANCH+x} ]
     then
-        git -C "${toplevel}" push origin "${branch_name}:${branch_name}"
+        git -C "${toplevel}" push archive "${branch_name}:${branch_name}"
         git -C "${toplevel}" branch -D "${branch_name}"
     fi
 fi
