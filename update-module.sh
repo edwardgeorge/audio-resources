@@ -22,4 +22,5 @@ if [ -f "${bundle_name}" ]
 then
     git bundle verify "${bundle_name}"
     git -C "${toplevel}" -c protocol.file.allow=always fetch "${bundle_name}" "HEAD:${branch_name}"
+    rm "${bundle_name}"
 fi
