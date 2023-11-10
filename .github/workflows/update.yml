@@ -15,6 +15,8 @@ jobs:
         git config user.name "github-actions[bot]"
     - name: update modules
       run: ./update-all.sh
+    - name: git status
+      run: git status
     - name: push back
       if: ${{ github.ref == 'refs/heads/main' }}
       run: |
