@@ -29,6 +29,6 @@ jobs:
     - run: |
         git submodule add -b ${{inputs.branch}} --name ${{inputs.name}} ${{inputs.url}} ${{inputs.path}}
         git add ${{inputs.path}}
-        git ci -m "add submodule '${{inputs.path}}'"
+        git commit -m "add submodule '${{inputs.path}}'"
         git push origin
         
