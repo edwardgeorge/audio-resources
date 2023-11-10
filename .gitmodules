@@ -326,3 +326,7 @@
 	path = juce
 	url = https://github.com/juce-framework/JUCE.git
 	branch = master
+[submodule "blinkenlights/ascii"]
+	path = blinkenlights-ascii-modular
+	url = https://github.com/Blinken-Lights/ASCII.git
+	branch = main
