@@ -338,3 +338,7 @@
 	path = intech-grid-firmware
 	url = https://github.com/intechstudio/grid-fw.git
 	branch = master
+[submodule "intechstudio/ottosdiy"]
+	path = ottos-diy-eurorack
+	url = https://github.com/intechstudio/ottosdiy.git
+	branch = master
