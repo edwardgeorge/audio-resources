@@ -330,3 +330,7 @@
 	path = blinkenlights-ascii-modular
 	url = https://github.com/Blinken-Lights/ASCII.git
 	branch = main
+[submodule "intechstudio/knot"]
+	path = knot
+	url = https://github.com/intechstudio/knot.git
+	branch = main
