@@ -334,3 +334,7 @@
 	path = knot
 	url = https://github.com/intechstudio/knot.git
 	branch = main
+[submodule "intechstudio/grid-fw"]
+	path = intech-grid-firmware
+	url = https://github.com/intechstudio/grid-fw.git
+	branch = master
