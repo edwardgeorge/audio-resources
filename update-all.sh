@@ -7,4 +7,4 @@ do
     git add "$sub"
     git submodule foreach '$toplevel/update-module.sh;'
 done
-git diff-index --quiet HEAD || git commit -m "update submodules\n\n[skip ci]"
+git diff-index --quiet HEAD || git commit -m "update submodules" -m "[skip ci]"
