@@ -362,3 +362,7 @@
 	path = plinky
 	url = https://github.com/plinkysynth/plinky_public.git
 	branch = main
+[submodule "jcpst/johnston"]
+	path = johnston-rs
+	url = https://github.com/jcpst/johnston.git
+	branch = main
