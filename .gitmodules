@@ -418,3 +418,7 @@
 	path = oscen-rs
 	url = https://github.com/reedrosenbluth/oscen.git
 	branch = master
+[submodule "chaosprint/glicol"]
+	path = glicol
+	url = https://github.com/chaosprint/glicol.git
+	branch = main
