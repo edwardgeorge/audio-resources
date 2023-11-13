@@ -374,3 +374,7 @@
 	path = matchering
 	url = https://github.com/sergree/matchering.git
 	branch = master
+[submodule "monome/softcub-lib"]
+	path = softcut-lib
+	url = https://github.com/monome/softcut-lib.git
+	branch = main
