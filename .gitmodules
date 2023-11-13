@@ -414,3 +414,7 @@
 	path = octasine
 	url = https://github.com/greatest-ape/OctaSine.git
 	branch = master
+[submodule "reedrosenbluth/oscen"]
+	path = oscen-rs
+	url = https://github.com/reedrosenbluth/oscen.git
+	branch = master
