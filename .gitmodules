@@ -410,3 +410,7 @@
 	path = vcv-modules/befaco
 	url = https://github.com/VCVRack/Befaco.git
 	branch = v2
+[submodule "greatest-ape/octasine"]
+	path = octasine
+	url = https://github.com/greatest-ape/OctaSine.git
+	branch = master
