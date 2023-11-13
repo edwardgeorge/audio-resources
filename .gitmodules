@@ -382,3 +382,7 @@
 	path = supercollisions
 	url = https://github.com/schollz/supercollisions.git
 	branch = main
+[submodule "blinkenlights/synth-modules"]
+	path = blinkenlights-synth-modules
+	url = https://github.com/Blinken-Lights/synth-modules.git
+	branch = master
