@@ -358,3 +358,7 @@
 	path = fundsp-rs
 	url = https://github.com/SamiPerttu/fundsp.git
 	branch = master
+[submodule "plinkysynth/plinky_public"]
+	path = plinky
+	url = https://github.com/plinkysynth/plinky_public.git
+	branch = main
