@@ -406,3 +406,7 @@
 	path = oxisynth
 	url = https://github.com/PolyMeilex/OxiSynth.git
 	branch = master
+[submodule "vcvrack/befaco/v2"]
+	path = vcv-modules/befaco
+	url = https://github.com/VCVRack/Befaco.git
+	branch = v2
