@@ -398,3 +398,7 @@
 	path = monome-serialosc
 	url = https://github.com/monome/serialosc.git
 	branch = main
+[submodule "thetechnobear/orac"]
+	path = orac
+	url = https://github.com/TheTechnobear/Orac.git
+	branch = master
