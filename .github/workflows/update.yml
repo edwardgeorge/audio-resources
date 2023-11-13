@@ -5,6 +5,7 @@ on:
   - cron:  '0 0,12 * * *'
   push:
     branches: [main]
+concurrency: update-${{github.ref}}
 jobs:
   update-modules:
     name: update all modules
