@@ -354,3 +354,7 @@
 	path = tune-rs
 	url = https://github.com/Woyten/tune.git
 	branch = master
+[submodule "samiperttu/fundsp"]
+	path = fundsp-rs
+	url = https://github.com/SamiPerttu/fundsp.git
+	branch = master
