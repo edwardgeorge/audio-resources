@@ -378,3 +378,7 @@
 	path = softcut-lib
 	url = https://github.com/monome/softcut-lib.git
 	branch = main
+[submodule "schollz/supercollisions"]
+	path = supercollisions
+	url = https://github.com/schollz/supercollisions.git
+	branch = main
