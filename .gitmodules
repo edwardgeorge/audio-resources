@@ -350,3 +350,7 @@
 	path = hachi-ni
 	url = https://github.com/okyeron/hachi-ni.git
 	branch = main
+[submodule "woyten/tune"]
+	path = tune-rs
+	url = https://github.com/Woyten/tune.git
+	branch = master
