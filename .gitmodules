@@ -394,3 +394,7 @@
 	path = allen-synthesis-usb-router
 	url = https://github.com/Allen-Synthesis/USB-Router.git
 	branch = main
+[submodule "monome/serialosc"]
+	path = monome-serialosc
+	url = https://github.com/monome/serialosc.git
+	branch = main
