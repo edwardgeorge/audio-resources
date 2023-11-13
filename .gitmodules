@@ -390,3 +390,7 @@
 	path = oamodular-uncertainty
 	url = https://github.com/oamodular/uncertainty.git
 	branch = main
+[submodule "allen-synthesis/usb-router"]
+	path = allen-synthesis-usb-router
+	url = https://github.com/Allen-Synthesis/USB-Router.git
+	branch = main
