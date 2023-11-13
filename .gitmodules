@@ -342,3 +342,7 @@
 	path = ottos-diy-eurorack
 	url = https://github.com/intechstudio/ottosdiy.git
 	branch = master
+[submodule "okyeron/omx-27"]
+	path = omx-27
+	url = https://github.com/okyeron/OMX-27.git
+	branch = main
