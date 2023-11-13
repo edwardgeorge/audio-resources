@@ -366,3 +366,7 @@
 	path = johnston-rs
 	url = https://github.com/jcpst/johnston.git
 	branch = main
+[submodule "aldaronlau/twang/stable"]
+	path = twang-rs
+	url = https://github.com/AldaronLau/twang.git
+	branch = stable
