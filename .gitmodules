@@ -370,3 +370,7 @@
 	path = twang-rs
 	url = https://github.com/AldaronLau/twang.git
 	branch = stable
+[submodule "sergree/matchering"]
+	path = matchering
+	url = https://github.com/sergree/matchering.git
+	branch = master
