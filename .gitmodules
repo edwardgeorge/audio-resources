@@ -386,3 +386,7 @@
 	path = blinkenlights-synth-modules
 	url = https://github.com/Blinken-Lights/synth-modules.git
 	branch = master
+[submodule "oamodular/uncertainty"]
+	path = oamodular-uncertainty
+	url = https://github.com/oamodular/uncertainty.git
+	branch = main
