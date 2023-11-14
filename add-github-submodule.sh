@@ -14,6 +14,7 @@ read -p "branch [${defaultbranch}]: " branch
 branch="${branch:-$defaultbranch}"
 read -p "name [${fullnametr}]: " submname
 submname="${submname:-$fullnametr}"
-read -p "path [${nametr}]: " path
-path="${path:-$nametr}"
+pathdefault="${2:+$2/}$nametr"
+read -p "path [${pathdefault}]: " path
+path="${path:-$pathdefault}"
 git submodule add -b "$branch" --name "$submname" "$cloneurl" "$path"
