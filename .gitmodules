@@ -538,3 +538,7 @@
 	path = rust-libraries/clap-sys
 	url = https://github.com/glowcoil/clap-sys.git
 	branch = master
+[submodule "prokopyl/clack"]
+	path = rust-libraries/clack
+	url = https://github.com/prokopyl/clack.git
+	branch = main
