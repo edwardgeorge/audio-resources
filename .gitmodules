@@ -446,3 +446,7 @@
 	path = bytebeat-rs
 	url = https://github.com/chaosprint/bytebeat-rs.git
 	branch = main
+[submodule "mmalex/midi2osc"]
+	path = midi2osc
+	url = https://github.com/mmalex/midi2osc.git
+	branch = master
