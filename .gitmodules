@@ -530,3 +530,7 @@
 	path = rust-libraries/embedded-audio-tools
 	url = https://github.com/backtail/embedded-audio-tools.git
 	branch = master
+[submodule "ooesili/sorceress"]
+	path = rust-libraries/sorceress
+	url = https://github.com/ooesili/sorceress.git
+	branch = master
