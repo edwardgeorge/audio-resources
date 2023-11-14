@@ -442,3 +442,7 @@
 	path = rppicomidi-usb-midi-processor
 	url = https://github.com/rppicomidi/pico-usb-midi-processor.git
 	branch = main
+[submodule "chaosprint/bytebeat-rs"]
+	path = bytebeat-rs
+	url = https://github.com/chaosprint/bytebeat-rs.git
+	branch = main
