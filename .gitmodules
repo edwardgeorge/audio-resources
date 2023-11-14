@@ -542,3 +542,7 @@
 	path = rust-libraries/clack
 	url = https://github.com/prokopyl/clack.git
 	branch = main
+[submodule "schollz/zxcvbn"]
+	path = norns/zxcvbn
+	url = https://github.com/schollz/zxcvbn.git
+	branch = main
