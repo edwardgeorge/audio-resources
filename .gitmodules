@@ -462,3 +462,35 @@
 	path = nih-plug-rs
 	url = https://github.com/robbert-vdh/nih-plug.git
 	branch = master
+[submodule "rustaudio/vst3-sys"]
+	path = rust-libraries/rustaudio-vst3-sys
+	url = https://github.com/RustAudio/vst3-sys.git
+	branch = master
+[submodule "pdeljanov/symphonia"]
+	path = rust-libraries/symphonia
+	url = https://github.com/pdeljanov/Symphonia.git
+	branch = master
+[submodule "rustaudio/rodio"]
+	path = rust-libraries/rustaudio-rodio
+	url = https://github.com/RustAudio/rodio.git
+	branch = master
+[submodule "rustaudio/cpal"]
+	path = rust-libraries/rustaudio-cpal
+	url = https://github.com/RustAudio/cpal.git
+	branch = master
+[submodule "rustaudio/dasp"]
+	path = rust-libraries/rustaudio-dasp
+	url = https://github.com/RustAudio/dasp.git
+	branch = master
+[submodule "rustaudio/audrey"]
+	path = rust-libraries/rustaudio-audrey
+	url = https://github.com/RustAudio/audrey.git
+	branch = master
+[submodule "rustaudio/dsp-chain"]
+	path = rust-libraries/rustaudio-dsp-chain
+	url = https://github.com/RustAudio/dsp-chain.git
+	branch = master
+[submodule "rustaudio/vst2-sys"]
+	path = rust-libraries/rustaudio-vst2-sys
+	url = https://github.com/RustAudio/vst2-sys.git
+	branch = master
