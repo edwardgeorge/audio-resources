@@ -514,3 +514,19 @@
 	path = clap-validator
 	url = https://github.com/free-audio/clap-validator.git
 	branch = master
+[submodule "mtthw-meyer/libdaisy-rust"]
+	path = libdaisy-rust
+	url = https://github.com/mtthw-meyer/libdaisy-rust.git
+	branch = master
+[submodule "backtail/daisy-blank"]
+	path = daisy-blank
+	url = https://github.com/backtail/daisy-blank.git
+	branch = master
+[submodule "irh/freeverb-rs"]
+	path = freeverb-rs
+	url = https://github.com/irh/freeverb-rs.git
+	branch = main
+[submodule "backtail/embedded-audio-tools"]
+	path = rust-libraries/embedded-audio-tools
+	url = https://github.com/backtail/embedded-audio-tools.git
+	branch = master
