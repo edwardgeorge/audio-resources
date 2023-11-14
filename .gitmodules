@@ -494,3 +494,23 @@
 	path = rust-libraries/rustaudio-vst2-sys
 	url = https://github.com/RustAudio/vst2-sys.git
 	branch = master
+[submodule "free-audio/clap"]
+	path = clap
+	url = https://github.com/free-audio/clap.git
+	branch = main
+[submodule "free-audio/clap-host"]
+	path = clap-host
+	url = https://github.com/free-audio/clap-host.git
+	branch = main
+[submodule "free-audio/clap-plugins"]
+	path = clap-plugins
+	url = https://github.com/free-audio/clap-plugins.git
+	branch = main
+[submodule "free-audio/clap-juce-extensions"]
+	path = clap-juce-extensions
+	url = https://github.com/free-audio/clap-juce-extensions.git
+	branch = main
+[submodule "free-audio/clap-validator"]
+	path = clap-validator
+	url = https://github.com/free-audio/clap-validator.git
+	branch = master
