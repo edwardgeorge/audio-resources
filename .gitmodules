@@ -450,3 +450,7 @@
 	path = midi2osc
 	url = https://github.com/mmalex/midi2osc.git
 	branch = master
+[submodule "backtail/granulator-rs"]
+	path = granulator-rs
+	url = https://github.com/backtail/granulator-rs.git
+	branch = master
