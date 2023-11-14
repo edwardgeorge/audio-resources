@@ -554,3 +554,27 @@
 	path = norns/tapedeck
 	url = https://github.com/schollz/tapedeck.git
 	branch = main
+[submodule "schollz/l-ll--l-"]
+	path = norns/l-ll--l-
+	url = https://github.com/schollz/l_ll__l_.git
+	branch = main
+[submodule "schollz/graintopia"]
+	path = norns/graintopia
+	url = https://github.com/schollz/graintopia.git
+	branch = main
+[submodule "schollz/amenbreak"]
+	path = norns/amenbreak
+	url = https://github.com/schollz/amenbreak.git
+	branch = main
+[submodule "northern-information/dronecaster"]
+	path = norns/dronecaster
+	url = https://github.com/northern-information/dronecaster.git
+	branch = main
+[submodule "schollz/teoperator"]
+	path = teoperator
+	url = https://github.com/schollz/teoperator.git
+	branch = master
+[submodule "schollz/opkit"]
+	path = opkit
+	url = https://github.com/schollz/opkit.git
+	branch = main
