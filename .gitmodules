@@ -454,3 +454,11 @@
 	path = granulator-rs
 	url = https://github.com/backtail/granulator-rs.git
 	branch = master
+[submodule "backtail/yanel-dsp"]
+	path = yanel-dsp-rs
+	url = https://github.com/backtail/yanel_dsp.git
+	branch = master
+[submodule "robbert-vdh/nih-plug"]
+	path = nih-plug-rs
+	url = https://github.com/robbert-vdh/nih-plug.git
+	branch = master
