@@ -550,3 +550,7 @@
 	path = norns/oooooo
 	url = https://github.com/schollz/oooooo.git
 	branch = main
+[submodule "schollz/tapedeck"]
+	path = norns/tapedeck
+	url = https://github.com/schollz/tapedeck.git
+	branch = main
