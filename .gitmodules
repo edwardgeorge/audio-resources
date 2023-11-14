@@ -422,3 +422,23 @@
 	path = glicol
 	url = https://github.com/chaosprint/glicol.git
 	branch = main
+[submodule "rppicomidi/midi2usbhost"]
+	path = rppicomidi-midi2usbhost
+	url = https://github.com/rppicomidi/midi2usbhost.git
+	branch = main
+[submodule "rppicomidi/midi2usbhub"]
+	path = rppicomidi-midi2usbhub
+	url = https://github.com/rppicomidi/midi2usbhub.git
+	branch = main
+[submodule "rppicomidi/pico-usb-midi-filter"]
+	path = rppicomidi-usb-midi-filter
+	url = https://github.com/rppicomidi/pico-usb-midi-filter.git
+	branch = main
+[submodule "rppicomidi/usb-midi-host"]
+	path = rppicomidi-usb-midi-host
+	url = https://github.com/rppicomidi/usb_midi_host.git
+	branch = main
+[submodule "rppicomidi/pico-usb-midi-processor"]
+	path = rppicomidi-usb-midi-processor
+	url = https://github.com/rppicomidi/pico-usb-midi-processor.git
+	branch = main
