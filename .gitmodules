@@ -582,3 +582,15 @@
 	path = nmedit
 	url = https://github.com/wesen/nmedit.git
 	branch = master
+[submodule "bitfieldaudio/otto/develop"]
+	path = otto
+	url = https://github.com/bitfieldaudio/OTTO.git
+	branch = develop
+[submodule "everythingwillbetakenaway/dx7-supercollider"]
+	path = supercollider-dx7
+	url = https://github.com/everythingwillbetakenaway/DX7-Supercollider.git
+	branch = master
+[submodule "xmacex/connect-opz"]
+	path = norns/connect-opz
+	url = https://github.com/xmacex/connect-opz.git
+	branch = main
