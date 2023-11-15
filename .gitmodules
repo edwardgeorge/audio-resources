@@ -578,3 +578,7 @@
 	path = opkit
 	url = https://github.com/schollz/opkit.git
 	branch = main
+[submodule "wesen/nmedit"]
+	path = nmedit
+	url = https://github.com/wesen/nmedit.git
+	branch = master
