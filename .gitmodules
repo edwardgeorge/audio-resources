@@ -1,29 +1,29 @@
 [submodule "mutable-instruments/eurorack"]
-	path = mutable-eurorack
+	path = hw-fw-eurorack/mutable-eurorack
 	url = https://github.com/pichenettes/eurorack.git
 	branch = master
 [submodule "schollz/pikocore"]
-	path = pikocore
+	path = hw-fw-eurorack/pikocore
 	url = https://github.com/schollz/pikocore.git
 	branch = main
 [submodule "odevices/er-301/develop"]
-	path = er-301-develop
+	path = hw-fw-eurorack/er-301
 	url = https://github.com/odevices/er-301.git
 	branch = develop
 [submodule "wntrblm/castor-and-pollux"]
-	path = castor-and-pollux
+	path = hw-fw-eurorack/castor-and-pollux
 	url = https://github.com/wntrblm/Castor_and_Pollux.git
 	branch = main
 [submodule "monome/teletype"]
-	path = monome/teletype
+	path = hw-fw-eurorack/monome/teletype
 	url = https://github.com/monome/teletype.git
 	branch = main
 [submodule "monome/ansible"]
-	path = monome/ansible
+	path = hw-fw-eurorack/monome/ansible
 	url = https://github.com/monome/ansible
 	branch = main
 [submodule "monome/crow"]
-	path = monome/crow
+	path = hw-fw-eurorack/monome/crow
 	url = https://github.com/monome/crow.git
 	branch = main
 [submodule "dewb/monome-rack"]
@@ -31,23 +31,23 @@
 	url = https://github.com/Dewb/monome-rack.git
 	branch = main
 [submodule "djphazer/o_c-benisphere-suite"]
-	path = phazerville-suite
+	path = hw-fw-eurorack/phazerville-suite
 	url = https://github.com/djphazer/O_C-BenisphereSuite.git
 	branch = phazerville
 [submodule "bpcmusic/telex"]
-	path = telex
+	path = hw-fw-eurorack/telex
 	url = https://github.com/bpcmusic/telex.git
 	branch = master
 [submodule "allen-synthesis/europi"]
-	path = europi
+	path = hw-fw-eurorack/europi
 	url = https://github.com/Allen-Synthesis/EuroPi.git
 	branch = main
 [submodule "bastl-instruments/kompas"]
-	path = kompas
+	path = hw-fw-eurorack/kompas
 	url = https://github.com/bastl-instruments/kompas.git
 	branch = master
 [submodule "venus-instruments/veno-echo"]
-	path = veno-echo
+	path = hw-fw-eurorack/veno-echo
 	url = https://github.com/AdamFulford/Veno-Echo.git
 	branch = main
 [submodule "mhetrick/nonlinearcircuits"]
@@ -67,7 +67,7 @@
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
 [submodule "monome/norns"]
-	path = monome/norns
+	path = hw-fw-eurorack/monome/norns
 	url = https://github.com/monome/norns.git
 	branch = main
 [submodule "ableton/link"]
@@ -99,7 +99,7 @@
 	url = https://github.com/rupa/cuecat.git
 	branch = main
 [submodule "hirnlego/repetita-versio"]
-	path = repetita-versio
+	path = hw-fw-eurorack/repetita-versio
 	url = https://github.com/hirnlego/repetita-versio.git
 	branch = master
 [submodule "sixolet/phonotype"]
@@ -115,7 +115,7 @@
 	url = https://github.com/v7b1/mi-UGens.git
 	branch = main
 [submodule "m4ngu/sweet-sixteen"]
-	path = sweet-sixteen
+	path = hw-fw-eurorack/sweet-sixteen
 	url = https://github.com/M4ngu/Sweet-Sixteen.git
 	branch = master
 [submodule "monome/bowery"]
@@ -123,11 +123,11 @@
 	url = https://github.com/monome/bowery.git
 	branch = main
 [submodule "theslowgrowth/monomearcclone"]
-	path = monome-arc-clone
+	path = hw-fw-eurorack/monome-arc-clone
 	url = https://github.com/TheSlowGrowth/MonomeArcClone.git
 	branch = master
 [submodule "midilab/aciduino"]
-	path = aciduino
+	path = hw-fw-eurorack/aciduino
 	url = https://github.com/midilab/aciduino.git
 	branch = master
 [submodule "electro-smith/daisyexamples"]
@@ -147,7 +147,7 @@
 	url = https://github.com/electro-smith/oopsy.git
 	branch = main
 [submodule "bastl-instruments/kastle"]
-	path = kastle
+	path = hw-fw-eurorack/kastle
 	url = https://github.com/bastl-instruments/kastle.git
 	branch = master
 [submodule "jaap3/pti-tools"]
@@ -155,7 +155,7 @@
 	url = https://github.com/jaap3/pti-tools.git
 	branch = main
 [submodule "eh2k/squares-and-circles"]
-	path = squares-and-circles
+	path = hw-fw-eurorack/squares-and-circles
 	url = https://github.com/eh2k/squares-and-circles.git
 	branch = main
 [submodule "tidalcycles/tidal"]
@@ -195,7 +195,7 @@
 	url = https://github.com/monome/crow-max-and-m4l.git
 	branch = main
 [submodule "monome/whitewhale"]
-	path = monome/whitewhale
+	path = hw-fw-eurorack/monome/whitewhale
 	url = https://github.com/monome/whitewhale.git
 	branch = main
 [submodule "monome/libavr32"]
@@ -203,15 +203,15 @@
 	url = https://github.com/monome/libavr32.git
 	branch = main
 [submodule "monome/earthsea"]
-	path = monome/earthsea
+	path = hw-fw-eurorack/monome/earthsea
 	url = https://github.com/monome/earthsea.git
 	branch = main
 [submodule "monome/meadowphysics"]
-	path = monome/meadowphysics
+	path = hw-fw-eurorack/monome/meadowphysics
 	url = https://github.com/monome/meadowphysics.git
 	branch = main
 [submodule "monome/kria"]
-	path = monome/kria
+	path = hw-fw-eurorack/monome/kria
 	url = https://github.com/monome/kria.git
 	branch = master
 [submodule "monome/terms"]
@@ -247,15 +247,15 @@
 	url = https://github.com/monome/dust.git
 	branch = master
 [submodule "bastl-instruments/microgranny"]
-	path = microgranny
+	path = hw-fw-eurorack/microgranny
 	url = https://github.com/bastl-instruments/bastlMicroGranny.git
 	branch = master
 [submodule "mqtthiqs/parasites"]
-	path = parasites
+	path = hw-fw-eurorack/parasites
 	url = https://github.com/mqtthiqs/parasites.git
 	branch = master
 [submodule "bastl-instruments/eurorack"]
-	path = bastl-eurorack
+	path = hw-fw-eurorack/bastl-eurorack
 	url = https://github.com/bastl-instruments/eurorack.git
 	branch = master
 [submodule "pdmeyer/philip-meyer-max-tutorials"]
@@ -327,27 +327,27 @@
 	url = https://github.com/juce-framework/JUCE.git
 	branch = master
 [submodule "blinkenlights/ascii"]
-	path = blinkenlights-ascii-modular
+	path = hw-fw-eurorack/blinkenlights-ascii-modular
 	url = https://github.com/Blinken-Lights/ASCII.git
 	branch = main
 [submodule "intechstudio/knot"]
-	path = knot
+	path = hw-fw-eurorack/knot
 	url = https://github.com/intechstudio/knot.git
 	branch = main
 [submodule "intechstudio/grid-fw"]
-	path = intech-grid-firmware
+	path = hw-fw-eurorack/intech-grid-firmware
 	url = https://github.com/intechstudio/grid-fw.git
 	branch = master
 [submodule "intechstudio/ottosdiy"]
-	path = ottos-diy-eurorack
+	path = hw-fw-eurorack/ottos-diy-eurorack
 	url = https://github.com/intechstudio/ottosdiy.git
 	branch = master
 [submodule "okyeron/omx-27"]
-	path = omx-27
+	path = hw-fw-eurorack/omx-27
 	url = https://github.com/okyeron/OMX-27.git
 	branch = main
 [submodule "okyeron/hachi-ni"]
-	path = hachi-ni
+	path = hw-fw-eurorack/hachi-ni
 	url = https://github.com/okyeron/hachi-ni.git
 	branch = main
 [submodule "woyten/tune"]
@@ -359,7 +359,7 @@
 	url = https://github.com/SamiPerttu/fundsp.git
 	branch = master
 [submodule "plinkysynth/plinky_public"]
-	path = plinky
+	path = hw-fw-eurorack/plinky
 	url = https://github.com/plinkysynth/plinky_public.git
 	branch = main
 [submodule "jcpst/johnston"]
@@ -383,15 +383,15 @@
 	url = https://github.com/schollz/supercollisions.git
 	branch = main
 [submodule "blinkenlights/synth-modules"]
-	path = blinkenlights-synth-modules
+	path = hw-fw-eurorack/blinkenlights-synth-modules
 	url = https://github.com/Blinken-Lights/synth-modules.git
 	branch = master
 [submodule "oamodular/uncertainty"]
-	path = oamodular-uncertainty
+	path = hw-fw-eurorack/oamodular-uncertainty
 	url = https://github.com/oamodular/uncertainty.git
 	branch = main
 [submodule "allen-synthesis/usb-router"]
-	path = allen-synthesis-usb-router
+	path = hw-fw-eurorack/allen-synthesis-usb-router
 	url = https://github.com/Allen-Synthesis/USB-Router.git
 	branch = main
 [submodule "monome/serialosc"]
@@ -623,7 +623,7 @@
 	url = https://github.com/madskjeldgaard/Monolithic.git
 	branch = main
 [submodule "jkrame1/betweener"]
-	path = betweener
+	path = hw-fw-eurorack/betweener
 	url = https://github.com/jkrame1/Betweener.git
 	branch = master
 [submodule "tomwhitwell/radiomusic"]
@@ -631,6 +631,6 @@
 	url = https://github.com/TomWhitwell/RadioMusic.git
 	branch = master
 [submodule "mxmxmx/minitrash"]
-	path = minitrash
+	path = hw-fw-eurorack/minitrash
 	url = https://github.com/mxmxmx/minitrash.git
 	branch = master
