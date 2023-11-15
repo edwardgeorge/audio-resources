@@ -163,7 +163,7 @@
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = main
 [submodule "musikinformatik/superdirt/develop"]
-	path = superdirt
+	path = supercollider/superdirt
 	url = https://github.com/musikinformatik/SuperDirt.git
 	branch = develop
 [submodule "tidalcycles/dirt"]
@@ -171,7 +171,7 @@
 	url = https://github.com/tidalcycles/Dirt.git
 	branch = master
 [submodule "thgrund/superdirtmixer"]
-	path = superdirtmixer
+	path = supercollider/superdirtmixer
 	url = https://github.com/thgrund/SuperDirtMixer.git
 	branch = main
 [submodule "thgrund/tidal-looper"]
