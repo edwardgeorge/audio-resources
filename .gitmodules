@@ -638,3 +638,7 @@
 	path = rust-libraries/rtrb
 	url = https://github.com/mgeier/rtrb.git
 	branch = main
+[submodule "tomwhitwell/turingmachine"]
+	path = hw-fw-eurorack/turingmachine
+	url = https://github.com/TomWhitwell/TuringMachine.git
+	branch = master
