@@ -642,3 +642,7 @@
 	path = hw-fw-eurorack/turingmachine
 	url = https://github.com/TomWhitwell/TuringMachine.git
 	branch = master
+[submodule "little-scale/eurorack"]
+	path = hw-fw-eurorack/little-scale-eurorack
+	url = https://github.com/little-scale/eurorack.git
+	branch = master
