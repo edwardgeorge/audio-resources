@@ -594,3 +594,31 @@
 	path = norns/connect-opz
 	url = https://github.com/xmacex/connect-opz.git
 	branch = main
+[submodule "ohmtech-rdi/eurorack-blocks"]
+	path = eurorack-blocks
+	url = https://github.com/ohmtech-rdi/eurorack-blocks.git
+	branch = main
+[submodule "ozankasikci/rust-music-theory"]
+	path = rust-libraries/rust-music-theory
+	url = https://github.com/ozankasikci/rust-music-theory.git
+	branch = master
+[submodule "thomassidor/tinytricks"]
+	path = vcv-modules/tinytricks
+	url = https://github.com/thomassidor/tinytricks.git
+	branch = master
+[submodule "monome/libmonome"]
+	path = monome-libmonome
+	url = https://github.com/monome/libmonome.git
+	branch = main
+[submodule "madskjeldgaard/guttersynth-sc"]
+	path = guttersynth-sc
+	url = https://github.com/madskjeldgaard/guttersynth-sc.git
+	branch = main
+[submodule "tommmmudd/guttersynthesis"]
+	path = guttersynthesis
+	url = https://github.com/tommmmudd/guttersynthesis.git
+	branch = master
+[submodule "madskjeldgaard/monolithic"]
+	path = monolithic
+	url = https://github.com/madskjeldgaard/Monolithic.git
+	branch = main
