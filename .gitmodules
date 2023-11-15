@@ -634,3 +634,7 @@
 	path = hw-fw-eurorack/minitrash
 	url = https://github.com/mxmxmx/minitrash.git
 	branch = master
+[submodule "mgeier/rtrb"]
+	path = rust-libraries/rtrb
+	url = https://github.com/mgeier/rtrb.git
+	branch = main
