@@ -622,3 +622,15 @@
 	path = monolithic
 	url = https://github.com/madskjeldgaard/Monolithic.git
 	branch = main
+[submodule "jkrame1/betweener"]
+	path = betweener
+	url = https://github.com/jkrame1/Betweener.git
+	branch = master
+[submodule "tomwhitwell/radiomusic"]
+	path = radiomusic
+	url = https://github.com/TomWhitwell/RadioMusic.git
+	branch = master
+[submodule "mxmxmx/minitrash"]
+	path = minitrash
+	url = https://github.com/mxmxmx/minitrash.git
+	branch = master
