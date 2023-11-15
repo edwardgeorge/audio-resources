@@ -646,3 +646,55 @@
 	path = hw-fw-eurorack/little-scale-eurorack
 	url = https://github.com/little-scale/eurorack.git
 	branch = master
+[submodule "kweiwen/thinks"]
+	path = hw-fw-eurorack/thinks
+	url = https://github.com/kweiwen/thinks.git
+	branch = master
+[submodule "kweiwen/benjolin"]
+	path = hw-fw-eurorack/kweiwen-benjolin
+	url = https://github.com/kweiwen/benjolin.git
+	branch = master
+[submodule "forestcaver/benjolin"]
+	path = hw-fw-eurorack/forestcaver-benjolin
+	url = https://github.com/forestcaver/Benjolin.git
+	branch = master
+[submodule "forestcaver/jinx"]
+	path = hw-fw-eurorack/jinx
+	url = https://github.com/forestcaver/Jinx.git
+	branch = master
+[submodule "pejrich/drum-machine-patterns"]
+	path = drum-machine-patterns
+	url = https://github.com/pejrich/drum-machine-patterns.git
+	branch = main
+[submodule "squaresolid/benjolin-gorga"]
+	path = hw-fw-eurorack/squaresolid-benjolin-gorga
+	url = https://github.com/squaresolid/benjolin_gorga.git
+	branch = main
+[submodule "mxmxmx/temps-utile-"]
+	path = hw-fw-eurorack/temps-utile-
+	url = https://github.com/mxmxmx/temps_utile-.git
+	branch = master
+[submodule "jakplugg/t-u"]
+	path = hw-fw-eurorack/jakplugg-t-u
+	url = https://github.com/jakplugg/T_u.git
+	branch = master
+[submodule "jakplugg/orgone-accumulator"]
+	path = hw-fw-eurorack/orgone-accumulator
+	url = https://github.com/jakplugg/Orgone-accumulator.git
+	branch = master
+[submodule "jakplugg/dodeca"]
+	path = hw-fw-eurorack/dodeca
+	url = https://github.com/jakplugg/Dodeca.git
+	branch = master
+[submodule "jakplugg/neutron-sound-dust-of-time"]
+	path = hw-fw-eurorack/dust-of-time
+	url = https://github.com/jakplugg/Neutron-Sound-Dust-of-Time.git
+	branch = master
+[submodule "mxmxmx/cv2midi"]
+	path = hw-fw-eurorack/cv2midi
+	url = https://github.com/mxmxmx/CV2Midi.git
+	branch = master
+[submodule "matthewcieplak/super-sixteen"]
+	path = hw-fw-eurorack/super-sixteen
+	url = https://github.com/matthewcieplak/super-sixteen.git
+	branch = master
