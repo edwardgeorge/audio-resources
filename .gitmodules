@@ -51,7 +51,7 @@
 	url = https://github.com/AdamFulford/Veno-Echo.git
 	branch = main
 [submodule "mhetrick/nonlinearcircuits"]
-	path = mhetrick-nonlinearcircuits-vcvrack
+	path = vcv-modules/mhetrick-nonlinearcircuits-vcvrack
 	url = https://github.com/mhetrick/nonlinearcircuits.git
 	branch = master
 [submodule "then-try-this/samplebrain"]
@@ -75,7 +75,7 @@
 	url = https://github.com/Ableton/link.git
 	branch = master
 [submodule "supercollider/develop"]
-	path = supercollider
+	path = supercollider/supercollider-src
 	url = https://github.com/supercollider/supercollider.git
 	branch = develop
 [submodule "deezer/spleeter"]
@@ -259,7 +259,7 @@
 	url = https://github.com/bastl-instruments/eurorack.git
 	branch = master
 [submodule "pdmeyer/philip-meyer-max-tutorials"]
-	path = philip-meyer-max-tutorials
+	path = max-packages/philip-meyer-max-tutorials
 	url = https://github.com/pdmeyer/philip-meyer-max-tutorials.git
 	branch = main
 [submodule "pdmeyer/rhythm-and-time-toolkit"]
@@ -287,7 +287,7 @@
 	url = https://github.com/schollz/norns-desktop.git
 	branch = main
 [submodule "supercollider/sc3-plugins"]
-	path = supercollider-plugins
+	path = supercollider/community-plugins
 	url = https://github.com/supercollider/sc3-plugins.git
 	branch = main
 [submodule "dcoredump/microdexed"]
@@ -379,7 +379,7 @@
 	url = https://github.com/monome/softcut-lib.git
 	branch = main
 [submodule "schollz/supercollisions"]
-	path = supercollisions
+	path = supercollider/supercollisions
 	url = https://github.com/schollz/supercollisions.git
 	branch = main
 [submodule "blinkenlights/synth-modules"]
@@ -587,7 +587,7 @@
 	url = https://github.com/bitfieldaudio/OTTO.git
 	branch = develop
 [submodule "everythingwillbetakenaway/dx7-supercollider"]
-	path = supercollider-dx7
+	path = supercollider/supercollider-dx7
 	url = https://github.com/everythingwillbetakenaway/DX7-Supercollider.git
 	branch = master
 [submodule "xmacex/connect-opz"]
