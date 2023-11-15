@@ -55,7 +55,7 @@
 	url = https://github.com/mhetrick/nonlinearcircuits.git
 	branch = master
 [submodule "then-try-this/samplebrain"]
-	path = aphex-samplebrain
+	path = software-and-tools/aphex-samplebrain
 	url = https://gitlab.com/then-try-this/samplebrain.git
 	branch = production
 [submodule "composingcap/grainflow"]
@@ -71,7 +71,7 @@
 	url = https://github.com/monome/norns.git
 	branch = main
 [submodule "ableton/link"]
-	path = ableton-link
+	path = libs/ableton-link
 	url = https://github.com/Ableton/link.git
 	branch = master
 [submodule "supercollider/develop"]
@@ -95,7 +95,7 @@
 	url = https://github.com/midilab/uClock
 	branch = main
 [submodule "rupa/cuecat"]
-	path = cuecat
+	path = software-and-tools/cuecat
 	url = https://github.com/rupa/cuecat.git
 	branch = main
 [submodule "hirnlego/repetita-versio"]
@@ -219,7 +219,7 @@
 	url = https://github.com/monome/Terms.git
 	branch = master
 [submodule "yamadapc/augmented-audio"]
-	path = augmented-audio
+	path = rust-libraries/augmented-audio
 	url = https://github.com/yamadapc/augmented-audio.git
 	branch = master
 [submodule "jatinchowdhury18/analogtapemodel"]
@@ -231,7 +231,7 @@
 	url = https://github.com/grame-cncm/faust.git
 	branch = master-dev
 [submodule "aubio/aubio"]
-	path = aubio
+	path = libs/aubio
 	url = https://github.com/aubio/aubio.git
 	branch = master
 [submodule "scanner-darkly/orcas-heart"]
@@ -443,7 +443,7 @@
 	url = https://github.com/rppicomidi/pico-usb-midi-processor.git
 	branch = main
 [submodule "chaosprint/bytebeat-rs"]
-	path = bytebeat-rs
+	path = software-and-tools/bytebeat-rs
 	url = https://github.com/chaosprint/bytebeat-rs.git
 	branch = main
 [submodule "mmalex/midi2osc"]
@@ -579,7 +579,7 @@
 	url = https://github.com/schollz/opkit.git
 	branch = main
 [submodule "wesen/nmedit"]
-	path = nmedit
+	path = software-and-tools/nmedit
 	url = https://github.com/wesen/nmedit.git
 	branch = master
 [submodule "bitfieldaudio/otto/develop"]
