@@ -307,7 +307,7 @@
 	url = https://github.com/probonopd/MiniDexed.git
 	branch = main
 [submodule "fluffyaudio/multiversio"]
-	path = multiversio
+	path = hw-fw-eurorack/multiversio
 	url = https://github.com/fluffyaudio/MultiVersio.git
 	branch = main
 [submodule "paulstoffregen/audio"]
@@ -627,7 +627,7 @@
 	url = https://github.com/jkrame1/Betweener.git
 	branch = master
 [submodule "tomwhitwell/radiomusic"]
-	path = radiomusic
+	path = hw-fw-eurorack/radiomusic
 	url = https://github.com/TomWhitwell/RadioMusic.git
 	branch = master
 [submodule "mxmxmx/minitrash"]
