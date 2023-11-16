@@ -722,3 +722,19 @@
 	path = norns/dreamsequence
 	url = https://github.com/dstroud/dreamsequence.git
 	branch = main
+[submodule "northern-information/arcologies"]
+	path = norns/arcologies
+	url = https://github.com/northern-information/arcologies.git
+	branch = main
+[submodule "northern-information/goldeneye"]
+	path = norns/goldeneye
+	url = https://github.com/northern-information/goldeneye.git
+	branch = main
+[submodule "northern-information/tulpamancer"]
+	path = norns/tulpamancer
+	url = https://github.com/northern-information/tulpamancer.git
+	branch = main
+[submodule "synthstromaudible/delugefirmware/community"]
+	path = hw-fw-eurorack/delugefirmware
+	url = https://github.com/SynthstromAudible/DelugeFirmware.git
+	branch = community
