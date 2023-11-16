@@ -351,7 +351,7 @@
 	url = https://github.com/okyeron/hachi-ni.git
 	branch = main
 [submodule "woyten/tune"]
-	path = tune-rs
+	path = rust-libraries/tune-rs
 	url = https://github.com/Woyten/tune.git
 	branch = master
 [submodule "samiperttu/fundsp"]
@@ -367,7 +367,7 @@
 	url = https://github.com/jcpst/johnston.git
 	branch = main
 [submodule "aldaronlau/twang/stable"]
-	path = twang-rs
+	path = rust-libraries/twang-rs
 	url = https://github.com/AldaronLau/twang.git
 	branch = stable
 [submodule "sergree/matchering"]
@@ -571,7 +571,7 @@
 	url = https://github.com/northern-information/dronecaster.git
 	branch = main
 [submodule "schollz/teoperator"]
-	path = teoperator
+	path = software-and-tools/teoperator
 	url = https://github.com/schollz/teoperator.git
 	branch = master
 [submodule "schollz/opkit"]
