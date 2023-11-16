@@ -710,3 +710,7 @@
 	path = max/petra
 	url = https://github.com/Cycling74/petra.git
 	branch = master
+[submodule "entzmingerc/drumcrow"]
+	path = crow/drumcrow
+	url = https://github.com/entzmingerc/drumcrow.git
+	branch = main
