@@ -59,11 +59,11 @@
 	url = https://gitlab.com/then-try-this/samplebrain.git
 	branch = production
 [submodule "composingcap/grainflow"]
-	path = grainflow
+	path = rust-libraries/grainflow
 	url = https://github.com/composingcap/grainflow.git
 	branch = master
 [submodule "asb2m10/dexed"]
-	path = dexed
+	path = plugins-and-synths/dexed
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
 [submodule "monome/norns"]
@@ -167,7 +167,7 @@
 	url = https://github.com/musikinformatik/SuperDirt.git
 	branch = develop
 [submodule "tidalcycles/dirt"]
-	path = dirt
+	path = plugins-and-synths/dirt
 	url = https://github.com/tidalcycles/Dirt.git
 	branch = master
 [submodule "thgrund/superdirtmixer"]
@@ -223,7 +223,7 @@
 	url = https://github.com/yamadapc/augmented-audio.git
 	branch = master
 [submodule "jatinchowdhury18/analogtapemodel"]
-	path = analog-tape-model
+	path = plugins-and-synths/analog-tape-model
 	url = https://github.com/jatinchowdhury18/AnalogTapeModel.git
 	branch = master
 [submodule "grame-cncm/faust/master-dev"]
@@ -403,7 +403,7 @@
 	url = https://github.com/TheTechnobear/Orac.git
 	branch = master
 [submodule "polymeilex/oxisynth"]
-	path = oxisynth
+	path = rust-libraries/oxisynth
 	url = https://github.com/PolyMeilex/OxiSynth.git
 	branch = master
 [submodule "vcvrack/befaco/v2"]
@@ -411,11 +411,11 @@
 	url = https://github.com/VCVRack/Befaco.git
 	branch = v2
 [submodule "greatest-ape/octasine"]
-	path = octasine
+	path = plugins-and-synths/octasine
 	url = https://github.com/greatest-ape/OctaSine.git
 	branch = master
 [submodule "reedrosenbluth/oscen"]
-	path = oscen-rs
+	path = rust-libraries/oscen-rs
 	url = https://github.com/reedrosenbluth/oscen.git
 	branch = master
 [submodule "chaosprint/glicol"]
@@ -575,7 +575,7 @@
 	url = https://github.com/schollz/teoperator.git
 	branch = master
 [submodule "schollz/opkit"]
-	path = opkit
+	path = software-and-tools/opkit
 	url = https://github.com/schollz/opkit.git
 	branch = main
 [submodule "wesen/nmedit"]
@@ -583,7 +583,7 @@
 	url = https://github.com/wesen/nmedit.git
 	branch = master
 [submodule "bitfieldaudio/otto/develop"]
-	path = otto
+	path = hw-fw-eurorack/otto
 	url = https://github.com/bitfieldaudio/OTTO.git
 	branch = develop
 [submodule "everythingwillbetakenaway/dx7-supercollider"]
