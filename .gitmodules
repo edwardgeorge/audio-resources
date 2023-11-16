@@ -183,7 +183,7 @@
 	url = https://github.com/ShaiRosenblit/tidal-sound-explorer.git
 	branch = main
 [submodule "hundredrabbits/orca"]
-	path = orca
+	path = software-and-tools/orca
 	url = https://github.com/hundredrabbits/Orca.git
 	branch = main
 [submodule "monome/monome-max-package"]
@@ -227,7 +227,7 @@
 	url = https://github.com/jatinchowdhury18/AnalogTapeModel.git
 	branch = master
 [submodule "grame-cncm/faust/master-dev"]
-	path = faust
+	path = languages-and-frameworks/faust
 	url = https://github.com/grame-cncm/faust.git
 	branch = master-dev
 [submodule "aubio/aubio"]
@@ -279,7 +279,7 @@
 	url = https://github.com/tmfset/er-301-custom-units.git
 	branch = master
 [submodule "vult-dsp/vult"]
-	path = vult
+	path = languages-and-frameworks/vult
 	url = https://github.com/vult-dsp/vult.git
 	branch = master
 [submodule "schollz/norns-desktop"]
