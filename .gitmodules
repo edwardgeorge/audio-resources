@@ -87,11 +87,11 @@
 	url = https://github.com/diracdeltas/spleeter4max
 	branch = master
 [submodule "vastdynamics/vaporizer2"]
-	path = vaporizer2
+	path = plugins-and-synths/vaporizer2
 	url = https://github.com/VASTDynamics/Vaporizer2.git
 	branch = main
 [submodule "midilab/uclock"]
-	path = uclock
+	path = embedded/uclock
 	url = https://github.com/midilab/uClock
 	branch = main
 [submodule "rupa/cuecat"]
@@ -111,7 +111,7 @@
 	url = https://github.com/sensorium/Mozzi.git
 	branch = master
 [submodule "v7b1/mi-ugens"]
-	path = mi-ugens
+	path = supercollider/mi-ugens
 	url = https://github.com/v7b1/mi-UGens.git
 	branch = main
 [submodule "m4ngu/sweet-sixteen"]
@@ -455,7 +455,7 @@
 	url = https://github.com/backtail/granulator-rs.git
 	branch = master
 [submodule "backtail/yanel-dsp"]
-	path = yanel-dsp-rs
+	path = rust-libraries/yanel-dsp-rs
 	url = https://github.com/backtail/yanel_dsp.git
 	branch = master
 [submodule "robbert-vdh/nih-plug"]
