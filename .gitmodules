@@ -151,7 +151,7 @@
 	url = https://github.com/bastl-instruments/kastle.git
 	branch = master
 [submodule "jaap3/pti-tools"]
-	path = pti-tools
+	path = software-and-tools/pti-tools
 	url = https://github.com/jaap3/pti-tools.git
 	branch = main
 [submodule "eh2k/squares-and-circles"]
@@ -371,11 +371,11 @@
 	url = https://github.com/AldaronLau/twang.git
 	branch = stable
 [submodule "sergree/matchering"]
-	path = matchering
+	path = software-and-tools/matchering
 	url = https://github.com/sergree/matchering.git
 	branch = master
 [submodule "monome/softcub-lib"]
-	path = softcut-lib
+	path = libs/softcut-lib
 	url = https://github.com/monome/softcut-lib.git
 	branch = main
 [submodule "schollz/supercollisions"]
