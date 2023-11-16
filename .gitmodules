@@ -355,7 +355,7 @@
 	url = https://github.com/Woyten/tune.git
 	branch = master
 [submodule "samiperttu/fundsp"]
-	path = fundsp-rs
+	path = rust-libraries/fundsp-rs
 	url = https://github.com/SamiPerttu/fundsp.git
 	branch = master
 [submodule "plinkysynth/plinky_public"]
@@ -451,7 +451,7 @@
 	url = https://github.com/mmalex/midi2osc.git
 	branch = master
 [submodule "backtail/granulator-rs"]
-	path = granulator-rs
+	path = rust-libraries/granulator-rs
 	url = https://github.com/backtail/granulator-rs.git
 	branch = master
 [submodule "backtail/yanel-dsp"]
@@ -523,7 +523,7 @@
 	url = https://github.com/backtail/daisy-blank.git
 	branch = master
 [submodule "irh/freeverb-rs"]
-	path = freeverb-rs
+	path = rust-libraries/freeverb-rs
 	url = https://github.com/irh/freeverb-rs.git
 	branch = main
 [submodule "backtail/embedded-audio-tools"]
@@ -611,11 +611,11 @@
 	url = https://github.com/monome/libmonome.git
 	branch = main
 [submodule "madskjeldgaard/guttersynth-sc"]
-	path = guttersynth-sc
+	path = supercollider/guttersynth-sc
 	url = https://github.com/madskjeldgaard/guttersynth-sc.git
 	branch = main
 [submodule "tommmmudd/guttersynthesis"]
-	path = guttersynthesis
+	path = max-packages/guttersynthesis
 	url = https://github.com/tommmmudd/guttersynthesis.git
 	branch = master
 [submodule "madskjeldgaard/monolithic"]
