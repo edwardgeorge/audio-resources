@@ -698,3 +698,15 @@
 	path = hw-fw-eurorack/super-sixteen
 	url = https://github.com/matthewcieplak/super-sixteen.git
 	branch = master
+[submodule "ossia/libossia"]
+	path = libs/libossia
+	url = https://github.com/ossia/libossia.git
+	branch = master
+[submodule "cycling74/median/develop"]
+	path = rust-libraries/median
+	url = https://github.com/Cycling74/median.git
+	branch = develop
+[submodule "cycling74/petra"]
+	path = max-packages/petra
+	url = https://github.com/Cycling74/petra.git
+	branch = master
