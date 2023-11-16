@@ -738,3 +738,7 @@
 	path = hw-fw-eurorack/delugefirmware
 	url = https://github.com/SynthstromAudible/DelugeFirmware.git
 	branch = community
+[submodule "zjb-s/n.kria"]
+	path = norns/n.kria
+	url = https://github.com/zjb-s/n.kria.git
+	branch = main
