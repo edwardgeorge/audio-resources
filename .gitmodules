@@ -742,3 +742,19 @@
 	path = norns/n.kria
 	url = https://github.com/zjb-s/n.kria.git
 	branch = main
+[submodule "dndrks/cheat-codes-2"]
+	path = norns/cheat-codes-2
+	url = https://github.com/dndrks/cheat_codes_2.git
+	branch = main
+[submodule "fors-fm/lode"]
+	path = max/lode
+	url = https://github.com/fors-fm/lode.git
+	branch = main
+[submodule "ess-m/gen-filters"]
+	path = max/gen-filters
+	url = https://github.com/ess-m/gen-filters.git
+	branch = main
+[submodule "sonocircuit/concrete"]
+	path = norns/concrete
+	url = https://github.com/sonocircuit/concrete.git
+	branch = main
