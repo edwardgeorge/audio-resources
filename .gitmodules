@@ -15,15 +15,15 @@
 	url = https://github.com/wntrblm/Castor_and_Pollux.git
 	branch = main
 [submodule "monome/teletype"]
-	path = hw-fw-eurorack/monome/teletype
+	path = monome/teletype
 	url = https://github.com/monome/teletype.git
 	branch = main
 [submodule "monome/ansible"]
-	path = hw-fw-eurorack/monome/ansible
+	path = monome/ansible
 	url = https://github.com/monome/ansible
 	branch = main
 [submodule "monome/crow"]
-	path = hw-fw-eurorack/monome/crow
+	path = monome/crow
 	url = https://github.com/monome/crow.git
 	branch = main
 [submodule "dewb/monome-rack"]
@@ -67,7 +67,7 @@
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
 [submodule "monome/norns"]
-	path = hw-fw-eurorack/monome/norns
+	path = monome/norns
 	url = https://github.com/monome/norns.git
 	branch = main
 [submodule "ableton/link"]
@@ -187,15 +187,15 @@
 	url = https://github.com/hundredrabbits/Orca.git
 	branch = main
 [submodule "monome/monome-max-package"]
-	path = max-packages/monome
+	path = max/monome
 	url = https://github.com/monome/monome-max-package.git
 	branch = main
 [submodule "monome/crow-max-and-m4l"]
-	path = max-packages/monome-crow
+	path = max/monome-crow
 	url = https://github.com/monome/crow-max-and-m4l.git
 	branch = main
 [submodule "monome/whitewhale"]
-	path = hw-fw-eurorack/monome/whitewhale
+	path = monome/whitewhale
 	url = https://github.com/monome/whitewhale.git
 	branch = main
 [submodule "monome/libavr32"]
@@ -203,15 +203,15 @@
 	url = https://github.com/monome/libavr32.git
 	branch = main
 [submodule "monome/earthsea"]
-	path = hw-fw-eurorack/monome/earthsea
+	path = monome/earthsea
 	url = https://github.com/monome/earthsea.git
 	branch = main
 [submodule "monome/meadowphysics"]
-	path = hw-fw-eurorack/monome/meadowphysics
+	path = monome/meadowphysics
 	url = https://github.com/monome/meadowphysics.git
 	branch = main
 [submodule "monome/kria"]
-	path = hw-fw-eurorack/monome/kria
+	path = monome/kria
 	url = https://github.com/monome/kria.git
 	branch = master
 [submodule "monome/terms"]
@@ -259,7 +259,7 @@
 	url = https://github.com/bastl-instruments/eurorack.git
 	branch = master
 [submodule "pdmeyer/philip-meyer-max-tutorials"]
-	path = max-packages/philip-meyer-max-tutorials
+	path = max/philip-meyer-max-tutorials
 	url = https://github.com/pdmeyer/philip-meyer-max-tutorials.git
 	branch = main
 [submodule "pdmeyer/rhythm-and-time-toolkit"]
@@ -615,7 +615,7 @@
 	url = https://github.com/madskjeldgaard/guttersynth-sc.git
 	branch = main
 [submodule "tommmmudd/guttersynthesis"]
-	path = max-packages/guttersynthesis
+	path = max/guttersynthesis
 	url = https://github.com/tommmmudd/guttersynthesis.git
 	branch = master
 [submodule "madskjeldgaard/monolithic"]
@@ -707,6 +707,6 @@
 	url = https://github.com/Cycling74/median.git
 	branch = develop
 [submodule "cycling74/petra"]
-	path = max-packages/petra
+	path = max/petra
 	url = https://github.com/Cycling74/petra.git
 	branch = master
