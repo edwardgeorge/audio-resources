@@ -718,3 +718,7 @@
 	path = norns/fall
 	url = https://github.com/ambalek/fall.git
 	branch = main
+[submodule "dstroud/dreamsequence"]
+	path = norns/dreamsequence
+	url = https://github.com/dstroud/dreamsequence.git
+	branch = main
