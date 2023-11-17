@@ -63,7 +63,7 @@
 	url = https://github.com/composingcap/grainflow.git
 	branch = master
 [submodule "asb2m10/dexed"]
-	path = plugins-and-synths/dexed
+	path = plugins-and-standalone/dexed
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
 [submodule "monome/norns"]
@@ -87,7 +87,7 @@
 	url = https://github.com/diracdeltas/spleeter4max
 	branch = master
 [submodule "vastdynamics/vaporizer2"]
-	path = plugins-and-synths/vaporizer2
+	path = plugins-and-standalone/vaporizer2
 	url = https://github.com/VASTDynamics/Vaporizer2.git
 	branch = main
 [submodule "midilab/uclock"]
@@ -167,7 +167,7 @@
 	url = https://github.com/musikinformatik/SuperDirt.git
 	branch = develop
 [submodule "tidalcycles/dirt"]
-	path = plugins-and-synths/dirt
+	path = plugins-and-standalone/dirt
 	url = https://github.com/tidalcycles/Dirt.git
 	branch = master
 [submodule "thgrund/superdirtmixer"]
@@ -223,7 +223,7 @@
 	url = https://github.com/yamadapc/augmented-audio.git
 	branch = master
 [submodule "jatinchowdhury18/analogtapemodel"]
-	path = plugins-and-synths/analog-tape-model
+	path = plugins-and-standalone/analog-tape-model
 	url = https://github.com/jatinchowdhury18/AnalogTapeModel.git
 	branch = master
 [submodule "grame-cncm/faust/master-dev"]
@@ -411,7 +411,7 @@
 	url = https://github.com/VCVRack/Befaco.git
 	branch = v2
 [submodule "greatest-ape/octasine"]
-	path = plugins-and-synths/octasine
+	path = plugins-and-standalone/octasine
 	url = https://github.com/greatest-ape/OctaSine.git
 	branch = master
 [submodule "reedrosenbluth/oscen"]
