@@ -267,15 +267,15 @@
 	url = https://github.com/pdmeyer/rhythm-and-time-toolkit.git
 	branch = main
 [submodule "mudlogger/autogen301"]
-	path = er-301-pkgs/autogen301
+	path = er-301/autogen301
 	url = https://github.com/mudlogger/autogen301.git
 	branch = main
 [submodule "supernicd/accents"]
-	path = er-301-pkgs/accents
+	path = er-301/accents
 	url = https://github.com/SuperNiCd/Accents.git
 	branch = master
 [submodule "tmfset/er-301-custom-units"]
-	path = er-301-pkgs/tmfset-custom-units
+	path = er-301/tmfset-custom-units
 	url = https://github.com/tmfset/er-301-custom-units.git
 	branch = master
 [submodule "vult-dsp/vult"]
