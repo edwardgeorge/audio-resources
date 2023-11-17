@@ -59,7 +59,7 @@
 	url = https://gitlab.com/then-try-this/samplebrain.git
 	branch = production
 [submodule "composingcap/grainflow"]
-	path = rust-libraries/grainflow
+	path = max/grainflow
 	url = https://github.com/composingcap/grainflow.git
 	branch = master
 [submodule "asb2m10/dexed"]
