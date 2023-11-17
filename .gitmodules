@@ -619,7 +619,7 @@
 	url = https://github.com/tommmmudd/guttersynthesis.git
 	branch = master
 [submodule "madskjeldgaard/monolithic"]
-	path = monolithic
+	path = supercollider/monolithic
 	url = https://github.com/madskjeldgaard/Monolithic.git
 	branch = main
 [submodule "jkrame1/betweener"]
@@ -770,3 +770,15 @@
 	path = embedded/picoosc
 	url = https://github.com/madskjeldgaard/PicoOSC.git
 	branch = main
+[submodule "madskjeldgaard/portedplugins"]
+	path = supercollider/portedplugins
+	url = https://github.com/madskjeldgaard/portedplugins.git
+	branch = main
+[submodule "madskjeldgaard/scbookcode"]
+	path = supercollider/scbookcode
+	url = https://github.com/madskjeldgaard/scbookcode.git
+	branch = master
+[submodule "cnmat/osc"]
+	path = embedded/osc
+	url = https://github.com/CNMAT/OSC.git
+	branch = master
