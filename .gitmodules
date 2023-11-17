@@ -758,3 +758,7 @@
 	path = norns/concrete
 	url = https://github.com/sonocircuit/concrete.git
 	branch = main
+[submodule "julianfortune/witchcraftsynth"]
+	path = max/witchcraftsynth
+	url = https://github.com/julianfortune/WitchcraftSynth.git
+	branch = master
