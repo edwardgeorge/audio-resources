@@ -782,3 +782,7 @@
 	path = embedded/osc
 	url = https://github.com/CNMAT/OSC.git
 	branch = master
+[submodule "zueblin/polaron"]
+	path = hw-fw-eurorack/polaron
+	url = https://github.com/zueblin/Polaron.git
+	branch = master
