@@ -794,3 +794,7 @@
 	path = languages-and-frameworks/faust-live
 	url = https://github.com/grame-cncm/faustlive.git
 	branch = master
+[submodule "albnys/drum-machine"]
+	path = hw-fw-eurorack/nystrom-drum-machine
+	url = https://github.com/albnys/Drum-Machine.git
+	branch = main
