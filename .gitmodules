@@ -798,3 +798,7 @@
 	path = hw-fw-eurorack/nystrom-drum-machine
 	url = https://github.com/albnys/Drum-Machine.git
 	branch = main
+[submodule "microcosm/cookbook-sc"]
+	path = supercollider/welshs-synth-cookbook
+	url = https://github.com/microcosm/cookbook-sc.git
+	branch = master
