@@ -822,3 +822,7 @@
 	path = supercollider/vocal-tract-modelling
 	url = https://github.com/musikinformatik/apex-sc-dafx.git
 	branch = master
+[submodule "musikinformatik/soundfileanalysis"]
+	path = supercollider/soundfileanalysis
+	url = https://github.com/musikinformatik/SoundFileAnalysis.git
+	branch = master
