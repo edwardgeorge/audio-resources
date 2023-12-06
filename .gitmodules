@@ -830,3 +830,7 @@
 	path = supercollider/hadron
 	url = https://github.com/earslap/Hadron.git
 	branch = master
+[submodule "allenloves/supersampler"]
+	path = supercollider/supersampler
+	url = https://github.com/allenloves/SuperSampler.git
+	branch = master
