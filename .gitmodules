@@ -802,3 +802,11 @@
 	path = supercollider/welshs-synth-cookbook
 	url = https://github.com/microcosm/cookbook-sc.git
 	branch = master
+[submodule "musikinformatik/steno"]
+	path = supercollider/steno
+	url = https://github.com/musikinformatik/Steno.git
+	branch = master
+[submodule "bkudler/wavesettransformer-fortrevorwishart"]
+	path = supercollider/wavesettransformer-fortrevorwishart
+	url = https://github.com/bkudler/WavesetTransformer-ForTrevorWishart.git
+	branch = main
