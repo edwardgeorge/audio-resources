@@ -834,3 +834,7 @@
 	path = supercollider/supersampler
 	url = https://github.com/allenloves/SuperSampler.git
 	branch = master
+[submodule "kenbrant1/timewave-synthesizer"]
+	path = supercollider/timewave-synthesizer
+	url = https://github.com/kenbrant1/Timewave_Synthesizer.git
+	branch = master
