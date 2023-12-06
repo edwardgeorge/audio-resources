@@ -818,3 +818,7 @@
 	path = supercollider/generic-additive-synthesis
 	url = https://github.com/musikinformatik/Generic-Additive-Synthesis.git
 	branch = master
+[submodule "musikinformatik/apex-sc-dafx"]
+	path = supercollider/vocal-tract-modelling
+	url = https://github.com/musikinformatik/apex-sc-dafx.git
+	branch = master
