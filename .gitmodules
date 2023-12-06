@@ -826,3 +826,7 @@
 	path = supercollider/soundfileanalysis
 	url = https://github.com/musikinformatik/SoundFileAnalysis.git
 	branch = master
+[submodule "earslap/hadron"]
+	path = supercollider/hadron
+	url = https://github.com/earslap/Hadron.git
+	branch = master
