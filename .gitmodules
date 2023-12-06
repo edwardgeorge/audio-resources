@@ -810,3 +810,7 @@
 	path = supercollider/wavesettransformer-fortrevorwishart
 	url = https://github.com/bkudler/WavesetTransformer-ForTrevorWishart.git
 	branch = main
+[submodule "musikinformatik/wavesetsevent"]
+	path = supercollider/wavesetsevent
+	url = https://github.com/musikinformatik/WavesetsEvent.git
+	branch = master
