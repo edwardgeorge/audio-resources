@@ -814,3 +814,7 @@
 	path = supercollider/wavesetsevent
 	url = https://github.com/musikinformatik/WavesetsEvent.git
 	branch = master
+[submodule "musikinformatik/generic-additive-synthesis"]
+	path = supercollider/generic-additive-synthesis
+	url = https://github.com/musikinformatik/Generic-Additive-Synthesis.git
+	branch = master
