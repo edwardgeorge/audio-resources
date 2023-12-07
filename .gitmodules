@@ -838,3 +838,199 @@
 	path = supercollider/timewave-synthesizer
 	url = https://github.com/kenbrant1/Timewave_Synthesizer.git
 	branch = master
+[submodule "danielmkarlsson/a-loss-of-self"]
+	path = supercollider/a-loss-of-self
+	url = https://github.com/danielmkarlsson/a_loss_of_self.git
+	branch = master
+[submodule "danielmkarlsson/superclean"]
+	path = supercollider/superclean
+	url = https://github.com/danielmkarlsson/SuperClean.git
+	branch = main
+[submodule "danielmkarlsson/a-collapse-of-structures"]
+	path = supercollider/a-collapse-of-structures
+	url = https://github.com/danielmkarlsson/a-collapse-of-structures.git
+	branch = master
+[submodule "danielmkarlsson/superclean-code"]
+	path = supercollider/superclean-code
+	url = https://github.com/danielmkarlsson/SuperClean-code.git
+	branch = main
+[submodule "danielmkarlsson/mapping-the-valleys-of-the-uncanny"]
+	path = supercollider/mapping-the-valleys-of-the-uncanny
+	url = https://github.com/danielmkarlsson/mapping-the-valleys-of-the-uncanny.git
+	branch = master
+[submodule "danielmkarlsson/misleading-traces-of-civility"]
+	path = supercollider/misleading-traces-of-civility
+	url = https://github.com/danielmkarlsson/misleading-traces-of-civility.git
+	branch = main
+[submodule "danielmkarlsson/dronecember"]
+	path = supercollider/dronecember
+	url = https://github.com/danielmkarlsson/dronecember.git
+	branch = main
+[submodule "catfact/z-elements"]
+	path = supercollider/z-elements
+	url = https://github.com/catfact/z-elements.git
+	branch = main
+[submodule "tehn/isms"]
+	path = software-and-tools/isms
+	url = https://github.com/tehn/isms.git
+	branch = main
+[submodule "awwaiid/repl-looper"]
+	path = norns/repl-looper
+	url = https://github.com/awwaiid/repl-looper.git
+	branch = main
+[submodule "tehn/ash"]
+	path = norns/ash
+	url = https://github.com/tehn/ash.git
+	branch = main
+[submodule "catfact/dowser"]
+	path = software-and-tools/dowser
+	url = https://github.com/catfact/dowser.git
+	branch = main
+[submodule "rfwatson/live-beatbox"]
+	path = supercollider/live-beatbox
+	url = https://github.com/rfwatson/live-beatbox.git
+	branch = master
+[submodule "ptrv/telemusik"]
+	path = supercollider/telemusik
+	url = https://github.com/ptrv/telemusik.git
+	branch = master
+[submodule "calumgunn/unorganised-music"]
+	path = supercollider/unorganised-music
+	url = https://github.com/calumgunn/unorganised-music.git
+	branch = master
+[submodule "calumgunn/derivative-works"]
+	path = supercollider/derivative-works
+	url = https://github.com/calumgunn/derivative-works.git
+	branch = master
+[submodule "supercollider-quarks/influx"]
+	path = supercollider/influx
+	url = https://github.com/supercollider-quarks/Influx.git
+	branch = master
+[submodule "thormagnusson/sctweets"]
+	path = supercollider/sctweets
+	url = https://github.com/thormagnusson/sctweets.git
+	branch = master
+[submodule "thormagnusson/scoring"]
+	path = supercollider/scoring
+	url = https://github.com/thormagnusson/scoring.git
+	branch = master
+[submodule "thormagnusson/threnoscopesc"]
+	path = supercollider/threnoscopesc
+	url = https://github.com/thormagnusson/threnoscopeSC.git
+	branch = master
+[submodule "redfrik/bjorklund"]
+	path = supercollider/bjorklund
+	url = https://github.com/redFrik/Bjorklund.git
+	branch = master
+[submodule "musikinformatik/that"]
+	path = supercollider/that
+	url = https://github.com/musikinformatik/that.git
+	branch = main
+[submodule "musikinformatik/clothesline"]
+	path = supercollider/clothesline
+	url = https://github.com/musikinformatik/clothesline.git
+	branch = main
+[submodule "lantertronics/b700ish"]
+	path = supercollider/b700ish
+	url = https://github.com/lantertronics/b700ish.git
+	branch = main
+[submodule "williamweston/phasex/v0.14.97"]
+	path = plugins-and-standalone/phasex
+	url = https://github.com/williamweston/phasex.git
+	branch = v0.14.97
+[submodule "windfisch/fm-synth"]
+	path = plugins-and-standalone/fm-synth
+	url = https://github.com/Windfisch/fm-synth.git
+	branch = master
+[submodule "windfisch/midikraken"]
+	path = hw-fw-eurorack/midikraken
+	url = https://github.com/Windfisch/midikraken.git
+	branch = master
+[submodule "windfisch/analog-synth"]
+	path = hw-fw-eurorack/analog-synth
+	url = https://github.com/Windfisch/analog-synth.git
+	branch = master
+[submodule "twistedelectrons/therapsid"]
+	path = hw-fw-eurorack/therapsid
+	url = https://github.com/twistedelectrons/TherapSID.git
+	branch = main
+[submodule "twistedelectrons/ay3"]
+	path = hw-fw-eurorack/ay3
+	url = https://github.com/twistedelectrons/ay3.git
+	branch = main
+[submodule "twistedelectrons/megafm"]
+	path = hw-fw-eurorack/megafm
+	url = https://github.com/twistedelectrons/MEGAfm.git
+	branch = main
+[submodule "windfisch/loopfisch"]
+	path = plugins-and-standalone/loopfisch
+	url = https://github.com/Windfisch/loopfisch.git
+	branch = master
+[submodule "wint3rmute/nosna"]
+	path = plugins-and-standalone/nosna
+	url = https://github.com/Wint3rmute/nosna.git
+	branch = master
+[submodule "wint3rmute/libretakt"]
+	path = software-and-tools/libretakt
+	url = https://github.com/Wint3rmute/libretakt.git
+	branch = master
+[submodule "hallmar/fjol"]
+	path = hw-fw-eurorack/fjol
+	url = https://github.com/hallmar/Fjol.git
+	branch = main
+[submodule "victorzheleznov/phase-modulation-synthesizer"]
+	path = plugins-and-standalone/phase-modulation-synthesizer
+	url = https://github.com/victorzheleznov/phase-modulation-synthesizer.git
+	branch = master
+[submodule "blackboxdsp/phantom"]
+	path = plugins-and-standalone/phantom
+	url = https://github.com/blackboxdsp/phantom.git
+	branch = main
+[submodule "blackboxdsp/rotor/develop"]
+	path = plugins-and-standalone/rotor
+	url = https://github.com/blackboxdsp/rotor.git
+	branch = develop
+[submodule "blackboxdsp/recur/develop"]
+	path = hw-fw-eurorack/recur
+	url = https://github.com/blackboxdsp/recur.git
+	branch = develop
+[submodule "louisgorenfeld/digitsvst"]
+	path = plugins-and-standalone/digitsvst
+	url = https://github.com/LouisGorenfeld/DigitsVst.git
+	branch = master
+[submodule "dchwebb/disphaze"]
+	path = hw-fw-eurorack/disphaze
+	url = https://github.com/dchwebb/DisPhaze.git
+	branch = master
+[submodule "datanoisetv/juce-vult-demo"]
+	path = plugins-and-standalone/juce-vult-demo
+	url = https://github.com/DatanoiseTV/JUCE-Vult-Demo.git
+	branch = master
+[submodule "mikemorenodsp/lira-8"]
+	path = pure-data/lira-8
+	url = https://github.com/MikeMorenoDSP/LIRA-8.git
+	branch = master
+[submodule "wasted-audio/hvcc/develop"]
+	path = hvcc
+	url = https://github.com/Wasted-Audio/hvcc.git
+	branch = develop
+[submodule "wasted-audio/heavylib"]
+	path = pure-data/heavylib
+	url = https://github.com/Wasted-Audio/heavylib.git
+	branch = master
+[submodule "musikinformatik/sawdust"]
+	path = supercollider/sawdust
+	url = https://github.com/musikinformatik/SAWDUST.git
+	branch = master
+[submodule "kindohm/max-patches"]
+	path = max/kindohm-max-patches
+	url = https://github.com/kindohm/max-patches.git
+	branch = master
+[submodule "uiforks/facet"]
+	path = max/facet
+	url = https://github.com/uiforks/facet.git
+	branch = main
+[submodule "diegodorado/tidal-synths"]
+	path = supercollider/tidal-synths
+	url = https://github.com/diegodorado/tidal-synths.git
+	branch = master
