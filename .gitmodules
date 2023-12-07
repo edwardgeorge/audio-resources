@@ -1034,3 +1034,119 @@
 	path = supercollider/tidal-synths
 	url = https://github.com/diegodorado/tidal-synths.git
 	branch = master
+[submodule "loopier/ziva"]
+	path = supercollider/ziva
+	url = https://github.com/loopier/ziva.git
+	branch = master
+[submodule "loopier/synthdefs"]
+	path = supercollider/loopier-synthdefs
+	url = https://github.com/loopier/synthdefs.git
+	branch = master
+[submodule "loopier/tidal-fm7"]
+	path = supercollider/tidal-fm7
+	url = https://github.com/loopier/tidal-fm7.git
+	branch = master
+[submodule "loopier/looper"]
+	path = supercollider/looper
+	url = https://github.com/loopier/looper.git
+	branch = master
+[submodule "loopier/samplematic"]
+	path = supercollider/samplematic
+	url = https://github.com/loopier/samplematic.git
+	branch = master
+[submodule "cycling74/percolate"]
+	path = max/percolate
+	url = https://github.com/Cycling74/percolate.git
+	branch = master
+[submodule "kasperskov/monome-grainfields-v1.1"]
+	path = max/monome-grainfields
+	url = https://github.com/kasperskov/monome_grainfields-v1.1.git
+	branch = master
+[submodule "kasperskov/monome-grainfields-m4l-v1.1"]
+	path = max/monome-grainfields-m4l
+	url = https://github.com/kasperskov/monome_grainfields_m4l-v1.1.git
+	branch = master
+[submodule "v7b1/bonk-64bit-version"]
+	path = max/bonk
+	url = https://github.com/v7b1/bonk_64bit-version.git
+	branch = main
+[submodule "v7b1/vb-objects"]
+	path = max/vb-objects
+	url = https://github.com/v7b1/vb-objects.git
+	branch = main
+[submodule "v7b1/sigmund-64bit-version"]
+	path = max/sigmund
+	url = https://github.com/v7b1/sigmund_64bit-version.git
+	branch = master
+[submodule "v7b1/fiddle-64bit-version"]
+	path = max/fiddle
+	url = https://github.com/v7b1/fiddle_64bit_version.git
+	branch = main
+[submodule "mhetrick/euromax"]
+	path = max/euromax
+	url = https://github.com/mhetrick/Euromax.git
+	branch = master
+[submodule "meta-meta/maxpatches"]
+	path = max/meta-meta-maxpatches
+	url = https://github.com/meta-meta/MaxPatches.git
+	branch = master
+[submodule "trash80/ym2149synth"]
+	path = hw-fw-eurorack/ym2149synth
+	url = https://github.com/trash80/Ym2149Synth.git
+	branch = master
+[submodule "mdhosale/grainbuffer"]
+	path = max/grainbuffer
+	url = https://github.com/mdhosale/grainbuffer.git
+	branch = master
+[submodule "victor-shepardson/feedbacker"]
+	path = max/feedbacker
+	url = https://github.com/victor-shepardson/feedbacker.git
+	branch = master
+[submodule "acids-ircam/rave"]
+	path = max/rave
+	url = https://github.com/acids-ircam/RAVE.git
+	branch = master
+[submodule "acids-ircam/nn-tilde"]
+	path = max/nn-tilde
+	url = https://github.com/acids-ircam/nn_tilde.git
+	branch = master
+[submodule "acids-ircam/vschaos2"]
+	path = max/vschaos2
+	url = https://github.com/acids-ircam/vschaos2.git
+	branch = main
+[submodule "robenkleene/thwomp"]
+	path = max/thwomp
+	url = https://github.com/robenkleene/thwomp.git
+	branch = master
+[submodule "robenkleene/sidewinder"]
+	path = max/sidewinder
+	url = https://github.com/robenkleene/sidewinder.git
+	branch = master
+[submodule "robenkleene/parrot"]
+	path = max/parrot
+	url = https://github.com/robenkleene/parrot.git
+	branch = master
+[submodule "alexrodi/modulate-synth"]
+	path = max/modulate-synth
+	url = https://github.com/alexrodi/Modulate-Synth.git
+	branch = master
+[submodule "adamflorin/patter-tools"]
+	path = max/patter-tools
+	url = https://github.com/adamflorin/patter-tools.git
+	branch = master
+[submodule "adamflorin/cue"]
+	path = max/cue
+	url = https://github.com/adamflorin/cue.git
+	branch = master
+[submodule "cycling74/max-sdk"]
+	path = max/max-sdk
+	url = https://github.com/Cycling74/max-sdk.git
+	branch = main
+[submodule "cycling74/max-sdk-base"]
+	path = max/max-sdk-base
+	url = https://github.com/Cycling74/max-sdk-base.git
+	branch = main
+[submodule "adamflorin/normalrandom"]
+	path = max/normalrandom
+	url = https://github.com/adamflorin/normalrandom.git
+	branch = master
