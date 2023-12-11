@@ -1194,3 +1194,7 @@
 	path = libs/pffft-surge
 	url = https://github.com/surge-synthesizer/pffft
 	branch = surge
+[submodule "bwhitman/amy"]
+	path = libs/amy
+	url = https://github.com/bwhitman/amy.git
+	branch = main
