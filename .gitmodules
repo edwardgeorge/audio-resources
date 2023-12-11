@@ -1150,3 +1150,47 @@
 	path = max/normalrandom
 	url = https://github.com/adamflorin/normalrandom.git
 	branch = master
+[submodule "surge-synthesizer/surge"]
+	path = plugins-and-standalone/surge
+	url = https://github.com/surge-synthesizer/surge.git
+	branch = main
+[submodule "surge-synthesizer/shortcircuit-xt"]
+	path = plugins-and-standalone/shortcircuit-xt
+	url = https://github.com/surge-synthesizer/shortcircuit-xt.git
+	branch = main
+[submodule "surge-synthesizer/stochas"]
+	path = plugins-and-standalone/stochas
+	url = https://github.com/surge-synthesizer/stochas.git
+	branch = main
+[submodule "surge-synthesizer/monique-monosynth"]
+	path = plugins-and-standalone/monique-monosynth
+	url = https://github.com/surge-synthesizer/monique-monosynth.git
+	branch = main
+[submodule "surge-synthesizer/surge-rack"]
+	path = vcv-modules/surge-rack
+	url = https://github.com/surge-synthesizer/surge-rack.git
+	branch = main
+[submodule "surge-synthesizer/sst-basic-blocks"]
+	path = libs/sst-basic-blocks
+	url = https://github.com/surge-synthesizer/sst-basic-blocks.git
+	branch = main
+[submodule "surge-synthesizer/tuning-library"]
+	path = libs/tuning-library
+	url = https://github.com/surge-synthesizer/tuning-library.git
+	branch = main
+[submodule "surge-synthesizer/conduit"]
+	path = conduit
+	url = https://github.com/surge-synthesizer/conduit.git
+	branch = main
+[submodule "surge-synthesizer/sst-rackhelpers"]
+	path = sst-rackhelpers
+	url = https://github.com/surge-synthesizer/sst-rackhelpers.git
+	branch = main
+[submodule "jpommier/pffft"]
+	path = libs/pffft
+	url = https://bitbucket.org/jpommier/pffft.git
+	branch = master
+[submodule "surge-synthesizer/pffft"]
+	path = libs/pffft-surge
+	url = https://github.com/surge-synthesizer/pffft
+	branch = surge
