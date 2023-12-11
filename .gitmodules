@@ -595,7 +595,7 @@
 	url = https://github.com/xmacex/connect-opz.git
 	branch = main
 [submodule "ohmtech-rdi/eurorack-blocks"]
-	path = eurorack-blocks
+	path = hw-fw-eurorack/eurorack-blocks
 	url = https://github.com/ohmtech-rdi/eurorack-blocks.git
 	branch = main
 [submodule "ozankasikci/rust-music-theory"]
