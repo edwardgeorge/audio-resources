@@ -158,10 +158,6 @@
 	path = hw-fw-eurorack/squares-and-circles
 	url = https://github.com/eh2k/squares-and-circles.git
 	branch = main
-[submodule "tidalcycles/tidal"]
-	path = tidalcycles
-	url = https://github.com/tidalcycles/Tidal.git
-	branch = main
 [submodule "musikinformatik/superdirt/develop"]
 	path = supercollider/superdirt
 	url = https://github.com/musikinformatik/SuperDirt.git
@@ -1198,3 +1194,7 @@
 	path = libs/amy
 	url = https://github.com/bwhitman/amy.git
 	branch = main
+[submodule "tidalcycles/tidal/1.10-dev"]
+	path = tidalcycles
+	url = https://github.com/tidalcycles/Tidal.git
+	branch = 1.10-dev
