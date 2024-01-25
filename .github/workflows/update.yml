@@ -18,10 +18,12 @@ jobs:
         fetch-depth: 1
         token: ${{secrets.ACCESS_TOKEN}}
     - name: setup git user
+      env:
+        USER_NAME: "${{ github.actor || 'github-actions[bot]' }}"
+        USER_ID: "${{ github.actor_id || '41898282' }}"
       run: |
-        echo "${{ github.actor }} (${{ github.actor_id }})"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config user.name "github-actions[bot]"
+        git config user.email "${USER_ID}+${USER_NAME}@users.noreply.github.com"
+        git config user.name "${USER_NAME}"
     - name: setup archive remote
       run: |
         git remote add archive https://github.com/edwardgeorge/audio-resources-archive.git
