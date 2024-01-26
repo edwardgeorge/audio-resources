@@ -1206,3 +1206,7 @@
 	path = tidalcycles-2
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = 2.0-dev
+[submodule "schollz/-core"]
+	path = hw-fw-eurorack/-core
+	url = https://github.com/schollz/_core.git
+	branch = main
