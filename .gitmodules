@@ -1198,3 +1198,7 @@
 	path = tidalcycles
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = 1.10-dev
+[submodule "sfztools/sfizz/develop"]
+	path = sfizz
+	url = https://github.com/sfztools/sfizz.git
+	branch = develop
