@@ -1202,3 +1202,7 @@
 	path = sfizz
 	url = https://github.com/sfztools/sfizz.git
 	branch = develop
+[submodule "tidalcycles/tidal/2.0-dev"]
+	path = tidalcycles-2
+	url = https://github.com/tidalcycles/Tidal.git
+	branch = 2.0-dev
