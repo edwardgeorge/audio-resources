@@ -1210,3 +1210,7 @@
 	path = hw-fw-eurorack/-core
 	url = https://github.com/schollz/_core.git
 	branch = main
+[submodule "16n-faderbank/16n"]
+	path = hw-fw-eurorack/16n
+	url = https://github.com/16n-faderbank/16n.git
+	branch = main
