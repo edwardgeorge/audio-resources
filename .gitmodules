@@ -1214,3 +1214,7 @@
 	path = hw-fw-eurorack/16n
 	url = https://github.com/16n-faderbank/16n.git
 	branch = main
+[submodule "tomwhitwell/8mu-public"]
+	path = hw-fw-eurorack/8mu-public
+	url = https://github.com/TomWhitwell/8mu_Public.git
+	branch = main
