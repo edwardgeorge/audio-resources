@@ -1218,3 +1218,7 @@
 	path = hw-fw-eurorack/8mu-public
 	url = https://github.com/TomWhitwell/8mu_Public.git
 	branch = main
+[submodule "infovore/pico-midi-pot"]
+	path = hw-fw-eurorack/pico-midi-pot
+	url = https://github.com/infovore/pico-midi-pot.git
+	branch = main
