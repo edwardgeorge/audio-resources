@@ -1226,3 +1226,7 @@
 	path = hw-fw-eurorack/txb
 	url = https://github.com/bpcmusic/TXb.git
 	branch = master
+[submodule "bpcmusic/txn"]
+	path = hw-fw-eurorack/txn
+	url = https://github.com/bpcmusic/TXn.git
+	branch = master
