@@ -1222,3 +1222,7 @@
 	path = hw-fw-eurorack/pico-midi-pot
 	url = https://github.com/infovore/pico-midi-pot.git
 	branch = main
+[submodule "bpcmusic/txb"]
+	path = hw-fw-eurorack/txb
+	url = https://github.com/bpcmusic/TXb.git
+	branch = master
