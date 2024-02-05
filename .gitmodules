@@ -1230,3 +1230,11 @@
 	path = hw-fw-eurorack/txn
 	url = https://github.com/bpcmusic/TXn.git
 	branch = master
+[submodule "sarnesjo/nearness"]
+	path = hw-fw-eurorack/nearness
+	url = https://github.com/sarnesjo/nearness.git
+	branch = master
+[submodule "wntrblm/neptune"]
+	path = hw-fw-eurorack/neptune
+	url = https://github.com/wntrblm/Neptune.git
+	branch = main
