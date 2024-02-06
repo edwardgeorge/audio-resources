@@ -1238,3 +1238,7 @@
 	path = hw-fw-eurorack/neptune
 	url = https://github.com/wntrblm/Neptune.git
 	branch = main
+[submodule "bogaudio/bogaudiomodules"]
+	path = vcv-modules/bogaudio
+	url = https://github.com/bogaudio/BogaudioModules.git
+	branch = master
