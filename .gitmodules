@@ -1195,7 +1195,7 @@
 	url = https://github.com/bwhitman/amy.git
 	branch = main
 [submodule "tidalcycles/tidal/1.10-dev"]
-	path = tidalcycles
+	path = languages-and-frameworks/tidalcycles
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = 1.10-dev
 [submodule "sfztools/sfizz/develop"]
@@ -1203,7 +1203,7 @@
 	url = https://github.com/sfztools/sfizz.git
 	branch = develop
 [submodule "tidalcycles/tidal/2.0-dev"]
-	path = tidalcycles-2
+	path = languages-and-frameworks/tidalcycles-2
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = 2.0-dev
 [submodule "schollz/-core"]
