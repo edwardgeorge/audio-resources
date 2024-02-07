@@ -1242,3 +1242,7 @@
 	path = vcv-modules/bogaudio
 	url = https://github.com/bogaudio/BogaudioModules.git
 	branch = master
+[submodule "bwhitman/learnfm"]
+	path = libs/learnfm
+	url = https://github.com/bwhitman/learnfm.git
+	branch = master
