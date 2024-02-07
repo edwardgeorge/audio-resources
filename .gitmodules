@@ -1246,3 +1246,7 @@
 	path = libs/learnfm
 	url = https://github.com/bwhitman/learnfm.git
 	branch = master
+[submodule "bwhitman/tulipcc"]
+	path = hw-fw-eurorack/tulipcc
+	url = https://github.com/bwhitman/tulipcc.git
+	branch = main
