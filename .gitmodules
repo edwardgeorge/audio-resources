@@ -1250,3 +1250,7 @@
 	path = hw-fw-eurorack/tulipcc
 	url = https://github.com/bwhitman/tulipcc.git
 	branch = main
+[submodule "bwhitman/alles"]
+	path = hw-fw-eurorack/alles
+	url = https://github.com/bwhitman/alles.git
+	branch = main
