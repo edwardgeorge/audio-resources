@@ -415,7 +415,7 @@
 	url = https://github.com/reedrosenbluth/oscen.git
 	branch = master
 [submodule "chaosprint/glicol"]
-	path = glicol
+	path = languages-and-frameworks/glicol
 	url = https://github.com/chaosprint/glicol.git
 	branch = main
 [submodule "rppicomidi/midi2usbhost"]
