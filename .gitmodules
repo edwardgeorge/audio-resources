@@ -1270,3 +1270,7 @@
 	path = hw-fw-eurorack/microresearch-allcolours
 	url = https://github.com/microresearch/allcolours.git
 	branch = master
+[submodule "microresearch/erd"]
+	path = hw-fw-eurorack/microresearch-erd
+	url = https://github.com/microresearch/ERD.git
+	branch = master
