@@ -1266,3 +1266,7 @@
 	path = embedded/ssd1306
 	url = https://github.com/jamwaffles/ssd1306.git
 	branch = master
+[submodule "microresearch/allcolours"]
+	path = hw-fw-eurorack/microresearch-allcolours
+	url = https://github.com/microresearch/allcolours.git
+	branch = master
