@@ -491,23 +491,23 @@
 	url = https://github.com/RustAudio/vst2-sys.git
 	branch = master
 [submodule "free-audio/clap"]
-	path = clap
+	path = plugin-apis/clap/clap
 	url = https://github.com/free-audio/clap.git
 	branch = main
 [submodule "free-audio/clap-host"]
-	path = clap-host
+	path = plugin-apis/clap/clap-host
 	url = https://github.com/free-audio/clap-host.git
 	branch = main
 [submodule "free-audio/clap-plugins"]
-	path = clap-plugins
+	path = plugin-apis/clap/clap-plugins
 	url = https://github.com/free-audio/clap-plugins.git
 	branch = main
 [submodule "free-audio/clap-juce-extensions"]
-	path = clap-juce-extensions
+	path = plugin-apis/clap/clap-juce-extensions
 	url = https://github.com/free-audio/clap-juce-extensions.git
 	branch = main
 [submodule "free-audio/clap-validator"]
-	path = clap-validator
+	path = plugin-apis/clap/clap-validator
 	url = https://github.com/free-audio/clap-validator.git
 	branch = master
 [submodule "mtthw-meyer/libdaisy-rust"]
