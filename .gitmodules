@@ -1274,3 +1274,7 @@
 	path = hw-fw-eurorack/microresearch-erd
 	url = https://github.com/microresearch/ERD.git
 	branch = master
+[submodule "microresearch/blackdeath"]
+	path = hw-fw-eurorack/microresearch-blackdeath
+	url = https://github.com/microresearch/blackdeath.git
+	branch = master
