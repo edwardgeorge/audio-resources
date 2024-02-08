@@ -1254,3 +1254,11 @@
 	path = hw-fw-eurorack/alles
 	url = https://github.com/bwhitman/alles.git
 	branch = main
+[submodule "stoermelder/vcvrack-packone/v2"]
+	path = vcv-modules/stoermelder-packone
+	url = https://github.com/stoermelder/vcvrack-packone.git
+	branch = v2
+[submodule "stoermelder/vcvrack-packtau/v2"]
+	path = vcv-modules/stoermelder-packtau
+	url = https://github.com/stoermelder/vcvrack-packtau.git
+	branch = v2
