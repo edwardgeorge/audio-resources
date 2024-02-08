@@ -131,15 +131,15 @@
 	url = https://github.com/midilab/aciduino.git
 	branch = master
 [submodule "electro-smith/daisyexamples"]
-	path = daisy-examples
+	path = libs/daisy/daisy-examples
 	url = https://github.com/electro-smith/DaisyExamples.git
 	branch = master
 [submodule "electro-smith/daisysp"]
-	path = daisysp
+	path = libs/daisy/daisysp
 	url = https://github.com/electro-smith/DaisySP.git
 	branch = master
 [submodule "electrosmith/libdaisy"]
-	path = libdaisy
+	path = libs/daisy/libdaisy
 	url = https://github.com/electro-smith/libDaisy
 	branch = master
 [submodule "electro-smith/oopsy"]
@@ -319,7 +319,7 @@
 	url = https://github.com/itsyourbedtime/orca.git
 	branch = main
 [submodule "juce-framework/juce"]
-	path = juce
+	path = libs/juce
 	url = https://github.com/juce-framework/JUCE.git
 	branch = master
 [submodule "blinkenlights/ascii"]
@@ -491,23 +491,23 @@
 	url = https://github.com/RustAudio/vst2-sys.git
 	branch = master
 [submodule "free-audio/clap"]
-	path = plugin-apis/clap/clap
+	path = libs/clap/clap
 	url = https://github.com/free-audio/clap.git
 	branch = main
 [submodule "free-audio/clap-host"]
-	path = plugin-apis/clap/clap-host
+	path = libs/clap/clap-host
 	url = https://github.com/free-audio/clap-host.git
 	branch = main
 [submodule "free-audio/clap-plugins"]
-	path = plugin-apis/clap/clap-plugins
+	path = libs/clap/clap-plugins
 	url = https://github.com/free-audio/clap-plugins.git
 	branch = main
 [submodule "free-audio/clap-juce-extensions"]
-	path = plugin-apis/clap/clap-juce-extensions
+	path = libs/clap/clap-juce-extensions
 	url = https://github.com/free-audio/clap-juce-extensions.git
 	branch = main
 [submodule "free-audio/clap-validator"]
-	path = plugin-apis/clap/clap-validator
+	path = libs/clap/clap-validator
 	url = https://github.com/free-audio/clap-validator.git
 	branch = master
 [submodule "mtthw-meyer/libdaisy-rust"]
@@ -515,7 +515,7 @@
 	url = https://github.com/mtthw-meyer/libdaisy-rust.git
 	branch = master
 [submodule "backtail/daisy-blank"]
-	path = daisy-blank
+	path = libs/daisy/daisy-blank
 	url = https://github.com/backtail/daisy-blank.git
 	branch = master
 [submodule "irh/freeverb-rs"]
