@@ -1278,3 +1278,31 @@
 	path = hw-fw-eurorack/microresearch-blackdeath
 	url = https://github.com/microresearch/blackdeath.git
 	branch = master
+[submodule "chowdhury-dsp/chowmultitool"]
+	path = plugins-and-standalone/chowmultitool
+	url = https://github.com/Chowdhury-DSP/ChowMultiTool.git
+	branch = main
+[submodule "chowdhury-dsp/byod"]
+	path = plugins-and-standalone/build-your-own-distortion
+	url = https://github.com/Chowdhury-DSP/BYOD.git
+	branch = main
+[submodule "chowdhury-dsp/chowmatrix"]
+	path = plugins-and-standalone/chowmatrix
+	url = https://github.com/Chowdhury-DSP/ChowMatrix.git
+	branch = main
+[submodule "jatinchowdhury18/kloncentaur"]
+	path = plugins-and-standalone/kloncentaur
+	url = https://github.com/jatinchowdhury18/KlonCentaur.git
+	branch = master
+[submodule "chowdhury-dsp/chowkick"]
+	path = plugins-and-standalone/chowkick
+	url = https://github.com/Chowdhury-DSP/ChowKick.git
+	branch = main
+[submodule "chowdhury-dsp/chowdsp-utils"]
+	path = libs/chowdsp-utils
+	url = https://github.com/Chowdhury-DSP/chowdsp_utils.git
+	branch = master
+[submodule "chowdhury-dsp/chowdsp-wdf"]
+	path = libs/chowdsp-wdf
+	url = https://github.com/Chowdhury-DSP/chowdsp_wdf.git
+	branch = main
