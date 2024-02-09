@@ -1306,3 +1306,7 @@
 	path = libs/chowdsp-wdf
 	url = https://github.com/Chowdhury-DSP/chowdsp_wdf.git
 	branch = main
+[submodule "microresearch/dark-interpreter"]
+	path = hw-fw-eurorack/microresearch-dark-interpreter
+	url = https://github.com/microresearch/dark-interpreter.git
+	branch = master
