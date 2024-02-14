@@ -1314,3 +1314,7 @@
 	path = hw-fw-eurorack/microresearch-worm
 	url = https://github.com/microresearch/WORM.git
 	branch = master
+[submodule "modulove/mvmnt"]
+	path = hw-fw-eurorack/mvmnt
+	url = https://github.com/modulove/MVMNT.git
+	branch = main
