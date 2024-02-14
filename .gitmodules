@@ -1318,3 +1318,7 @@
 	path = hw-fw-eurorack/mvmnt
 	url = https://github.com/modulove/MVMNT.git
 	branch = main
+[submodule "modulove/a-ryth-matik"]
+	path = hw-fw-eurorack/a-ryth-matik
+	url = https://github.com/modulove/A-RYTH-MATIK.git
+	branch = main
