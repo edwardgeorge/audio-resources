@@ -3,7 +3,7 @@ set -ex
 mkdir -p bundles
 for sub in $(git submodule status | awk '{print $2}')
 do
-    if prob-check-repo -d .repodata "$sub" check --seed "$(git show-ref -s HEAD)" 
+    if prob-check-repo -d .repodata "$sub" check --seed "$(git log -1 --format='format:%H')" 
     then
         git submodule update --init --remote --filter=tree:0 "$sub"
         git add "$sub"
