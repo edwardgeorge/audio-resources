@@ -37,9 +37,11 @@ jobs:
         rm "prob-check-repo_v${TOOL_VERSION}_x86_64-unknown-linux-musl.tar.gz"
         echo "$(pwd)/.tools" >> $GITHUB_PATH
     - name: update modules
+      env:
+        PUSH_BRANCH: "1"
+        CLEAN_UP: "1"
+        SEED: "${{ github.run_id }}"
       run: |
-        export PUSH_BRANCH=1
-        export CLEAN_UP=1
         ./update-all.sh
     - name: git status
       run: git status
