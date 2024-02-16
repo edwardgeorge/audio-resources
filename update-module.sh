@@ -32,7 +32,7 @@ then
         git -C "${toplevel}" branch -D "${branch_name}"
     fi
 fi
-RUST_LOG=debug prob-check-repo -d ../.repodata -n "${sm_path}" record --commit-time="$(git log -1 --format='format:%cI')" --commit-hash="$(git log -1 --format='format:%H')"
+RUST_LOG=debug prob-check-repo -d "${toplevel}/.repodata" -n "${sm_path}" record --commit-time="$(git log -1 --format='format:%cI')" --commit-hash="$(git log -1 --format='format:%H')"
 if ! [ -z ${CLEAN_UP+x} ]
 then
     git -C "${toplevel}" submodule deinit -f "${sm_path}"
