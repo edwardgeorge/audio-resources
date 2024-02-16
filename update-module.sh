@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -e
+set -ex
 
 current_sha="$(git rev-parse --verify HEAD)"
 branch_name="$name"
