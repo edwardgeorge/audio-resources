@@ -7,7 +7,7 @@ then
 fi
 for sub in $(git submodule status | awk '{print $2}')
 do
-    if prob-check-repo -d .repodata -n "$sub" check --seed "${SEED}" 
+    if prob-check-repo -d .repodata -n "$sub" check --seed "${SEED:+${SEED}+${sub}}" 
     then
         git submodule update --init --remote --filter=tree:0 "$sub"
         git add "$sub"
