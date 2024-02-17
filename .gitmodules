@@ -1322,3 +1322,7 @@
 	path = hw-fw-eurorack/a-ryth-matik
 	url = https://github.com/modulove/A-RYTH-MATIK.git
 	branch = main
+[submodule "ess-m/lood"]
+	path = max/lood
+	url = https://github.com/ess-m/lood.git
+	branch = main
