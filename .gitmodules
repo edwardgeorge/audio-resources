@@ -1330,3 +1330,7 @@
 	path = vcv-modules/venommodules
 	url = https://github.com/DaveBenham/VenomModules.git
 	branch = main
+[submodule "patheros/pathsetmodules"]
+	path = vcv-modules/pathsetmodules
+	url = https://github.com/patheros/PathSetModules.git
+	branch = main
