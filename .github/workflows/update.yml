@@ -27,9 +27,10 @@ jobs:
         git config --global user.name "${USER_NAME}"
     - name: setup meta repo
       run: |
-        git config http.https://github.com/.extraheader "AUTHORIZATION: basic ${{secrets.ACCESS_TOKEN}}"
+        export HEADER="$(git config --local --get http.https://github.com/.extraheader)"
         git init .meta
         cd .meta
+        git config --local http.https://github.com/.extraheader "$HEADER"
         git config url.https://github.com/.insteadOf git://github.com/
         git remote add origin "${{github.repositoryUrl}}"
         git fetch origin refs/meta/main:refs/meta/main
