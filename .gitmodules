@@ -20,7 +20,7 @@
 	branch = main
 [submodule "monome/ansible"]
 	path = monome/ansible
-	url = https://github.com/monome/ansible
+	url = https://github.com/monome/ansible.git
 	branch = main
 [submodule "monome/crow"]
 	path = monome/crow
@@ -84,7 +84,7 @@
 	branch = master
 [submodule "deezer/spleeter4max"]
 	path = spleeter4max
-	url = https://github.com/diracdeltas/spleeter4max
+	url = https://github.com/diracdeltas/spleeter4max.git
 	branch = master
 [submodule "vastdynamics/vaporizer2"]
 	path = plugins-and-standalone/vaporizer2
@@ -92,7 +92,7 @@
 	branch = main
 [submodule "midilab/uclock"]
 	path = embedded/uclock
-	url = https://github.com/midilab/uClock
+	url = https://github.com/midilab/uClock.git
 	branch = main
 [submodule "rupa/cuecat"]
 	path = software-and-tools/cuecat
@@ -140,7 +140,7 @@
 	branch = master
 [submodule "electrosmith/libdaisy"]
 	path = libs/daisy/libdaisy
-	url = https://github.com/electro-smith/libDaisy
+	url = https://github.com/electro-smith/libDaisy.git
 	branch = master
 [submodule "electro-smith/oopsy"]
 	path = oopsy
@@ -1188,7 +1188,7 @@
 	branch = master
 [submodule "surge-synthesizer/pffft"]
 	path = libs/pffft-surge
-	url = https://github.com/surge-synthesizer/pffft
+	url = https://github.com/surge-synthesizer/pffft.git
 	branch = surge
 [submodule "bwhitman/amy"]
 	path = libs/amy
