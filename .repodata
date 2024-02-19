@@ -4,7 +4,7 @@ change_time = "2024-02-13T20:25:26Z"
 commit_hash = "3a1f56fc8416784dd922641add07458f0104f4a7"
 
 ["crow/drumcrow"]
-check_time = "2024-02-16T14:15:16.087926707Z"
+check_time = "2024-02-19T22:14:05.498071238Z"
 change_time = "2023-05-30T00:20:22Z"
 commit_hash = "9ec04c134668175ce73a2f9a93ec29b2b36cdb36"
 
@@ -23,8 +23,33 @@ check_time = "2024-02-16T14:15:18.045546154Z"
 change_time = "2023-05-28T11:36:06Z"
 commit_hash = "bd45fe16d921ca36e31b26a005d4368d542ea3fb"
 
+["embedded/rppicomidi-midi2usbhost"]
+check_time = "2024-02-19T22:14:06.603790898Z"
+change_time = "2024-02-12T16:00:37Z"
+commit_hash = "2d6fd682583ed65d1c9aabef1f6ebff7c44f9855"
+
+["embedded/rppicomidi-midi2usbhub"]
+check_time = "2024-02-19T22:14:07.914921986Z"
+change_time = "2024-02-12T16:16:40Z"
+commit_hash = "0d98c00010bff5bae3757f33f7e6d957b294c281"
+
+["embedded/rppicomidi-usb-midi-filter"]
+check_time = "2024-02-19T22:14:09.031770687Z"
+change_time = "2023-10-17T17:12:25Z"
+commit_hash = "7bea9659f1b355d35d55e6240704b945345693f8"
+
+["embedded/rppicomidi-usb-midi-host"]
+check_time = "2024-02-19T22:14:09.924511113Z"
+change_time = "2024-02-09T19:58:59Z"
+commit_hash = "1808df294a76880f84e128e0faae98305ad96db3"
+
+["embedded/rppicomidi-usb-midi-processor"]
+check_time = "2024-02-19T22:14:11.743575723Z"
+change_time = "2023-10-17T17:17:40Z"
+commit_hash = "284d27cf109b0c3c21664d05505d4d685b158d27"
+
 ["embedded/ssd1306"]
-check_time = "2024-02-16T14:15:19.059187712Z"
+check_time = "2024-02-19T22:14:12.788492671Z"
 change_time = "2023-11-08T09:26:44Z"
 commit_hash = "0710c623f516f1ddc9eefa7fd7aee9b1fde8d0ae"
 
@@ -179,7 +204,7 @@ change_time = "2024-01-08T00:35:55Z"
 commit_hash = "3648cd6525d198c2a8913af8d82bc49a5e904575"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-02-19T21:51:19.597092506Z"
+check_time = "2024-02-19T22:14:14.785069863Z"
 change_time = "2024-02-14T16:15:24Z"
 commit_hash = "3c4091d9ca1458b1baeda5d75952bce6bb55df86"
 
@@ -284,7 +309,7 @@ change_time = "2022-10-16T13:50:46Z"
 commit_hash = "52839534fe5dbb36baa6fd864aa7eec5369de4ed"
 
 ["hw-fw-eurorack/mutable-eurorack"]
-check_time = "2024-02-16T14:17:52.614899602Z"
+check_time = "2024-02-19T22:14:17.176317131Z"
 change_time = "2023-08-16T16:58:23Z"
 commit_hash = "08460a69a7e1f7a81c5a2abcc7189c9a6b7208d4"
 
@@ -499,9 +524,9 @@ change_time = "2024-02-01T14:19:51Z"
 commit_hash = "9c968b6be442287a37e1f677a1db8077681bf310"
 
 ["libs/amy"]
-check_time = "2024-02-19T21:51:29.238939291Z"
-change_time = "2024-02-19T20:18:30Z"
-commit_hash = "f95bb3385f0cbe55ca2da043b7e19e97960ced51"
+check_time = "2024-02-19T22:14:22.470895744Z"
+change_time = "2024-02-19T21:55:53Z"
+commit_hash = "9fd5c46b1c064cfe000b88ca5f7f7e648d21dd87"
 
 ["libs/aubio"]
 check_time = "2024-02-19T22:05:47.387536100Z"
@@ -659,7 +684,7 @@ change_time = "2024-02-11T21:03:30Z"
 commit_hash = "4e8fb3cf4dd06389c2d3ab82fbb9b908333747a5"
 
 ["max/guttersynthesis"]
-check_time = "2024-02-16T14:20:09.413229407Z"
+check_time = "2024-02-19T22:14:23.543915391Z"
 change_time = "2023-08-14T09:28:33Z"
 commit_hash = "efa4737af31febf09bd746a45bd9cd57c88f74b1"
 
@@ -754,7 +779,7 @@ change_time = "2024-01-18T01:45:49Z"
 commit_hash = "499c3a83b85763868c46eb5268756f21e25ebc01"
 
 ["max/rave"]
-check_time = "2024-02-16T14:20:42.954021252Z"
+check_time = "2024-02-19T22:14:24.681249733Z"
 change_time = "2023-12-21T23:52:17Z"
 commit_hash = "8b250310fecfe61a6d9d53e8e5551851f4638d35"
 
@@ -1130,7 +1155,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-02-19T20:51:59.075978774Z"
+check_time = "2024-02-19T22:14:38.243414634Z"
 change_time = "2024-02-17T12:01:06Z"
 commit_hash = "24477fced908b0deebbd915bb317cfc12c79f4c5"
 
@@ -1240,7 +1265,7 @@ change_time = "2022-06-02T21:22:48Z"
 commit_hash = "97c0e0c6b03d208e4e94b0d352bcec97dbc5fa0e"
 
 ["rust-libraries/rustaudio-cpal"]
-check_time = "2024-02-19T20:52:35.597836412Z"
+check_time = "2024-02-19T22:14:39.644986482Z"
 change_time = "2024-02-17T23:00:05Z"
 commit_hash = "8d50e6af64b825d4274926cdfa4f26711fa6eab7"
 
@@ -1400,7 +1425,7 @@ change_time = "2023-05-19T14:29:43Z"
 commit_hash = "24842affaae64a2631de73fbef31be3eada00e5f"
 
 ["supercollider/community-plugins"]
-check_time = "2024-02-18T00:09:34.602944735Z"
+check_time = "2024-02-19T22:14:41.316325827Z"
 change_time = "2023-08-16T19:56:44Z"
 commit_hash = "aff09e4fadf93d48f40708ec86c80af7e3a21cc8"
 
