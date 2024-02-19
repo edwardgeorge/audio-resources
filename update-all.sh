@@ -19,5 +19,5 @@ do
     fi
 done
 git diff-index --quiet HEAD || git commit -m "update submodules" -m "[skip ci]"
-git add .repodata
-git -C "${META_DIR}" diff-index --quiet HEAD || git -C "${META_DIR}" commit -m "update .repometa" -m "[skip ci]"
+git -C "${META_DIR}" add "${META_DIR}/.repodata"
+git -C "${META_DIR}" diff-index --quiet HEAD || git -C "${META_DIR}" commit -m "update .repodata" -m "[skip ci]"
