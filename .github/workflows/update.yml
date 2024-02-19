@@ -27,6 +27,7 @@ jobs:
         git config --global user.name "${USER_NAME}"
     - name: setup meta repo
       run: |
+        git config --local -l
         git init .meta
         cd .meta
         git config url.https://github.com/.insteadOf git://github.com/
