@@ -1175,7 +1175,7 @@
 	url = https://github.com/surge-synthesizer/tuning-library.git
 	branch = main
 [submodule "surge-synthesizer/conduit"]
-	path = conduit
+	path = plugins-and-standalone/conduit
 	url = https://github.com/surge-synthesizer/conduit.git
 	branch = main
 [submodule "surge-synthesizer/sst-rackhelpers"]
