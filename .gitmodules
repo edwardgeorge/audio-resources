@@ -1326,3 +1326,7 @@
 	path = max/lood
 	url = https://github.com/ess-m/lood.git
 	branch = main
+[submodule "davebenham/venommodules"]
+	path = vcv-modules/venommodules
+	url = https://github.com/DaveBenham/VenomModules.git
+	branch = main
