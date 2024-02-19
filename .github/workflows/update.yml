@@ -17,6 +17,12 @@ jobs:
       with:
         fetch-depth: 1
         token: ${{secrets.ACCESS_TOKEN}}
+    - uses: actions/checkout@v4
+      with:
+        path: .meta
+        ref: meta
+        fetch-depth: 1
+        token: ${{secrets.ACCESS_TOKEN}}
     - name: setup git user
       env:
         USER_NAME: "${{ github.actor || 'github-actions[bot]' }}"
@@ -41,11 +47,17 @@ jobs:
         PUSH_BRANCH: "1"
         CLEAN_UP: "1"
         SEED: "${{ github.run_id }}"
+        META_DIR: .meta
       run: |
-        ./update-all.sh
+        ./.meta/update-all.sh
     - name: git status
       run: git status
     - name: push back
       if: ${{ github.ref == 'refs/heads/main' }}
       run: |
         git push origin main
+    - name: push back meta
+      if: ${{ github.ref == 'refs/heads/main' }}
+      working-directory: .meta
+      run: |
+        git push origin meta
