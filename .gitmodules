@@ -295,7 +295,7 @@
 	url = https://codeberg.org/positionhigh/MicroDexed-touch.git
 	branch = main
 [submodule "dcoredump/synth-dexed"]
-	path = synth-dexed
+	path = hw-fw-eurorack/synth-dexed
 	url = https://codeberg.org/dcoredump/Synth_Dexed.git
 	branch = master
 [submodule "probonopd/minidexed"]
