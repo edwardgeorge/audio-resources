@@ -54,7 +54,7 @@ jobs:
         SEED: "${{ github.run_id }}"
         META_DIR: .meta
       run: |
-        ./.meta/update-all.sh
+        ./.github/scripts/update-all.sh
     - name: git status
       run: git status
     - name: push back
