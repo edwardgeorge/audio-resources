@@ -1334,3 +1334,7 @@
 	path = vcv-modules/pathsetmodules
 	url = https://github.com/patheros/PathSetModules.git
 	branch = main
+[submodule "dstroud/dreamsequence-dev"]
+	path = norns/dreamsequence-dev
+	url = https://github.com/dstroud/dreamsequence_dev.git
+	branch = main
