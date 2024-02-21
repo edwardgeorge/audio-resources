@@ -107,7 +107,7 @@
 	url = https://github.com/sixolet/phonotype.git
 	branch = main
 [submodule "sensorium/mozzi"]
-	path = mozzi
+	path = embedded/mozzi
 	url = https://github.com/sensorium/Mozzi.git
 	branch = master
 [submodule "v7b1/mi-ugens"]
@@ -299,7 +299,7 @@
 	url = https://codeberg.org/dcoredump/Synth_Dexed.git
 	branch = master
 [submodule "probonopd/minidexed"]
-	path = minidexed
+	path = hw-fw-eurorack/minidexed
 	url = https://github.com/probonopd/MiniDexed.git
 	branch = main
 [submodule "fluffyaudio/multiversio"]
@@ -359,7 +359,7 @@
 	url = https://github.com/plinkysynth/plinky_public.git
 	branch = main
 [submodule "jcpst/johnston"]
-	path = johnston-rs
+	path = rust-libraries/johnston-rs
 	url = https://github.com/jcpst/johnston.git
 	branch = main
 [submodule "aldaronlau/twang/stable"]
@@ -443,7 +443,7 @@
 	url = https://github.com/chaosprint/bytebeat-rs.git
 	branch = main
 [submodule "mmalex/midi2osc"]
-	path = midi2osc
+	path = software-and-tools/midi2osc
 	url = https://github.com/mmalex/midi2osc.git
 	branch = master
 [submodule "backtail/granulator-rs"]
@@ -455,7 +455,7 @@
 	url = https://github.com/backtail/yanel_dsp.git
 	branch = master
 [submodule "robbert-vdh/nih-plug"]
-	path = nih-plug-rs
+	path = rust-libraries/nih-plug-rs
 	url = https://github.com/robbert-vdh/nih-plug.git
 	branch = master
 [submodule "rustaudio/vst3-sys"]
@@ -1007,7 +1007,7 @@
 	url = https://github.com/MikeMorenoDSP/LIRA-8.git
 	branch = master
 [submodule "wasted-audio/hvcc/develop"]
-	path = hvcc
+	path = languages-and-frameworks/hvcc
 	url = https://github.com/Wasted-Audio/hvcc.git
 	branch = develop
 [submodule "wasted-audio/heavylib"]
