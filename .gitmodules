@@ -1338,3 +1338,7 @@
 	path = norns/dreamsequence-dev
 	url = https://github.com/dstroud/dreamsequence_dev.git
 	branch = main
+[submodule "rustaudio/wmidi"]
+	path = rust-libraries/rustaudio-wmidi
+	url = https://github.com/RustAudio/wmidi.git
+	branch = main
