@@ -79,11 +79,11 @@
 	url = https://github.com/supercollider/supercollider.git
 	branch = develop
 [submodule "deezer/spleeter"]
-	path = spleeter
+	path = software-and-tools/spleeter
 	url = https://github.com/deezer/spleeter.git
 	branch = master
 [submodule "deezer/spleeter4max"]
-	path = spleeter4max
+	path = max/spleeter4max
 	url = https://github.com/diracdeltas/spleeter4max.git
 	branch = master
 [submodule "vastdynamics/vaporizer2"]
@@ -1179,7 +1179,7 @@
 	url = https://github.com/surge-synthesizer/conduit.git
 	branch = main
 [submodule "surge-synthesizer/sst-rackhelpers"]
-	path = sst-rackhelpers
+	path = libs/sst-rackhelpers
 	url = https://github.com/surge-synthesizer/sst-rackhelpers.git
 	branch = main
 [submodule "jpommier/pffft"]
