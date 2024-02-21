@@ -1342,3 +1342,7 @@
 	path = rust-libraries/rustaudio-wmidi
 	url = https://github.com/RustAudio/wmidi.git
 	branch = main
+[submodule "thetechnobear/mi4pd"]
+	path = pure-data/mi4pd
+	url = https://github.com/TheTechnobear/Mi4Pd.git
+	branch = master
