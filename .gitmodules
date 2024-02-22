@@ -1346,3 +1346,7 @@
 	path = pure-data/mi4pd
 	url = https://github.com/TheTechnobear/Mi4Pd.git
 	branch = master
+[submodule "cosinekitty/sapphire"]
+	path = vcv-modules/sapphire
+	url = https://github.com/cosinekitty/sapphire.git
+	branch = main
