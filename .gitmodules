@@ -1350,3 +1350,7 @@
 	path = vcv-modules/sapphire
 	url = https://github.com/cosinekitty/sapphire.git
 	branch = main
+[submodule "cosinekitty/sloth"]
+	path = misc/sloth
+	url = https://github.com/cosinekitty/sloth.git
+	branch = main
