@@ -1358,3 +1358,7 @@
 	path = misc/jerkcircuit
 	url = https://github.com/cosinekitty/jerkcircuit.git
 	branch = main
+[submodule "aydeeeighty/80instruments"]
+	path = vcv-modules/80instruments
+	url = https://github.com/AydeeEighty/80Instruments.git
+	branch = master
