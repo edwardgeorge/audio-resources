@@ -1362,3 +1362,11 @@
 	path = vcv-modules/80instruments
 	url = https://github.com/AydeeEighty/80Instruments.git
 	branch = master
+[submodule "sickozell/sickocv"]
+	path = vcv-modules/sickocv
+	url = https://github.com/sickozell/SickoCV.git
+	branch = main
+[submodule "ascustomworks/as/v2"]
+	path = vcv-modules/as
+	url = https://github.com/AScustomWorks/AS.git
+	branch = V2
