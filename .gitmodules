@@ -1442,3 +1442,7 @@
 	path = vcv-modules/rackwindows
 	url = https://github.com/n0jo/rackwindows.git
 	branch = master
+[submodule "diyelectromusic/picodexed"]
+	path = embedded/picodexed
+	url = https://github.com/diyelectromusic/picodexed.git
+	branch = main
