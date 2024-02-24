@@ -1370,3 +1370,75 @@
 	path = vcv-modules/as
 	url = https://github.com/AScustomWorks/AS.git
 	branch = V2
+[submodule "vcvrack/audibleinstruments/v2"]
+	path = vcv-modules/audibleinstruments
+	url = https://github.com/VCVRack/AudibleInstruments.git
+	branch = v2
+[submodule "vcvrack/fundamental/v2"]
+	path = vcv-modules/fundamental
+	url = https://github.com/VCVRack/Fundamental.git
+	branch = v2
+[submodule "vcvrack/eseries/v2"]
+	path = vcv-modules/eseries
+	url = https://github.com/VCVRack/ESeries.git
+	branch = v2
+[submodule "valleyaudio/valleyrackfree"]
+	path = vcv-modules/valleyrackfree
+	url = https://github.com/ValleyAudio/ValleyRackFree.git
+	branch = main
+[submodule "clone45/voxglitch"]
+	path = vcv-modules/voxglitch
+	url = https://github.com/clone45/voxglitch.git
+	branch = master
+[submodule "miserlou/rjmodules"]
+	path = vcv-modules/rjmodules
+	url = https://github.com/Miserlou/RJModules.git
+	branch = master
+[submodule "dbiz/dbiz"]
+	path = vcv-modules/dbiz
+	url = https://github.com/dBiz/dBiz.git
+	branch = master
+[submodule "martin-lueders/ml-modules/v2"]
+	path = vcv-modules/ml-modules
+	url = https://github.com/martin-lueders/ML_modules.git
+	branch = v2
+[submodule "stellare-modular/vcv-rack"]
+	path = vcv-modules/stellare-modular
+	url = https://github.com/stellare-modular/vcv-rack.git
+	branch = master
+[submodule "stellare-modular/vcv-link"]
+	path = vcv-modules/vcv-link
+	url = https://github.com/stellare-modular/vcv-link.git
+	branch = master
+[submodule "strum/strums-mental-vcv-modules"]
+	path = vcv-modules/strums-mental-vcv-modules
+	url = https://github.com/Strum/Strums_Mental_VCV_Modules.git
+	branch = master
+[submodule "mhetrick/hetrickcv"]
+	path = vcv-modules/hetrickcv
+	url = https://github.com/mhetrick/hetrickcv.git
+	branch = master
+[submodule "marcboule/impromptumodular"]
+	path = vcv-modules/impromptumodular
+	url = https://github.com/MarcBoule/ImpromptuModular.git
+	branch = master
+[submodule "marcboule/mindmeldmodular"]
+	path = vcv-modules/mindmeldmodular
+	url = https://github.com/MarcBoule/MindMeldModular.git
+	branch = master
+[submodule "marcboule/geodesics"]
+	path = vcv-modules/geodesics
+	url = https://github.com/MarcBoule/Geodesics.git
+	branch = master
+[submodule "isabelgk/gen-rack"]
+	path = gen-rack
+	url = https://github.com/isabelgk/gen-rack.git
+	branch = main
+[submodule "eh2k/vcvrack-fv1-emu"]
+	path = vcv-modules/vcvrack-fv1-emu
+	url = https://github.com/eh2k/vcvrack-fv1-emu.git
+	branch = master
+[submodule "n0jo/rackwindows"]
+	path = vcv-modules/rackwindows
+	url = https://github.com/n0jo/rackwindows.git
+	branch = master
