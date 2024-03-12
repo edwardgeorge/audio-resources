@@ -1446,3 +1446,7 @@
 	path = embedded/picodexed
 	url = https://github.com/diyelectromusic/picodexed.git
 	branch = main
+[submodule "ableton/maxdevtools"]
+	path = max/maxdevtools
+	url = https://github.com/Ableton/maxdevtools.git
+	branch = main
