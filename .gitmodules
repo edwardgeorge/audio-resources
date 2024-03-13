@@ -1450,3 +1450,19 @@
 	path = max/maxdevtools
 	url = https://github.com/Ableton/maxdevtools.git
 	branch = main
+[submodule "awonak/ether-twin"]
+	path = hw-fw-eurorack/ether-twin
+	url = https://github.com/awonak/ether-twin.git
+	branch = main
+[submodule "awonak/uncertaintygo"]
+	path = hw-fw-eurorack/uncertaintygo
+	url = https://github.com/awonak/UncertaintyGo.git
+	branch = main
+[submodule "awonak/synthcard"]
+	path = hw-fw-eurorack/awonak-synthcard
+	url = https://github.com/awonak/synthcard.git
+	branch = main
+[submodule "awonak/hagiwomodulove"]
+	path = hw-fw-eurorack/awonak-hagiwomodulove
+	url = https://github.com/awonak/HagiwoModulove.git
+	branch = main
