@@ -1466,3 +1466,87 @@
 	path = hw-fw-eurorack/awonak-hagiwomodulove
 	url = https://github.com/awonak/HagiwoModulove.git
 	branch = main
+[submodule "mzuelch/cats-eurosynth"]
+	path = hw-fw-eurorack/cats-eurosynth
+	url = https://github.com/mzuelch/CATs-Eurosynth.git
+	branch = main
+[submodule "doctea/microlidian"]
+	path = hw-fw-eurorack/microlidian
+	url = https://github.com/doctea/Microlidian.git
+	branch = main
+[submodule "modulove/vcv-rack-modules"]
+	path = vcv-modules/modulove
+	url = https://github.com/modulove/VCV-Rack-modules.git
+	branch = main
+[submodule "wgd-modular/utf-8-samplified"]
+	path = hw-fw-eurorack/utf-8-samplified
+	url = https://github.com/wgd-modular/utf-8-samplified.git
+	branch = main
+[submodule "wgd-modular/loewenzahnhonig-firmware"]
+	path = hw-fw-eurorack/loewenzahnhonig-firmware
+	url = https://github.com/wgd-modular/loewenzahnhonig-firmware.git
+	branch = main
+[submodule "benjiaomodular/synthcard"]
+	path = hw-fw-eurorack/benjiaomodular-synthcard
+	url = https://github.com/benjiaomodular/SynthCard.git
+	branch = main
+[submodule "benjiaomodular/bufferedmixer"]
+	path = hw-fw-eurorack/benjiaomodular-bufferedmixer
+	url = https://github.com/benjiaomodular/BufferedMixer.git
+	branch = master
+[submodule "benjiaomodular/granularduino"]
+	path = hw-fw-eurorack/granularduino
+	url = https://github.com/benjiaomodular/GranulArduino.git
+	branch = main
+[submodule "benjiaomodular/randomtriggers"]
+	path = hw-fw-eurorack/randomtriggers
+	url = https://github.com/benjiaomodular/RandomTriggers.git
+	branch = main
+[submodule "benjiaomodular/miniverb"]
+	path = hw-fw-eurorack/miniverb
+	url = https://github.com/benjiaomodular/MiniVerb.git
+	branch = main
+[submodule "benjiaomodular/minivcf"]
+	path = hw-fw-eurorack/minivcf
+	url = https://github.com/benjiaomodular/MiniVCF.git
+	branch = main
+[submodule "benjiaomodular/minivca"]
+	path = hw-fw-eurorack/minivca
+	url = https://github.com/benjiaomodular/MiniVCA.git
+	branch = master
+[submodule "benjiaomodular/minisnh"]
+	path = hw-fw-eurorack/minisnh
+	url = https://github.com/benjiaomodular/MiniSNH.git
+	branch = main
+[submodule "benjiaomodular/miniosc"]
+	path = hw-fw-eurorack/miniosc
+	url = https://github.com/benjiaomodular/MiniOSC.git
+	branch = master
+[submodule "benjiaomodular/minimult"]
+	path = hw-fw-eurorack/minimult
+	url = https://github.com/benjiaomodular/MiniMult.git
+	branch = main
+[submodule "benjiaomodular/minimix"]
+	path = hw-fw-eurorack/minimix
+	url = https://github.com/benjiaomodular/MiniMix.git
+	branch = main
+[submodule "benjiaomodular/minilfo"]
+	path = hw-fw-eurorack/minilfo
+	url = https://github.com/benjiaomodular/MiniLFO.git
+	branch = main
+[submodule "benjiaomodular/minidelay"]
+	path = hw-fw-eurorack/minidelay
+	url = https://github.com/benjiaomodular/MiniDelay.git
+	branch = main
+[submodule "benjiaomodular/miniadsr"]
+	path = hw-fw-eurorack/miniadsr
+	url = https://github.com/benjiaomodular/MiniADSR.git
+	branch = main
+[submodule "benjiaomodular/eurorackbusboardjst"]
+	path = hw-fw-eurorack/eurorackbusboardjst
+	url = https://github.com/benjiaomodular/EurorackBusBoardJST.git
+	branch = main
+[submodule "awonak/libmodulove"]
+	path = hw-fw-eurorack/libmodulove
+	url = https://github.com/awonak/libModulove.git
+	branch = main
