@@ -1550,3 +1550,7 @@
 	path = hw-fw-eurorack/libmodulove
 	url = https://github.com/awonak/libModulove.git
 	branch = main
+[submodule "expertsleepersltd/hardware"]
+	path = hw-fw-eurorack/expertsleepers-hardware
+	url = https://github.com/expertsleepersltd/hardware.git
+	branch = main
