@@ -1554,3 +1554,7 @@
 	path = hw-fw-eurorack/expertsleepers-hardware
 	url = https://github.com/expertsleepersltd/hardware.git
 	branch = main
+[submodule "shakfu/chuck-max"]
+	path = max/chuck-max
+	url = https://github.com/shakfu/chuck-max.git
+	branch = main
