@@ -29,7 +29,7 @@ change_time = "2024-02-20T20:01:09Z"
 commit_hash = "ef7928f12d60ffb9b97edde68b00b043b8972ce9"
 
 ["embedded/picoosc"]
-check_time = "2024-03-20T00:41:06.435368081Z"
+check_time = "2024-03-22T02:16:28.893001494Z"
 change_time = "2023-05-28T11:36:06Z"
 commit_hash = "bd45fe16d921ca36e31b26a005d4368d542ea3fb"
 
@@ -119,7 +119,7 @@ change_time = "2024-02-10T09:08:24Z"
 commit_hash = "dfa0d4de3161c323f09769d4cb154bff43794882"
 
 ["hw-fw-eurorack/aciduino"]
-check_time = "2024-03-21T21:11:23.366545971Z"
+check_time = "2024-03-22T02:16:38.118611646Z"
 change_time = "2024-02-22T21:10:45Z"
 commit_hash = "0668d81354f77dc4430ab3eb88ac3772abb2c80f"
 
@@ -199,9 +199,9 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-22T00:48:55.804888324Z"
-change_time = "2024-03-21T15:35:49Z"
-commit_hash = "166aa0dcc1c3557dd6332789b2a8c8d524442d39"
+check_time = "2024-03-22T02:16:43.281361218Z"
+change_time = "2024-03-22T00:45:46Z"
+commit_hash = "0e6fb57dfcc661cf6f5098064afce04c4a96d600"
 
 ["hw-fw-eurorack/disphaze"]
 check_time = "2024-03-21T23:12:00.361578819Z"
@@ -219,7 +219,7 @@ change_time = "2022-02-21T03:17:28Z"
 commit_hash = "fea6d1881edfafe66aaf464e16bfedd02a8695c2"
 
 ["hw-fw-eurorack/ether-twin"]
-check_time = "2024-03-21T19:22:07.163323094Z"
+check_time = "2024-03-22T02:16:44.759068274Z"
 change_time = "2024-03-17T22:24:43Z"
 commit_hash = "717c1e0ed7c49aba075bf9ea71bc0f230d5b04cb"
 
@@ -469,7 +469,7 @@ change_time = "2024-02-02T22:26:57Z"
 commit_hash = "f0cfe4c9e95ef0e383d5d2a9888f0119188f1df5"
 
 ["hw-fw-eurorack/omx-27"]
-check_time = "2024-03-19T18:13:01.592120764Z"
+check_time = "2024-03-22T02:16:46.802579846Z"
 change_time = "2024-02-09T23:18:58Z"
 commit_hash = "20eff6372687b2236b9510b7661910039e294055"
 
@@ -754,7 +754,7 @@ change_time = "2022-07-05T11:50:10Z"
 commit_hash = "d7bc524c414ec06b8bdf5b7bfedcba2c38a4e0b3"
 
 ["libs/libossia"]
-check_time = "2024-03-22T00:49:16.006672253Z"
+check_time = "2024-03-22T02:16:49.016548341Z"
 change_time = "2024-03-21T19:19:52Z"
 commit_hash = "eb3bf4b3785506447a1c2f9f0a12faea0e1ec1d5"
 
@@ -1245,7 +1245,7 @@ change_time = "2023-11-05T19:17:38Z"
 commit_hash = "604372e4ffd9690c3e283362e4598cb43edbb475"
 
 ["plugins-and-standalone/build-your-own-distortion"]
-check_time = "2024-03-21T12:18:01.979899013Z"
+check_time = "2024-03-22T02:16:50.897753793Z"
 change_time = "2024-03-16T00:00:24Z"
 commit_hash = "3562e3cd4dc569d526aa4610da7a17f79ab5211f"
 
@@ -1475,7 +1475,7 @@ change_time = "2022-06-02T21:22:48Z"
 commit_hash = "97c0e0c6b03d208e4e94b0d352bcec97dbc5fa0e"
 
 ["rust-libraries/rustaudio-cpal"]
-check_time = "2024-03-21T12:18:24.958783608Z"
+check_time = "2024-03-22T02:16:52.097353323Z"
 change_time = "2024-03-14T02:22:57Z"
 commit_hash = "2ec761d30b35dbbacfecb41a2f5985781a7d52d1"
 
@@ -1535,7 +1535,7 @@ change_time = "2023-07-08T12:32:56Z"
 commit_hash = "592a9e04823ae9c4416cb25fda5c92a141aee5bf"
 
 ["software-and-tools/aphex-samplebrain"]
-check_time = "2024-03-17T18:11:45.228593728Z"
+check_time = "2024-03-22T02:16:54.108349589Z"
 change_time = "2023-05-01T16:39:52Z"
 commit_hash = "a8ea957f4585fc17f72079c0098dd3a26797a655"
 
