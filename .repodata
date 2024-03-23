@@ -99,7 +99,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-03-23T15:12:22.068398997Z"
+check_time = "2024-03-23T23:09:54.466788867Z"
 change_time = "2024-03-21T15:18:11Z"
 commit_hash = "a478abdceda65682a445f96db12de1c8a9879f06"
 
@@ -134,7 +134,7 @@ change_time = "2023-12-13T16:23:07Z"
 commit_hash = "3032f3775999a51ea927849b1cfdd923e3db9b0e"
 
 ["hw-fw-eurorack/analog-synth"]
-check_time = "2024-03-15T06:12:24.051290944Z"
+check_time = "2024-03-23T23:09:56.192987515Z"
 change_time = "2021-02-15T00:23:05Z"
 commit_hash = "c305a21f717dfa2cc809e3488e7512d5c711304a"
 
@@ -199,9 +199,9 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-23T22:10:01.112564273Z"
-change_time = "2024-03-23T20:31:43Z"
-commit_hash = "57f97410f12804ee839cca44fcef1754f776f5e3"
+check_time = "2024-03-23T23:10:01.297079138Z"
+change_time = "2024-03-23T22:40:27Z"
+commit_hash = "641da95ae5dafcc41fc3366131c5fcd169972468"
 
 ["hw-fw-eurorack/disphaze"]
 check_time = "2024-03-21T23:12:00.361578819Z"
@@ -324,7 +324,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-03-23T22:10:33.224518771Z"
+check_time = "2024-03-23T23:10:28.134207021Z"
 change_time = "2024-03-23T20:22:18Z"
 commit_hash = "df370cab95e7c10699c0854702a032b49593ee13"
 
@@ -559,7 +559,7 @@ change_time = "2023-01-11T08:11:21Z"
 commit_hash = "ed8b34c4b99a08bfd41c659a50852e556b334f12"
 
 ["hw-fw-eurorack/synth-dexed"]
-check_time = "2024-03-21T19:23:34.719660985Z"
+check_time = "2024-03-23T23:10:31.155459769Z"
 change_time = "2023-12-23T09:48:25Z"
 commit_hash = "0a2de3848970fdd0f7eeb55cc49676e962665b8d"
 
@@ -739,7 +739,7 @@ change_time = "2024-01-29T15:06:10Z"
 commit_hash = "d54d8753a30ac6d265b4be4a49e758a3f5dfb86e"
 
 ["libs/daisy/libdaisy"]
-check_time = "2024-03-23T08:12:21.168375138Z"
+check_time = "2024-03-23T23:10:32.880428565Z"
 change_time = "2024-03-07T14:21:51Z"
 commit_hash = "f7727edb9a1febdd174b5310a7bc65340dae8700"
 
@@ -804,7 +804,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/chuck-max"]
-check_time = "2024-03-23T21:10:05.123399325Z"
+check_time = "2024-03-23T23:10:35.538998025Z"
 change_time = "2024-03-22T20:51:41Z"
 commit_hash = "16df7165d6b9d7e0853bd17f8eeaee5e6d6fc261"
 
@@ -944,7 +944,7 @@ change_time = "2022-06-01T20:04:19Z"
 commit_hash = "5f695e86931d04beb6dbc1b46668870b0979f39b"
 
 ["max/philip-meyer-max-tutorials"]
-check_time = "2024-03-23T17:10:08.614014505Z"
+check_time = "2024-03-23T23:10:37.379405717Z"
 change_time = "2024-03-22T03:23:53Z"
 commit_hash = "c8689da7e9fd9c87653f77748171641245cd66e0"
 
@@ -1115,7 +1115,7 @@ change_time = "2024-01-09T18:27:05Z"
 commit_hash = "7a01b57735bb0cb18da048e4eb5b303b85b30c4d"
 
 [norns-desktop]
-check_time = "2024-03-23T17:10:10.943613310Z"
+check_time = "2024-03-23T23:10:38.452993971Z"
 change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
@@ -1325,7 +1325,7 @@ change_time = "2021-05-31T03:59:06Z"
 commit_hash = "e109791e5aa1bbba9bf32962320dae2960034a6e"
 
 ["plugins-and-standalone/phase-modulation-synthesizer"]
-check_time = "2024-03-23T03:13:38.145559152Z"
+check_time = "2024-03-23T23:10:39.569293728Z"
 change_time = "2024-02-08T17:17:06Z"
 commit_hash = "54f81b21f24da2945a65fd0cbeeb35434b69516e"
 
@@ -1350,7 +1350,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-03-23T21:10:24.352890320Z"
+check_time = "2024-03-23T23:10:51.610033134Z"
 change_time = "2024-03-23T15:56:14Z"
 commit_hash = "4ccc5558303e32f12d7344a05029fe22e3bc3c58"
 
@@ -1540,7 +1540,7 @@ change_time = "2023-05-01T16:39:52Z"
 commit_hash = "a8ea957f4585fc17f72079c0098dd3a26797a655"
 
 ["software-and-tools/bytebeat-rs"]
-check_time = "2024-03-22T01:42:50.571450118Z"
+check_time = "2024-03-23T23:10:52.850680511Z"
 change_time = "2023-12-18T19:01:55Z"
 commit_hash = "9d2693f0ef3569fd4fd506fe2091853a94760e12"
 
@@ -1585,7 +1585,7 @@ change_time = "2022-11-19T16:05:48Z"
 commit_hash = "f1bf0dcf038e443d215e343cf86068a057334c82"
 
 ["software-and-tools/orca"]
-check_time = "2024-03-23T14:09:32.077105851Z"
+check_time = "2024-03-23T23:10:53.819295123Z"
 change_time = "2023-11-24T22:46:28Z"
 commit_hash = "aca2846f5bcf4414ddc3f4efb03f4e82b7463fdd"
 
@@ -1841,7 +1841,7 @@ change_time = "2016-09-21T23:08:27Z"
 commit_hash = "199f89a3be23ea49004118173aa7420453a06e0c"
 
 ["supercollider/vocal-tract-modelling"]
-check_time = "2024-03-16T12:19:01.129723029Z"
+check_time = "2024-03-23T23:10:54.965067792Z"
 change_time = "2022-11-13T10:29:01Z"
 commit_hash = "1339706f3c05b946e350b4f009d23c026027f37b"
 
@@ -1891,7 +1891,7 @@ change_time = "2022-04-19T19:03:59Z"
 commit_hash = "a1cd335ec6ac44e8be55891854015bf0763f8552"
 
 ["vcv-modules/befaco"]
-check_time = "2024-03-23T20:12:04.136176162Z"
+check_time = "2024-03-23T23:10:56.168478147Z"
 change_time = "2024-03-22T13:40:41Z"
 commit_hash = "d3ad6c6732cee8a80197aa351dd9efef9c278d4c"
 
@@ -1921,7 +1921,7 @@ change_time = "2024-02-26T20:53:26Z"
 commit_hash = "a174a3b2e6d5a5b41f7a83cae5c3bc61179ed978"
 
 ["vcv-modules/hetrickcv"]
-check_time = "2024-03-22T07:11:57.403491824Z"
+check_time = "2024-03-23T23:10:58.210386531Z"
 change_time = "2023-12-24T20:33:41Z"
 commit_hash = "b1a6be363e28af251f5d057b0099c8ebdded0952"
 
@@ -1936,7 +1936,7 @@ change_time = "2023-10-27T19:23:54Z"
 commit_hash = "a969ae80009dd9889f43d96e8d2ad0582d64100c"
 
 ["vcv-modules/mindmeldmodular"]
-check_time = "2024-03-23T16:13:11.790067973Z"
+check_time = "2024-03-23T23:10:59.836460227Z"
 change_time = "2024-03-19T23:39:56Z"
 commit_hash = "b18c8aee0a027eca0b062c70f76d00c985b2fdf6"
 
