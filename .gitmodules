@@ -1570,3 +1570,15 @@
 	path = norns/pit-orchisstra
 	url = https://github.com/entzmingerc/pit-orchisstra.git
 	branch = main
+[submodule "justmat/foulplay"]
+	path = norns/foulplay
+	url = https://github.com/justmat/foulplay.git
+	branch = master
+[submodule "schollz/acrostic"]
+	path = norns/acrostic
+	url = https://github.com/schollz/acrostic.git
+	branch = main
+[submodule "justmat/larc"]
+	path = norns/larc
+	url = https://github.com/justmat/larc.git
+	branch = main
