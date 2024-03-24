@@ -189,7 +189,7 @@ change_time = "2024-02-28T19:28:03Z"
 commit_hash = "a2453cb1c27e4d09dbfef2feb52a7aa2bbe6bc50"
 
 ["hw-fw-eurorack/cats-eurosynth"]
-check_time = "2024-03-22T12:19:37.657452858Z"
+check_time = "2024-03-24T01:53:04.562623296Z"
 change_time = "2024-02-25T14:06:03Z"
 commit_hash = "b28bdbecc5b37165b3b91eafe1df97f263d02860"
 
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-24T00:54:21.444062692Z"
+check_time = "2024-03-24T01:53:08.579066244Z"
 change_time = "2024-03-24T00:11:47Z"
 commit_hash = "f3f9b31e90c8680f7cd7753d01cb6e74b708a7c7"
 
@@ -224,7 +224,7 @@ change_time = "2024-03-17T22:24:43Z"
 commit_hash = "717c1e0ed7c49aba075bf9ea71bc0f230d5b04cb"
 
 ["hw-fw-eurorack/europi"]
-check_time = "2024-03-23T20:11:26.443356174Z"
+check_time = "2024-03-24T01:53:10.910933555Z"
 change_time = "2024-03-21T04:36:53Z"
 commit_hash = "cc9d08ff88d15415a343482f331513ca7f463f4b"
 
@@ -289,7 +289,7 @@ change_time = "2024-03-19T16:08:04Z"
 commit_hash = "53e1a47cb50494b3852f52f626f32c62e612d1c2"
 
 ["hw-fw-eurorack/kompas"]
-check_time = "2024-03-22T07:11:13.469217639Z"
+check_time = "2024-03-24T01:53:12.309485682Z"
 change_time = "2021-12-15T13:40:05Z"
 commit_hash = "d9d906e4dca674741d5b3f6f7e0034d5632c0a4b"
 
@@ -324,7 +324,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-03-24T00:54:54.146379792Z"
+check_time = "2024-03-24T01:53:39.826707276Z"
 change_time = "2024-03-23T20:22:18Z"
 commit_hash = "df370cab95e7c10699c0854702a032b49593ee13"
 
@@ -494,7 +494,7 @@ change_time = "2021-02-18T05:39:13Z"
 commit_hash = "32fa66f5acce1bff2f0a7bdd041e29bad3222557"
 
 ["hw-fw-eurorack/phazerville-suite"]
-check_time = "2024-03-23T22:10:36.161941930Z"
+check_time = "2024-03-24T01:53:41.998284329Z"
 change_time = "2024-03-22T09:40:01Z"
 commit_hash = "111bf010468c095e477d6d5d8866307ceff393cb"
 
@@ -509,7 +509,7 @@ change_time = "2024-02-03T00:39:00Z"
 commit_hash = "b19b83cac36b049540866adfbeed90903d2d06ac"
 
 ["hw-fw-eurorack/plinky"]
-check_time = "2024-03-23T15:12:48.810314654Z"
+check_time = "2024-03-24T01:53:49.257525465Z"
 change_time = "2024-03-19T17:27:34Z"
 commit_hash = "9fa7cd56b220f992eb63054e6548b9235faa5748"
 
@@ -754,7 +754,7 @@ change_time = "2022-07-05T11:50:10Z"
 commit_hash = "d7bc524c414ec06b8bdf5b7bfedcba2c38a4e0b3"
 
 ["libs/libossia"]
-check_time = "2024-03-23T21:10:02.512524072Z"
+check_time = "2024-03-24T01:53:52.091832826Z"
 change_time = "2024-03-21T19:19:52Z"
 commit_hash = "eb3bf4b3785506447a1c2f9f0a12faea0e1ec1d5"
 
@@ -1445,9 +1445,9 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-03-23T09:11:25.164605719Z"
-change_time = "2024-03-18T20:48:39Z"
-commit_hash = "245add6530f1c7d83fea5e23636145d982af4d66"
+check_time = "2024-03-24T01:53:56.815999886Z"
+change_time = "2024-03-23T10:51:11Z"
+commit_hash = "bb274976ca138289436b0bfa209b2c8c13244225"
 
 ["rust-libraries/oscen-rs"]
 check_time = "2024-03-23T00:47:54.348587535Z"
@@ -1796,7 +1796,7 @@ change_time = "2023-09-22T19:23:36Z"
 commit_hash = "f8d6abb6d300b2670fc4fe4901b5fb157b60851a"
 
 ["supercollider/supersampler"]
-check_time = "2024-03-21T22:11:50.209743132Z"
+check_time = "2024-03-24T01:53:58.699201384Z"
 change_time = "2022-10-03T17:53:40Z"
 commit_hash = "3b51ead904bce0471b1f9a83118ed717ceb05538"
 
@@ -1891,7 +1891,7 @@ change_time = "2022-04-19T19:03:59Z"
 commit_hash = "a1cd335ec6ac44e8be55891854015bf0763f8552"
 
 ["vcv-modules/befaco"]
-check_time = "2024-03-23T23:10:56.168478147Z"
+check_time = "2024-03-24T01:54:00.366338905Z"
 change_time = "2024-03-22T13:40:41Z"
 commit_hash = "d3ad6c6732cee8a80197aa351dd9efef9c278d4c"
 
