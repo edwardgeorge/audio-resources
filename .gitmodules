@@ -1562,3 +1562,7 @@
 	path = vcv-modules/eightfold
 	url = https://github.com/scanner-darkly/eightfold.git
 	branch = main
+[submodule "valleyaudio/homr"]
+	path = software-and-tools/homr
+	url = https://github.com/ValleyAudio/homr.git
+	branch = master
