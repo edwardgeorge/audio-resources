@@ -99,9 +99,9 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-03-24T14:52:51.304293124Z"
-change_time = "2024-03-21T15:18:11Z"
-commit_hash = "a478abdceda65682a445f96db12de1c8a9879f06"
+check_time = "2024-03-24T18:54:33.825223760Z"
+change_time = "2024-03-24T14:59:01Z"
+commit_hash = "5f7b4a871487cc012fb3ffd78035ff06525fba0b"
 
 ["hw-fw-eurorack/16n"]
 check_time = "2024-03-20T12:16:20.290509602Z"
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-24T18:15:01.344066496Z"
+check_time = "2024-03-24T18:54:37.672159844Z"
 change_time = "2024-03-24T00:11:47Z"
 commit_hash = "f3f9b31e90c8680f7cd7753d01cb6e74b708a7c7"
 
@@ -284,7 +284,7 @@ change_time = "2023-06-06T17:31:52Z"
 commit_hash = "5593657e00ec79ebf0836e7c57f68efbf2200caf"
 
 ["hw-fw-eurorack/knot"]
-check_time = "2024-03-24T13:11:58.327268429Z"
+check_time = "2024-03-24T18:54:49.988070672Z"
 change_time = "2024-03-19T16:08:04Z"
 commit_hash = "53e1a47cb50494b3852f52f626f32c62e612d1c2"
 
@@ -324,7 +324,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-03-24T17:10:19.043217315Z"
+check_time = "2024-03-24T18:55:14.231239796Z"
 change_time = "2024-03-23T20:22:18Z"
 commit_hash = "df370cab95e7c10699c0854702a032b49593ee13"
 
@@ -629,12 +629,12 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/faust"]
-check_time = "2024-03-24T16:13:09.553052093Z"
+check_time = "2024-03-24T18:55:30.549998988Z"
 change_time = "2024-03-23T17:11:11Z"
 commit_hash = "f1af95b99cc725ca09bd51e46425f10882034948"
 
 ["languages-and-frameworks/faust-libraries"]
-check_time = "2024-03-24T16:13:12.461593052Z"
+check_time = "2024-03-24T18:55:32.782480156Z"
 change_time = "2024-03-20T22:00:48Z"
 commit_hash = "d28c51f6c667e00f521a8cb2232786795c558aa4"
 
@@ -679,7 +679,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-03-24T10:11:33.533991567Z"
+check_time = "2024-03-24T18:55:35.894761606Z"
 change_time = "2024-03-19T12:29:22Z"
 commit_hash = "f83139096ff5ffc3ba45257501724064ea7b5c0b"
 
@@ -879,7 +879,7 @@ change_time = "2024-03-07T19:44:58Z"
 commit_hash = "480bed8132f967e4035978b45e3682b970951238"
 
 ["max/maxdevtools"]
-check_time = "2024-03-24T14:09:55.514716598Z"
+check_time = "2024-03-24T18:55:38.013334874Z"
 change_time = "2024-03-19T16:10:02Z"
 commit_hash = "e5335f8aaade5c20f1c4cd1038032b01374e9125"
 
@@ -1204,6 +1204,11 @@ check_time = "2024-03-23T13:10:35.994885795Z"
 change_time = "2022-05-30T03:36:54Z"
 commit_hash = "b7cb9f48c691fcaa2944d74f605efb432679e899"
 
+["norns/pit-orchisstra"]
+check_time = "2024-03-24T18:55:40.764768185Z"
+change_time = "2024-03-16T00:58:40Z"
+commit_hash = "39cad1ab65cf42091d519e81632418bd8d547372"
+
 ["norns/repl-looper"]
 check_time = "2024-03-23T06:18:19.726083715Z"
 change_time = "2023-11-08T18:42:45Z"
@@ -1445,7 +1450,7 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-03-24T18:15:37.594849112Z"
+check_time = "2024-03-24T18:55:42.591236260Z"
 change_time = "2024-03-23T10:51:11Z"
 commit_hash = "bb274976ca138289436b0bfa209b2c8c13244225"
 
@@ -1826,7 +1831,7 @@ change_time = "2019-11-28T10:45:52Z"
 commit_hash = "a851ecf5770857bc025a06dec25cf2f509bae81e"
 
 ["supercollider/tidal-looper"]
-check_time = "2024-03-22T00:50:03.831829639Z"
+check_time = "2024-03-24T18:55:44.691384693Z"
 change_time = "2024-01-05T13:24:55Z"
 commit_hash = "fbf9d64e3b6e6ca6005600f4e670b388b1c994dc"
 
@@ -1896,7 +1901,7 @@ change_time = "2022-04-19T19:03:59Z"
 commit_hash = "a1cd335ec6ac44e8be55891854015bf0763f8552"
 
 ["vcv-modules/befaco"]
-check_time = "2024-03-24T17:10:35.901946052Z"
+check_time = "2024-03-24T18:55:46.395853122Z"
 change_time = "2024-03-22T13:40:41Z"
 commit_hash = "d3ad6c6732cee8a80197aa351dd9efef9c278d4c"
 
@@ -1911,7 +1916,7 @@ change_time = "2023-01-18T19:45:25Z"
 commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
 
 ["vcv-modules/eightfold"]
-check_time = "2024-03-24T14:43:46.322547899Z"
+check_time = "2024-03-24T18:55:47.695232100Z"
 change_time = "2024-03-23T20:55:41Z"
 commit_hash = "02265032d36a8a9187deb482eff436a54a4e603a"
 
