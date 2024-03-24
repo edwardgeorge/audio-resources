@@ -1566,3 +1566,7 @@
 	path = software-and-tools/homr
 	url = https://github.com/ValleyAudio/homr.git
 	branch = master
+[submodule "entzmingerc/pit-orchisstra"]
+	path = norns/pit-orchisstra
+	url = https://github.com/entzmingerc/pit-orchisstra.git
+	branch = main
