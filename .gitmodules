@@ -1558,3 +1558,7 @@
 	path = max/chuck-max
 	url = https://github.com/shakfu/chuck-max.git
 	branch = main
+[submodule "scanner-darkly/eightfold"]
+	path = vcv-modules/eightfold
+	url = https://github.com/scanner-darkly/eightfold.git
+	branch = main
