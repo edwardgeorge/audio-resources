@@ -99,7 +99,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-03-25T21:10:15.463518617Z"
+check_time = "2024-03-25T23:11:29.963770103Z"
 change_time = "2024-03-25T15:40:22Z"
 commit_hash = "881d4d811d8a0715f3b317fd70604d7fda012713"
 
@@ -149,7 +149,7 @@ change_time = "2024-03-01T17:51:23Z"
 commit_hash = "7995dc939e8663bd46b88bb85681a1d767f9feef"
 
 ["hw-fw-eurorack/ay3"]
-check_time = "2024-03-25T13:11:56.128219174Z"
+check_time = "2024-03-25T23:11:31.023177181Z"
 change_time = "2023-05-23T09:05:45Z"
 commit_hash = "793e0fd7bb975a92d9143b5a69742c7f1e28bfc7"
 
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-25T22:10:56.609036395Z"
+check_time = "2024-03-25T23:11:34.069995947Z"
 change_time = "2024-03-25T18:10:59Z"
 commit_hash = "1b3763551e7c587c2277f08c272cfb471b4c2d06"
 
@@ -339,7 +339,7 @@ change_time = "2024-03-18T22:34:50Z"
 commit_hash = "6136df33557bf467db220d8cd5bd8e37d45f3820"
 
 ["hw-fw-eurorack/microresearch-allcolours"]
-check_time = "2024-03-25T20:12:26.122868633Z"
+check_time = "2024-03-25T23:11:53.091963879Z"
 change_time = "2024-03-24T16:16:14Z"
 commit_hash = "cc298cdcf8f8d2961ccf289810d41f827f1414af"
 
@@ -469,7 +469,7 @@ change_time = "2024-02-02T22:26:57Z"
 commit_hash = "f0cfe4c9e95ef0e383d5d2a9888f0119188f1df5"
 
 ["hw-fw-eurorack/omx-27"]
-check_time = "2024-03-25T22:11:27.915128686Z"
+check_time = "2024-03-25T23:11:55.506067878Z"
 change_time = "2024-03-25T19:36:15Z"
 commit_hash = "1a54d3a35067d89aaa7da9452b040a8b682d7262"
 
@@ -584,7 +584,7 @@ change_time = "2017-09-19T06:56:13Z"
 commit_hash = "2dc135acd1c45d6bceca9a82e1cd8dc8c8a4a8bb"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-03-25T22:11:33.665999484Z"
+check_time = "2024-03-25T23:11:59.932039136Z"
 change_time = "2024-03-25T17:08:03Z"
 commit_hash = "f1b81539d917928f75b389f406c394e04ce8fc46"
 
@@ -979,7 +979,7 @@ change_time = "2021-12-09T18:47:00Z"
 commit_hash = "85dce7bd4b0f1a3316b642d1127099724fe49aff"
 
 ["max/thwomp"]
-check_time = "2024-03-24T22:13:03.312313522Z"
+check_time = "2024-03-25T23:12:01.359634768Z"
 change_time = "2024-02-25T10:51:14Z"
 commit_hash = "79a8e6df063df491bf6b8b8c81f38f216efe80ea"
 
@@ -1180,7 +1180,7 @@ change_time = "2024-01-13T18:32:27Z"
 commit_hash = "952ba47cc798c40239724d84ecac8d051429eaa8"
 
 ["norns/goldeneye"]
-check_time = "2024-03-25T16:14:58.618903083Z"
+check_time = "2024-03-25T23:12:02.935930713Z"
 change_time = "2024-03-13T20:52:46Z"
 commit_hash = "4898f457a04f1961612410fd3da2d3e21128b0a8"
 
@@ -1370,7 +1370,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-03-25T21:11:06.540252647Z"
+check_time = "2024-03-25T23:12:14.925986932Z"
 change_time = "2024-03-25T17:45:39Z"
 commit_hash = "e34e01754acbcbfb85a4aa2fe1c00e161d9acb18"
 
@@ -1510,9 +1510,9 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-03-25T20:13:01.986612992Z"
-change_time = "2024-03-24T18:29:11Z"
-commit_hash = "616ee267563555bf0edb803e7073dfbb27c6de9e"
+check_time = "2024-03-25T23:12:18.953052922Z"
+change_time = "2024-03-25T21:49:50Z"
+commit_hash = "8d8b5dae21e8ddabec372dd2a407d0ae12015132"
 
 ["rust-libraries/rustaudio-vst2-sys"]
 check_time = "2024-03-22T12:20:01.930864568Z"
@@ -1931,7 +1931,7 @@ change_time = "2023-01-18T19:45:25Z"
 commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
 
 ["vcv-modules/eightfold"]
-check_time = "2024-03-25T22:12:29.214584398Z"
+check_time = "2024-03-25T23:12:20.212057575Z"
 change_time = "2024-03-25T17:04:55Z"
 commit_hash = "066b89bf1ae895d4a6c4410801deb4705c2498fa"
 
@@ -2031,7 +2031,7 @@ change_time = "2022-02-03T13:02:36Z"
 commit_hash = "8241b5ec4aa8e5743e25e6fae96d0b85486deb3b"
 
 ["vcv-modules/surge-rack"]
-check_time = "2024-03-25T03:15:47.208249487Z"
+check_time = "2024-03-25T23:12:21.930921173Z"
 change_time = "2024-03-10T13:45:32Z"
 commit_hash = "4e0c376ab1995ab7c02fc0201039be407a1d457c"
 
