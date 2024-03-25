@@ -59,12 +59,12 @@ change_time = "2023-10-17T17:17:40Z"
 commit_hash = "284d27cf109b0c3c21664d05505d4d685b158d27"
 
 ["embedded/ssd1306"]
-check_time = "2024-03-22T06:13:35.707698476Z"
+check_time = "2024-03-25T02:19:48.839963037Z"
 change_time = "2023-11-08T09:26:44Z"
 commit_hash = "0710c623f516f1ddc9eefa7fd7aee9b1fde8d0ae"
 
 ["embedded/uclock"]
-check_time = "2024-03-24T03:10:55.940228090Z"
+check_time = "2024-03-25T02:19:51.047353852Z"
 change_time = "2024-02-18T08:52:42Z"
 commit_hash = "8bdc1a8542e1f5b5802a97c59ebed8d9b89157dc"
 
@@ -264,7 +264,7 @@ change_time = "2024-01-08T00:35:55Z"
 commit_hash = "3648cd6525d198c2a8913af8d82bc49a5e904575"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-03-24T22:11:21.739886318Z"
+check_time = "2024-03-25T02:19:55.038731518Z"
 change_time = "2024-03-13T08:25:42Z"
 commit_hash = "f165faea21863f2656399f4d2aba39fd1f5c24cc"
 
@@ -324,7 +324,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-03-25T01:47:47.422458980Z"
+check_time = "2024-03-25T02:20:23.898438739Z"
 change_time = "2024-03-24T22:41:10Z"
 commit_hash = "bc2ca24cd274e88270d5ceb069418fa1913b2c33"
 
@@ -469,7 +469,7 @@ change_time = "2024-02-02T22:26:57Z"
 commit_hash = "f0cfe4c9e95ef0e383d5d2a9888f0119188f1df5"
 
 ["hw-fw-eurorack/omx-27"]
-check_time = "2024-03-25T00:51:44.468897666Z"
+check_time = "2024-03-25T02:20:27.995593224Z"
 change_time = "2024-03-24T19:03:29Z"
 commit_hash = "103709ecdb3351aec516ad5712420cbdde4cffc6"
 
@@ -544,7 +544,7 @@ change_time = "2024-02-14T21:08:14Z"
 commit_hash = "a8198554224e1b85906e84ffecd1b0008560a2c4"
 
 ["hw-fw-eurorack/squaresolid-benjolin-gorga"]
-check_time = "2024-03-24T22:12:24.824135943Z"
+check_time = "2024-03-25T02:20:31.582850049Z"
 change_time = "2024-03-21T17:24:08Z"
 commit_hash = "0c5f68ca06629f0cb29d4bd8734164ea2b7623e7"
 
@@ -754,7 +754,7 @@ change_time = "2022-07-05T11:50:10Z"
 commit_hash = "d7bc524c414ec06b8bdf5b7bfedcba2c38a4e0b3"
 
 ["libs/libossia"]
-check_time = "2024-03-25T01:48:17.607903410Z"
+check_time = "2024-03-25T02:20:35.592408893Z"
 change_time = "2024-03-24T15:09:26Z"
 commit_hash = "5225a31c0221d417bf944948ca33b79c3bc50903"
 
@@ -799,12 +799,12 @@ change_time = "2024-02-16T20:50:01Z"
 commit_hash = "b7842351c7a95ea007750661cf8dd9d6c3fa6916"
 
 ["max/bonk"]
-check_time = "2024-03-24T13:12:33.628947528Z"
+check_time = "2024-03-25T02:20:38.058581233Z"
 change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/chuck-max"]
-check_time = "2024-03-24T23:12:57.463335472Z"
+check_time = "2024-03-25T02:20:42.377813499Z"
 change_time = "2024-03-22T20:51:41Z"
 commit_hash = "16df7165d6b9d7e0853bd17f8eeaee5e6d6fc261"
 
@@ -904,7 +904,7 @@ change_time = "2023-04-18T17:26:25Z"
 commit_hash = "9eb724fc54decc726dcb1141fc3da52d2cb25614"
 
 ["max/monome-grainfields"]
-check_time = "2024-03-19T18:13:49.119188235Z"
+check_time = "2024-03-25T02:20:47.304147902Z"
 change_time = "2019-05-24T08:18:39Z"
 commit_hash = "ddf5cca5f737b92bf89a7278891d8778a67a61c8"
 
@@ -1370,9 +1370,9 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-03-24T23:13:14.551811492Z"
-change_time = "2024-03-23T15:56:14Z"
-commit_hash = "4ccc5558303e32f12d7344a05029fe22e3bc3c58"
+check_time = "2024-03-25T02:21:08.285303241Z"
+change_time = "2024-03-25T00:28:01Z"
+commit_hash = "311c85277eaa1b9d308f0701a849fe3d389b3845"
 
 ["plugins-and-standalone/vaporizer2"]
 check_time = "2024-03-24T16:14:02.916093554Z"
@@ -1801,7 +1801,7 @@ change_time = "2022-09-01T09:53:02Z"
 commit_hash = "76e42644f463d8def283ae2862f0c4822ec0b9f7"
 
 ["supercollider/supercollider-src"]
-check_time = "2024-03-24T17:10:34.535623693Z"
+check_time = "2024-03-25T02:21:15.140701275Z"
 change_time = "2024-03-21T09:41:10Z"
 commit_hash = "d5552c2a0c1bc373977080b690be2d08681752ef"
 
@@ -1951,7 +1951,7 @@ change_time = "2024-02-26T20:53:26Z"
 commit_hash = "a174a3b2e6d5a5b41f7a83cae5c3bc61179ed978"
 
 ["vcv-modules/hetrickcv"]
-check_time = "2024-03-23T23:10:58.210386531Z"
+check_time = "2024-03-25T02:21:19.577829586Z"
 change_time = "2023-12-24T20:33:41Z"
 commit_hash = "b1a6be363e28af251f5d057b0099c8ebdded0952"
 
