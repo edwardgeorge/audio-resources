@@ -99,7 +99,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-03-28T07:09:52.587372737Z"
+check_time = "2024-03-28T09:11:26.143119185Z"
 change_time = "2024-03-28T00:40:00Z"
 commit_hash = "e6c59b1f3008fa0fcdf68a9c3823f3b1d68df34e"
 
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-28T07:10:02.448983243Z"
+check_time = "2024-03-28T09:11:29.448495037Z"
 change_time = "2024-03-28T02:36:47Z"
 commit_hash = "dcd119ecd800f1a9f918267dbb454d85a33f2f5d"
 
@@ -609,7 +609,7 @@ change_time = "2023-06-09T03:47:48Z"
 commit_hash = "28e31ba2ba8bae6af7ba41835d6d7853fe9eb66f"
 
 ["hw-fw-eurorack/utf-8-samplified"]
-check_time = "2024-03-27T15:12:07.917660905Z"
+check_time = "2024-03-28T09:11:32.102197532Z"
 change_time = "2024-03-20T13:57:52Z"
 commit_hash = "3268dc034abb37a09c79fd45f141c0a2f6a1d6c5"
 
@@ -629,9 +629,9 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/faust"]
-check_time = "2024-03-28T05:13:30.165891458Z"
-change_time = "2024-03-27T10:20:53Z"
-commit_hash = "f3f6f62db3ca8117fadeee3b73a06f60cfeeb075"
+check_time = "2024-03-28T09:11:49.764540074Z"
+change_time = "2024-03-28T08:00:04Z"
+commit_hash = "55e9941fe5de6a1e7abadc8da03e318f80b46d6f"
 
 ["languages-and-frameworks/faust-libraries"]
 check_time = "2024-03-28T05:13:33.509862953Z"
@@ -689,7 +689,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-03-28T08:13:24.315589112Z"
+check_time = "2024-03-28T09:11:52.316291582Z"
 change_time = "2024-03-28T06:48:39Z"
 commit_hash = "8843e5237f3acf31f1de37713b403b6a1364f46f"
 
@@ -754,12 +754,12 @@ change_time = "2022-07-05T11:50:10Z"
 commit_hash = "d7bc524c414ec06b8bdf5b7bfedcba2c38a4e0b3"
 
 ["libs/libossia"]
-check_time = "2024-03-28T01:43:50.624086228Z"
+check_time = "2024-03-28T09:11:54.925177797Z"
 change_time = "2024-03-24T15:09:26Z"
 commit_hash = "5225a31c0221d417bf944948ca33b79c3bc50903"
 
 ["libs/pffft"]
-check_time = "2024-03-27T16:14:24.018966373Z"
+check_time = "2024-03-28T09:11:56.102892152Z"
 change_time = "2024-03-19T12:09:28Z"
 commit_hash = "44e633a1eb80ae4758f0e4401639b37314151bc9"
 
@@ -804,7 +804,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/chuck-max"]
-check_time = "2024-03-28T04:12:23.294977933Z"
+check_time = "2024-03-28T09:11:59.471566001Z"
 change_time = "2024-03-22T20:51:41Z"
 commit_hash = "16df7165d6b9d7e0853bd17f8eeaee5e6d6fc261"
 
@@ -1024,7 +1024,7 @@ change_time = "2023-10-01T01:54:05Z"
 commit_hash = "f826dfd6476ddb28ab67d3137dde6adc8901423d"
 
 [monome-bowery]
-check_time = "2024-03-26T17:10:18.791350329Z"
+check_time = "2024-03-28T09:12:01.118627079Z"
 change_time = "2024-01-16T20:57:50Z"
 commit_hash = "687e848d9ba5804ec159f193d267c2cd0215682f"
 
@@ -1035,7 +1035,7 @@ commit_hash = "36674d9adb53b69cb0cbbe861b95e39df3598110"
 archived = true
 
 [monome-libavr32]
-check_time = "2024-03-26T00:50:27.040000236Z"
+check_time = "2024-03-28T09:12:02.946290452Z"
 change_time = "2023-10-19T18:11:04Z"
 commit_hash = "eb834b98742219d2b5a08e523fc0e5d9000e97ec"
 
@@ -1285,7 +1285,7 @@ change_time = "2024-02-13T17:51:15Z"
 commit_hash = "09b831cf2339aca971ff6e7c6a80c329fa89b49f"
 
 ["plugins-and-standalone/conduit"]
-check_time = "2024-03-27T03:13:00.676354293Z"
+check_time = "2024-03-28T09:12:04.979695930Z"
 change_time = "2024-03-03T14:47:59Z"
 commit_hash = "6fa76f66d5e2bd88d44bc7ae26fe810e3af55a26"
 
@@ -1370,12 +1370,12 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-03-28T06:16:00.179892669Z"
+check_time = "2024-03-28T09:12:17.660758578Z"
 change_time = "2024-03-27T03:13:26Z"
 commit_hash = "2834ca4c4fb270b1987bc0de1c47b9c0830563e6"
 
 ["plugins-and-standalone/vaporizer2"]
-check_time = "2024-03-27T17:10:29.863490497Z"
+check_time = "2024-03-28T09:12:43.906101028Z"
 change_time = "2024-03-04T12:11:57Z"
 commit_hash = "f68a8109e03d254cac8777f6a84bad793cd4f6e9"
 
@@ -1480,7 +1480,7 @@ change_time = "2024-01-01T05:29:40Z"
 commit_hash = "8ba1ea13c4fe5d4c4647a3a44f102252f9899a65"
 
 ["rust-libraries/rtrb"]
-check_time = "2024-03-27T20:12:38.276715013Z"
+check_time = "2024-03-28T09:12:45.614254699Z"
 change_time = "2023-12-10T20:27:51Z"
 commit_hash = "2686a28351db711ebb43c5d0fab671d9ed47a5a7"
 
@@ -1535,12 +1535,12 @@ change_time = "2021-03-22T19:23:33Z"
 commit_hash = "40388e37b074abe2b837b9d45a12a5674c99435a"
 
 ["rust-libraries/symphonia"]
-check_time = "2024-03-27T15:12:47.607184611Z"
+check_time = "2024-03-28T09:12:47.180918507Z"
 change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-03-28T07:10:22.333853836Z"
+check_time = "2024-03-28T09:12:48.981893206Z"
 change_time = "2024-03-27T21:54:52Z"
 commit_hash = "27c6d8deff1fee3539d85f7c918f0169e5c3f861"
 
@@ -1580,7 +1580,7 @@ change_time = "2019-07-05T15:01:53Z"
 commit_hash = "9985bb3fd5032c144c3de23122590a0e6b9c359b"
 
 ["software-and-tools/isms"]
-check_time = "2024-03-27T06:15:46.703386700Z"
+check_time = "2024-03-28T09:12:50.522013838Z"
 change_time = "2023-08-12T23:03:52Z"
 commit_hash = "15646f83c29fbd8a638e75b0b3680d2db46d4b0f"
 
@@ -1741,7 +1741,7 @@ change_time = "2023-02-14T16:56:57Z"
 commit_hash = "767a5bced1a88c04f9b966614915bc43482acb25"
 
 ["supercollider/monolithic"]
-check_time = "2024-03-26T01:43:26.733507909Z"
+check_time = "2024-03-28T09:12:52.064394498Z"
 change_time = "2023-12-23T20:33:52Z"
 commit_hash = "8e826074b3a2e110f3771c8e243ca16d02589a77"
 
@@ -1976,7 +1976,7 @@ change_time = "2023-04-13T21:05:37Z"
 commit_hash = "428df21ff6eca0a931884a5b007bf77b058d08b5"
 
 ["vcv-modules/modulove"]
-check_time = "2024-03-27T07:11:09.698484552Z"
+check_time = "2024-03-28T09:12:53.695923374Z"
 change_time = "2024-02-24T20:12:49Z"
 commit_hash = "cf47052ec7ca7a3b5b7ff50707d8b205075ad6a0"
 
