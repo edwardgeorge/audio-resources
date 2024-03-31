@@ -99,7 +99,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-03-31T22:10:20.565086834Z"
+check_time = "2024-03-31T23:10:20.467602343Z"
 change_time = "2024-03-31T20:23:49Z"
 commit_hash = "52b4f58ad3edf8030ef9575ca22cea54b2d67ff7"
 
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-03-31T22:10:25.548618685Z"
+check_time = "2024-03-31T23:10:26.575052686Z"
 change_time = "2024-03-31T19:40:33Z"
 commit_hash = "11ebf1c8e0e56a57e49f235aef11ff434fbaae51"
 
@@ -584,9 +584,9 @@ change_time = "2017-09-19T06:56:13Z"
 commit_hash = "2dc135acd1c45d6bceca9a82e1cd8dc8c8a4a8bb"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-03-31T10:11:15.973219990Z"
-change_time = "2024-03-25T17:08:03Z"
-commit_hash = "f1b81539d917928f75b389f406c394e04ce8fc46"
+check_time = "2024-03-31T23:10:52.420398904Z"
+change_time = "2024-03-31T17:39:06Z"
+commit_hash = "90f696df1f825a50aee151931d3bb4e5ea6ed3f1"
 
 ["hw-fw-eurorack/turingmachine"]
 check_time = "2024-03-27T10:11:53.913951741Z"
@@ -629,7 +629,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/faust"]
-check_time = "2024-03-31T22:10:43.963864275Z"
+check_time = "2024-03-31T23:11:09.415010619Z"
 change_time = "2024-03-31T19:19:26Z"
 commit_hash = "7cb4e751e45e6f38e751471da3ce99d8b52dffb4"
 
@@ -674,12 +674,12 @@ change_time = "2023-10-28T22:01:40Z"
 commit_hash = "5a8520e09cd7367fd7e607c83fec22efd90a9854"
 
 ["libs/ableton-link"]
-check_time = "2024-03-30T08:14:11.699098900Z"
+check_time = "2024-03-31T23:11:12.914428545Z"
 change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-03-31T22:10:50.710297886Z"
+check_time = "2024-03-31T23:11:17.694400367Z"
 change_time = "2024-03-31T22:01:26Z"
 commit_hash = "e3c2ceb72d74edb580eb090cd5cfd8269ef27733"
 
@@ -709,7 +709,7 @@ change_time = "2024-02-12T21:19:03Z"
 commit_hash = "ff9895432cb77c1ee348e39b64c3012b7c9feb99"
 
 ["libs/clap/clap-juce-extensions"]
-check_time = "2024-03-31T21:09:24.134368300Z"
+check_time = "2024-03-31T23:11:20.604005164Z"
 change_time = "2024-03-31T02:08:51Z"
 commit_hash = "8d0754f5d6ca1e95bc207b7743c04ebd7dc17e88"
 
@@ -1045,7 +1045,7 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 [monome-serialosc]
-check_time = "2024-03-30T10:12:08.373516626Z"
+check_time = "2024-03-31T23:11:23.856754926Z"
 change_time = "2024-01-17T07:28:28Z"
 commit_hash = "8d92ca1f89cf553b8e19f1edd6ce832e03ec4766"
 
@@ -1445,7 +1445,7 @@ change_time = "2023-04-14T12:33:28Z"
 commit_hash = "5e85a24c7d1ddf9ad660282752c7b68a6941f90f"
 
 ["rust-libraries/fundsp-rs"]
-check_time = "2024-03-31T20:12:24.813689556Z"
+check_time = "2024-03-31T23:11:26.938752451Z"
 change_time = "2024-03-30T20:21:44Z"
 commit_hash = "500b54e8ef73e041cb09806dd017366288451e0b"
 
@@ -1540,7 +1540,7 @@ change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-03-31T22:11:19.673586970Z"
+check_time = "2024-03-31T23:11:30.182448804Z"
 change_time = "2024-03-30T21:20:10Z"
 commit_hash = "16a17a6cf4e7291dfbbd068066bc9abe281c2d55"
 
@@ -1931,7 +1931,7 @@ change_time = "2023-01-18T19:45:25Z"
 commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
 
 ["vcv-modules/eightfold"]
-check_time = "2024-03-31T19:10:33.531082853Z"
+check_time = "2024-03-31T23:11:32.868803626Z"
 change_time = "2024-03-30T21:19:26Z"
 commit_hash = "85556372bee7e48cd5dd7ef2f5bb58bfd24a6276"
 
