@@ -64,7 +64,7 @@ change_time = "2023-11-08T09:26:44Z"
 commit_hash = "0710c623f516f1ddc9eefa7fd7aee9b1fde8d0ae"
 
 ["embedded/uclock"]
-check_time = "2024-04-02T04:12:58.980207007Z"
+check_time = "2024-04-02T15:10:27.577533805Z"
 change_time = "2024-02-18T08:52:42Z"
 commit_hash = "8bdc1a8542e1f5b5802a97c59ebed8d9b89157dc"
 
@@ -119,7 +119,7 @@ change_time = "2024-02-10T09:08:24Z"
 commit_hash = "dfa0d4de3161c323f09769d4cb154bff43794882"
 
 ["hw-fw-eurorack/aciduino"]
-check_time = "2024-04-02T05:10:26.277422591Z"
+check_time = "2024-04-02T15:10:41.679913267Z"
 change_time = "2024-02-22T21:10:45Z"
 commit_hash = "0668d81354f77dc4430ab3eb88ac3772abb2c80f"
 
@@ -199,7 +199,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-02T13:11:57.778579032Z"
+check_time = "2024-04-02T15:10:47.279383439Z"
 change_time = "2024-04-02T01:42:32Z"
 commit_hash = "64d750cd174953ee770dd460b3d0feb1c048e98d"
 
@@ -294,7 +294,7 @@ change_time = "2021-12-15T13:40:05Z"
 commit_hash = "d9d906e4dca674741d5b3f6f7e0034d5632c0a4b"
 
 ["hw-fw-eurorack/kweiwen-benjolin"]
-check_time = "2024-03-31T19:09:41.663136514Z"
+check_time = "2024-04-02T15:10:49.885434818Z"
 change_time = "2023-12-08T08:57:21Z"
 commit_hash = "ae2f098d95bdefeb937b74097c2e29f5bcf44ab7"
 
@@ -509,7 +509,7 @@ change_time = "2024-02-03T00:39:00Z"
 commit_hash = "b19b83cac36b049540866adfbeed90903d2d06ac"
 
 ["hw-fw-eurorack/plinky"]
-check_time = "2024-04-02T13:12:16.785095835Z"
+check_time = "2024-04-02T15:10:59.573173386Z"
 change_time = "2024-04-01T18:47:39Z"
 commit_hash = "86d1ed3b8e1a99c9fe9a09e4f91ed1a89ac5a99d"
 
@@ -639,7 +639,7 @@ change_time = "2024-03-20T22:00:48Z"
 commit_hash = "d28c51f6c667e00f521a8cb2232786795c558aa4"
 
 ["languages-and-frameworks/faust-live"]
-check_time = "2024-04-02T14:10:11.746177617Z"
+check_time = "2024-04-02T15:11:03.367716792Z"
 change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
@@ -649,7 +649,7 @@ change_time = "2024-02-18T17:05:23Z"
 commit_hash = "092c8bc8856a5419940907cebdf0c91da8868405"
 
 ["languages-and-frameworks/hvcc"]
-check_time = "2024-04-02T12:20:52.625852397Z"
+check_time = "2024-04-02T15:11:08.011314555Z"
 change_time = "2024-04-01T19:33:26Z"
 commit_hash = "89446f737e2b8bc7794fbdd4de2dcce2cb43c874"
 
@@ -679,7 +679,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-02T14:10:14.662257664Z"
+check_time = "2024-04-02T15:11:12.872902441Z"
 change_time = "2024-03-31T22:01:26Z"
 commit_hash = "e3c2ceb72d74edb580eb090cd5cfd8269ef27733"
 
@@ -709,7 +709,7 @@ change_time = "2024-02-12T21:19:03Z"
 commit_hash = "ff9895432cb77c1ee348e39b64c3012b7c9feb99"
 
 ["libs/clap/clap-juce-extensions"]
-check_time = "2024-04-02T08:14:09.660311455Z"
+check_time = "2024-04-02T15:11:15.606041920Z"
 change_time = "2024-03-31T02:08:51Z"
 commit_hash = "8d0754f5d6ca1e95bc207b7743c04ebd7dc17e88"
 
@@ -804,7 +804,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/chuck-max"]
-check_time = "2024-04-02T13:12:54.597232255Z"
+check_time = "2024-04-02T15:11:20.132882374Z"
 change_time = "2024-04-02T03:00:15Z"
 commit_hash = "e7523d88ecdb4072c02bbedc91104ddcb56df723"
 
@@ -1495,12 +1495,12 @@ change_time = "2022-06-02T21:22:48Z"
 commit_hash = "97c0e0c6b03d208e4e94b0d352bcec97dbc5fa0e"
 
 ["rust-libraries/rustaudio-cpal"]
-check_time = "2024-04-02T09:12:11.706959576Z"
+check_time = "2024-04-02T15:11:24.266973956Z"
 change_time = "2024-03-28T20:53:01Z"
 commit_hash = "ef95a0307023b65d463b776c8afeb456e2c9dbf5"
 
 ["rust-libraries/rustaudio-dasp"]
-check_time = "2024-03-30T21:09:39.548999881Z"
+check_time = "2024-04-02T15:11:26.889897462Z"
 change_time = "2023-11-11T15:49:44Z"
 commit_hash = "4f573d69451c9cafba65f746a6ff19ec251ee826"
 
@@ -1510,7 +1510,7 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-04-02T12:21:07.658519418Z"
+check_time = "2024-04-02T15:11:29.872747578Z"
 change_time = "2024-04-01T19:00:30Z"
 commit_hash = "e0485beb064e0ecccddfbd937c67b85b9edd6c1a"
 
@@ -1525,7 +1525,7 @@ change_time = "2023-06-19T14:47:37Z"
 commit_hash = "f3e8f01c3de6d5df2f503c920c9f2bf8166a771b"
 
 ["rust-libraries/rustaudio-wmidi"]
-check_time = "2024-03-31T20:12:29.081321257Z"
+check_time = "2024-04-02T15:11:32.194877784Z"
 change_time = "2023-12-20T05:03:44Z"
 commit_hash = "e1be1b00e1dd3be1220d1471a19b228566c9edd2"
 
@@ -1540,7 +1540,7 @@ change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-04-02T12:21:10.908805605Z"
+check_time = "2024-04-02T15:11:35.269348078Z"
 change_time = "2024-04-01T14:29:38Z"
 commit_hash = "c42b18130691fdf3e0b99a3244f8faa9ba06bc19"
 
