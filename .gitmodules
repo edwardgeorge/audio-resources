@@ -1582,3 +1582,7 @@
 	path = norns/larc
 	url = https://github.com/justmat/larc.git
 	branch = main
+[submodule "monome/druid"]
+	path = software-and-tools/druid
+	url = https://github.com/monome/druid.git
+	branch = main
