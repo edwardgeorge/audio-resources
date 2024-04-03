@@ -75,7 +75,7 @@
 	url = https://github.com/Ableton/link.git
 	branch = master
 [submodule "supercollider/develop"]
-	path = supercollider/supercollider-src
+	path = supercollider/source
 	url = https://github.com/supercollider/supercollider.git
 	branch = develop
 [submodule "deezer/spleeter"]
@@ -111,7 +111,7 @@
 	url = https://github.com/sensorium/Mozzi.git
 	branch = master
 [submodule "v7b1/mi-ugens"]
-	path = supercollider/mi-ugens
+	path = supercollider/plugins/mi-ugens
 	url = https://github.com/v7b1/mi-UGens.git
 	branch = main
 [submodule "m4ngu/sweet-sixteen"]
@@ -159,7 +159,7 @@
 	url = https://github.com/eh2k/squares-and-circles.git
 	branch = main
 [submodule "musikinformatik/superdirt/develop"]
-	path = supercollider/superdirt
+	path = supercollider/quarks/superdirt
 	url = https://github.com/musikinformatik/SuperDirt.git
 	branch = develop
 [submodule "tidalcycles/dirt"]
@@ -167,11 +167,11 @@
 	url = https://github.com/tidalcycles/Dirt.git
 	branch = master
 [submodule "thgrund/superdirtmixer"]
-	path = supercollider/superdirtmixer
+	path = supercollider/quarks/superdirtmixer
 	url = https://github.com/thgrund/SuperDirtMixer.git
 	branch = main
 [submodule "thgrund/tidal-looper"]
-	path = supercollider/tidal-looper
+	path = supercollider/quarks/tidal-looper
 	url = https://github.com/thgrund/tidal-looper.git
 	branch = master
 [submodule "shairosenblit/tidal-sound-explorer"]
@@ -283,7 +283,7 @@
 	url = https://github.com/schollz/norns-desktop.git
 	branch = main
 [submodule "supercollider/sc3-plugins"]
-	path = supercollider/community-plugins
+	path = supercollider/plugins/community-plugins
 	url = https://github.com/supercollider/sc3-plugins.git
 	branch = main
 [submodule "dcoredump/microdexed"]
@@ -375,7 +375,7 @@
 	url = https://github.com/monome/softcut-lib.git
 	branch = main
 [submodule "schollz/supercollisions"]
-	path = supercollider/supercollisions
+	path = supercollider/scripts/supercollisions
 	url = https://github.com/schollz/supercollisions.git
 	branch = main
 [submodule "blinkenlights/synth-modules"]
@@ -583,7 +583,7 @@
 	url = https://github.com/bitfieldaudio/OTTO.git
 	branch = develop
 [submodule "everythingwillbetakenaway/dx7-supercollider"]
-	path = supercollider/supercollider-dx7
+	path = supercollider/synths/supercollider-dx7
 	url = https://github.com/everythingwillbetakenaway/DX7-Supercollider.git
 	branch = master
 [submodule "xmacex/connect-opz"]
@@ -607,7 +607,7 @@
 	url = https://github.com/monome/libmonome.git
 	branch = main
 [submodule "madskjeldgaard/guttersynth-sc"]
-	path = supercollider/guttersynth-sc
+	path = supercollider/plugins/guttersynth-sc
 	url = https://github.com/madskjeldgaard/guttersynth-sc.git
 	branch = main
 [submodule "tommmmudd/guttersynthesis"]
@@ -615,7 +615,7 @@
 	url = https://github.com/tommmmudd/guttersynthesis.git
 	branch = master
 [submodule "madskjeldgaard/monolithic"]
-	path = supercollider/monolithic
+	path = supercollider/quarks/monolithic
 	url = https://github.com/madskjeldgaard/Monolithic.git
 	branch = main
 [submodule "jkrame1/betweener"]
@@ -767,11 +767,11 @@
 	url = https://github.com/madskjeldgaard/PicoOSC.git
 	branch = main
 [submodule "madskjeldgaard/portedplugins"]
-	path = supercollider/portedplugins
+	path = supercollider/plugins/portedplugins
 	url = https://github.com/madskjeldgaard/portedplugins.git
 	branch = main
 [submodule "madskjeldgaard/scbookcode"]
-	path = supercollider/scbookcode
+	path = supercollider/docs/scbookcode
 	url = https://github.com/madskjeldgaard/scbookcode.git
 	branch = master
 [submodule "cnmat/osc"]
@@ -795,59 +795,59 @@
 	url = https://github.com/albnys/Drum-Machine.git
 	branch = main
 [submodule "microcosm/cookbook-sc"]
-	path = supercollider/welshs-synth-cookbook
+	path = supercollider/docs/welshs-synth-cookbook
 	url = https://github.com/microcosm/cookbook-sc.git
 	branch = master
 [submodule "musikinformatik/steno"]
-	path = supercollider/steno
+	path = supercollider/quarks/steno
 	url = https://github.com/musikinformatik/Steno.git
 	branch = master
 [submodule "bkudler/wavesettransformer-fortrevorwishart"]
-	path = supercollider/wavesettransformer-fortrevorwishart
+	path = supercollider/quarks/wavesettransformer-fortrevorwishart
 	url = https://github.com/bkudler/WavesetTransformer-ForTrevorWishart.git
 	branch = main
 [submodule "musikinformatik/wavesetsevent"]
-	path = supercollider/wavesetsevent
+	path = supercollider/quarks/wavesetsevent
 	url = https://github.com/musikinformatik/WavesetsEvent.git
 	branch = master
 [submodule "musikinformatik/generic-additive-synthesis"]
-	path = supercollider/generic-additive-synthesis
+	path = supercollider/docs/generic-additive-synthesis
 	url = https://github.com/musikinformatik/Generic-Additive-Synthesis.git
 	branch = master
 [submodule "musikinformatik/apex-sc-dafx"]
-	path = supercollider/vocal-tract-modelling
+	path = supercollider/apps/vocal-tract-modelling
 	url = https://github.com/musikinformatik/apex-sc-dafx.git
 	branch = master
 [submodule "musikinformatik/soundfileanalysis"]
-	path = supercollider/soundfileanalysis
+	path = supercollider/quarks/soundfileanalysis
 	url = https://github.com/musikinformatik/SoundFileAnalysis.git
 	branch = master
 [submodule "earslap/hadron"]
-	path = supercollider/hadron
+	path = supercollider/scripts/hadron
 	url = https://github.com/earslap/Hadron.git
 	branch = master
 [submodule "allenloves/supersampler"]
-	path = supercollider/supersampler
+	path = supercollider/quarks/supersampler
 	url = https://github.com/allenloves/SuperSampler.git
 	branch = master
 [submodule "kenbrant1/timewave-synthesizer"]
-	path = supercollider/timewave-synthesizer
+	path = supercollider/synths/timewave-synthesizer
 	url = https://github.com/kenbrant1/Timewave_Synthesizer.git
 	branch = master
 [submodule "danielmkarlsson/a-loss-of-self"]
-	path = supercollider/a-loss-of-self
+	path = supercollider/compositions/a-loss-of-self
 	url = https://github.com/danielmkarlsson/a_loss_of_self.git
 	branch = master
 [submodule "danielmkarlsson/superclean"]
-	path = supercollider/superclean
+	path = supercollider/quarks/superclean
 	url = https://github.com/danielmkarlsson/SuperClean.git
 	branch = main
 [submodule "danielmkarlsson/a-collapse-of-structures"]
-	path = supercollider/a-collapse-of-structures
+	path = supercollider/compositions/a-collapse-of-structures
 	url = https://github.com/danielmkarlsson/a-collapse-of-structures.git
 	branch = master
 [submodule "danielmkarlsson/superclean-code"]
-	path = supercollider/superclean-code
+	path = supercollider/compositions/superclean-code
 	url = https://github.com/danielmkarlsson/SuperClean-code.git
 	branch = main
 [submodule "danielmkarlsson/mapping-the-valleys-of-the-uncanny"]
@@ -855,15 +855,15 @@
 	url = https://github.com/danielmkarlsson/mapping-the-valleys-of-the-uncanny.git
 	branch = master
 [submodule "danielmkarlsson/misleading-traces-of-civility"]
-	path = supercollider/misleading-traces-of-civility
+	path = supercollider/compositions/misleading-traces-of-civility
 	url = https://github.com/danielmkarlsson/misleading-traces-of-civility.git
 	branch = main
 [submodule "danielmkarlsson/dronecember"]
-	path = supercollider/dronecember
+	path = supercollider/compositions/dronecember
 	url = https://github.com/danielmkarlsson/dronecember.git
 	branch = main
 [submodule "catfact/z-elements"]
-	path = supercollider/z-elements
+	path = supercollider/scripts/z-elements
 	url = https://github.com/catfact/z-elements.git
 	branch = main
 [submodule "tehn/isms"]
@@ -883,51 +883,51 @@
 	url = https://github.com/catfact/dowser.git
 	branch = main
 [submodule "rfwatson/live-beatbox"]
-	path = supercollider/live-beatbox
+	path = supercollider/plugins/live-beatbox
 	url = https://github.com/rfwatson/live-beatbox.git
 	branch = master
 [submodule "ptrv/telemusik"]
-	path = supercollider/telemusik
+	path = supercollider/compositions/telemusik
 	url = https://github.com/ptrv/telemusik.git
 	branch = master
 [submodule "calumgunn/unorganised-music"]
-	path = supercollider/unorganised-music
+	path = supercollider/scripts/unorganised-music
 	url = https://github.com/calumgunn/unorganised-music.git
 	branch = master
 [submodule "calumgunn/derivative-works"]
-	path = supercollider/derivative-works
+	path = supercollider/scripts/derivative-works
 	url = https://github.com/calumgunn/derivative-works.git
 	branch = master
 [submodule "supercollider-quarks/influx"]
-	path = supercollider/influx
+	path = supercollider/quarks/influx
 	url = https://github.com/supercollider-quarks/Influx.git
 	branch = master
 [submodule "thormagnusson/sctweets"]
-	path = supercollider/sctweets
+	path = supercollider/compositions/sctweets
 	url = https://github.com/thormagnusson/sctweets.git
 	branch = master
 [submodule "thormagnusson/scoring"]
-	path = supercollider/scoring
+	path = supercollider/docs/scoring
 	url = https://github.com/thormagnusson/scoring.git
 	branch = master
 [submodule "thormagnusson/threnoscopesc"]
-	path = supercollider/threnoscopesc
+	path = supercollider/quarks/threnoscopesc
 	url = https://github.com/thormagnusson/threnoscopeSC.git
 	branch = master
 [submodule "redfrik/bjorklund"]
-	path = supercollider/bjorklund
+	path = supercollider/quarks/bjorklund
 	url = https://github.com/redFrik/Bjorklund.git
 	branch = master
 [submodule "musikinformatik/that"]
-	path = supercollider/that
+	path = supercollider/quarks/that
 	url = https://github.com/musikinformatik/that.git
 	branch = main
 [submodule "musikinformatik/clothesline"]
-	path = supercollider/clothesline
+	path = supercollider/quarks/clothesline
 	url = https://github.com/musikinformatik/clothesline.git
 	branch = main
 [submodule "lantertronics/b700ish"]
-	path = supercollider/b700ish
+	path = supercollider/synths/b700ish
 	url = https://github.com/lantertronics/b700ish.git
 	branch = main
 [submodule "williamweston/phasex/v0.14.97"]
@@ -1015,7 +1015,7 @@
 	url = https://github.com/Wasted-Audio/heavylib.git
 	branch = main
 [submodule "musikinformatik/sawdust"]
-	path = supercollider/sawdust
+	path = supercollider/quarks/sawdust
 	url = https://github.com/musikinformatik/SAWDUST.git
 	branch = master
 [submodule "kindohm/max-patches"]
@@ -1027,27 +1027,27 @@
 	url = https://github.com/uiforks/facet.git
 	branch = main
 [submodule "diegodorado/tidal-synths"]
-	path = supercollider/tidal-synths
+	path = supercollider/synths/tidal-synths
 	url = https://github.com/diegodorado/tidal-synths.git
 	branch = master
 [submodule "loopier/ziva"]
-	path = supercollider/ziva
+	path = supercollider/quarks/ziva
 	url = https://github.com/loopier/ziva.git
 	branch = master
 [submodule "loopier/synthdefs"]
-	path = supercollider/loopier-synthdefs
+	path = supercollider/synths/loopier-synthdefs
 	url = https://github.com/loopier/synthdefs.git
 	branch = master
 [submodule "loopier/tidal-fm7"]
-	path = supercollider/tidal-fm7
+	path = supercollider/synths/tidal-fm7
 	url = https://github.com/loopier/tidal-fm7.git
 	branch = master
 [submodule "loopier/looper"]
-	path = supercollider/looper
+	path = supercollider/scripts/looper
 	url = https://github.com/loopier/looper.git
 	branch = master
 [submodule "loopier/samplematic"]
-	path = supercollider/samplematic
+	path = supercollider/scripts/samplematic
 	url = https://github.com/loopier/samplematic.git
 	branch = master
 [submodule "cycling74/percolate"]
