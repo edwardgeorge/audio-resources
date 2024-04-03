@@ -23,7 +23,7 @@
 	url = https://github.com/monome/ansible.git
 	branch = main
 [submodule "monome/crow"]
-	path = monome/crow
+	path = crow/firmware
 	url = https://github.com/monome/crow.git
 	branch = main
 [submodule "dewb/monome-rack"]
@@ -119,7 +119,7 @@
 	url = https://github.com/M4ngu/Sweet-Sixteen.git
 	branch = master
 [submodule "monome/bowery"]
-	path = crow/bowery
+	path = crow/scripts/bowery
 	url = https://github.com/monome/bowery.git
 	branch = main
 [submodule "theslowgrowth/monomearcclone"]
@@ -707,7 +707,7 @@
 	url = https://github.com/Cycling74/petra.git
 	branch = master
 [submodule "entzmingerc/drumcrow"]
-	path = crow/drumcrow
+	path = crow/scripts/drumcrow
 	url = https://github.com/entzmingerc/drumcrow.git
 	branch = main
 [submodule "ambalek/fall"]
