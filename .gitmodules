@@ -231,7 +231,7 @@
 	url = https://github.com/aubio/aubio.git
 	branch = master
 [submodule "scanner-darkly/orcas-heart"]
-	path = orcas-heart
+	path = hw-fw-eurorack/orcas-heart
 	url = https://github.com/scanner-darkly/orcas-heart.git
 	branch = main
 [submodule "scanner-darkly/multipass"]
