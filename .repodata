@@ -209,7 +209,7 @@ change_time = "2024-02-22T18:45:17Z"
 commit_hash = "fabc74b003a0a1533bae8a6473995f92af3252a7"
 
 ["hw-fw-eurorack/castor-and-pollux"]
-check_time = "2024-04-03T07:37:44.679139806Z"
+check_time = "2024-04-03T18:19:42.096342927Z"
 change_time = "2024-02-28T19:28:03Z"
 commit_hash = "a2453cb1c27e4d09dbfef2feb52a7aa2bbe6bc50"
 
@@ -349,7 +349,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-03T16:14:15.896939819Z"
+check_time = "2024-04-03T18:20:10.455824651Z"
 change_time = "2024-04-02T17:48:25Z"
 commit_hash = "9dd50ced81ccb13334f1e3f8f75c1b9ec3c09e65"
 
@@ -404,7 +404,7 @@ change_time = "2023-06-27T16:11:22Z"
 commit_hash = "29856f2470c3751c09cfe9cc65efe647fca88572"
 
 ["hw-fw-eurorack/minidexed"]
-check_time = "2024-04-03T13:13:25.415085321Z"
+check_time = "2024-04-03T18:20:12.145247705Z"
 change_time = "2024-03-25T15:12:44Z"
 commit_hash = "349100d65ad59e73b091031ea011b0f73242890b"
 
@@ -669,12 +669,12 @@ change_time = "2024-03-20T22:00:48Z"
 commit_hash = "d28c51f6c667e00f521a8cb2232786795c558aa4"
 
 ["languages-and-frameworks/faust-live"]
-check_time = "2024-04-03T15:11:03.406496761Z"
+check_time = "2024-04-03T18:20:14.359084002Z"
 change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["languages-and-frameworks/glicol"]
-check_time = "2024-04-03T03:13:27.647387700Z"
+check_time = "2024-04-03T18:20:15.954670559Z"
 change_time = "2024-02-18T17:05:23Z"
 commit_hash = "092c8bc8856a5419940907cebdf0c91da8868405"
 
@@ -739,7 +739,7 @@ change_time = "2024-02-12T21:19:03Z"
 commit_hash = "ff9895432cb77c1ee348e39b64c3012b7c9feb99"
 
 ["libs/clap/clap-juce-extensions"]
-check_time = "2024-04-03T10:12:26.489313272Z"
+check_time = "2024-04-03T18:20:19.748325972Z"
 change_time = "2024-03-31T02:08:51Z"
 commit_hash = "8d0754f5d6ca1e95bc207b7743c04ebd7dc17e88"
 
@@ -824,7 +824,7 @@ change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
 ["libs/sst-basic-blocks"]
-check_time = "2024-04-03T08:35:36.087947057Z"
+check_time = "2024-04-03T18:20:21.139998482Z"
 change_time = "2024-03-26T14:18:03Z"
 commit_hash = "4276b8fc23ba36403ff34faf25ab3b42af534f54"
 
@@ -1200,7 +1200,7 @@ change_time = "2024-03-23T15:02:09Z"
 commit_hash = "ee0237e8419f2ab3ddf209705d50db99018f673d"
 
 ["norns/connect-opz"]
-check_time = "2024-03-26T15:12:12.965203926Z"
+check_time = "2024-04-03T18:20:22.682118898Z"
 change_time = "2021-06-14T13:26:04Z"
 commit_hash = "802996928967ff71ca8997d145170d5f4e7c38c4"
 
@@ -1530,7 +1530,7 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-04-03T02:22:38.983987671Z"
+check_time = "2024-04-03T18:20:24.405337147Z"
 change_time = "2024-03-23T10:51:11Z"
 commit_hash = "bb274976ca138289436b0bfa209b2c8c13244225"
 
@@ -2152,5 +2152,170 @@ commit_hash = "742c48eddb43b2595c929b2312514d6c3f0b7f61"
 
 ["vcv-modules/voxglitch"]
 check_time = "2024-04-03T04:14:45.639884165Z"
+change_time = "2024-01-13T18:17:28Z"
+commit_hash = "91b61f7477a2721f16870ff0442892335cd927c1"
+
+["vcvrack/modules/80instruments"]
+check_time = "2024-04-03T18:20:26.091020578Z"
+change_time = "2023-03-18T22:57:12Z"
+commit_hash = "ef316e7251a57cce2b955d94e06b0f439be40c24"
+
+["vcvrack/modules/as"]
+check_time = "2024-04-03T18:20:27.515222857Z"
+change_time = "2022-08-30T17:08:57Z"
+commit_hash = "d90eed32afe6745454ef6ac6e391e0d5dc90ec4b"
+
+["vcvrack/modules/audibleinstruments"]
+check_time = "2024-04-03T18:20:29.262423052Z"
+change_time = "2022-04-19T19:03:59Z"
+commit_hash = "a1cd335ec6ac44e8be55891854015bf0763f8552"
+
+["vcvrack/modules/befaco"]
+check_time = "2024-04-03T18:20:30.789296553Z"
+change_time = "2024-03-22T13:40:41Z"
+commit_hash = "d3ad6c6732cee8a80197aa351dd9efef9c278d4c"
+
+["vcvrack/modules/bogaudio"]
+check_time = "2024-04-03T18:20:34.424624297Z"
+change_time = "2024-02-04T21:23:07Z"
+commit_hash = "2802604321d286cfdd263aafdf7fd0468ebd8069"
+
+["vcvrack/modules/dbiz"]
+check_time = "2024-04-03T18:20:36.254076368Z"
+change_time = "2023-01-18T19:45:25Z"
+commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
+
+["vcvrack/modules/eightfold"]
+check_time = "2024-04-03T18:20:37.493562950Z"
+change_time = "2024-03-30T21:19:26Z"
+commit_hash = "85556372bee7e48cd5dd7ef2f5bb58bfd24a6276"
+
+["vcvrack/modules/eseries"]
+check_time = "2024-04-03T18:20:38.785672844Z"
+change_time = "2021-11-13T00:17:00Z"
+commit_hash = "cb665989f48db6c4fe96924b9e42c804ee15d5cf"
+
+["vcvrack/modules/fundamental"]
+check_time = "2024-04-03T18:20:40.418371534Z"
+change_time = "2023-10-06T04:47:39Z"
+commit_hash = "e7567e5f27073433cea7f714b46cb62cf89c72a2"
+
+["vcvrack/modules/geodesics"]
+check_time = "2024-04-03T18:20:42.703267747Z"
+change_time = "2024-03-29T14:33:16Z"
+commit_hash = "61c9cca2731c0afd2fc5174ccfcd9ba8eecde623"
+
+["vcvrack/modules/hetrickcv"]
+check_time = "2024-04-03T18:20:45.209657843Z"
+change_time = "2023-12-24T20:33:41Z"
+commit_hash = "b1a6be363e28af251f5d057b0099c8ebdded0952"
+
+["vcvrack/modules/impromptumodular"]
+check_time = "2024-04-03T18:20:47.048045952Z"
+change_time = "2024-03-29T14:36:41Z"
+commit_hash = "bd0353a4d12d92a702b91bf1d904ffc13aab5e1b"
+
+["vcvrack/modules/mhetrick-nonlinearcircuits-vcvrack"]
+check_time = "2024-04-03T18:20:48.587741780Z"
+change_time = "2023-10-27T19:23:54Z"
+commit_hash = "a969ae80009dd9889f43d96e8d2ad0582d64100c"
+
+["vcvrack/modules/mindmeldmodular"]
+check_time = "2024-04-03T18:20:50.609701968Z"
+change_time = "2024-03-19T23:39:56Z"
+commit_hash = "b18c8aee0a027eca0b062c70f76d00c985b2fdf6"
+
+["vcvrack/modules/ml-modules"]
+check_time = "2024-04-03T18:20:52.286185891Z"
+change_time = "2023-04-13T21:05:37Z"
+commit_hash = "428df21ff6eca0a931884a5b007bf77b058d08b5"
+
+["vcvrack/modules/modulove"]
+check_time = "2024-04-03T18:20:53.704810911Z"
+change_time = "2024-02-24T20:12:49Z"
+commit_hash = "cf47052ec7ca7a3b5b7ff50707d8b205075ad6a0"
+
+["vcvrack/modules/monome-rack"]
+check_time = "2024-04-03T18:20:55.601497928Z"
+change_time = "2024-01-14T22:10:41Z"
+commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
+
+["vcvrack/modules/pathsetmodules"]
+check_time = "2024-04-03T18:20:57.482062780Z"
+change_time = "2022-10-31T03:41:51Z"
+commit_hash = "66e69a2f2047e3dab06275b12852e56d143388cf"
+
+["vcvrack/modules/rackwindows"]
+check_time = "2024-04-03T18:20:58.866462530Z"
+change_time = "2020-09-13T19:24:32Z"
+commit_hash = "1b639e389aab543a0b1a4eaaee68b3be0f68b5d4"
+
+["vcvrack/modules/rjmodules"]
+check_time = "2024-04-03T18:21:01.218642358Z"
+change_time = "2023-05-04T00:21:51Z"
+commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
+
+["vcvrack/modules/sapphire"]
+check_time = "2024-04-03T18:21:03.011653809Z"
+change_time = "2024-03-29T17:37:44Z"
+commit_hash = "d26e157140ef6283906a33675733ea35e4dd26ac"
+
+["vcvrack/modules/sickocv"]
+check_time = "2024-04-03T18:21:05.053958635Z"
+change_time = "2024-03-11T10:48:15Z"
+commit_hash = "7381020517998b87af731eb79cdcd95c4de9a2d0"
+
+["vcvrack/modules/stellare-modular"]
+check_time = "2024-04-03T18:21:06.246499122Z"
+change_time = "2019-02-06T10:35:12Z"
+commit_hash = "2bdfa2a736306dd7a6722c3b1565704a8027427d"
+
+["vcvrack/modules/stoermelder-packone"]
+check_time = "2024-04-03T18:21:09.077944291Z"
+change_time = "2022-12-05T10:25:46Z"
+commit_hash = "ee648a24e630638410a3bb9ec0345a10cc8100da"
+
+["vcvrack/modules/stoermelder-packtau"]
+check_time = "2024-04-03T18:21:10.349311041Z"
+change_time = "2022-11-24T18:14:16Z"
+commit_hash = "f8d30e0e86b9d81b36c86314156fb882c1b465f2"
+
+["vcvrack/modules/strums-mental-vcv-modules"]
+check_time = "2024-04-03T18:21:11.623758141Z"
+change_time = "2022-02-03T13:02:36Z"
+commit_hash = "8241b5ec4aa8e5743e25e6fae96d0b85486deb3b"
+
+["vcvrack/modules/surge-rack"]
+check_time = "2024-04-03T18:21:13.399963577Z"
+change_time = "2024-03-10T13:45:32Z"
+commit_hash = "4e0c376ab1995ab7c02fc0201039be407a1d457c"
+
+["vcvrack/modules/tinytricks"]
+check_time = "2024-04-03T18:21:15.053610838Z"
+change_time = "2021-11-07T09:17:27Z"
+commit_hash = "567c70ccef86789ec2f3e7331a83930819ee25e2"
+
+["vcvrack/modules/valleyrackfree"]
+check_time = "2024-04-03T18:21:17.462966206Z"
+change_time = "2023-11-08T09:17:14Z"
+commit_hash = "86f02e431136a7f5c96a872b99b7115b7e133e05"
+
+["vcvrack/modules/vcv-link"]
+check_time = "2024-04-03T18:21:18.935313863Z"
+change_time = "2024-03-18T16:50:42Z"
+commit_hash = "a5a5bc2f4775632b62e1881f694f8ab77e0da2cf"
+
+["vcvrack/modules/vcvrack-fv1-emu"]
+check_time = "2024-04-03T18:21:20.392879023Z"
+change_time = "2022-02-20T08:20:25Z"
+commit_hash = "5c5bb66ad78d8ad5ceb07d3e8bbec967edb4d438"
+
+["vcvrack/modules/venommodules"]
+check_time = "2024-04-03T18:21:22.015256830Z"
+change_time = "2024-03-12T12:16:04Z"
+commit_hash = "742c48eddb43b2595c929b2312514d6c3f0b7f61"
+
+["vcvrack/modules/voxglitch"]
+check_time = "2024-04-03T18:21:24.149206827Z"
 change_time = "2024-01-13T18:17:28Z"
 commit_hash = "91b61f7477a2721f16870ff0442892335cd927c1"
