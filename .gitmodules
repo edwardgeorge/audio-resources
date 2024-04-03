@@ -195,7 +195,7 @@
 	url = https://github.com/monome/whitewhale.git
 	branch = main
 [submodule "monome/libavr32"]
-	path = monome-libavr32
+	path = libs/monome-libavr32
 	url = https://github.com/monome/libavr32.git
 	branch = main
 [submodule "monome/earthsea"]
@@ -235,7 +235,7 @@
 	url = https://github.com/scanner-darkly/orcas-heart.git
 	branch = main
 [submodule "scanner-darkly/multipass"]
-	path = multipass
+	path = libs/multipass
 	url = https://github.com/scanner-darkly/multipass.git
 	branch = main
 [submodule "monome/dust"]
