@@ -74,7 +74,7 @@ change_time = "2024-02-18T08:52:42Z"
 commit_hash = "8bdc1a8542e1f5b5802a97c59ebed8d9b89157dc"
 
 ["er-301/accents"]
-check_time = "2024-04-02T00:51:56.061212432Z"
+check_time = "2024-04-03T07:37:36.644902637Z"
 change_time = "2021-08-16T22:48:43Z"
 commit_hash = "a9f0a0092e709f968865812114d1a608415bd3b8"
 
@@ -179,7 +179,7 @@ change_time = "2021-10-27T20:27:53Z"
 commit_hash = "e55855ac66ede40b76e689feb365b19f10d6ec92"
 
 ["hw-fw-eurorack/blinkenlights-ascii-modular"]
-check_time = "2024-04-02T16:14:03.115690573Z"
+check_time = "2024-04-03T07:37:41.553460154Z"
 change_time = "2023-02-25T12:03:27Z"
 commit_hash = "72c59b0c44eb1b9b6effbc914408c472621ad5e6"
 
@@ -189,7 +189,7 @@ change_time = "2024-02-22T18:45:17Z"
 commit_hash = "fabc74b003a0a1533bae8a6473995f92af3252a7"
 
 ["hw-fw-eurorack/castor-and-pollux"]
-check_time = "2024-04-03T02:21:48.369556623Z"
+check_time = "2024-04-03T07:37:44.679139806Z"
 change_time = "2024-02-28T19:28:03Z"
 commit_hash = "a2453cb1c27e4d09dbfef2feb52a7aa2bbe6bc50"
 
@@ -374,7 +374,7 @@ change_time = "2022-07-18T23:07:17Z"
 commit_hash = "cebd211ee088e79dee06ce68406d7f6807a57bb4"
 
 ["hw-fw-eurorack/miniadsr"]
-check_time = "2024-03-28T05:13:06.492516117Z"
+check_time = "2024-04-03T07:37:46.432252981Z"
 change_time = "2022-02-19T19:23:20Z"
 commit_hash = "f88081a56ae6e2a1e75a8c209580afe957d16992"
 
@@ -764,7 +764,7 @@ change_time = "2024-04-03T00:56:39Z"
 commit_hash = "23f4997800206bc1bff663026179fdcbdaa81439"
 
 ["libs/pffft"]
-check_time = "2024-04-02T21:09:49.962121435Z"
+check_time = "2024-04-03T07:37:47.592190778Z"
 change_time = "2024-03-19T12:09:28Z"
 commit_hash = "44e633a1eb80ae4758f0e4401639b37314151bc9"
 
@@ -799,7 +799,7 @@ change_time = "2024-01-27T11:34:25Z"
 commit_hash = "bd262c7567185c354385b04f35b5a5cc37740bde"
 
 ["libs/tuning-library"]
-check_time = "2024-04-02T06:14:38.315316279Z"
+check_time = "2024-04-03T07:37:48.597780118Z"
 change_time = "2024-02-16T20:50:01Z"
 commit_hash = "b7842351c7a95ea007750661cf8dd9d6c3fa6916"
 
@@ -979,7 +979,7 @@ change_time = "2024-03-28T11:42:08Z"
 commit_hash = "c1135c6a557b43d3e9e5bb3afb7b30a71e378b43"
 
 ["max/spleeter4max"]
-check_time = "2024-03-27T16:14:29.191608320Z"
+check_time = "2024-04-03T07:37:49.705225090Z"
 change_time = "2021-12-09T18:47:00Z"
 commit_hash = "85dce7bd4b0f1a3316b642d1127099724fe49aff"
 
@@ -1115,7 +1115,7 @@ change_time = "2024-01-16T22:28:36Z"
 commit_hash = "7165bc97ffefa1519219b04b6d00b42bf6c093c5"
 
 [multipass]
-check_time = "2024-04-01T20:13:15.367650294Z"
+check_time = "2024-04-03T07:37:50.845524974Z"
 change_time = "2023-10-10T22:06:44Z"
 commit_hash = "526e8bfe1cd8265b37d5f3d0c9b6c91fe880c5e0"
 
@@ -1254,6 +1254,11 @@ check_time = "2024-04-03T07:34:37.819012947Z"
 change_time = "2023-09-28T16:29:29Z"
 commit_hash = "75a2af8334dc842783c5fc1e8b87afc43199cdb6"
 
+["norns/we"]
+check_time = "2024-04-03T07:37:51.927249779Z"
+change_time = "2022-03-07T00:24:43Z"
+commit_hash = "93c187bd04b5be5049ce9eb3d98d62e751dcfbdb"
+
 ["norns/zxcvbn"]
 check_time = "2024-04-03T07:34:39.341490508Z"
 change_time = "2023-11-10T19:04:36Z"
@@ -1385,7 +1390,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-03T02:22:35.552656036Z"
+check_time = "2024-04-03T07:38:03.819280284Z"
 change_time = "2024-03-27T03:13:26Z"
 commit_hash = "2834ca4c4fb270b1987bc0de1c47b9c0830563e6"
 
@@ -1510,7 +1515,7 @@ change_time = "2022-06-02T21:22:48Z"
 commit_hash = "97c0e0c6b03d208e4e94b0d352bcec97dbc5fa0e"
 
 ["rust-libraries/rustaudio-cpal"]
-check_time = "2024-04-02T23:12:34.049968080Z"
+check_time = "2024-04-03T07:38:05.240562703Z"
 change_time = "2024-03-28T20:53:01Z"
 commit_hash = "ef95a0307023b65d463b776c8afeb456e2c9dbf5"
 
@@ -1926,7 +1931,7 @@ change_time = "2023-03-18T22:57:12Z"
 commit_hash = "ef316e7251a57cce2b955d94e06b0f439be40c24"
 
 ["vcv-modules/as"]
-check_time = "2024-03-31T03:12:33.713106708Z"
+check_time = "2024-04-03T07:38:06.720365741Z"
 change_time = "2022-08-30T17:08:57Z"
 commit_hash = "d90eed32afe6745454ef6ac6e391e0d5dc90ec4b"
 
@@ -1951,7 +1956,7 @@ change_time = "2023-01-18T19:45:25Z"
 commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
 
 ["vcv-modules/eightfold"]
-check_time = "2024-04-03T01:47:22.578170643Z"
+check_time = "2024-04-03T07:38:07.735098231Z"
 change_time = "2024-03-30T21:19:26Z"
 commit_hash = "85556372bee7e48cd5dd7ef2f5bb58bfd24a6276"
 
