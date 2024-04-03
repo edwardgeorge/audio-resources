@@ -13,6 +13,21 @@ check_time = "2024-04-02T00:51:53.753177253Z"
 change_time = "2023-05-30T00:20:22Z"
 commit_hash = "9ec04c134668175ce73a2f9a93ec29b2b36cdb36"
 
+["crow/firmware"]
+check_time = "2024-04-03T18:34:24.817120027Z"
+change_time = "2023-07-25T01:00:13Z"
+commit_hash = "7027d2971a5491b021d8b309101cf2f75a7b5787"
+
+["crow/scripts/bowery"]
+check_time = "2024-04-03T18:34:25.781305059Z"
+change_time = "2024-01-16T20:57:50Z"
+commit_hash = "687e848d9ba5804ec159f193d267c2cd0215682f"
+
+["crow/scripts/drumcrow"]
+check_time = "2024-04-03T18:34:26.678025227Z"
+change_time = "2023-05-30T00:20:22Z"
+commit_hash = "9ec04c134668175ce73a2f9a93ec29b2b36cdb36"
+
 [drum-machine-patterns]
 check_time = "2024-02-16T10:17:08.721592049Z"
 change_time = "2023-05-03T02:30:59Z"
@@ -549,7 +564,7 @@ change_time = "2020-09-05T12:28:44Z"
 commit_hash = "3fa94deab9c8128b4d2075da33d1b1262110afeb"
 
 ["hw-fw-eurorack/radiomusic"]
-check_time = "2024-03-27T17:09:40.467978063Z"
+check_time = "2024-04-03T18:34:29.203009513Z"
 change_time = "2019-10-24T08:40:38Z"
 commit_hash = "0a3541afda6e2a5c96146a6b0617964d1ec29664"
 
@@ -684,7 +699,7 @@ change_time = "2024-04-01T19:33:26Z"
 commit_hash = "89446f737e2b8bc7794fbdd4de2dcce2cb43c874"
 
 ["languages-and-frameworks/tidalcycles"]
-check_time = "2024-04-03T14:11:20.103440330Z"
+check_time = "2024-04-03T18:34:31.125569865Z"
 change_time = "2024-03-30T21:12:12Z"
 commit_hash = "d130059aaca798a564793e9c3af5274e7b864bf0"
 
@@ -919,7 +934,7 @@ change_time = "2022-09-14T14:08:50Z"
 commit_hash = "d6d5e5fafe6f1cd74c5b79e88c0c45a9ed953d0e"
 
 ["max/max-sdk-base"]
-check_time = "2024-04-03T03:14:01.889267577Z"
+check_time = "2024-04-03T18:34:32.751878676Z"
 change_time = "2024-03-07T19:44:58Z"
 commit_hash = "480bed8132f967e4035978b45e3682b970951238"
 
@@ -1570,7 +1585,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-03T18:18:18.795488061Z"
+check_time = "2024-04-03T18:34:45.843167722Z"
 change_time = "2024-04-03T11:14:39Z"
 commit_hash = "6cd91bf3cd3be228505457b3b296f33fd2e8ebef"
 
@@ -1715,7 +1730,7 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-04-03T14:11:28.405021121Z"
+check_time = "2024-04-03T18:34:47.359851450Z"
 change_time = "2024-04-01T19:00:30Z"
 commit_hash = "e0485beb064e0ecccddfbd937c67b85b9edd6c1a"
 
@@ -1745,7 +1760,7 @@ change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-04-03T16:15:06.538326467Z"
+check_time = "2024-04-03T18:34:48.564212688Z"
 change_time = "2024-04-01T14:29:38Z"
 commit_hash = "c42b18130691fdf3e0b99a3244f8faa9ba06bc19"
 
@@ -1820,7 +1835,7 @@ change_time = "2008-04-14T15:05:43Z"
 commit_hash = "2809eefedc705b160dd805eeb6de26abb77b3484"
 
 ["software-and-tools/norns-desktop"]
-check_time = "2024-04-03T09:31:59.655680959Z"
+check_time = "2024-04-03T18:34:49.525706532Z"
 change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
@@ -2021,7 +2036,7 @@ change_time = "2024-01-15T21:24:29Z"
 commit_hash = "5f4d066127d06e3eb09092165bd2397e72d9ee8b"
 
 ["supercollider/superclean-code"]
-check_time = "2024-04-03T10:12:33.190154411Z"
+check_time = "2024-04-03T18:34:52.369594147Z"
 change_time = "2024-03-25T08:08:13Z"
 commit_hash = "3eb879a89397a791cd42d2295fa77cadfd8bad03"
 
@@ -2051,7 +2066,7 @@ change_time = "2023-09-22T19:23:36Z"
 commit_hash = "f8d6abb6d300b2670fc4fe4901b5fb157b60851a"
 
 ["supercollider/supersampler"]
-check_time = "2024-04-03T09:36:05.748581286Z"
+check_time = "2024-04-03T18:34:53.565323415Z"
 change_time = "2024-03-24T14:00:34Z"
 commit_hash = "52ab4ee053f87e268369e68c22f0d692f0461c4a"
 
