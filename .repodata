@@ -204,9 +204,9 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-03T06:13:58.390224175Z"
-change_time = "2024-04-02T01:42:32Z"
-commit_hash = "64d750cd174953ee770dd460b3d0feb1c048e98d"
+check_time = "2024-04-03T09:24:44.422447497Z"
+change_time = "2024-04-03T07:53:54Z"
+commit_hash = "5f064365c49b1b9b7fad18bb2e2def3bf2d40935"
 
 ["hw-fw-eurorack/disphaze"]
 check_time = "2024-04-03T07:41:28.213240425Z"
@@ -594,7 +594,7 @@ change_time = "2017-09-19T06:56:13Z"
 commit_hash = "2dc135acd1c45d6bceca9a82e1cd8dc8c8a4a8bb"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-04-03T07:15:04.133256245Z"
+check_time = "2024-04-03T09:24:49.453765478Z"
 change_time = "2024-04-01T22:44:11Z"
 commit_hash = "93a64540680836553718488c3972815ddc86b2c6"
 
@@ -639,7 +639,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/faust"]
-check_time = "2024-04-03T09:11:59.961661995Z"
+check_time = "2024-04-03T09:25:04.466160799Z"
 change_time = "2024-04-02T17:17:30Z"
 commit_hash = "bde0c9e3168a6da9e953367856099100e9537490"
 
@@ -689,12 +689,12 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-03T07:41:34.046275004Z"
+check_time = "2024-04-03T09:25:07.946671121Z"
 change_time = "2024-04-02T18:59:45Z"
 commit_hash = "a4d7b7c19925e21fc5325b8893cf90adeb877d5a"
 
 ["libs/aubio"]
-check_time = "2024-04-02T01:52:47.929795750Z"
+check_time = "2024-04-03T09:25:09.525340471Z"
 change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
@@ -769,7 +769,7 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 ["libs/libossia"]
-check_time = "2024-04-03T08:35:34.968117519Z"
+check_time = "2024-04-03T09:25:12.244045100Z"
 change_time = "2024-04-03T00:56:39Z"
 commit_hash = "23f4997800206bc1bff663026179fdcbdaa81439"
 
@@ -939,7 +939,7 @@ change_time = "2019-09-06T08:26:54Z"
 commit_hash = "e4dc13bdb40e478b61306bf1bb4950e76e22503e"
 
 ["max/nn-tilde"]
-check_time = "2024-04-01T15:11:21.921737583Z"
+check_time = "2024-04-03T09:25:13.902638318Z"
 change_time = "2023-11-29T12:27:48Z"
 commit_hash = "5941793bf561bef3adb586940b382205cfcb24be"
 
@@ -1150,7 +1150,7 @@ change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
 ["norns/acrostic"]
-check_time = "2024-04-01T23:13:45.432669541Z"
+check_time = "2024-04-03T09:25:15.238098116Z"
 change_time = "2024-02-02T19:05:12Z"
 commit_hash = "7963fc6bdf4e23a704270a7af0b99108005d569f"
 
@@ -1205,7 +1205,7 @@ change_time = "2021-09-10T18:30:28Z"
 commit_hash = "36674d9adb53b69cb0cbbe861b95e39df3598110"
 
 ["norns/fall"]
-check_time = "2024-04-01T12:21:58.163531571Z"
+check_time = "2024-04-03T09:25:16.504556930Z"
 change_time = "2022-11-26T21:15:28Z"
 commit_hash = "3cdbbf7133bcac91c61a39558b89b6743e86151a"
 
@@ -1499,6 +1499,11 @@ check_time = "2024-03-29T03:11:58.038580337Z"
 change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
+["rust-libraries/libdaisy-rust"]
+check_time = "2024-04-03T09:25:17.946260796Z"
+change_time = "2023-10-28T22:01:40Z"
+commit_hash = "5a8520e09cd7367fd7e607c83fec22efd90a9854"
+
 ["rust-libraries/median"]
 check_time = "2024-04-03T07:41:43.765725047Z"
 change_time = "2023-06-29T20:20:56Z"
@@ -1660,7 +1665,7 @@ change_time = "2023-11-24T22:46:28Z"
 commit_hash = "aca2846f5bcf4414ddc3f4efb03f4e82b7463fdd"
 
 ["software-and-tools/pti-tools"]
-check_time = "2024-04-03T07:11:24.706983879Z"
+check_time = "2024-04-03T09:25:19.432419868Z"
 change_time = "2024-04-02T07:24:15Z"
 commit_hash = "17e633fb58e6649e8b9df9dcc5685a95d98ac372"
 
@@ -2001,7 +2006,7 @@ change_time = "2024-03-29T14:33:16Z"
 commit_hash = "61c9cca2731c0afd2fc5174ccfcd9ba8eecde623"
 
 ["vcv-modules/hetrickcv"]
-check_time = "2024-04-02T00:54:07.837400920Z"
+check_time = "2024-04-03T09:25:22.145887895Z"
 change_time = "2023-12-24T20:33:41Z"
 commit_hash = "b1a6be363e28af251f5d057b0099c8ebdded0952"
 
