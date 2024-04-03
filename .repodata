@@ -3,6 +3,11 @@ check_time = "2024-02-19T21:13:11.420956584Z"
 change_time = "2024-02-13T20:25:26Z"
 commit_hash = "3a1f56fc8416784dd922641add07458f0104f4a7"
 
+["crow/bowery"]
+check_time = "2024-04-03T07:14:50.341910009Z"
+change_time = "2024-01-16T20:57:50Z"
+commit_hash = "687e848d9ba5804ec159f193d267c2cd0215682f"
+
 ["crow/drumcrow"]
 check_time = "2024-04-02T00:51:53.753177253Z"
 change_time = "2023-05-30T00:20:22Z"
@@ -24,7 +29,7 @@ change_time = "2023-09-10T12:35:36Z"
 commit_hash = "5f501f18da8f04fd458075d37069094cd6edabd6"
 
 ["embedded/picodexed"]
-check_time = "2024-04-02T05:10:12.292167888Z"
+check_time = "2024-04-03T07:14:51.322797625Z"
 change_time = "2024-02-20T20:01:09Z"
 commit_hash = "ef7928f12d60ffb9b97edde68b00b043b8972ce9"
 
@@ -64,7 +69,7 @@ change_time = "2023-11-08T09:26:44Z"
 commit_hash = "0710c623f516f1ddc9eefa7fd7aee9b1fde8d0ae"
 
 ["embedded/uclock"]
-check_time = "2024-04-02T15:10:27.577533805Z"
+check_time = "2024-04-03T07:14:52.300518631Z"
 change_time = "2024-02-18T08:52:42Z"
 commit_hash = "8bdc1a8542e1f5b5802a97c59ebed8d9b89157dc"
 
@@ -229,7 +234,7 @@ change_time = "2024-03-21T04:36:53Z"
 commit_hash = "cc9d08ff88d15415a343482f331513ca7f463f4b"
 
 ["hw-fw-eurorack/eurorack-blocks"]
-check_time = "2024-04-02T19:08:56.111745786Z"
+check_time = "2024-04-03T07:14:56.319502446Z"
 change_time = "2024-03-30T00:14:37Z"
 commit_hash = "96e41955c56145a4abe7753a88d1074ab4d253c2"
 
@@ -359,7 +364,7 @@ change_time = "2019-08-15T08:55:21Z"
 commit_hash = "4693d4f4001becf95ba28d3e2ff5328b7224bfda"
 
 ["hw-fw-eurorack/microresearch-worm"]
-check_time = "2024-04-02T19:09:00.828459301Z"
+check_time = "2024-04-03T07:14:57.936930219Z"
 change_time = "2024-03-25T17:11:48Z"
 commit_hash = "d8dc182ed5d838779970980fc6ebac4b3cb86eea"
 
@@ -544,7 +549,7 @@ change_time = "2024-02-14T21:08:14Z"
 commit_hash = "a8198554224e1b85906e84ffecd1b0008560a2c4"
 
 ["hw-fw-eurorack/squaresolid-benjolin-gorga"]
-check_time = "2024-04-02T18:13:36.796212261Z"
+check_time = "2024-04-03T07:15:00.030205586Z"
 change_time = "2024-03-21T17:24:08Z"
 commit_hash = "0c5f68ca06629f0cb29d4bd8734164ea2b7623e7"
 
@@ -584,7 +589,7 @@ change_time = "2017-09-19T06:56:13Z"
 commit_hash = "2dc135acd1c45d6bceca9a82e1cd8dc8c8a4a8bb"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-04-03T06:14:54.708018737Z"
+check_time = "2024-04-03T07:15:04.133256245Z"
 change_time = "2024-04-01T22:44:11Z"
 commit_hash = "93a64540680836553718488c3972815ddc86b2c6"
 
@@ -629,7 +634,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/faust"]
-check_time = "2024-04-03T06:15:11.019639934Z"
+check_time = "2024-04-03T07:15:18.422299600Z"
 change_time = "2024-04-02T17:17:30Z"
 commit_hash = "bde0c9e3168a6da9e953367856099100e9537490"
 
@@ -674,7 +679,7 @@ change_time = "2023-10-28T22:01:40Z"
 commit_hash = "5a8520e09cd7367fd7e607c83fec22efd90a9854"
 
 ["libs/ableton-link"]
-check_time = "2024-04-02T12:20:56.132556292Z"
+check_time = "2024-04-03T07:15:19.941255056Z"
 change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
@@ -804,7 +809,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/chuck-max"]
-check_time = "2024-04-03T03:13:56.227225981Z"
+check_time = "2024-04-03T07:15:22.724174654Z"
 change_time = "2024-04-02T03:00:15Z"
 commit_hash = "e7523d88ecdb4072c02bbedc91104ddcb56df723"
 
@@ -924,7 +929,7 @@ change_time = "2017-06-08T23:34:35Z"
 commit_hash = "6b68e8ed3348f38516f825e27cbe27edf886ba71"
 
 ["max/parrot"]
-check_time = "2024-03-28T17:11:55.324085508Z"
+check_time = "2024-04-03T07:15:23.784626878Z"
 change_time = "2022-05-11T10:00:11Z"
 commit_hash = "d1f23201bb583fafe836e73d683101dd0b9db8d8"
 
@@ -977,6 +982,11 @@ commit_hash = "c1135c6a557b43d3e9e5bb3afb7b30a71e378b43"
 check_time = "2024-03-27T16:14:29.191608320Z"
 change_time = "2021-12-09T18:47:00Z"
 commit_hash = "85dce7bd4b0f1a3316b642d1127099724fe49aff"
+
+["max/terms"]
+check_time = "2024-04-03T07:15:24.907325953Z"
+change_time = "2015-08-24T18:28:55Z"
+commit_hash = "e1af1f477bfc409a6fe15b6ea6c05e684e6ecdda"
 
 ["max/thwomp"]
 check_time = "2024-04-01T19:08:53.555079118Z"
@@ -1169,6 +1179,11 @@ check_time = "2024-04-01T09:13:05.302301239Z"
 change_time = "2023-09-30T19:33:15Z"
 commit_hash = "4c4a3b8ed398c905f38298b7237ec4ad22d2d3e1"
 
+["norns/dust"]
+check_time = "2024-04-03T07:15:26.695955929Z"
+change_time = "2021-09-10T18:30:28Z"
+commit_hash = "36674d9adb53b69cb0cbbe861b95e39df3598110"
+
 ["norns/fall"]
 check_time = "2024-04-01T12:21:58.163531571Z"
 change_time = "2022-11-26T21:15:28Z"
@@ -1180,7 +1195,7 @@ change_time = "2024-01-13T18:32:27Z"
 commit_hash = "952ba47cc798c40239724d84ecac8d051429eaa8"
 
 ["norns/goldeneye"]
-check_time = "2024-04-02T16:15:32.436092361Z"
+check_time = "2024-04-03T07:15:28.169353144Z"
 change_time = "2024-03-13T20:52:46Z"
 commit_hash = "4898f457a04f1961612410fd3da2d3e21128b0a8"
 
@@ -1540,7 +1555,7 @@ change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-04-03T01:47:14.255351608Z"
+check_time = "2024-04-03T07:15:29.683030177Z"
 change_time = "2024-04-01T14:29:38Z"
 commit_hash = "c42b18130691fdf3e0b99a3244f8faa9ba06bc19"
 
@@ -1921,7 +1936,7 @@ change_time = "2024-03-22T13:40:41Z"
 commit_hash = "d3ad6c6732cee8a80197aa351dd9efef9c278d4c"
 
 ["vcv-modules/bogaudio"]
-check_time = "2024-04-01T17:14:18.126108551Z"
+check_time = "2024-04-03T07:15:32.757646043Z"
 change_time = "2024-02-04T21:23:07Z"
 commit_hash = "2802604321d286cfdd263aafdf7fd0468ebd8069"
 
@@ -1946,7 +1961,7 @@ change_time = "2023-10-06T04:47:39Z"
 commit_hash = "e7567e5f27073433cea7f714b46cb62cf89c72a2"
 
 ["vcv-modules/geodesics"]
-check_time = "2024-04-02T19:09:30.247805062Z"
+check_time = "2024-04-03T07:15:34.620758269Z"
 change_time = "2024-03-29T14:33:16Z"
 commit_hash = "61c9cca2731c0afd2fc5174ccfcd9ba8eecde623"
 
@@ -1986,7 +2001,7 @@ change_time = "2024-01-14T22:10:41Z"
 commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
 
 ["vcv-modules/pathsetmodules"]
-check_time = "2024-03-30T13:13:04.547137637Z"
+check_time = "2024-04-03T07:15:36.189635642Z"
 change_time = "2022-10-31T03:41:51Z"
 commit_hash = "66e69a2f2047e3dab06275b12852e56d143388cf"
 
