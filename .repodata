@@ -689,7 +689,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-03T09:25:07.946671121Z"
+check_time = "2024-04-03T09:31:45.544251473Z"
 change_time = "2024-04-02T18:59:45Z"
 commit_hash = "a4d7b7c19925e21fc5325b8893cf90adeb877d5a"
 
@@ -704,7 +704,7 @@ change_time = "2024-04-02T19:50:59Z"
 commit_hash = "b1030c09985c16f4358aedf52a8072f8d1333845"
 
 ["libs/chowdsp-wdf"]
-check_time = "2024-04-02T10:13:07.602500704Z"
+check_time = "2024-04-03T09:31:46.625306930Z"
 change_time = "2023-12-31T04:56:12Z"
 commit_hash = "7228231d69d73f17365e2f0ef540e3cfdb8c9840"
 
@@ -919,7 +919,7 @@ change_time = "2023-08-29T11:36:47Z"
 commit_hash = "69518bef9d36730c2de7eb0e81ab98fda7572dbd"
 
 ["max/monome"]
-check_time = "2024-04-02T10:13:12.933216657Z"
+check_time = "2024-04-03T09:31:48.552727716Z"
 change_time = "2024-01-23T14:59:05Z"
 commit_hash = "798b5355b3882ad25518537f1c3fbd86979a5e0d"
 
@@ -964,7 +964,7 @@ change_time = "2021-09-22T14:56:13Z"
 commit_hash = "ec6737e91d844ecc2635eb5ce8225bc5460838b3"
 
 ["max/petra"]
-check_time = "2024-04-01T20:13:11.513722114Z"
+check_time = "2024-04-03T09:31:49.908030894Z"
 change_time = "2022-06-01T20:04:19Z"
 commit_hash = "5f695e86931d04beb6dbc1b46668870b0979f39b"
 
@@ -1120,7 +1120,7 @@ change_time = "2024-03-19T15:04:26Z"
 commit_hash = "03b15ce0dfe4559b8bfb496deff42d4b1a97c74a"
 
 ["monome/teletype"]
-check_time = "2024-04-02T01:53:04.340825239Z"
+check_time = "2024-04-03T09:31:51.359267920Z"
 change_time = "2024-01-10T01:46:10Z"
 commit_hash = "4be4cc38b8401db154a0f132e56f7ca536fc1897"
 
@@ -1245,7 +1245,7 @@ change_time = "2023-09-14T01:20:49Z"
 commit_hash = "67c29d3a3d8eb53e95fe47a20c00b954df2e0023"
 
 ["norns/orca"]
-check_time = "2024-04-01T04:13:42.530293488Z"
+check_time = "2024-04-03T09:31:52.496884655Z"
 change_time = "2023-01-28T03:36:09Z"
 commit_hash = "6d8e38e0ac9a9cb779dfd4553b9f89b98283b7ea"
 
@@ -1305,7 +1305,7 @@ change_time = "2023-11-05T19:17:38Z"
 commit_hash = "604372e4ffd9690c3e283362e4598cb43edbb475"
 
 ["plugins-and-standalone/build-your-own-distortion"]
-check_time = "2024-04-02T22:12:56.320922606Z"
+check_time = "2024-04-03T09:31:54.040176139Z"
 change_time = "2024-03-16T00:00:24Z"
 commit_hash = "3562e3cd4dc569d526aa4610da7a17f79ab5211f"
 
@@ -1400,7 +1400,7 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-04-03T03:14:15.617693706Z"
+check_time = "2024-04-03T09:31:56.273143779Z"
 change_time = "2024-03-29T22:46:29Z"
 commit_hash = "1708e6166e10b28d4f8f8cbc17c640618e48874b"
 
@@ -1580,7 +1580,7 @@ change_time = "2021-03-22T19:23:33Z"
 commit_hash = "40388e37b074abe2b837b9d45a12a5674c99435a"
 
 ["rust-libraries/symphonia"]
-check_time = "2024-04-03T03:14:18.838367569Z"
+check_time = "2024-04-03T09:31:57.614860572Z"
 change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
@@ -1624,6 +1624,11 @@ check_time = "2024-04-03T07:34:43.741592612Z"
 change_time = "2023-11-09T22:17:02Z"
 commit_hash = "4c9209ff9c12b8951d78ee5da125c230021b5fd2"
 
+["software-and-tools/gen-rack"]
+check_time = "2024-04-03T09:31:58.646471820Z"
+change_time = "2022-08-20T17:30:46Z"
+commit_hash = "bac14bc7fa8ac36942216e397b7a9586bc265943"
+
 ["software-and-tools/homr"]
 check_time = "2024-03-31T08:14:44.160801678Z"
 change_time = "2019-07-05T15:01:53Z"
@@ -1653,6 +1658,11 @@ commit_hash = "4d883b84de0047365fd8d61fdaae5de5ac63cc57"
 check_time = "2024-03-29T21:10:45.232256868Z"
 change_time = "2008-04-14T15:05:43Z"
 commit_hash = "2809eefedc705b160dd805eeb6de26abb77b3484"
+
+["software-and-tools/norns-desktop"]
+check_time = "2024-04-03T09:31:59.655680959Z"
+change_time = "2024-03-16T22:26:14Z"
+commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
 ["software-and-tools/opkit"]
 check_time = "2024-03-29T11:11:22.011799473Z"
@@ -1891,7 +1901,7 @@ change_time = "2021-11-22T20:18:44Z"
 commit_hash = "242d5f709fd7cbd57bc5d6c3fea602ab61583dba"
 
 ["supercollider/threnoscopesc"]
-check_time = "2024-04-01T07:12:06.003497418Z"
+check_time = "2024-04-03T09:32:00.827457706Z"
 change_time = "2022-07-19T18:34:35Z"
 commit_hash = "34d59729a782ed785ed604489ebd61b8277d0c1b"
 
