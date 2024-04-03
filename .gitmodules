@@ -1586,3 +1586,7 @@
 	path = software-and-tools/druid
 	url = https://github.com/monome/druid.git
 	branch = main
+[submodule "catfact/cotccm"]
+	path = supercollider/cotccm
+	url = https://github.com/catfact/cotccm.git
+	branch = master
