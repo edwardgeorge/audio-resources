@@ -603,7 +603,7 @@
 	url = https://github.com/thomassidor/tinytricks.git
 	branch = master
 [submodule "monome/libmonome"]
-	path = monome-libmonome
+	path = libs/libmonome
 	url = https://github.com/monome/libmonome.git
 	branch = main
 [submodule "madskjeldgaard/guttersynth-sc"]
