@@ -27,7 +27,7 @@
 	url = https://github.com/monome/crow.git
 	branch = main
 [submodule "dewb/monome-rack"]
-	path = vcv-modules/monome-rack
+	path = vcvrack/modules/monome-rack
 	url = https://github.com/Dewb/monome-rack.git
 	branch = main
 [submodule "djphazer/o_c-benisphere-suite"]
@@ -51,7 +51,7 @@
 	url = https://github.com/AdamFulford/Veno-Echo.git
 	branch = main
 [submodule "mhetrick/nonlinearcircuits"]
-	path = vcv-modules/mhetrick-nonlinearcircuits-vcvrack
+	path = vcvrack/modules/mhetrick-nonlinearcircuits-vcvrack
 	url = https://github.com/mhetrick/nonlinearcircuits.git
 	branch = master
 [submodule "then-try-this/samplebrain"]
@@ -403,7 +403,7 @@
 	url = https://github.com/PolyMeilex/OxiSynth.git
 	branch = master
 [submodule "vcvrack/befaco/v2"]
-	path = vcv-modules/befaco
+	path = vcvrack/modules/befaco
 	url = https://github.com/VCVRack/Befaco.git
 	branch = v2
 [submodule "greatest-ape/octasine"]
@@ -599,7 +599,7 @@
 	url = https://github.com/ozankasikci/rust-music-theory.git
 	branch = master
 [submodule "thomassidor/tinytricks"]
-	path = vcv-modules/tinytricks
+	path = vcvrack/modules/tinytricks
 	url = https://github.com/thomassidor/tinytricks.git
 	branch = master
 [submodule "monome/libmonome"]
@@ -1163,7 +1163,7 @@
 	url = https://github.com/surge-synthesizer/monique-monosynth.git
 	branch = main
 [submodule "surge-synthesizer/surge-rack"]
-	path = vcv-modules/surge-rack
+	path = vcvrack/modules/surge-rack
 	url = https://github.com/surge-synthesizer/surge-rack.git
 	branch = main
 [submodule "surge-synthesizer/sst-basic-blocks"]
@@ -1239,7 +1239,7 @@
 	url = https://github.com/wntrblm/Neptune.git
 	branch = main
 [submodule "bogaudio/bogaudiomodules"]
-	path = vcv-modules/bogaudio
+	path = vcvrack/modules/bogaudio
 	url = https://github.com/bogaudio/BogaudioModules.git
 	branch = master
 [submodule "bwhitman/learnfm"]
@@ -1255,11 +1255,11 @@
 	url = https://github.com/bwhitman/alles.git
 	branch = main
 [submodule "stoermelder/vcvrack-packone/v2"]
-	path = vcv-modules/stoermelder-packone
+	path = vcvrack/modules/stoermelder-packone
 	url = https://github.com/stoermelder/vcvrack-packone.git
 	branch = v2
 [submodule "stoermelder/vcvrack-packtau/v2"]
-	path = vcv-modules/stoermelder-packtau
+	path = vcvrack/modules/stoermelder-packtau
 	url = https://github.com/stoermelder/vcvrack-packtau.git
 	branch = v2
 [submodule "jamwaffles/ssd1306"]
@@ -1327,11 +1327,11 @@
 	url = https://github.com/ess-m/lood.git
 	branch = main
 [submodule "davebenham/venommodules"]
-	path = vcv-modules/venommodules
+	path = vcvrack/modules/venommodules
 	url = https://github.com/DaveBenham/VenomModules.git
 	branch = main
 [submodule "patheros/pathsetmodules"]
-	path = vcv-modules/pathsetmodules
+	path = vcvrack/modules/pathsetmodules
 	url = https://github.com/patheros/PathSetModules.git
 	branch = main
 [submodule "dstroud/dreamsequence-dev"]
@@ -1347,7 +1347,7 @@
 	url = https://github.com/TheTechnobear/Mi4Pd.git
 	branch = master
 [submodule "cosinekitty/sapphire"]
-	path = vcv-modules/sapphire
+	path = vcvrack/modules/sapphire
 	url = https://github.com/cosinekitty/sapphire.git
 	branch = main
 [submodule "cosinekitty/sloth"]
@@ -1359,75 +1359,75 @@
 	url = https://github.com/cosinekitty/jerkcircuit.git
 	branch = main
 [submodule "aydeeeighty/80instruments"]
-	path = vcv-modules/80instruments
+	path = vcvrack/modules/80instruments
 	url = https://github.com/AydeeEighty/80Instruments.git
 	branch = master
 [submodule "sickozell/sickocv"]
-	path = vcv-modules/sickocv
+	path = vcvrack/modules/sickocv
 	url = https://github.com/sickozell/SickoCV.git
 	branch = main
 [submodule "ascustomworks/as/v2"]
-	path = vcv-modules/as
+	path = vcvrack/modules/as
 	url = https://github.com/AScustomWorks/AS.git
 	branch = V2
 [submodule "vcvrack/audibleinstruments/v2"]
-	path = vcv-modules/audibleinstruments
+	path = vcvrack/modules/audibleinstruments
 	url = https://github.com/VCVRack/AudibleInstruments.git
 	branch = v2
 [submodule "vcvrack/fundamental/v2"]
-	path = vcv-modules/fundamental
+	path = vcvrack/modules/fundamental
 	url = https://github.com/VCVRack/Fundamental.git
 	branch = v2
 [submodule "vcvrack/eseries/v2"]
-	path = vcv-modules/eseries
+	path = vcvrack/modules/eseries
 	url = https://github.com/VCVRack/ESeries.git
 	branch = v2
 [submodule "valleyaudio/valleyrackfree"]
-	path = vcv-modules/valleyrackfree
+	path = vcvrack/modules/valleyrackfree
 	url = https://github.com/ValleyAudio/ValleyRackFree.git
 	branch = main
 [submodule "clone45/voxglitch"]
-	path = vcv-modules/voxglitch
+	path = vcvrack/modules/voxglitch
 	url = https://github.com/clone45/voxglitch.git
 	branch = master
 [submodule "miserlou/rjmodules"]
-	path = vcv-modules/rjmodules
+	path = vcvrack/modules/rjmodules
 	url = https://github.com/Miserlou/RJModules.git
 	branch = master
 [submodule "dbiz/dbiz"]
-	path = vcv-modules/dbiz
+	path = vcvrack/modules/dbiz
 	url = https://github.com/dBiz/dBiz.git
 	branch = master
 [submodule "martin-lueders/ml-modules/v2"]
-	path = vcv-modules/ml-modules
+	path = vcvrack/modules/ml-modules
 	url = https://github.com/martin-lueders/ML_modules.git
 	branch = v2
 [submodule "stellare-modular/vcv-rack"]
-	path = vcv-modules/stellare-modular
+	path = vcvrack/modules/stellare-modular
 	url = https://github.com/stellare-modular/vcv-rack.git
 	branch = master
 [submodule "stellare-modular/vcv-link"]
-	path = vcv-modules/vcv-link
+	path = vcvrack/modules/vcv-link
 	url = https://github.com/stellare-modular/vcv-link.git
 	branch = master
 [submodule "strum/strums-mental-vcv-modules"]
-	path = vcv-modules/strums-mental-vcv-modules
+	path = vcvrack/modules/strums-mental-vcv-modules
 	url = https://github.com/Strum/Strums_Mental_VCV_Modules.git
 	branch = master
 [submodule "mhetrick/hetrickcv"]
-	path = vcv-modules/hetrickcv
+	path = vcvrack/modules/hetrickcv
 	url = https://github.com/mhetrick/hetrickcv.git
 	branch = master
 [submodule "marcboule/impromptumodular"]
-	path = vcv-modules/impromptumodular
+	path = vcvrack/modules/impromptumodular
 	url = https://github.com/MarcBoule/ImpromptuModular.git
 	branch = master
 [submodule "marcboule/mindmeldmodular"]
-	path = vcv-modules/mindmeldmodular
+	path = vcvrack/modules/mindmeldmodular
 	url = https://github.com/MarcBoule/MindMeldModular.git
 	branch = master
 [submodule "marcboule/geodesics"]
-	path = vcv-modules/geodesics
+	path = vcvrack/modules/geodesics
 	url = https://github.com/MarcBoule/Geodesics.git
 	branch = master
 [submodule "isabelgk/gen-rack"]
@@ -1435,11 +1435,11 @@
 	url = https://github.com/isabelgk/gen-rack.git
 	branch = main
 [submodule "eh2k/vcvrack-fv1-emu"]
-	path = vcv-modules/vcvrack-fv1-emu
+	path = vcvrack/modules/vcvrack-fv1-emu
 	url = https://github.com/eh2k/vcvrack-fv1-emu.git
 	branch = master
 [submodule "n0jo/rackwindows"]
-	path = vcv-modules/rackwindows
+	path = vcvrack/modules/rackwindows
 	url = https://github.com/n0jo/rackwindows.git
 	branch = master
 [submodule "diyelectromusic/picodexed"]
@@ -1475,7 +1475,7 @@
 	url = https://github.com/doctea/Microlidian.git
 	branch = main
 [submodule "modulove/vcv-rack-modules"]
-	path = vcv-modules/modulove
+	path = vcvrack/modules/modulove
 	url = https://github.com/modulove/VCV-Rack-modules.git
 	branch = main
 [submodule "wgd-modular/utf-8-samplified"]
@@ -1559,7 +1559,7 @@
 	url = https://github.com/shakfu/chuck-max.git
 	branch = main
 [submodule "scanner-darkly/eightfold"]
-	path = vcv-modules/eightfold
+	path = vcvrack/modules/eightfold
 	url = https://github.com/scanner-darkly/eightfold.git
 	branch = main
 [submodule "valleyaudio/homr"]
