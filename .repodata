@@ -88,8 +88,28 @@ check_time = "2024-04-01T17:12:06.995874664Z"
 change_time = "2023-02-14T06:55:32Z"
 commit_hash = "3a7b592fe5d223d5a96b2d8e90b578b23bbdabe5"
 
+["er-301/firmware"]
+check_time = "2024-04-03T18:17:28.340101676Z"
+change_time = "2023-02-14T06:55:32Z"
+commit_hash = "3a7b592fe5d223d5a96b2d8e90b578b23bbdabe5"
+
 ["er-301/tmfset-custom-units"]
 check_time = "2024-04-01T20:11:53.700837673Z"
+change_time = "2023-01-22T22:43:17Z"
+commit_hash = "ee2855768083a2193114d2d36f1bfd3f2fcbbbe4"
+
+["er-301/units/accents"]
+check_time = "2024-04-03T18:17:30.957951934Z"
+change_time = "2021-08-16T22:48:43Z"
+commit_hash = "a9f0a0092e709f968865812114d1a608415bd3b8"
+
+["er-301/units/autogen301"]
+check_time = "2024-04-03T18:17:37.298859203Z"
+change_time = "2021-09-11T02:50:48Z"
+commit_hash = "07fd4662957058865c272326e984923a5e1e5229"
+
+["er-301/units/tmfset-custom-units"]
+check_time = "2024-04-03T18:17:40.682261055Z"
 change_time = "2023-01-22T22:43:17Z"
 commit_hash = "ee2855768083a2193114d2d36f1bfd3f2fcbbbe4"
 
@@ -339,7 +359,7 @@ change_time = "2016-06-06T11:03:03Z"
 commit_hash = "8d82c876b1d257fc50e11a323371945f368b6cb4"
 
 ["hw-fw-eurorack/microlidian"]
-check_time = "2024-04-03T16:14:17.329300165Z"
+check_time = "2024-04-03T18:17:43.618963669Z"
 change_time = "2024-03-27T23:51:36Z"
 commit_hash = "d2dd8d3a6080fe18cb3d973a84e361dec4eb888e"
 
@@ -754,7 +774,7 @@ change_time = "2024-03-07T14:21:51Z"
 commit_hash = "f7727edb9a1febdd174b5310a7bc65340dae8700"
 
 ["libs/juce"]
-check_time = "2024-04-03T09:36:01.219592818Z"
+check_time = "2024-04-03T18:17:50.398725729Z"
 change_time = "2024-03-26T08:07:58Z"
 commit_hash = "ae5144833e852815d61642af87c69b9db44984f7"
 
@@ -769,7 +789,7 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 ["libs/libossia"]
-check_time = "2024-04-03T18:14:51.012047938Z"
+check_time = "2024-04-03T18:17:54.935074002Z"
 change_time = "2024-04-03T14:40:32Z"
 commit_hash = "3672841c500502219fa8387cec898dfd5e8a7309"
 
@@ -954,7 +974,7 @@ change_time = "2022-05-11T10:00:11Z"
 commit_hash = "d1f23201bb583fafe836e73d683101dd0b9db8d8"
 
 ["max/patter-tools"]
-check_time = "2024-03-30T18:15:02.585565577Z"
+check_time = "2024-04-03T18:17:57.695099055Z"
 change_time = "2017-06-09T16:55:40Z"
 commit_hash = "1a7b00e68ecfa4c12c68a43559bf258a3cf0c49e"
 
@@ -1410,9 +1430,9 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-03T07:38:03.819280284Z"
-change_time = "2024-03-27T03:13:26Z"
-commit_hash = "2834ca4c4fb270b1987bc0de1c47b9c0830563e6"
+check_time = "2024-04-03T18:18:18.795488061Z"
+change_time = "2024-04-03T11:14:39Z"
+commit_hash = "6cd91bf3cd3be228505457b3b296f33fd2e8ebef"
 
 ["plugins-and-standalone/vaporizer2"]
 check_time = "2024-04-03T17:10:59.876583676Z"
@@ -1525,9 +1545,9 @@ change_time = "2024-01-01T05:29:40Z"
 commit_hash = "8ba1ea13c4fe5d4c4647a3a44f102252f9899a65"
 
 ["rust-libraries/rtrb"]
-check_time = "2024-04-02T14:10:19.296360562Z"
-change_time = "2023-12-10T20:27:51Z"
-commit_hash = "2686a28351db711ebb43c5d0fab671d9ed47a5a7"
+check_time = "2024-04-03T18:18:27.957431290Z"
+change_time = "2024-04-03T14:03:29Z"
+commit_hash = "d14aa63ddb3da9524c6e7f786033e6551130b225"
 
 ["rust-libraries/rust-music-theory"]
 check_time = "2024-03-31T19:10:19.145601408Z"
@@ -1765,7 +1785,7 @@ change_time = "2021-05-27T08:18:28Z"
 commit_hash = "25c024d4e11031503979c985907b6a1c2b82fad3"
 
 ["supercollider/guttersynth-sc"]
-check_time = "2024-03-31T17:10:30.461166130Z"
+check_time = "2024-04-03T18:18:30.571510826Z"
 change_time = "2021-07-22T16:24:16Z"
 commit_hash = "06a2b7c6ba79c6c22fc7a742dd18367dbe5c1003"
 
@@ -2026,7 +2046,7 @@ change_time = "2023-12-24T20:33:41Z"
 commit_hash = "b1a6be363e28af251f5d057b0099c8ebdded0952"
 
 ["vcv-modules/impromptumodular"]
-check_time = "2024-04-03T07:41:46.523365308Z"
+check_time = "2024-04-03T18:18:34.084631994Z"
 change_time = "2024-03-29T14:36:41Z"
 commit_hash = "bd0353a4d12d92a702b91bf1d904ffc13aab5e1b"
 
@@ -2051,7 +2071,7 @@ change_time = "2024-02-24T20:12:49Z"
 commit_hash = "cf47052ec7ca7a3b5b7ff50707d8b205075ad6a0"
 
 ["vcv-modules/monome-rack"]
-check_time = "2024-04-03T04:14:43.913042421Z"
+check_time = "2024-04-03T18:18:37.722373408Z"
 change_time = "2024-01-14T22:10:41Z"
 commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
 
