@@ -511,7 +511,7 @@
 	url = https://github.com/free-audio/clap-validator.git
 	branch = master
 [submodule "mtthw-meyer/libdaisy-rust"]
-	path = libdaisy-rust
+	path = rust-libraries/libdaisy-rust
 	url = https://github.com/mtthw-meyer/libdaisy-rust.git
 	branch = master
 [submodule "backtail/daisy-blank"]
