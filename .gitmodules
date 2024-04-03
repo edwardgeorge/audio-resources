@@ -67,7 +67,7 @@
 	url = https://github.com/asb2m10/dexed.git
 	branch = master
 [submodule "monome/norns"]
-	path = monome/norns
+	path = norns/source
 	url = https://github.com/monome/norns.git
 	branch = main
 [submodule "ableton/link"]
@@ -103,7 +103,7 @@
 	url = https://github.com/hirnlego/repetita-versio.git
 	branch = master
 [submodule "sixolet/phonotype"]
-	path = norns/phonotype
+	path = norns/scripts/phonotype
 	url = https://github.com/sixolet/phonotype.git
 	branch = main
 [submodule "sensorium/mozzi"]
@@ -239,7 +239,7 @@
 	url = https://github.com/scanner-darkly/multipass.git
 	branch = main
 [submodule "monome/dust"]
-	path = norns/dust
+	path = norns/scripts/dust
 	url = https://github.com/monome/dust.git
 	branch = master
 [submodule "bastl-instruments/microgranny"]
@@ -311,11 +311,11 @@
 	url = https://github.com/PaulStoffregen/Audio.git
 	branch = master
 [submodule "monome/we"]
-	path = norns/we
+	path = norns/scripts/we
 	url = https://github.com/monome/we.git
 	branch = master
 [submodule "itsyourbedtime/orca"]
-	path = norns/orca
+	path = norns/scripts/orca
 	url = https://github.com/itsyourbedtime/orca.git
 	branch = main
 [submodule "juce-framework/juce"]
@@ -539,31 +539,31 @@
 	url = https://github.com/prokopyl/clack.git
 	branch = main
 [submodule "schollz/zxcvbn"]
-	path = norns/zxcvbn
+	path = norns/scripts/zxcvbn
 	url = https://github.com/schollz/zxcvbn.git
 	branch = main
 [submodule "schollz/oooooo"]
-	path = norns/oooooo
+	path = norns/scripts/oooooo
 	url = https://github.com/schollz/oooooo.git
 	branch = main
 [submodule "schollz/tapedeck"]
-	path = norns/tapedeck
+	path = norns/scripts/tapedeck
 	url = https://github.com/schollz/tapedeck.git
 	branch = main
 [submodule "schollz/l-ll--l-"]
-	path = norns/l-ll--l-
+	path = norns/scripts/l-ll--l-
 	url = https://github.com/schollz/l_ll__l_.git
 	branch = main
 [submodule "schollz/graintopia"]
-	path = norns/graintopia
+	path = norns/scripts/graintopia
 	url = https://github.com/schollz/graintopia.git
 	branch = main
 [submodule "schollz/amenbreak"]
-	path = norns/amenbreak
+	path = norns/scripts/amenbreak
 	url = https://github.com/schollz/amenbreak.git
 	branch = main
 [submodule "northern-information/dronecaster"]
-	path = norns/dronecaster
+	path = norns/scripts/dronecaster
 	url = https://github.com/northern-information/dronecaster.git
 	branch = main
 [submodule "schollz/teoperator"]
@@ -587,7 +587,7 @@
 	url = https://github.com/everythingwillbetakenaway/DX7-Supercollider.git
 	branch = master
 [submodule "xmacex/connect-opz"]
-	path = norns/connect-opz
+	path = norns/scripts/connect-opz
 	url = https://github.com/xmacex/connect-opz.git
 	branch = main
 [submodule "ohmtech-rdi/eurorack-blocks"]
@@ -711,23 +711,23 @@
 	url = https://github.com/entzmingerc/drumcrow.git
 	branch = main
 [submodule "ambalek/fall"]
-	path = norns/fall
+	path = norns/scripts/fall
 	url = https://github.com/ambalek/fall.git
 	branch = main
 [submodule "dstroud/dreamsequence"]
-	path = norns/dreamsequence
+	path = norns/scripts/dreamsequence
 	url = https://github.com/dstroud/dreamsequence.git
 	branch = main
 [submodule "northern-information/arcologies"]
-	path = norns/arcologies
+	path = norns/scripts/arcologies
 	url = https://github.com/northern-information/arcologies.git
 	branch = main
 [submodule "northern-information/goldeneye"]
-	path = norns/goldeneye
+	path = norns/scripts/goldeneye
 	url = https://github.com/northern-information/goldeneye.git
 	branch = main
 [submodule "northern-information/tulpamancer"]
-	path = norns/tulpamancer
+	path = norns/scripts/tulpamancer
 	url = https://github.com/northern-information/tulpamancer.git
 	branch = main
 [submodule "synthstromaudible/delugefirmware/community"]
@@ -735,11 +735,11 @@
 	url = https://github.com/SynthstromAudible/DelugeFirmware.git
 	branch = community
 [submodule "zjb-s/n.kria"]
-	path = norns/n.kria
+	path = norns/scripts/n.kria
 	url = https://github.com/zjb-s/n.kria.git
 	branch = main
 [submodule "dndrks/cheat-codes-2"]
-	path = norns/cheat-codes-2
+	path = norns/scripts/cheat-codes-2
 	url = https://github.com/dndrks/cheat_codes_2.git
 	branch = main
 [submodule "fors-fm/lode"]
@@ -751,7 +751,7 @@
 	url = https://github.com/ess-m/gen-filters.git
 	branch = main
 [submodule "sonocircuit/concrete"]
-	path = norns/concrete
+	path = norns/scripts/concrete
 	url = https://github.com/sonocircuit/concrete.git
 	branch = main
 [submodule "julianfortune/witchcraftsynth"]
@@ -871,11 +871,11 @@
 	url = https://github.com/tehn/isms.git
 	branch = main
 [submodule "awwaiid/repl-looper"]
-	path = norns/repl-looper
+	path = norns/scripts/repl-looper
 	url = https://github.com/awwaiid/repl-looper.git
 	branch = main
 [submodule "tehn/ash"]
-	path = norns/ash
+	path = norns/scripts/ash
 	url = https://github.com/tehn/ash.git
 	branch = main
 [submodule "catfact/dowser"]
@@ -1335,7 +1335,7 @@
 	url = https://github.com/patheros/PathSetModules.git
 	branch = main
 [submodule "dstroud/dreamsequence-dev"]
-	path = norns/dreamsequence-dev
+	path = norns/scripts/dreamsequence-dev
 	url = https://github.com/dstroud/dreamsequence_dev.git
 	branch = main
 [submodule "rustaudio/wmidi"]
@@ -1567,19 +1567,19 @@
 	url = https://github.com/ValleyAudio/homr.git
 	branch = master
 [submodule "entzmingerc/pit-orchisstra"]
-	path = norns/pit-orchisstra
+	path = norns/scripts/pit-orchisstra
 	url = https://github.com/entzmingerc/pit-orchisstra.git
 	branch = main
 [submodule "justmat/foulplay"]
-	path = norns/foulplay
+	path = norns/scripts/foulplay
 	url = https://github.com/justmat/foulplay.git
 	branch = master
 [submodule "schollz/acrostic"]
-	path = norns/acrostic
+	path = norns/scripts/acrostic
 	url = https://github.com/schollz/acrostic.git
 	branch = main
 [submodule "justmat/larc"]
-	path = norns/larc
+	path = norns/scripts/larc
 	url = https://github.com/justmat/larc.git
 	branch = main
 [submodule "monome/druid"]
