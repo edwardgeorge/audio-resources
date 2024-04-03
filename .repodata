@@ -64,7 +64,7 @@ change_time = "2024-03-24T23:29:05Z"
 commit_hash = "4ecafb29a06ddaa6340d81f0725d99bf648d9a22"
 
 ["embedded/rppicomidi-midi2usbhub"]
-check_time = "2024-04-03T09:11:37.937636301Z"
+check_time = "2024-04-03T19:31:58.507453902Z"
 change_time = "2024-02-12T16:16:40Z"
 commit_hash = "0d98c00010bff5bae3757f33f7e6d957b294c281"
 
@@ -244,7 +244,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-03T19:20:19.024617390Z"
+check_time = "2024-04-03T19:32:04.643794734Z"
 change_time = "2024-04-03T18:57:43Z"
 commit_hash = "199e23df52d9d5ec9e59a01ee505ef9fb370a6db"
 
@@ -1535,7 +1535,7 @@ change_time = "2021-01-16T08:42:27Z"
 commit_hash = "5c26f4b1aee97f5b98d47a6ddf76e84f186e4c5e"
 
 ["plugins-and-standalone/kloncentaur"]
-check_time = "2024-03-29T09:10:47.155932844Z"
+check_time = "2024-04-03T19:33:19.019925958Z"
 change_time = "2021-07-02T16:01:29Z"
 commit_hash = "f3bb633a593b6fbb22a44c1ef9d1dbedbfe92d5b"
 
@@ -1650,7 +1650,7 @@ change_time = "2024-02-29T09:13:46Z"
 commit_hash = "cc81801156f9aaf57e98bfdb1eae2b8a9e62bca0"
 
 ["rust-libraries/clap-sys"]
-check_time = "2024-04-03T11:09:37.583188728Z"
+check_time = "2024-04-03T19:33:21.868429504Z"
 change_time = "2024-01-25T02:32:44Z"
 commit_hash = "63e8936570f3ea636c56e2a61023448146d81a85"
 
@@ -1705,7 +1705,7 @@ change_time = "2024-01-01T05:29:40Z"
 commit_hash = "8ba1ea13c4fe5d4c4647a3a44f102252f9899a65"
 
 ["rust-libraries/rtrb"]
-check_time = "2024-04-03T18:18:27.957431290Z"
+check_time = "2024-04-03T19:33:24.796817058Z"
 change_time = "2024-04-03T14:03:29Z"
 commit_hash = "d14aa63ddb3da9524c6e7f786033e6551130b225"
 
@@ -1860,7 +1860,7 @@ change_time = "2023-11-24T22:46:28Z"
 commit_hash = "aca2846f5bcf4414ddc3f4efb03f4e82b7463fdd"
 
 ["software-and-tools/pti-tools"]
-check_time = "2024-04-03T18:15:00.624125689Z"
+check_time = "2024-04-03T19:33:27.725827941Z"
 change_time = "2024-04-02T07:24:15Z"
 commit_hash = "17e633fb58e6649e8b9df9dcc5685a95d98ac372"
 
@@ -2084,6 +2084,11 @@ commit_hash = "dbd28bce4f380e7014bf624363a971820f749146"
 check_time = "2024-04-03T18:37:52.412461404Z"
 change_time = "2024-03-13T09:25:07Z"
 commit_hash = "dbd28bce4f380e7014bf624363a971820f749146"
+
+["supercollider/quarks/adclib"]
+check_time = "2024-04-03T19:33:32.314884979Z"
+change_time = "2023-11-12T20:28:35Z"
+commit_hash = "6515d79026aefa5ac47a7fa017bff776e3507a74"
 
 ["supercollider/quarks/bjorklund"]
 check_time = "2024-04-03T19:23:54.084414480Z"
