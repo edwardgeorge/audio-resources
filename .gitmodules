@@ -131,15 +131,15 @@
 	url = https://github.com/midilab/aciduino.git
 	branch = master
 [submodule "electro-smith/daisyexamples"]
-	path = libs/daisy/daisy-examples
+	path = daisy/daisy-examples
 	url = https://github.com/electro-smith/DaisyExamples.git
 	branch = master
 [submodule "electro-smith/daisysp"]
-	path = libs/daisy/daisysp
+	path = daisy/daisysp
 	url = https://github.com/electro-smith/DaisySP.git
 	branch = master
 [submodule "electrosmith/libdaisy"]
-	path = libs/daisy/libdaisy
+	path = daisy/libdaisy
 	url = https://github.com/electro-smith/libDaisy.git
 	branch = master
 [submodule "electro-smith/oopsy"]
@@ -515,7 +515,7 @@
 	url = https://github.com/mtthw-meyer/libdaisy-rust.git
 	branch = master
 [submodule "backtail/daisy-blank"]
-	path = libs/daisy/daisy-blank
+	path = daisy/daisy-blank
 	url = https://github.com/backtail/daisy-blank.git
 	branch = master
 [submodule "irh/freeverb-rs"]
@@ -1589,4 +1589,12 @@
 [submodule "supercollider-quarks/adclib"]
 	path = supercollider/quarks/adclib
 	url = https://github.com/supercollider-quarks/adclib.git
+	branch = main
+[submodule "electro-smith/daisysp-lgpl"]
+	path = daisy/daisysp-lgpl
+	url = https://github.com/electro-smith/DaisySP-LGPL.git
+	branch = main
+[submodule "electro-smith/daisy-juce-example"]
+	path = daisy/daisy-juce-example
+	url = https://github.com/electro-smith/Daisy-Juce-Example.git
 	branch = main
