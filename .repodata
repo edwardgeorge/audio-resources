@@ -33,6 +33,36 @@ check_time = "2024-04-03T18:34:26.678025227Z"
 change_time = "2023-05-30T00:20:22Z"
 commit_hash = "9ec04c134668175ce73a2f9a93ec29b2b36cdb36"
 
+["daisy/daisy-blank"]
+check_time = "2024-04-04T18:34:19.897215688Z"
+change_time = "2022-10-20T14:49:47Z"
+commit_hash = "58cb460753a95bcb6e49a82be73cf952406feec3"
+
+["daisy/daisy-examples"]
+check_time = "2024-04-04T18:34:25.267596092Z"
+change_time = "2024-01-08T21:05:17Z"
+commit_hash = "7288c67400e58c88370223263955bf49e16652f8"
+
+["daisy/daisy-juce-example"]
+check_time = "2024-04-04T18:34:29.975498472Z"
+change_time = "2021-01-14T23:23:24Z"
+commit_hash = "4a4ad7665a985abd4562360a240242e45e93826f"
+
+["daisy/daisysp"]
+check_time = "2024-04-04T18:34:33.490618904Z"
+change_time = "2024-01-29T15:06:10Z"
+commit_hash = "d54d8753a30ac6d265b4be4a49e758a3f5dfb86e"
+
+["daisy/daisysp-lgpl"]
+check_time = "2024-04-04T18:34:38.509578613Z"
+change_time = "2023-12-21T17:17:21Z"
+commit_hash = "c89d380c62620d6fee9105c5035e081c9b7ea843"
+
+["daisy/libdaisy"]
+check_time = "2024-04-04T18:34:42.413224560Z"
+change_time = "2024-03-07T14:21:51Z"
+commit_hash = "f7727edb9a1febdd174b5310a7bc65340dae8700"
+
 [drum-machine-patterns]
 check_time = "2024-02-16T10:17:08.721592049Z"
 change_time = "2023-05-03T02:30:59Z"
@@ -64,12 +94,12 @@ change_time = "2024-03-24T23:29:05Z"
 commit_hash = "4ecafb29a06ddaa6340d81f0725d99bf648d9a22"
 
 ["embedded/rppicomidi-midi2usbhub"]
-check_time = "2024-04-03T19:31:58.507453902Z"
+check_time = "2024-04-04T18:34:45.892240957Z"
 change_time = "2024-02-12T16:16:40Z"
 commit_hash = "0d98c00010bff5bae3757f33f7e6d957b294c281"
 
 ["embedded/rppicomidi-usb-midi-filter"]
-check_time = "2024-04-01T03:11:55.455924011Z"
+check_time = "2024-04-04T18:34:48.890610604Z"
 change_time = "2023-10-17T17:12:25Z"
 commit_hash = "7bea9659f1b355d35d55e6240704b945345693f8"
 
@@ -144,7 +174,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-04-04T16:13:23.932965288Z"
+check_time = "2024-04-04T18:34:53.321379068Z"
 change_time = "2024-04-04T04:06:42Z"
 commit_hash = "395ed73cfa77f02b683362f1cc4437aa7cdbb2c4"
 
@@ -519,7 +549,7 @@ change_time = "2024-03-25T19:36:15Z"
 commit_hash = "1a54d3a35067d89aaa7da9452b040a8b682d7262"
 
 ["hw-fw-eurorack/orcas-heart"]
-check_time = "2024-04-03T08:35:26.703688897Z"
+check_time = "2024-04-04T18:34:57.150370236Z"
 change_time = "2023-12-22T01:06:46Z"
 commit_hash = "0ad5629be37f3a4504fb473dd218f8ff5cd7ad03"
 
@@ -609,7 +639,7 @@ change_time = "2023-01-11T08:11:21Z"
 commit_hash = "ed8b34c4b99a08bfd41c659a50852e556b334f12"
 
 ["hw-fw-eurorack/synth-dexed"]
-check_time = "2024-04-02T23:12:05.056698036Z"
+check_time = "2024-04-04T18:35:01.997236762Z"
 change_time = "2023-12-23T09:48:25Z"
 commit_hash = "0a2de3848970fdd0f7eeb55cc49676e962665b8d"
 
@@ -699,12 +729,12 @@ change_time = "2024-02-18T17:05:23Z"
 commit_hash = "092c8bc8856a5419940907cebdf0c91da8868405"
 
 ["languages-and-frameworks/hvcc"]
-check_time = "2024-04-04T17:09:37.165295413Z"
+check_time = "2024-04-04T18:35:06.794228064Z"
 change_time = "2024-04-01T19:33:26Z"
 commit_hash = "89446f737e2b8bc7794fbdd4de2dcce2cb43c874"
 
 ["languages-and-frameworks/tidalcycles"]
-check_time = "2024-04-04T08:15:10.966254103Z"
+check_time = "2024-04-04T18:35:11.281963421Z"
 change_time = "2024-03-30T21:12:12Z"
 commit_hash = "d130059aaca798a564793e9c3af5274e7b864bf0"
 
@@ -729,7 +759,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-04T15:11:42.698955706Z"
+check_time = "2024-04-04T18:35:16.574200612Z"
 change_time = "2024-04-04T00:48:10Z"
 commit_hash = "4fb865b4a8558820e4d7ac30ef00894c7ea6e355"
 
@@ -839,7 +869,7 @@ change_time = "2024-03-20T07:59:08Z"
 commit_hash = "342cd99dd9eec2cab8f750db23f32f77492177df"
 
 ["libs/softcut-lib"]
-check_time = "2024-04-03T14:11:21.607570383Z"
+check_time = "2024-04-04T18:35:19.375435229Z"
 change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
@@ -1034,7 +1064,7 @@ change_time = "2022-01-27T22:19:57Z"
 commit_hash = "d283b085aa7e055fa89129226c89bd4f66f7cc48"
 
 ["max/sonus"]
-check_time = "2024-04-04T09:13:19.257972767Z"
+check_time = "2024-04-04T18:35:23.447584657Z"
 change_time = "2024-03-28T11:42:08Z"
 commit_hash = "c1135c6a557b43d3e9e5bb3afb7b30a71e378b43"
 
@@ -1690,7 +1720,7 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-04-04T12:21:01.038457722Z"
+check_time = "2024-04-04T18:35:27.084697756Z"
 change_time = "2024-03-23T10:51:11Z"
 commit_hash = "bb274976ca138289436b0bfa209b2c8c13244225"
 
@@ -1705,7 +1735,7 @@ change_time = "2024-01-01T05:29:40Z"
 commit_hash = "8ba1ea13c4fe5d4c4647a3a44f102252f9899a65"
 
 ["rust-libraries/rtrb"]
-check_time = "2024-04-04T15:11:47.671952385Z"
+check_time = "2024-04-04T18:35:29.971193556Z"
 change_time = "2024-04-03T14:03:29Z"
 commit_hash = "d14aa63ddb3da9524c6e7f786033e6551130b225"
 
@@ -2716,7 +2746,7 @@ change_time = "2022-02-20T08:20:25Z"
 commit_hash = "5c5bb66ad78d8ad5ceb07d3e8bbec967edb4d438"
 
 ["vcvrack/modules/venommodules"]
-check_time = "2024-04-04T03:14:01.359047578Z"
+check_time = "2024-04-04T18:35:34.051326838Z"
 change_time = "2024-03-12T12:16:04Z"
 commit_hash = "742c48eddb43b2595c929b2312514d6c3f0b7f61"
 
