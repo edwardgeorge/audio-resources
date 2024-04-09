@@ -1598,3 +1598,23 @@
 	path = daisy/daisy-juce-example
 	url = https://github.com/electro-smith/Daisy-Juce-Example.git
 	branch = main
+[submodule "4ms/dld"]
+	path = hw-fw-eurorack/4ms-dld
+	url = https://github.com/4ms/DLD.git
+	branch = master
+[submodule "4ms/looping-delay"]
+	path = hw-fw-eurorack/4ms-looping-delay
+	url = https://github.com/4ms/looping-delay.git
+	branch = main
+[submodule "4ms/sampler-firmware"]
+	path = hw-fw-eurorack/4ms-sampler-firmware
+	url = https://github.com/4ms/sampler-firmware.git
+	branch = main
+[submodule "4ms/smr"]
+	path = hw-fw-eurorack/4ms-smr
+	url = https://github.com/4ms/SMR.git
+	branch = master
+[submodule "4ms/swn"]
+	path = hw-fw-eurorack/4ms-swn
+	url = https://github.com/4ms/SWN.git
+	branch = master
