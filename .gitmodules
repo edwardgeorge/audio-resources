@@ -1614,3 +1614,7 @@
 	path = hw-fw-eurorack/4ms-swn
 	url = https://github.com/4ms/SWN.git
 	branch = master
+[submodule "ljwall/er-301-units"]
+	path = er-301/units/ljwall-units
+	url = https://github.com/ljwall/er-301-units.git
+	branch = main
