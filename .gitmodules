@@ -1194,18 +1194,14 @@
 	path = libs/amy
 	url = https://github.com/bwhitman/amy.git
 	branch = main
-[submodule "tidalcycles/tidal/1.10-dev"]
+[submodule "tidalcycles/tidal"]
 	path = languages-and-frameworks/tidalcycles
 	url = https://github.com/tidalcycles/Tidal.git
-	branch = 1.10-dev
+	branch = dev
 [submodule "sfztools/sfizz/develop"]
 	path = libs/sfizz
 	url = https://github.com/sfztools/sfizz.git
 	branch = develop
-[submodule "tidalcycles/tidal/2.0-dev"]
-	path = languages-and-frameworks/tidalcycles-2
-	url = https://github.com/tidalcycles/Tidal.git
-	branch = 2.0-dev
 [submodule "schollz/-core"]
 	path = hw-fw-eurorack/-core
 	url = https://github.com/schollz/_core.git
