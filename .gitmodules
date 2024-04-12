@@ -1618,3 +1618,15 @@
 	path = er-301/units/ljwall-units
 	url = https://github.com/ljwall/er-301-units.git
 	branch = main
+[submodule "abluenautilus/seasidemodularvcv"]
+	path = vcvrack/modules/seaside
+	url = https://github.com/abluenautilus/SeasideModularVCV.git
+	branch = master
+[submodule "abluenautilus/blossom"]
+	path = daisy/modules/bloom/blossom
+	url = https://github.com/abluenautilus/Blossom.git
+	branch = main
+[submodule "abluenautilus/bloom-unofficial"]
+	path = daisy/modules/bloom/bloom-unofficial
+	url = https://github.com/abluenautilus/Bloom_Unofficial.git
+	branch = main
