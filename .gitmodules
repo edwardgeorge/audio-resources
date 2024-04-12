@@ -1642,3 +1642,7 @@
 	path = daisy/modules/versio/proteus
 	url = https://github.com/abluenautilus/ProteusVersio.git
 	branch = main
+[submodule "thisisnotrocketscience/eurorack-modules"]
+	path = hw-fw-eurorack/tinrs-eurorack-modules
+	url = https://github.com/ThisIsNotRocketScience/Eurorack-Modules.git
+	branch = master
