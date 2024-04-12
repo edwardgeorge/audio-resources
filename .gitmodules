@@ -1630,3 +1630,15 @@
 	path = daisy/modules/bloom/bloom-unofficial
 	url = https://github.com/abluenautilus/Bloom_Unofficial.git
 	branch = main
+[submodule "abluenautilus/proteusdaisypatchinit"]
+	path = daisy/modules/patch-init/proteus
+	url = https://github.com/abluenautilus/ProteusDaisyPatchInit.git
+	branch = main
+[submodule "digitalartifactmusic/plateauneversio"]
+	path = daisy/modules/versio/plateau
+	url = https://github.com/digitalartifactmusic/PlateauNEVersio.git
+	branch = main
+[submodule "abluenautilus/proteusversio"]
+	path = daisy/modules/versio/proteus
+	url = https://github.com/abluenautilus/ProteusVersio.git
+	branch = main
