@@ -1646,3 +1646,7 @@
 	path = hw-fw-eurorack/tinrs-eurorack-modules
 	url = https://github.com/ThisIsNotRocketScience/Eurorack-Modules.git
 	branch = master
+[submodule "thisisnotrocketscience/eurorack-kds"]
+	path = hw-fw-eurorack/tinrs-eurorack-fw
+	url = https://github.com/ThisIsNotRocketScience/Eurorack-KDS.git
+	branch = master
