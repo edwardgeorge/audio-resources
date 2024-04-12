@@ -1650,3 +1650,7 @@
 	path = hw-fw-eurorack/tinrs-eurorack-fw
 	url = https://github.com/ThisIsNotRocketScience/Eurorack-KDS.git
 	branch = master
+[submodule "p3r7/wavematrix"]
+	path = norns/scripts/wavematrix
+	url = https://github.com/p3r7/wavematrix.git
+	branch = main
