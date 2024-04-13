@@ -329,9 +329,9 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-13T17:07:44.629591727Z"
-change_time = "2024-04-13T00:58:22Z"
-commit_hash = "b41b1320fb94c263ab53bd32d006b5eb87d8956f"
+check_time = "2024-04-13T20:09:40.247576906Z"
+change_time = "2024-04-13T19:10:24Z"
+commit_hash = "7d9044969e54711181ed4bcd54170b703701059d"
 
 ["hw-fw-eurorack/disphaze"]
 check_time = "2024-04-12T02:22:26.911341906Z"
@@ -359,7 +359,7 @@ change_time = "2024-04-11T07:29:54Z"
 commit_hash = "5c7976106a365bb429d117824502a968f3f95d48"
 
 ["hw-fw-eurorack/eurorack-blocks"]
-check_time = "2024-04-13T17:07:55.725759205Z"
+check_time = "2024-04-13T20:09:46.648415799Z"
 change_time = "2024-03-30T00:14:37Z"
 commit_hash = "96e41955c56145a4abe7753a88d1074ab4d253c2"
 
@@ -394,7 +394,7 @@ change_time = "2024-01-08T00:35:55Z"
 commit_hash = "3648cd6525d198c2a8913af8d82bc49a5e904575"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-04-13T19:07:56.439398676Z"
+check_time = "2024-04-13T20:09:50.545428594Z"
 change_time = "2024-04-13T15:57:20Z"
 commit_hash = "94f62426ddd111391d1e3443f6f4df5d0ac04d0d"
 
@@ -934,7 +934,7 @@ change_time = "2024-03-20T07:59:08Z"
 commit_hash = "342cd99dd9eec2cab8f750db23f32f77492177df"
 
 ["libs/softcut-lib"]
-check_time = "2024-04-12T14:10:44.593904495Z"
+check_time = "2024-04-13T20:09:53.260092727Z"
 change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
@@ -1525,7 +1525,7 @@ change_time = "2023-09-28T16:29:29Z"
 commit_hash = "75a2af8334dc842783c5fc1e8b87afc43199cdb6"
 
 ["norns/scripts/wavematrix"]
-check_time = "2024-04-13T19:08:43.863250652Z"
+check_time = "2024-04-13T20:09:55.800030791Z"
 change_time = "2024-04-13T18:02:49Z"
 commit_hash = "bbb473d4363aa823f29f1543c7adc597b530108c"
 
@@ -1690,7 +1690,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-13T19:08:57.111628862Z"
+check_time = "2024-04-13T20:10:10.933922338Z"
 change_time = "2024-04-13T13:39:11Z"
 commit_hash = "314bf28b0a083e96c4fcb52d442a681515f6f763"
 
@@ -1765,7 +1765,7 @@ change_time = "2023-04-14T12:33:28Z"
 commit_hash = "5e85a24c7d1ddf9ad660282752c7b68a6941f90f"
 
 ["rust-libraries/fundsp-rs"]
-check_time = "2024-04-13T13:11:28.734339482Z"
+check_time = "2024-04-13T20:10:13.681258117Z"
 change_time = "2024-04-08T12:03:38Z"
 commit_hash = "5e86b6237698d4beef9dfcffe73530a98bc68ca2"
 
@@ -1865,7 +1865,7 @@ change_time = "2024-03-10T23:36:14Z"
 commit_hash = "4f41954de75e2447753f3e522cc7345ec414a703"
 
 ["rust-libraries/tune-rs"]
-check_time = "2024-04-13T16:13:43.457401946Z"
+check_time = "2024-04-13T20:10:16.572440491Z"
 change_time = "2024-04-12T23:12:43Z"
 commit_hash = "242b65e409e2b88fa3f51378ca73a1b83a43252e"
 
@@ -2196,7 +2196,7 @@ change_time = "2024-04-01T09:43:21Z"
 commit_hash = "0746ffbd949fd2b3adbc547c219b567430f20b70"
 
 ["supercollider/quarks/clothesline"]
-check_time = "2024-04-13T19:09:00.267048543Z"
+check_time = "2024-04-13T20:10:18.818826625Z"
 change_time = "2024-04-13T10:38:09Z"
 commit_hash = "ecd7420dc66e6db0111e2a2ee3a42db717516dbc"
 
@@ -2241,7 +2241,7 @@ change_time = "2023-09-22T19:23:36Z"
 commit_hash = "f8d6abb6d300b2670fc4fe4901b5fb157b60851a"
 
 ["supercollider/quarks/supersampler"]
-check_time = "2024-04-13T08:12:07.205615219Z"
+check_time = "2024-04-13T20:10:21.362104303Z"
 change_time = "2024-03-24T14:00:34Z"
 commit_hash = "52ab4ee053f87e268369e68c22f0d692f0461c4a"
 
@@ -2316,7 +2316,7 @@ change_time = "2018-11-16T12:59:32Z"
 commit_hash = "40528cb0c17c440103e08f4c6938118e9a3b6aaa"
 
 ["supercollider/scripts/supercollisions"]
-check_time = "2024-04-13T12:16:30.972244047Z"
+check_time = "2024-04-13T20:10:26.987393298Z"
 change_time = "2024-03-19T23:12:02Z"
 commit_hash = "e2f3f10a2e1e998840a241ac6b0e37aee7f7f321"
 
@@ -2746,7 +2746,7 @@ change_time = "2024-01-14T22:10:41Z"
 commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
 
 ["vcvrack/modules/pathsetmodules"]
-check_time = "2024-04-12T18:12:48.027939545Z"
+check_time = "2024-04-13T20:10:30.022155851Z"
 change_time = "2022-10-31T03:41:51Z"
 commit_hash = "66e69a2f2047e3dab06275b12852e56d143388cf"
 
