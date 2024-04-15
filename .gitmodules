@@ -1758,3 +1758,7 @@
 	path = tidal/samples/sounds-tr808-fischer
 	url = https://github.com/tidalcycles/sounds-tr808-fischer.git
 	branch = main
+[submodule "belaplatform/gliss-firmware"]
+	path = hw-fw-eurorack/gliss-firmware
+	url = https://github.com/BelaPlatform/gliss-firmware.git
+	branch = main
