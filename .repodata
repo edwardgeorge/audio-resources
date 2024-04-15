@@ -534,7 +534,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-15T14:34:21.637955483Z"
+check_time = "2024-04-15T18:06:57.862112278Z"
 change_time = "2024-04-14T19:50:22Z"
 commit_hash = "be23007f0524630f890087672ca3d925a6859934"
 
@@ -734,7 +734,7 @@ change_time = "2024-02-03T00:39:00Z"
 commit_hash = "b19b83cac36b049540866adfbeed90903d2d06ac"
 
 ["hw-fw-eurorack/plinky"]
-check_time = "2024-04-15T13:13:00.707523816Z"
+check_time = "2024-04-15T18:07:04.595611897Z"
 change_time = "2024-04-01T18:47:39Z"
 commit_hash = "86d1ed3b8e1a99c9fe9a09e4f91ed1a89ac5a99d"
 
@@ -1509,7 +1509,7 @@ change_time = "2023-11-08T20:09:10Z"
 commit_hash = "e2043f3e3d1b0d11284d003d1b947b6234047450"
 
 ["misc/sloth"]
-check_time = "2024-04-12T03:13:26.849836668Z"
+check_time = "2024-04-15T18:07:06.965640497Z"
 change_time = "2023-10-01T01:54:05Z"
 commit_hash = "f826dfd6476ddb28ab67d3137dde6adc8901423d"
 
@@ -1765,7 +1765,7 @@ change_time = "2024-04-12T21:14:42Z"
 commit_hash = "b150fa58c41a7c73aea65c949539044fef728e55"
 
 ["norns/scripts/dreamsequence-dev"]
-check_time = "2024-04-15T12:21:30.544458055Z"
+check_time = "2024-04-15T18:07:08.046472644Z"
 change_time = "2024-04-05T20:34:45Z"
 commit_hash = "0169cbe42b337e06952d28550f82bc38e18fac21"
 
@@ -1865,7 +1865,7 @@ change_time = "2023-11-10T19:04:36Z"
 commit_hash = "5345fba94acd819b6607328165265e60c0b9b2bf"
 
 ["norns/source"]
-check_time = "2024-04-14T22:04:20.235787006Z"
+check_time = "2024-04-15T18:07:09.638001546Z"
 change_time = "2024-03-19T15:04:26Z"
 commit_hash = "03b15ce0dfe4559b8bfb496deff42d4b1a97c74a"
 
@@ -2058,6 +2058,11 @@ commit_hash = "f68a8109e03d254cac8777f6a84bad793cd4f6e9"
 check_time = "2024-04-13T15:09:46.956815800Z"
 change_time = "2023-11-26T14:17:21Z"
 commit_hash = "493820950c8d95d99060d0479fa1e78b3bebe708"
+
+["pure-data/hvcc"]
+check_time = "2024-04-15T18:07:12.236379539Z"
+change_time = "2024-04-12T15:36:44Z"
+commit_hash = "917f52a5c977367fd0e1067da359d38e8d8fa93b"
 
 ["pure-data/lira-8"]
 check_time = "2024-04-15T16:13:49.891202723Z"
@@ -2854,6 +2859,11 @@ commit_hash = "ec5281b425b887a393204b65b55d6b955f61851c"
 check_time = "2024-02-18T01:05:43.673435457Z"
 change_time = "2023-12-23T09:48:25Z"
 commit_hash = "0a2de3848970fdd0f7eeb55cc49676e962665b8d"
+
+["tidal/tidalcycles"]
+check_time = "2024-04-15T18:07:14.531200526Z"
+change_time = "2024-04-15T08:06:25Z"
+commit_hash = "30d75ef5aa3732210611766ca61c786265b936fc"
 
 ["vcv-modules/80instruments"]
 check_time = "2024-04-01T13:12:59.935084958Z"
