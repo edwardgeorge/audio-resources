@@ -223,7 +223,7 @@
 	url = https://github.com/jatinchowdhury18/AnalogTapeModel.git
 	branch = master
 [submodule "grame-cncm/faust/master-dev"]
-	path = languages-and-frameworks/faust
+	path = faust/faust
 	url = https://github.com/grame-cncm/faust.git
 	branch = master-dev
 [submodule "aubio/aubio"]
@@ -783,11 +783,11 @@
 	url = https://github.com/zueblin/Polaron.git
 	branch = master
 [submodule "grame-cncm/faustlibraries"]
-	path = languages-and-frameworks/faust-libraries
+	path = faust/faust-libraries
 	url = https://github.com/grame-cncm/faustlibraries.git
 	branch = master
 [submodule "grame-cncm/faustlive"]
-	path = languages-and-frameworks/faust-live
+	path = faust/faust-live
 	url = https://github.com/grame-cncm/faustlive.git
 	branch = master
 [submodule "albnys/drum-machine"]
@@ -1718,3 +1718,11 @@
 	path = hw-fw-eurorack/er-102
 	url = https://github.com/odevices/er-102.git
 	branch = main
+[submodule "grame-cncm/faustdocker"]
+	path = faust/faust-docker
+	url = https://github.com/grame-cncm/faustdocker.git
+	branch = main
+[submodule "grame-cncm/faustwasm"]
+	path = faust/faust-wasm
+	url = https://github.com/grame-cncm/faustwasm.git
+	branch = master
