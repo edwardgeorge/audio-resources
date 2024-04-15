@@ -1710,3 +1710,11 @@
 	path = hw-fw-eurorack/performer-hardware
 	url = https://github.com/westlicht/performer-hardware.git
 	branch = master
+[submodule "odevices/er-101"]
+	path = hw-fw-eurorack/er-101
+	url = https://github.com/odevices/er-101.git
+	branch = main
+[submodule "odevices/er-102"]
+	path = hw-fw-eurorack/er-102
+	url = https://github.com/odevices/er-102.git
+	branch = main
