@@ -49,7 +49,7 @@ change_time = "2021-01-14T23:23:24Z"
 commit_hash = "4a4ad7665a985abd4562360a240242e45e93826f"
 
 ["daisy/daisysp"]
-check_time = "2024-04-15T15:52:53.488987688Z"
+check_time = "2024-04-15T21:37:37.926203479Z"
 change_time = "2024-01-29T15:06:10Z"
 commit_hash = "d54d8753a30ac6d265b4be4a49e758a3f5dfb86e"
 
@@ -444,7 +444,7 @@ change_time = "2022-05-16T09:22:20Z"
 commit_hash = "e94210c6536a5a06998d433df55a7f394327105a"
 
 ["hw-fw-eurorack/expertsleepers-hardware"]
-check_time = "2024-04-15T06:15:20.999816788Z"
+check_time = "2024-04-15T21:37:40.048975497Z"
 change_time = "2024-02-26T09:28:11Z"
 commit_hash = "28216f0551028549d2db60e45cb08be5862f8359"
 
@@ -459,7 +459,7 @@ change_time = "2020-02-14T10:20:09Z"
 commit_hash = "7ae4160b8e212a2f97c90e098b7fa84075a76c69"
 
 ["hw-fw-eurorack/granularduino"]
-check_time = "2024-04-07T22:09:49.810506551Z"
+check_time = "2024-04-15T21:37:41.111782776Z"
 change_time = "2022-03-31T09:08:25Z"
 commit_hash = "a3d413d36a29e6f79831f3eade62e4b35833be48"
 
@@ -889,7 +889,7 @@ change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["languages-and-frameworks/glicol"]
-check_time = "2024-04-15T15:12:23.863683556Z"
+check_time = "2024-04-15T21:37:42.749765790Z"
 change_time = "2024-04-11T07:59:42Z"
 commit_hash = "d6f34568eb9377da29a907982c9313e381e152f6"
 
@@ -1845,7 +1845,7 @@ change_time = "2023-11-08T18:42:45Z"
 commit_hash = "c55222dbf7fdea62c6499bf79848c73bf00a2fbb"
 
 ["norns/scripts/tapedeck"]
-check_time = "2024-04-12T02:22:47.756111941Z"
+check_time = "2024-04-15T21:37:44.377927894Z"
 change_time = "2023-05-14T13:34:49Z"
 commit_hash = "7430f65451c831a8d563b6b9ed52986707d03072"
 
@@ -2425,7 +2425,7 @@ change_time = "2023-08-16T19:56:44Z"
 commit_hash = "aff09e4fadf93d48f40708ec86c80af7e3a21cc8"
 
 ["supercollider/compositions/a-collapse-of-structures"]
-check_time = "2024-04-12T21:11:17.527309158Z"
+check_time = "2024-04-15T21:37:45.813548712Z"
 change_time = "2021-05-26T11:35:53Z"
 commit_hash = "fa2b9ac2f49506743de9b358c01aad0437657042"
 
@@ -2884,6 +2884,31 @@ commit_hash = "ec5281b425b887a393204b65b55d6b955f61851c"
 check_time = "2024-02-18T01:05:43.673435457Z"
 change_time = "2023-12-23T09:48:25Z"
 commit_hash = "0a2de3848970fdd0f7eeb55cc49676e962665b8d"
+
+["tidal/samples/dirt-samples"]
+check_time = "2024-04-15T21:38:04.357446406Z"
+change_time = "2023-10-27T20:44:18Z"
+commit_hash = "9a6dff8f9ec3cd55b287290cf04e01afa6b8f532"
+
+["tidal/samples/sounds-dirty"]
+check_time = "2024-04-15T21:38:06.627885778Z"
+change_time = "2021-04-03T14:54:16Z"
+commit_hash = "66c63320366d0bdefb710d69cdfa9ef69c5241ac"
+
+["tidal/samples/sounds-repetition"]
+check_time = "2024-04-15T21:38:08.802302526Z"
+change_time = "2021-03-26T21:46:11Z"
+commit_hash = "fd3c34985448d7c54a893bd0666b2a8211ab51b2"
+
+["tidal/samples/sounds-tr808-fischer"]
+check_time = "2024-04-15T21:38:11.700817908Z"
+change_time = "2021-04-03T19:09:47Z"
+commit_hash = "85fbecf1bec32553395625ea659e2a56dfd7c0e1"
+
+["tidal/strudel"]
+check_time = "2024-04-15T21:38:34.035406195Z"
+change_time = "2024-04-12T10:34:27Z"
+commit_hash = "e0c4997f1ef010886087473a6724082260ef4093"
 
 ["tidal/tidalcycles"]
 check_time = "2024-04-15T20:12:50.927441702Z"
