@@ -47,7 +47,7 @@
 	url = https://github.com/bastl-instruments/kompas.git
 	branch = master
 [submodule "venus-instruments/veno-echo"]
-	path = hw-fw-eurorack/veno-echo
+	path = daisy/modules/misc/veno-echo
 	url = https://github.com/AdamFulford/Veno-Echo.git
 	branch = main
 [submodule "mhetrick/nonlinearcircuits"]
@@ -99,7 +99,7 @@
 	url = https://github.com/rupa/cuecat.git
 	branch = main
 [submodule "hirnlego/repetita-versio"]
-	path = hw-fw-eurorack/repetita-versio
+	path = daisy/modules/versio/repetita-versio
 	url = https://github.com/hirnlego/repetita-versio.git
 	branch = master
 [submodule "sixolet/phonotype"]
@@ -303,7 +303,7 @@
 	url = https://github.com/probonopd/MiniDexed.git
 	branch = main
 [submodule "fluffyaudio/multiversio"]
-	path = hw-fw-eurorack/multiversio
+	path = daisy/modules/versio/multiversio
 	url = https://github.com/fluffyaudio/MultiVersio.git
 	branch = main
 [submodule "paulstoffregen/audio"]
