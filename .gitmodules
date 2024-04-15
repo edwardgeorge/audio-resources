@@ -31,7 +31,7 @@
 	url = https://github.com/Dewb/monome-rack.git
 	branch = main
 [submodule "djphazer/o_c-benisphere-suite"]
-	path = hw-fw-eurorack/phazerville-suite
+	path = o_c/phazerville-suite
 	url = https://github.com/djphazer/O_C-BenisphereSuite.git
 	branch = phazerville
 [submodule "bpcmusic/telex"]
@@ -155,7 +155,7 @@
 	url = https://github.com/jaap3/pti-tools.git
 	branch = main
 [submodule "eh2k/squares-and-circles"]
-	path = hw-fw-eurorack/squares-and-circles
+	path = o_c/squares-and-circles
 	url = https://github.com/eh2k/squares-and-circles.git
 	branch = main
 [submodule "musikinformatik/superdirt/develop"]
@@ -1657,4 +1657,12 @@
 [submodule "infrasonicaudio/infrasonic-vcv"]
 	path = vcvrack/modules/infrasonic
 	url = https://github.com/infrasonicaudio/Infrasonic-VCV.git
+	branch = main
+[submodule "benjiaomodular/patchinit-collection"]
+	path = daisy/modules/patch-init/benjiao-collection
+	url = https://github.com/benjiaomodular/PatchInit_Collection.git
+	branch = main
+[submodule "ndonald2/daisypatches"]
+	path = daisy/modules/patch-init/ndonald2-patches
+	url = https://github.com/ndonald2/DaisyPatches.git
 	branch = main
