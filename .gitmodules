@@ -179,7 +179,7 @@
 	url = https://github.com/ShaiRosenblit/tidal-sound-explorer.git
 	branch = main
 [submodule "hundredrabbits/orca"]
-	path = software-and-tools/orca
+	path = orca/orca-js
 	url = https://github.com/hundredrabbits/Orca.git
 	branch = main
 [submodule "monome/monome-max-package"]
@@ -1725,4 +1725,16 @@
 [submodule "grame-cncm/faustwasm"]
 	path = faust/faust-wasm
 	url = https://github.com/grame-cncm/faustwasm.git
+	branch = master
+[submodule "rabbits/orca"]
+	path = orca/orca-c
+	url = https://git.sr.ht/~rabbits/orca
+	branch = main
+[submodule "rabbits/orca-toy"]
+	path = orca/orca-toy
+	url = https://git.sr.ht/~rabbits/orca-toy
+	branch = main
+[submodule "hundredrabbits/pilot"]
+	path = orca/pilot
+	url = https://github.com/hundredrabbits/Pilot.git
 	branch = master
