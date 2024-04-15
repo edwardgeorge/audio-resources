@@ -31,7 +31,7 @@
 	url = https://github.com/Dewb/monome-rack.git
 	branch = main
 [submodule "djphazer/o_c-benisphere-suite"]
-	path = o_c/phazerville-suite
+	path = ornament-and-crime/phazerville-suite
 	url = https://github.com/djphazer/O_C-BenisphereSuite.git
 	branch = phazerville
 [submodule "bpcmusic/telex"]
@@ -155,7 +155,7 @@
 	url = https://github.com/jaap3/pti-tools.git
 	branch = main
 [submodule "eh2k/squares-and-circles"]
-	path = o_c/squares-and-circles
+	path = ornament-and-crime/squares-and-circles
 	url = https://github.com/eh2k/squares-and-circles.git
 	branch = main
 [submodule "musikinformatik/superdirt/develop"]
@@ -1694,3 +1694,19 @@
 	path = max/devkit/min-devkit
 	url = https://github.com/Cycling74/min-devkit.git
 	branch = main
+[submodule "mxmxmx/o-c"]
+	path = ornament-and-crime/mxmxmx-o-c
+	url = https://github.com/mxmxmx/O_C.git
+	branch = master
+[submodule "jakplugg/uo-c"]
+	path = ornament-and-crime/jakplugg-uo-c
+	url = https://github.com/jakplugg/uO_c.git
+	branch = master
+[submodule "westlicht/performer"]
+	path = hw-fw-eurorack/performer
+	url = https://github.com/westlicht/performer.git
+	branch = master
+[submodule "westlicht/performer-hardware"]
+	path = hw-fw-eurorack/performer-hardware
+	url = https://github.com/westlicht/performer-hardware.git
+	branch = master
