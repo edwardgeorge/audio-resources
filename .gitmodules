@@ -1666,3 +1666,19 @@
 	path = daisy/modules/patch-init/ndonald2-patches
 	url = https://github.com/ndonald2/DaisyPatches.git
 	branch = main
+[submodule "mengqimusic/wingie2"]
+	path = hw-fw-eurorack/wingie2
+	url = https://github.com/mengqimusic/Wingie2.git
+	branch = main
+[submodule "mengqimusic/wingie1"]
+	path = hw-fw-eurorack/wingie1
+	url = https://github.com/mengqimusic/Wingie1.git
+	branch = main
+[submodule "mengqimusic/ciat-lonbarde-pcb"]
+	path = hw-fw-eurorack/mengqi-ciat-lonbarde-pcb
+	url = https://github.com/mengqimusic/Ciat-Lonbarde-PCB.git
+	branch = main
+[submodule "mengqimusic/bfw"]
+	path = hw-fw-eurorack/blippoo-for-wingie2
+	url = https://github.com/mengqimusic/bfw.git
+	branch = main
