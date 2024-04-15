@@ -279,7 +279,7 @@
 	url = https://github.com/vult-dsp/vult.git
 	branch = master
 [submodule "schollz/norns-desktop"]
-	path = software-and-tools/norns-desktop
+	path = norns/development/norns-desktop
 	url = https://github.com/schollz/norns-desktop.git
 	branch = main
 [submodule "supercollider/sc3-plugins"]
