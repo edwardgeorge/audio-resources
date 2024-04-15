@@ -1738,3 +1738,23 @@
 	path = orca/pilot
 	url = https://github.com/hundredrabbits/Pilot.git
 	branch = master
+[submodule "tidalcycles/strudel"]
+	path = tidal/strudel
+	url = https://github.com/tidalcycles/strudel.git
+	branch = main
+[submodule "tidalcycles/dirt-samples"]
+	path = tidal/samples/dirt-samples
+	url = https://github.com/tidalcycles/Dirt-Samples.git
+	branch = master
+[submodule "tidalcycles/sounds-repetition"]
+	path = tidal/samples/sounds-repetition
+	url = https://github.com/tidalcycles/sounds-repetition.git
+	branch = main
+[submodule "tidalcycles/sounds-dirty"]
+	path = tidal/samples/sounds-dirty
+	url = https://github.com/tidalcycles/sounds-dirty.git
+	branch = main
+[submodule "tidalcycles/sounds-tr808-fischer"]
+	path = tidal/samples/sounds-tr808-fischer
+	url = https://github.com/tidalcycles/sounds-tr808-fischer.git
+	branch = main
