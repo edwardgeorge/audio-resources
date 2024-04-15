@@ -89,7 +89,7 @@ change_time = "2024-01-25T23:40:01Z"
 commit_hash = "77405a1e256de07361a5753891dbc67e39666a40"
 
 ["daisy/modules/patch-init/proteus"]
-check_time = "2024-04-13T19:07:52.990478199Z"
+check_time = "2024-04-15T14:33:40.903081479Z"
 change_time = "2022-10-11T07:14:55Z"
 commit_hash = "946723d667e85feaa077882236e30e600b81a3be"
 
@@ -369,7 +369,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-15T11:08:00.978732019Z"
+check_time = "2024-04-15T14:33:44.097071877Z"
 change_time = "2024-04-13T19:10:24Z"
 commit_hash = "7d9044969e54711181ed4bcd54170b703701059d"
 
@@ -499,7 +499,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-15T12:21:12.578787984Z"
+check_time = "2024-04-15T14:34:21.637955483Z"
 change_time = "2024-04-14T19:50:22Z"
 commit_hash = "be23007f0524630f890087672ca3d925a6859934"
 
@@ -619,7 +619,7 @@ change_time = "2023-08-16T16:58:23Z"
 commit_hash = "08460a69a7e1f7a81c5a2abcc7189c9a6b7208d4"
 
 ["hw-fw-eurorack/mvmnt"]
-check_time = "2024-04-13T12:15:52.658040694Z"
+check_time = "2024-04-15T14:34:22.782262162Z"
 change_time = "2024-02-13T22:34:36Z"
 commit_hash = "1e0024b15a295bece4adc1a0826561330542e3f1"
 
@@ -673,6 +673,16 @@ check_time = "2024-04-08T18:15:25.268464903Z"
 change_time = "2021-02-18T05:39:13Z"
 commit_hash = "32fa66f5acce1bff2f0a7bdd041e29bad3222557"
 
+["hw-fw-eurorack/performer"]
+check_time = "2024-04-15T14:34:32.879936526Z"
+change_time = "2023-11-13T22:59:12Z"
+commit_hash = "f0c2328eb4ec6e638352fb2b04edffea1017c251"
+
+["hw-fw-eurorack/performer-hardware"]
+check_time = "2024-04-15T14:34:37.238230545Z"
+change_time = "2019-09-27T21:49:05Z"
+commit_hash = "da7d8f8dd7a2b8255b39e755a31631996e2d0a57"
+
 ["hw-fw-eurorack/phazerville-suite"]
 check_time = "2024-04-15T04:27:27.051389931Z"
 change_time = "2024-03-22T09:40:01Z"
@@ -684,7 +694,7 @@ change_time = "2021-10-04T13:15:55Z"
 commit_hash = "3d5d471a65a701a93b2a258fffaae6b9439ba5c9"
 
 ["hw-fw-eurorack/pikocore"]
-check_time = "2024-04-14T22:03:29.918063669Z"
+check_time = "2024-04-15T14:34:38.197884461Z"
 change_time = "2024-02-03T00:39:00Z"
 commit_hash = "b19b83cac36b049540866adfbeed90903d2d06ac"
 
@@ -879,7 +889,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-15T14:09:59.369329540Z"
+check_time = "2024-04-15T14:34:41.304267224Z"
 change_time = "2024-04-15T12:17:20Z"
 commit_hash = "064cb7c50e7aba132cdf7cb19f858adfeabd6a79"
 
@@ -1695,7 +1705,7 @@ change_time = "2023-05-16T18:58:09Z"
 commit_hash = "1c69c3eb31e92a903f1796b2d38684842639312c"
 
 ["norns/scripts/ash"]
-check_time = "2024-04-13T08:11:24.689669765Z"
+check_time = "2024-04-15T14:34:42.615149383Z"
 change_time = "2023-07-24T21:08:35Z"
 commit_hash = "89493c7719cf7e3abadc979e52cf0d3e11150690"
 
@@ -1868,6 +1878,26 @@ commit_hash = "9d02176a11ea2333e7df6bec0c0f30f677b1fb38"
 check_time = "2024-04-02T19:09:16.314124148Z"
 change_time = "2023-12-22T01:06:46Z"
 commit_hash = "0ad5629be37f3a4504fb473dd218f8ff5cd7ad03"
+
+["ornament-and-crime/jakplugg-uo-c"]
+check_time = "2024-04-15T14:34:46.139165618Z"
+change_time = "2020-03-13T22:32:58Z"
+commit_hash = "90d2ef980c832a4298cf1c485dcab29cfaf4c80c"
+
+["ornament-and-crime/mxmxmx-o-c"]
+check_time = "2024-04-15T14:34:49.891839963Z"
+change_time = "2022-04-22T04:38:11Z"
+commit_hash = "cfbffab4e2a1b162480264d4ef57c2bcb41580c6"
+
+["ornament-and-crime/phazerville-suite"]
+check_time = "2024-04-15T14:34:51.280908025Z"
+change_time = "2024-03-22T09:40:01Z"
+commit_hash = "111bf010468c095e477d6d5d8866307ceff393cb"
+
+["ornament-and-crime/squares-and-circles"]
+check_time = "2024-04-15T14:34:52.508198766Z"
+change_time = "2024-04-14T11:19:25Z"
+commit_hash = "995cfcff85b2f688da5809d54cab9717ebf70fa1"
 
 ["plugins-and-standalone/analog-tape-model"]
 check_time = "2024-04-15T14:18:09.720900424Z"
@@ -2080,7 +2110,7 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-04-15T05:10:32.892743029Z"
+check_time = "2024-04-15T14:34:53.894074107Z"
 change_time = "2024-03-23T10:51:11Z"
 commit_hash = "bb274976ca138289436b0bfa209b2c8c13244225"
 
@@ -2120,7 +2150,7 @@ change_time = "2023-11-11T15:49:44Z"
 commit_hash = "4f573d69451c9cafba65f746a6ff19ec251ee826"
 
 ["rust-libraries/rustaudio-dsp-chain"]
-check_time = "2024-04-12T07:55:13.617092275Z"
+check_time = "2024-04-15T14:34:54.879479778Z"
 change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
@@ -2230,7 +2260,7 @@ change_time = "2008-04-14T15:05:43Z"
 commit_hash = "2809eefedc705b160dd805eeb6de26abb77b3484"
 
 ["software-and-tools/norns-desktop"]
-check_time = "2024-04-14T23:59:26.592038323Z"
+check_time = "2024-04-15T14:34:56.110614607Z"
 change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
