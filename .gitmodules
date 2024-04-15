@@ -39,7 +39,7 @@
 	url = https://github.com/bpcmusic/telex.git
 	branch = master
 [submodule "allen-synthesis/europi"]
-	path = hw-fw-eurorack/europi
+	path = europi/source
 	url = https://github.com/Allen-Synthesis/EuroPi.git
 	branch = main
 [submodule "bastl-instruments/kompas"]
