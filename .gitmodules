@@ -59,7 +59,7 @@
 	url = https://gitlab.com/then-try-this/samplebrain.git
 	branch = production
 [submodule "composingcap/grainflow"]
-	path = max/grainflow
+	path = max/packages/grainflow
 	url = https://github.com/composingcap/grainflow.git
 	branch = master
 [submodule "asb2m10/dexed"]
@@ -83,7 +83,7 @@
 	url = https://github.com/deezer/spleeter.git
 	branch = master
 [submodule "deezer/spleeter4max"]
-	path = max/spleeter4max
+	path = max/m4l-devices/spleeter4max
 	url = https://github.com/diracdeltas/spleeter4max.git
 	branch = master
 [submodule "vastdynamics/vaporizer2"]
@@ -183,11 +183,11 @@
 	url = https://github.com/hundredrabbits/Orca.git
 	branch = main
 [submodule "monome/monome-max-package"]
-	path = max/monome
+	path = max/packages/monome
 	url = https://github.com/monome/monome-max-package.git
 	branch = main
 [submodule "monome/crow-max-and-m4l"]
-	path = max/monome-crow
+	path = max/patches/monome-crow
 	url = https://github.com/monome/crow-max-and-m4l.git
 	branch = main
 [submodule "monome/whitewhale"]
@@ -211,7 +211,7 @@
 	url = https://github.com/monome/kria.git
 	branch = master
 [submodule "monome/terms"]
-	path = max/terms
+	path = max/m4l-devices/terms
 	url = https://github.com/monome/Terms.git
 	branch = master
 [submodule "yamadapc/augmented-audio"]
@@ -255,11 +255,11 @@
 	url = https://github.com/bastl-instruments/eurorack.git
 	branch = master
 [submodule "pdmeyer/philip-meyer-max-tutorials"]
-	path = max/philip-meyer-max-tutorials
+	path = max/packages/philip-meyer-max-tutorials
 	url = https://github.com/pdmeyer/philip-meyer-max-tutorials.git
 	branch = main
 [submodule "pdmeyer/rhythm-and-time-toolkit"]
-	path = max/rhythm-and-time-toolkit
+	path = max/packages/rhythm-and-time-toolkit
 	url = https://github.com/pdmeyer/rhythm-and-time-toolkit.git
 	branch = main
 [submodule "mudlogger/autogen301"]
@@ -611,7 +611,7 @@
 	url = https://github.com/madskjeldgaard/guttersynth-sc.git
 	branch = main
 [submodule "tommmmudd/guttersynthesis"]
-	path = max/guttersynthesis
+	path = max/applications/guttersynthesis
 	url = https://github.com/tommmmudd/guttersynthesis.git
 	branch = master
 [submodule "madskjeldgaard/monolithic"]
@@ -699,11 +699,11 @@
 	url = https://github.com/ossia/libossia.git
 	branch = master
 [submodule "cycling74/median/develop"]
-	path = rust-libraries/median
+	path = max/devkit/median
 	url = https://github.com/Cycling74/median.git
 	branch = develop
 [submodule "cycling74/petra"]
-	path = max/petra
+	path = max/packages/petra
 	url = https://github.com/Cycling74/petra.git
 	branch = master
 [submodule "entzmingerc/drumcrow"]
@@ -743,11 +743,11 @@
 	url = https://github.com/dndrks/cheat_codes_2.git
 	branch = main
 [submodule "fors-fm/lode"]
-	path = max/lode
+	path = max/m4l-devices/lode
 	url = https://github.com/fors-fm/lode.git
 	branch = main
 [submodule "ess-m/gen-filters"]
-	path = max/gen-filters
+	path = max/packages/gen-filters
 	url = https://github.com/ess-m/gen-filters.git
 	branch = main
 [submodule "sonocircuit/concrete"]
@@ -755,11 +755,11 @@
 	url = https://github.com/sonocircuit/concrete.git
 	branch = main
 [submodule "julianfortune/witchcraftsynth"]
-	path = max/witchcraftsynth
+	path = max/patches/witchcraftsynth
 	url = https://github.com/julianfortune/WitchcraftSynth.git
 	branch = master
 [submodule "valeriorlandini/sonus"]
-	path = max/sonus
+	path = max/packages/sonus
 	url = https://github.com/valeriorlandini/sonus.git
 	branch = main
 [submodule "madskjeldgaard/picoosc"]
@@ -1019,11 +1019,11 @@
 	url = https://github.com/musikinformatik/SAWDUST.git
 	branch = master
 [submodule "kindohm/max-patches"]
-	path = max/kindohm-max-patches
+	path = max/patches/kindohm-max-patches
 	url = https://github.com/kindohm/max-patches.git
 	branch = master
 [submodule "uiforks/facet"]
-	path = max/facet
+	path = max/tools/facet
 	url = https://github.com/uiforks/facet.git
 	branch = main
 [submodule "diegodorado/tidal-synths"]
@@ -1051,39 +1051,39 @@
 	url = https://github.com/loopier/samplematic.git
 	branch = master
 [submodule "cycling74/percolate"]
-	path = max/percolate
+	path = max/packages/percolate
 	url = https://github.com/Cycling74/percolate.git
 	branch = master
 [submodule "kasperskov/monome-grainfields-v1.1"]
-	path = max/monome-grainfields
+	path = max/patches/monome-grainfields
 	url = https://github.com/kasperskov/monome_grainfields-v1.1.git
 	branch = master
 [submodule "kasperskov/monome-grainfields-m4l-v1.1"]
-	path = max/monome-grainfields-m4l
+	path = max/m4l-devices/monome-grainfields-m4l
 	url = https://github.com/kasperskov/monome_grainfields_m4l-v1.1.git
 	branch = master
 [submodule "v7b1/bonk-64bit-version"]
-	path = max/bonk
+	path = max/packages/bonk
 	url = https://github.com/v7b1/bonk_64bit-version.git
 	branch = main
 [submodule "v7b1/vb-objects"]
-	path = max/vb-objects
+	path = max/packages/vb-objects
 	url = https://github.com/v7b1/vb-objects.git
 	branch = main
 [submodule "v7b1/sigmund-64bit-version"]
-	path = max/sigmund
+	path = max/packages/sigmund
 	url = https://github.com/v7b1/sigmund_64bit-version.git
 	branch = master
 [submodule "v7b1/fiddle-64bit-version"]
-	path = max/fiddle
+	path = max/packages/fiddle
 	url = https://github.com/v7b1/fiddle_64bit_version.git
 	branch = main
 [submodule "mhetrick/euromax"]
-	path = max/euromax
+	path = max/packages/euromax
 	url = https://github.com/mhetrick/Euromax.git
 	branch = master
 [submodule "meta-meta/maxpatches"]
-	path = max/meta-meta-maxpatches
+	path = max/patches/meta-meta-maxpatches
 	url = https://github.com/meta-meta/MaxPatches.git
 	branch = master
 [submodule "trash80/ym2149synth"]
@@ -1091,59 +1091,59 @@
 	url = https://github.com/trash80/Ym2149Synth.git
 	branch = master
 [submodule "mdhosale/grainbuffer"]
-	path = max/grainbuffer
+	path = max/packages/grainbuffer
 	url = https://github.com/mdhosale/grainbuffer.git
 	branch = master
 [submodule "victor-shepardson/feedbacker"]
-	path = max/feedbacker
+	path = max/patches/feedbacker
 	url = https://github.com/victor-shepardson/feedbacker.git
 	branch = master
 [submodule "acids-ircam/rave"]
-	path = max/rave
+	path = max/nn-tools/rave
 	url = https://github.com/acids-ircam/RAVE.git
 	branch = master
 [submodule "acids-ircam/nn-tilde"]
-	path = max/nn-tilde
+	path = max/packages/nn-tilde
 	url = https://github.com/acids-ircam/nn_tilde.git
 	branch = master
 [submodule "acids-ircam/vschaos2"]
-	path = max/vschaos2
+	path = max/nn-tools/vschaos2
 	url = https://github.com/acids-ircam/vschaos2.git
 	branch = main
 [submodule "robenkleene/thwomp"]
-	path = max/thwomp
+	path = max/m4l-devices/thwomp
 	url = https://github.com/robenkleene/thwomp.git
 	branch = master
 [submodule "robenkleene/sidewinder"]
-	path = max/sidewinder
+	path = max/m4l-devices/sidewinder
 	url = https://github.com/robenkleene/sidewinder.git
 	branch = master
 [submodule "robenkleene/parrot"]
-	path = max/parrot
+	path = max/m4l-devices/parrot
 	url = https://github.com/robenkleene/parrot.git
 	branch = master
 [submodule "alexrodi/modulate-synth"]
-	path = max/modulate-synth
+	path = max/patches/modulate-synth
 	url = https://github.com/alexrodi/Modulate-Synth.git
 	branch = master
 [submodule "adamflorin/patter-tools"]
-	path = max/patter-tools
+	path = max/packages/patter-tools
 	url = https://github.com/adamflorin/patter-tools.git
 	branch = master
 [submodule "adamflorin/cue"]
-	path = max/cue
+	path = max/packages/cue
 	url = https://github.com/adamflorin/cue.git
 	branch = master
 [submodule "cycling74/max-sdk"]
-	path = max/max-sdk
+	path = max/devkit/max-sdk
 	url = https://github.com/Cycling74/max-sdk.git
 	branch = main
 [submodule "cycling74/max-sdk-base"]
-	path = max/max-sdk-base
+	path = max/devkit/max-sdk-base
 	url = https://github.com/Cycling74/max-sdk-base.git
 	branch = main
 [submodule "adamflorin/normalrandom"]
-	path = max/normalrandom
+	path = max/packages/normalrandom
 	url = https://github.com/adamflorin/normalrandom.git
 	branch = master
 [submodule "surge-synthesizer/surge"]
@@ -1319,7 +1319,7 @@
 	url = https://github.com/modulove/A-RYTH-MATIK.git
 	branch = main
 [submodule "ess-m/lood"]
-	path = max/lood
+	path = max/m4l-devices/lood
 	url = https://github.com/ess-m/lood.git
 	branch = main
 [submodule "davebenham/venommodules"]
@@ -1443,7 +1443,7 @@
 	url = https://github.com/diyelectromusic/picodexed.git
 	branch = main
 [submodule "ableton/maxdevtools"]
-	path = max/maxdevtools
+	path = max/docs/ableton-maxdevtools
 	url = https://github.com/Ableton/maxdevtools.git
 	branch = main
 [submodule "awonak/ether-twin"]
@@ -1551,7 +1551,7 @@
 	url = https://github.com/expertsleepersltd/hardware.git
 	branch = main
 [submodule "shakfu/chuck-max"]
-	path = max/chuck-max
+	path = max/packages/chuck-max
 	url = https://github.com/shakfu/chuck-max.git
 	branch = main
 [submodule "scanner-darkly/eightfold"]
@@ -1681,4 +1681,16 @@
 [submodule "mengqimusic/bfw"]
 	path = hw-fw-eurorack/blippoo-for-wingie2
 	url = https://github.com/mengqimusic/bfw.git
+	branch = main
+[submodule "cycling74/min-api"]
+	path = max/devkit/min-api
+	url = https://github.com/Cycling74/min-api.git
+	branch = main
+[submodule "cycling74/min-lib"]
+	path = max/devkit/min-lib
+	url = https://github.com/Cycling74/min-lib.git
+	branch = master
+[submodule "cycling74/min-devkit"]
+	path = max/devkit/min-devkit
+	url = https://github.com/Cycling74/min-devkit.git
 	branch = main
