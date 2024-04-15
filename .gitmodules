@@ -1654,3 +1654,7 @@
 	path = norns/scripts/wavematrix
 	url = https://github.com/p3r7/wavematrix.git
 	branch = main
+[submodule "infrasonicaudio/infrasonic-vcv"]
+	path = vcvrack/modules/infrasonic
+	url = https://github.com/infrasonicaudio/Infrasonic-VCV.git
+	branch = main
