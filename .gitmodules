@@ -395,7 +395,7 @@
 	url = https://github.com/monome/serialosc.git
 	branch = main
 [submodule "thetechnobear/orac"]
-	path = orac
+	path = pure-data/orac
 	url = https://github.com/TheTechnobear/Orac.git
 	branch = master
 [submodule "polymeilex/oxisynth"]
