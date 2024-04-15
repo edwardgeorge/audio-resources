@@ -1007,7 +1007,7 @@
 	url = https://github.com/MikeMorenoDSP/LIRA-8.git
 	branch = master
 [submodule "wasted-audio/hvcc/develop"]
-	path = languages-and-frameworks/hvcc
+	path = pure-data/hvcc
 	url = https://github.com/Wasted-Audio/hvcc.git
 	branch = develop
 [submodule "wasted-audio/heavylib"]
@@ -1195,7 +1195,7 @@
 	url = https://github.com/bwhitman/amy.git
 	branch = main
 [submodule "tidalcycles/tidal"]
-	path = languages-and-frameworks/tidalcycles
+	path = tidal/tidalcycles
 	url = https://github.com/tidalcycles/Tidal.git
 	branch = dev
 [submodule "sfztools/sfizz/develop"]
