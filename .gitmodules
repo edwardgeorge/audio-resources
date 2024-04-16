@@ -1766,3 +1766,39 @@
 	path = daisy/daisyduino
 	url = https://github.com/electro-smith/DaisyDuino.git
 	branch = master
+[submodule "porres/pd-else"]
+	path = pure-data/pd-else
+	url = https://github.com/porres/pd-else.git
+	branch = master
+[submodule "porres/live-electronics-tutorial"]
+	path = pure-data/docs/live-electronics-tutorial
+	url = https://github.com/porres/Live-Electronics-Tutorial.git
+	branch = master
+[submodule "pure-data/pure-data"]
+	path = pure-data/pure-data
+	url = https://github.com/pure-data/pure-data.git
+	branch = master
+[submodule "pure-data/helloworld"]
+	path = pure-data/development/helloworld
+	url = https://github.com/pure-data/helloworld.git
+	branch = master
+[submodule "pure-data/pd-lib-builder"]
+	path = pure-data/development/pd-lib-builder
+	url = https://github.com/pure-data/pd-lib-builder.git
+	branch = master
+[submodule "pure-data/externals-howto"]
+	path = pure-data/docs/externals-howto
+	url = https://github.com/pure-data/externals-howto.git
+	branch = master
+[submodule "porres/pd-psycho"]
+	path = pure-data/pd-psycho
+	url = https://github.com/porres/pd-psycho.git
+	branch = master
+[submodule "porres/pd-cyclone"]
+	path = pure-data/pd-cyclone
+	url = https://github.com/porres/pd-cyclone.git
+	branch = master
+[submodule "porres/merda"]
+	path = pure-data/merda
+	url = https://github.com/porres/MERDA.git
+	branch = main
