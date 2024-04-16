@@ -15,11 +15,11 @@
 	url = https://github.com/wntrblm/Castor_and_Pollux.git
 	branch = main
 [submodule "monome/teletype"]
-	path = monome/teletype
+	path = monome/eurorack/teletype
 	url = https://github.com/monome/teletype.git
 	branch = main
 [submodule "monome/ansible"]
-	path = monome/ansible
+	path = monome/eurorack/ansible
 	url = https://github.com/monome/ansible.git
 	branch = main
 [submodule "monome/crow"]
@@ -35,7 +35,7 @@
 	url = https://github.com/djphazer/O_C-BenisphereSuite.git
 	branch = phazerville
 [submodule "bpcmusic/telex"]
-	path = hw-fw-eurorack/telex
+	path = monome/3rd-party-hardware/telex
 	url = https://github.com/bpcmusic/telex.git
 	branch = master
 [submodule "allen-synthesis/europi"]
@@ -123,7 +123,7 @@
 	url = https://github.com/monome/bowery.git
 	branch = main
 [submodule "theslowgrowth/monomearcclone"]
-	path = hw-fw-eurorack/monome-arc-clone
+	path = monome/3rd-party-hardware/arc-clone
 	url = https://github.com/TheSlowGrowth/MonomeArcClone.git
 	branch = master
 [submodule "midilab/aciduino"]
@@ -191,23 +191,23 @@
 	url = https://github.com/monome/crow-max-and-m4l.git
 	branch = main
 [submodule "monome/whitewhale"]
-	path = monome/whitewhale
+	path = monome/eurorack/whitewhale
 	url = https://github.com/monome/whitewhale.git
 	branch = main
 [submodule "monome/libavr32"]
-	path = libs/monome-libavr32
+	path = monome/libs/libavr32
 	url = https://github.com/monome/libavr32.git
 	branch = main
 [submodule "monome/earthsea"]
-	path = monome/earthsea
+	path = monome/eurorack/earthsea
 	url = https://github.com/monome/earthsea.git
 	branch = main
 [submodule "monome/meadowphysics"]
-	path = monome/meadowphysics
+	path = monome/eurorack/meadowphysics
 	url = https://github.com/monome/meadowphysics.git
 	branch = main
 [submodule "monome/kria"]
-	path = monome/kria
+	path = monome/alt-firmware/kria
 	url = https://github.com/monome/kria.git
 	branch = master
 [submodule "monome/terms"]
@@ -231,11 +231,11 @@
 	url = https://github.com/aubio/aubio.git
 	branch = master
 [submodule "scanner-darkly/orcas-heart"]
-	path = hw-fw-eurorack/orcas-heart
+	path = monome/alt-firmware/orcas-heart
 	url = https://github.com/scanner-darkly/orcas-heart.git
 	branch = main
 [submodule "scanner-darkly/multipass"]
-	path = libs/multipass
+	path = monome/libs/multipass
 	url = https://github.com/scanner-darkly/multipass.git
 	branch = main
 [submodule "monome/dust"]
@@ -603,7 +603,7 @@
 	url = https://github.com/thomassidor/tinytricks.git
 	branch = master
 [submodule "monome/libmonome"]
-	path = libs/libmonome
+	path = monome/libs/libmonome
 	url = https://github.com/monome/libmonome.git
 	branch = main
 [submodule "madskjeldgaard/guttersynth-sc"]
