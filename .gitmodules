@@ -1830,3 +1830,47 @@
 	path = supercollider/quarks/monomesc
 	url = https://github.com/monome/monomeSC.git
 	branch = main
+[submodule "carlcolglazier/olearia"]
+	path = daisy/projects/olearia
+	url = https://github.com/CarlColglazier/Olearia.git
+	branch = master
+[submodule "aquamorph/droplets"]
+	path = daisy/projects/droplets
+	url = https://github.com/AquaMorph/Droplets.git
+	branch = master
+[submodule "stablum/additivevoice"]
+	path = daisy/projects/additivevoice
+	url = https://github.com/stablum/AdditiveVoice.git
+	branch = master
+[submodule "nnirror/nnirror"]
+	path = max/applications/nnirror
+	url = https://github.com/nnirror/nnirror.git
+	branch = master
+[submodule "luukschipperheyn/turingmachine"]
+	path = daisy/projects/turingmachine
+	url = https://github.com/luukschipperheyn/TuringMachine.git
+	branch = main
+[submodule "turpinl/grainwaves"]
+	path = daisy/projects/grainwaves
+	url = https://github.com/TurpinL/Grainwaves.git
+	branch = master
+[submodule "rybenmensch/mmm-daisy"]
+	path = daisy/projects/mmm-daisy
+	url = https://github.com/rybenmensch/mmm_daisy.git
+	branch = master
+[submodule "cousinsg/torpordaisy"]
+	path = daisy/projects/torpordaisy
+	url = https://github.com/cousinsg/TorporDaisy.git
+	branch = main
+[submodule "musicdevghost/eurorack"]
+	path = hw-fw-eurorack/musicdevghost-eurorack
+	url = https://github.com/musicdevghost/eurorack.git
+	branch = main
+[submodule "modulardevicesmalleableaudio/genome"]
+	path = daisy/projects/genome
+	url = https://github.com/ModularDevicesMalleableAudio/Genome.git
+	branch = main
+[submodule "modulardevicesmalleableaudio/mfb"]
+	path = daisy/projects/mfb
+	url = https://github.com/ModularDevicesMalleableAudio/MFB.git
+	branch = main
