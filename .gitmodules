@@ -1762,3 +1762,7 @@
 	path = hw-fw-eurorack/gliss-firmware
 	url = https://github.com/BelaPlatform/gliss-firmware.git
 	branch = main
+[submodule "electro-smith/daisyduino"]
+	path = daisy/daisyduino
+	url = https://github.com/electro-smith/DaisyDuino.git
+	branch = master
