@@ -1822,3 +1822,7 @@
 	path = hw-fw-eurorack/qb-nebulae-v2
 	url = https://github.com/Qu-Bit-Electronix/QB_Nebulae_V2.git
 	branch = master
+[submodule "cctvfm/covenlfo"]
+	path = hw-fw-eurorack/covenlfo
+	url = https://github.com/cctvfm/covenlfo.git
+	branch = main
