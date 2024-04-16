@@ -391,7 +391,7 @@
 	url = https://github.com/Allen-Synthesis/USB-Router.git
 	branch = main
 [submodule "monome/serialosc"]
-	path = software-and-tools/serialosc
+	path = monome/tools/serialosc
 	url = https://github.com/monome/serialosc.git
 	branch = main
 [submodule "thetechnobear/orac"]
@@ -1801,4 +1801,16 @@
 [submodule "porres/merda"]
 	path = pure-data/merda
 	url = https://github.com/porres/MERDA.git
+	branch = main
+[submodule "okyeron/neotrellis-monome"]
+	path = monome/3rd-party-hardware/neotrellis-monome
+	url = https://github.com/okyeron/neotrellis-monome.git
+	branch = main
+[submodule "okyeron/shieldxl"]
+	path = monome/3rd-party-hardware/shieldxl
+	url = https://github.com/okyeron/shieldXL.git
+	branch = main
+[submodule "monome/norns-image"]
+	path = monome/tools/norns-image
+	url = https://github.com/monome/norns-image.git
 	branch = main
