@@ -1814,3 +1814,11 @@
 	path = monome/tools/norns-image
 	url = https://github.com/monome/norns-image.git
 	branch = main
+[submodule "qu-bit-electronix/aurora-sdk"]
+	path = daisy/aurora-sdk
+	url = https://github.com/Qu-Bit-Electronix/Aurora-SDK.git
+	branch = main
+[submodule "qu-bit-electronix/qb-nebulae-v2"]
+	path = hw-fw-eurorack/qb-nebulae-v2
+	url = https://github.com/Qu-Bit-Electronix/QB_Nebulae_V2.git
+	branch = master
