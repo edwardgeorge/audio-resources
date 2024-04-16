@@ -1826,3 +1826,7 @@
 	path = hw-fw-eurorack/covenlfo
 	url = https://github.com/cctvfm/covenlfo.git
 	branch = main
+[submodule "monome/monomesc"]
+	path = supercollider/quarks/monomesc
+	url = https://github.com/monome/monomeSC.git
+	branch = main
