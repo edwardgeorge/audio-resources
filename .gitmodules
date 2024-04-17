@@ -1874,3 +1874,7 @@
 	path = daisy/projects/mfb
 	url = https://github.com/ModularDevicesMalleableAudio/MFB.git
 	branch = main
+[submodule "triglav-modular/hypjolin"]
+	path = hw-fw-eurorack/hypjolin
+	url = https://github.com/triglav-modular/Hypjolin.git
+	branch = main
