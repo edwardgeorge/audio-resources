@@ -275,7 +275,7 @@
 	url = https://github.com/tmfset/er-301-custom-units.git
 	branch = master
 [submodule "vult-dsp/vult"]
-	path = languages-and-frameworks/vult
+	path = vult/vult
 	url = https://github.com/vult-dsp/vult.git
 	branch = master
 [submodule "schollz/norns-desktop"]
