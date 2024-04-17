@@ -1878,3 +1878,7 @@
 	path = hw-fw-eurorack/hypjolin
 	url = https://github.com/triglav-modular/Hypjolin.git
 	branch = main
+[submodule "macumbista/benjolin"]
+	path = pure-data/benjolin
+	url = https://github.com/macumbista/benjolin.git
+	branch = master
