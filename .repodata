@@ -304,7 +304,7 @@ change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["faust/faust-wasm"]
-check_time = "2024-04-18T12:19:44.100866296Z"
+check_time = "2024-04-18T17:10:11.931533514Z"
 change_time = "2024-04-15T22:34:10Z"
 commit_hash = "d6f260723182d53abc2c354e9ed4c33d30d9f5b5"
 
@@ -334,7 +334,7 @@ change_time = "2017-05-22T18:08:17Z"
 commit_hash = "dfc4295fc9ca71be6243217ab544c2ef71705e3b"
 
 ["hw-fw-eurorack/4ms-looping-delay"]
-check_time = "2024-04-17T07:11:28.013667985Z"
+check_time = "2024-04-18T17:10:13.841899489Z"
 change_time = "2024-02-27T18:50:42Z"
 commit_hash = "f5b6f8c437588d7e5b631e0db9bd4558cb148bdc"
 
@@ -849,7 +849,7 @@ change_time = "2024-04-14T11:19:25Z"
 commit_hash = "995cfcff85b2f688da5809d54cab9717ebf70fa1"
 
 ["hw-fw-eurorack/squaresolid-benjolin-gorga"]
-check_time = "2024-04-17T21:48:17.677052569Z"
+check_time = "2024-04-18T17:10:16.526207181Z"
 change_time = "2024-03-21T17:24:08Z"
 commit_hash = "0c5f68ca06629f0cb29d4bd8734164ea2b7623e7"
 
@@ -1069,7 +1069,7 @@ change_time = "2024-03-07T14:21:51Z"
 commit_hash = "f7727edb9a1febdd174b5310a7bc65340dae8700"
 
 ["libs/juce"]
-check_time = "2024-04-18T11:10:21.116643322Z"
+check_time = "2024-04-18T17:10:21.295336995Z"
 change_time = "2024-04-15T09:46:51Z"
 commit_hash = "4f43011b96eb0636104cb3e433894cda98243626"
 
@@ -1905,7 +1905,7 @@ change_time = "2023-02-17T15:34:49Z"
 commit_hash = "871b4bd5197335d0037d7058cea23c9e41562b71"
 
 ["norns/scripts/arcologies"]
-check_time = "2024-04-16T08:14:31.665035640Z"
+check_time = "2024-04-18T17:10:22.962338560Z"
 change_time = "2023-05-16T18:58:09Z"
 commit_hash = "1c69c3eb31e92a903f1796b2d38684842639312c"
 
@@ -2120,7 +2120,7 @@ change_time = "2024-03-22T09:40:01Z"
 commit_hash = "111bf010468c095e477d6d5d8866307ceff393cb"
 
 ["ornament-and-crime/squares-and-circles"]
-check_time = "2024-04-18T16:13:25.430473832Z"
+check_time = "2024-04-18T17:10:24.536913743Z"
 change_time = "2024-04-14T11:19:25Z"
 commit_hash = "995cfcff85b2f688da5809d54cab9717ebf70fa1"
 
@@ -2235,12 +2235,12 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-18T08:15:30.199402040Z"
-change_time = "2024-04-15T15:43:53Z"
-commit_hash = "a42226ddf9c5e1045da762eb4e62cbe500f34e56"
+check_time = "2024-04-18T17:10:39.158918410Z"
+change_time = "2024-04-18T13:16:02Z"
+commit_hash = "f4c3831291684aed2b357a3cf10ec1fd612b056c"
 
 ["plugins-and-standalone/vaporizer2"]
-check_time = "2024-04-17T21:49:22.279809795Z"
+check_time = "2024-04-18T17:11:08.214338668Z"
 change_time = "2024-03-04T12:11:57Z"
 commit_hash = "f68a8109e03d254cac8777f6a84bad793cd4f6e9"
 
@@ -2370,7 +2370,7 @@ change_time = "2023-04-14T12:33:28Z"
 commit_hash = "5e85a24c7d1ddf9ad660282752c7b68a6941f90f"
 
 ["rust-libraries/fundsp-rs"]
-check_time = "2024-04-18T11:10:43.957821346Z"
+check_time = "2024-04-18T17:11:09.809107564Z"
 change_time = "2024-04-16T17:43:36Z"
 commit_hash = "3160cf5ec1e94351c2bed920847ebf0302184965"
 
@@ -2440,7 +2440,7 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-04-18T15:12:00.533223266Z"
+check_time = "2024-04-18T17:11:11.314302345Z"
 change_time = "2024-04-16T19:35:29Z"
 commit_hash = "e51594892ae7669389ac714b0df95500c9c493cd"
 
@@ -3126,12 +3126,12 @@ change_time = "2021-04-03T19:09:47Z"
 commit_hash = "85fbecf1bec32553395625ea659e2a56dfd7c0e1"
 
 ["tidal/strudel"]
-check_time = "2024-04-18T10:14:46.369741134Z"
+check_time = "2024-04-18T17:11:13.634801518Z"
 change_time = "2024-04-12T10:34:27Z"
 commit_hash = "e0c4997f1ef010886087473a6724082260ef4093"
 
 ["tidal/tidalcycles"]
-check_time = "2024-04-18T16:13:43.389070559Z"
+check_time = "2024-04-18T17:11:15.350426063Z"
 change_time = "2024-04-18T13:07:09Z"
 commit_hash = "850fb7aaf847653db2dc2d4e5372cf26034e3599"
 
