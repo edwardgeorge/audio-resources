@@ -1882,3 +1882,39 @@
 	path = pure-data/benjolin
 	url = https://github.com/macumbista/benjolin.git
 	branch = master
+[submodule "tmhglnd/wave-terrain-synthesis"]
+	path = max/packages/wave-terrain-synthesis
+	url = https://github.com/tmhglnd/wave-terrain-synthesis.git
+	branch = master
+[submodule "tmhglnd/th.scala"]
+	path = max/packages/th.scala
+	url = https://github.com/tmhglnd/th.scala.git
+	branch = main
+[submodule "tmhglnd/av-toolbox"]
+	path = max/packages/av-toolbox
+	url = https://github.com/tmhglnd/av-toolbox.git
+	branch = main
+[submodule "tmhglnd/th.gl.commandline"]
+	path = max/packages/th.gl.commandline
+	url = https://github.com/tmhglnd/th.gl.commandline.git
+	branch = master
+[submodule "tmhglnd/maxtoolbox"]
+	path = max/packages/maxtoolbox
+	url = https://github.com/tmhglnd/maxtoolbox.git
+	branch = master
+[submodule "tmhglnd/misc-max-abstractions"]
+	path = max/packages/misc-max-abstractions
+	url = https://github.com/tmhglnd/misc-max-abstractions.git
+	branch = master
+[submodule "tmhglnd/circular-wavetable"]
+	path = max/patches/circular-wavetable
+	url = https://github.com/tmhglnd/circular-wavetable.git
+	branch = master
+[submodule "tmhglnd/th.euclid"]
+	path = max/packages/th.euclid
+	url = https://github.com/tmhglnd/th.euclid.git
+	branch = master
+[submodule "tmhglnd/th.clave"]
+	path = max/packages/th.clave
+	url = https://github.com/tmhglnd/th.clave.git
+	branch = main
