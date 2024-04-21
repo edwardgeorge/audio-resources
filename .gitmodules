@@ -1918,3 +1918,11 @@
 	path = max/packages/th.clave
 	url = https://github.com/tmhglnd/th.clave.git
 	branch = main
+[submodule "ccrma/chuck"]
+	path = chuck/chuck
+	url = https://github.com/ccrma/chuck.git
+	branch = main
+[submodule "ccrma/chugins"]
+	path = chuck/chugins
+	url = https://github.com/ccrma/chugins.git
+	branch = main
