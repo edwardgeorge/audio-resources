@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-repopath="$(echo $1 | sed -E 's|^https://github.com/([^/]+)/([^/.]+)(\.git)?$|\1/\2|')"
+repopath="$(echo $1 | sed -E 's|^https://github.com/([^/]+)/([^/]+)(\.git)?$|\1/\2|')"
 repoinfo="$(gh api "/repos/$repopath" --template '{{.name}} {{.full_name}} {{.clone_url}} {{.default_branch}}{{"\n"}}')"
 read -r name fullname cloneurl defaultbranch <<< "$repoinfo"
 fullnametr="$(echo $fullname | tr '[:upper:]_' '[:lower:]-')"
