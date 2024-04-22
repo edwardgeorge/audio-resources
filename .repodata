@@ -219,7 +219,7 @@ change_time = "2024-02-12T16:16:40Z"
 commit_hash = "0d98c00010bff5bae3757f33f7e6d957b294c281"
 
 ["embedded/rppicomidi-usb-midi-filter"]
-check_time = "2024-04-20T10:11:14.855895111Z"
+check_time = "2024-04-22T23:08:25.750082266Z"
 change_time = "2023-10-17T17:12:25Z"
 commit_hash = "7bea9659f1b355d35d55e6240704b945345693f8"
 
@@ -349,7 +349,7 @@ change_time = "2024-02-27T18:50:42Z"
 commit_hash = "f5b6f8c437588d7e5b631e0db9bd4558cb148bdc"
 
 ["hw-fw-eurorack/4ms-sampler-firmware"]
-check_time = "2024-04-22T09:32:28.499042908Z"
+check_time = "2024-04-22T23:08:28.434296113Z"
 change_time = "2024-03-26T21:39:18Z"
 commit_hash = "487f3363437da51703f5df5fe4274b480c085111"
 
@@ -619,7 +619,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-22T22:49:58.279713406Z"
+check_time = "2024-04-22T23:08:57.295061278Z"
 change_time = "2024-04-22T21:22:13Z"
 commit_hash = "54a6d93f0097be1e95593a1a9812ff48d19b8026"
 
@@ -1484,7 +1484,7 @@ change_time = "2023-01-08T22:12:05Z"
 commit_hash = "ece73dac653b055c2e947a3b50421b9feda74f98"
 
 ["max/packages/monome"]
-check_time = "2024-04-22T09:32:43.391269364Z"
+check_time = "2024-04-22T23:08:59.687180662Z"
 change_time = "2024-01-23T14:59:05Z"
 commit_hash = "798b5355b3882ad25518537f1c3fbd86979a5e0d"
 
@@ -2004,6 +2004,16 @@ check_time = "2024-04-22T09:41:22.772570467Z"
 change_time = "2023-02-18T16:03:12Z"
 commit_hash = "b264d6090d788374a7d0af14a3faba295640f4fa"
 
+["norns/development/patcher"]
+check_time = "2024-04-22T23:09:01.821716037Z"
+change_time = "2024-01-30T04:36:25Z"
+commit_hash = "004d0602d43b3fa6717302bb7ca7192b7ff2d7af"
+
+["norns/development/tune"]
+check_time = "2024-04-22T23:09:03.688070183Z"
+change_time = "2024-01-30T03:31:36Z"
+commit_hash = "98ece2036dfc1671089c08e00b7aee84c26ab8d4"
+
 ["norns/dreamsequence"]
 check_time = "2024-04-03T07:41:41.218568960Z"
 change_time = "2023-11-15T13:49:57Z"
@@ -2154,13 +2164,18 @@ check_time = "2024-04-20T22:11:08.895621436Z"
 change_time = "2021-09-10T18:30:28Z"
 commit_hash = "36674d9adb53b69cb0cbbe861b95e39df3598110"
 
+["norns/scripts/eggs"]
+check_time = "2024-04-22T23:09:06.870976566Z"
+change_time = "2024-02-06T17:40:07Z"
+commit_hash = "45383574b4a9bcea64433d10f6b402c6be481d3f"
+
 ["norns/scripts/fall"]
 check_time = "2024-04-22T20:13:07.118651220Z"
 change_time = "2022-11-26T21:15:28Z"
 commit_hash = "3cdbbf7133bcac91c61a39558b89b6743e86151a"
 
 ["norns/scripts/foulplay"]
-check_time = "2024-04-22T14:11:21.197811050Z"
+check_time = "2024-04-22T23:09:08.142565669Z"
 change_time = "2024-01-13T18:32:27Z"
 commit_hash = "952ba47cc798c40239724d84ecac8d051429eaa8"
 
@@ -2290,7 +2305,7 @@ change_time = "2024-04-20T21:22:03Z"
 commit_hash = "2da0712f6e129246f4d8f2caf6f97bc56af73ca3"
 
 ["norns/source"]
-check_time = "2024-04-22T17:10:07.254899258Z"
+check_time = "2024-04-22T23:09:09.855157397Z"
 change_time = "2024-03-19T15:04:26Z"
 commit_hash = "03b15ce0dfe4559b8bfb496deff42d4b1a97c74a"
 
@@ -2625,7 +2640,7 @@ change_time = "2024-01-25T02:32:44Z"
 commit_hash = "63e8936570f3ea636c56e2a61023448146d81a85"
 
 ["rust-libraries/embedded-audio-tools"]
-check_time = "2024-04-21T23:11:48.081717571Z"
+check_time = "2024-04-22T23:09:11.167660489Z"
 change_time = "2023-07-08T12:28:04Z"
 commit_hash = "15e6c137f19cbc0068362d54eb1d32ca22132ab9"
 
@@ -3711,7 +3726,7 @@ change_time = "2019-02-06T10:35:12Z"
 commit_hash = "2bdfa2a736306dd7a6722c3b1565704a8027427d"
 
 ["vcvrack/modules/stoermelder-packone"]
-check_time = "2024-04-22T20:15:46.509117335Z"
+check_time = "2024-04-22T23:09:14.383069668Z"
 change_time = "2024-04-09T15:50:55Z"
 commit_hash = "b8f505c8e44f198d04274c4bc1501b3872e07124"
 
