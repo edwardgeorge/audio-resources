@@ -2114,3 +2114,7 @@
 	path = norns/scripts/eggs
 	url = https://github.com/andr-ew/eggs.git
 	branch = main
+[submodule "andr-ew/patcher"]
+	path = norns/development/patcher
+	url = https://github.com/andr-ew/patcher.git
+	branch = main
