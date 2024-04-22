@@ -2174,3 +2174,7 @@
 	path = norns/scripts/gridofrings
 	url = https://github.com/smonthms/gridofrings.git
 	branch = main
+[submodule "ryleelyman/waver"]
+	path = norns/scripts/waver
+	url = https://github.com/ryleelyman/waver.git
+	branch = main
