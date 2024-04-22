@@ -2090,3 +2090,7 @@
 	path = max/packages/softcut-msp
 	url = https://github.com/andr-ew/softcut-msp.git
 	branch = master
+[submodule "andr-ew/ndls"]
+	path = norns/scripts/ndls
+	url = https://github.com/andr-ew/ndls.git
+	branch = main
