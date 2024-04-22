@@ -199,7 +199,7 @@ change_time = "2023-09-10T12:35:36Z"
 commit_hash = "5f501f18da8f04fd458075d37069094cd6edabd6"
 
 ["embedded/picodexed"]
-check_time = "2024-04-22T04:13:30.291948963Z"
+check_time = "2024-04-22T22:58:31.940159867Z"
 change_time = "2024-02-20T20:01:09Z"
 commit_hash = "ef7928f12d60ffb9b97edde68b00b043b8972ce9"
 
@@ -574,7 +574,7 @@ change_time = "2023-06-06T17:31:52Z"
 commit_hash = "5593657e00ec79ebf0836e7c57f68efbf2200caf"
 
 ["hw-fw-eurorack/knot"]
-check_time = "2024-04-22T22:09:23.207326018Z"
+check_time = "2024-04-22T22:58:46.821717808Z"
 change_time = "2024-04-22T09:57:10Z"
 commit_hash = "58aa218f1a5303c113e5c300f371450abd8c4b3a"
 
@@ -1039,7 +1039,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-04-22T22:56:00.276357658Z"
+check_time = "2024-04-22T22:58:50.873240438Z"
 change_time = "2024-04-22T20:29:30Z"
 commit_hash = "ba945fa61ce6cd463d45cafe7985c737886ad4cf"
 
@@ -1542,6 +1542,11 @@ commit_hash = "5f8a4d77d559dd3f2733ba3de2c322a89ddf0e9b"
 check_time = "2024-04-22T10:13:35.714515130Z"
 change_time = "2022-01-27T22:19:57Z"
 commit_hash = "d283b085aa7e055fa89129226c89bd4f66f7cc48"
+
+["max/packages/softcut-msp"]
+check_time = "2024-04-22T22:58:59.398786728Z"
+change_time = "2020-01-28T21:51:04Z"
+commit_hash = "7cc81ce3396501aa567d1fa01cfd313f18ea5a3d"
 
 ["max/packages/sonus"]
 check_time = "2024-04-22T22:13:05.887312198Z"
@@ -2210,7 +2215,7 @@ change_time = "2023-09-14T01:20:49Z"
 commit_hash = "67c29d3a3d8eb53e95fe47a20c00b954df2e0023"
 
 ["norns/scripts/orca"]
-check_time = "2024-04-20T23:10:14.986562973Z"
+check_time = "2024-04-22T22:59:02.583150720Z"
 change_time = "2023-01-28T03:36:09Z"
 commit_hash = "6d8e38e0ac9a9cb779dfd4553b9f89b98283b7ea"
 
@@ -2250,7 +2255,7 @@ change_time = "2023-09-28T16:29:29Z"
 commit_hash = "75a2af8334dc842783c5fc1e8b87afc43199cdb6"
 
 ["norns/scripts/wavematrix"]
-check_time = "2024-04-22T22:05:52.488317308Z"
+check_time = "2024-04-22T22:59:05.016880435Z"
 change_time = "2024-04-19T21:02:30Z"
 commit_hash = "4cfe378d4b2b7f7c2707ff3ae473e47a6447b89e"
 
@@ -2460,7 +2465,7 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-04-22T19:36:46.030385696Z"
+check_time = "2024-04-22T22:59:09.665460695Z"
 change_time = "2024-04-18T15:44:36Z"
 commit_hash = "8322c00eb5da766ab90cfe30da9072e25669d83d"
 
@@ -2760,7 +2765,7 @@ change_time = "2022-08-20T17:30:46Z"
 commit_hash = "bac14bc7fa8ac36942216e397b7a9586bc265943"
 
 ["software-and-tools/homr"]
-check_time = "2024-04-18T13:12:12.360396175Z"
+check_time = "2024-04-22T22:59:12.289649650Z"
 change_time = "2019-07-05T15:01:53Z"
 commit_hash = "9985bb3fd5032c144c3de23122590a0e6b9c359b"
 
