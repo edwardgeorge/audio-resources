@@ -2006,3 +2006,7 @@
 	path = monome/pymonome-apps
 	url = https://github.com/artfwo/pymonome-apps.git
 	branch = master
+[submodule "artfwo/aalink"]
+	path = libs/aalink
+	url = https://github.com/artfwo/aalink.git
+	branch = main
