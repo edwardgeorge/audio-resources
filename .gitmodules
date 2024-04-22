@@ -2166,3 +2166,7 @@
 	path = norns/scripts/gridofpoints
 	url = https://github.com/duncangeere/gridofpoints.git
 	branch = main
+[submodule "schollz/barcode"]
+	path = norns/scripts/barcode
+	url = https://github.com/schollz/barcode.git
+	branch = master
