@@ -2026,3 +2026,7 @@
 	path = max/packages/ppooll-contributions
 	url = https://github.com/ppooll-dev/ppooll_contributions.git
 	branch = main
+[submodule "entzmingerc/nb_drumcrow"]
+	path = norns/scripts/nb-drumcrow
+	url = https://github.com/entzmingerc/nb_drumcrow.git
+	branch = main
