@@ -2110,3 +2110,7 @@
 	path = max/m4l-devices/prosody
 	url = https://github.com/andr-ew/prosody.git
 	branch = master
+[submodule "andr-ew/eggs"]
+	path = norns/scripts/eggs
+	url = https://github.com/andr-ew/eggs.git
+	branch = main
