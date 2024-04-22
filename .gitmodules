@@ -2086,3 +2086,7 @@
 	path = norns/scripts/buoys
 	url = https://github.com/lylepmills/buoys.git
 	branch = main
+[submodule "andr-ew/softcut-msp"]
+	path = max/packages/softcut-msp
+	url = https://github.com/andr-ew/softcut-msp.git
+	branch = master
