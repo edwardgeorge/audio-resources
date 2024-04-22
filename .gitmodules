@@ -2082,3 +2082,7 @@
 	path = norns/scripts/delar
 	url = https://github.com/filipforsstrom/delar.git
 	branch = main
+[submodule "lylepmills/buoys"]
+	path = norns/scripts/buoys
+	url = https://github.com/lylepmills/buoys.git
+	branch = main
