@@ -2034,3 +2034,7 @@
 	path = hw-fw-eurorack/chord-buffer
 	url = https://github.com/filipforsstrom/chord-buffer
 	branch = main
+[submodule "miotislucifugis/telex_teensy4"]
+	path = monome/3rd-party-hardware/telex-teensy4
+	url = https://github.com/miotislucifugis/Telex_teensy4.git
+	branch = main
