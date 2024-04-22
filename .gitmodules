@@ -2126,3 +2126,7 @@
 	path = norns/scripts/grvl
 	url = https://github.com/andr-ew/grvl.git
 	branch = main
+[submodule "andr-ew/eels"]
+	path = norns/scripts/eels
+	url = https://github.com/andr-ew/eels.git
+	branch = main
