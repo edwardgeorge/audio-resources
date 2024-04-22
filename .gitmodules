@@ -1954,3 +1954,39 @@
 	path = max/packages/airfx
 	url = https://github.com/isabelgk/airfx.git
 	branch = main
+[submodule "steve-meyer/algoclock-m4l"]
+	path = max/m4l-devices/algoclock-m4l
+	url = https://github.com/steve-meyer/algoclock-m4l.git
+	branch = main
+[submodule "steve-meyer/l-sequencer"]
+	path = max/packages/l-sequencer
+	url = https://github.com/steve-meyer/l-sequencer.git
+	branch = main
+[submodule "steve-meyer/weft"]
+	path = max/packages/weft
+	url = https://github.com/steve-meyer/weft.git
+	branch = main
+[submodule "jamesb93/bend-rust"]
+	path = software-and-tools/bend-rust
+	url = https://github.com/jamesb93/bend-rust.git
+	branch = main
+[submodule "alexharker/framelib"]
+	path = libs/framelib
+	url = https://github.com/AlexHarker/FrameLib.git
+	branch = main
+[submodule "rconstanzo/confetti"]
+	path = max/m4l-devices/confetti
+	url = https://github.com/rconstanzo/confetti.git
+	branch = master
+[submodule "rconstanzo/cut-glove"]
+	path = max/patches/cut-glove
+	url = https://github.com/rconstanzo/cut-glove.git
+	branch = master
+[submodule "rconstanzo/tpv2"]
+	path = max/patches/tpv2
+	url = https://github.com/rconstanzo/tpv2.git
+	branch = master
+[submodule "rconstanzo/the-party-van"]
+	path = max/patches/the-party-van
+	url = https://github.com/rconstanzo/the-party-van.git
+	branch = master
