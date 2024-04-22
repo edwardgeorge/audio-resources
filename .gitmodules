@@ -1990,3 +1990,7 @@
 	path = max/patches/the-party-van
 	url = https://github.com/rconstanzo/the-party-van.git
 	branch = master
+[submodule "tmhglnd/th.comp"]
+	path = max/packages/th.comp
+	url = https://github.com/tmhglnd/th.comp.git
+	branch = master
