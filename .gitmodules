@@ -2118,3 +2118,7 @@
 	path = norns/development/patcher
 	url = https://github.com/andr-ew/patcher.git
 	branch = main
+[submodule "andr-ew/tune"]
+	path = norns/development/tune
+	url = https://github.com/andr-ew/tune.git
+	branch = main
