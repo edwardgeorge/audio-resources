@@ -2146,3 +2146,7 @@
 	path = norns/scripts/asterion
 	url = https://github.com/cachilders/asterion.git
 	branch = main
+[submodule "cachilders/marcovaldo"]
+	path = norns/scripts/marcovaldo
+	url = https://github.com/cachilders/marcovaldo.git
+	branch = main
