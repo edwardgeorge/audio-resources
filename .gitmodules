@@ -2150,3 +2150,7 @@
 	path = norns/scripts/marcovaldo
 	url = https://github.com/cachilders/marcovaldo.git
 	branch = main
+[submodule "cachilders/forge"]
+	path = norns/scripts/forge
+	url = https://github.com/cachilders/forge.git
+	branch = main
