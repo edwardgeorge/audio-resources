@@ -314,7 +314,7 @@ change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["faust/faust-wasm"]
-check_time = "2024-04-22T23:20:56.036201421Z"
+check_time = "2024-04-22T23:37:10.860607113Z"
 change_time = "2024-04-19T09:32:45Z"
 commit_hash = "a714fe13a9d0e28bd5f0088a88b4108b2e39456a"
 
@@ -469,7 +469,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-22T23:01:31.266481121Z"
+check_time = "2024-04-22T23:37:14.425008160Z"
 change_time = "2024-04-21T23:50:22Z"
 commit_hash = "ba9747e6f046459f0566b187da8b97f092131a46"
 
@@ -704,7 +704,7 @@ change_time = "2023-11-04T20:23:17Z"
 commit_hash = "e12bc2628839a474c33a8f5bd5551c6708cb8852"
 
 ["hw-fw-eurorack/minitrash"]
-check_time = "2024-04-17T13:12:02.518657659Z"
+check_time = "2024-04-22T23:37:16.042983915Z"
 change_time = "2018-04-06T05:03:48Z"
 commit_hash = "225dd3f983ac7d50204ff0917dac304c0898cf4a"
 
@@ -1039,7 +1039,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-04-22T23:17:02.696638836Z"
+check_time = "2024-04-22T23:37:18.403217666Z"
 change_time = "2024-04-22T20:29:30Z"
 commit_hash = "ba945fa61ce6cd463d45cafe7985c737886ad4cf"
 
@@ -1094,7 +1094,7 @@ change_time = "2024-03-07T14:21:51Z"
 commit_hash = "f7727edb9a1febdd174b5310a7bc65340dae8700"
 
 ["libs/framelib"]
-check_time = "2024-04-22T11:46:01.118652248Z"
+check_time = "2024-04-22T23:37:21.337883087Z"
 change_time = "2023-06-30T16:57:23Z"
 commit_hash = "dbabad3a9316d3167052acb0aedf2c3d43bffc77"
 
@@ -1314,7 +1314,7 @@ change_time = "2019-09-06T08:26:54Z"
 commit_hash = "e4dc13bdb40e478b61306bf1bb4950e76e22503e"
 
 ["max/m4l-devices/parrot"]
-check_time = "2024-04-19T16:14:13.182433711Z"
+check_time = "2024-04-22T23:37:22.875300077Z"
 change_time = "2022-05-11T10:00:11Z"
 commit_hash = "d1f23201bb583fafe836e73d683101dd0b9db8d8"
 
@@ -1634,7 +1634,7 @@ change_time = "2023-04-26T04:49:11Z"
 commit_hash = "008168cddeeb2e0daf6a34950288b678a92a811e"
 
 ["max/patches/modulate-synth"]
-check_time = "2024-04-21T22:11:34.248047141Z"
+check_time = "2024-04-22T23:37:26.962513120Z"
 change_time = "2023-08-29T11:36:47Z"
 commit_hash = "69518bef9d36730c2de7eb0e81ab98fda7572dbd"
 
@@ -2134,6 +2134,11 @@ check_time = "2024-04-22T23:18:58.627011215Z"
 change_time = "2024-03-30T01:12:27Z"
 commit_hash = "e9fb465469aa17e4254009a43585d0e9f0cd66b0"
 
+["norns/scripts/barcode"]
+check_time = "2024-04-22T23:37:28.613993778Z"
+change_time = "2021-10-16T17:41:14Z"
+commit_hash = "8287bfec137f1bdb7b06090d0ef0b1b6c2245fa7"
+
 ["norns/scripts/bloom"]
 check_time = "2024-04-22T23:30:27.195170277Z"
 change_time = "2024-03-13T12:10:19Z"
@@ -2233,6 +2238,11 @@ commit_hash = "f59cb27e7fe4a84796ee53ab5778a98d51d144ff"
 check_time = "2024-04-22T23:32:07.752524020Z"
 change_time = "2023-08-23T17:49:24Z"
 commit_hash = "60592c096913ea2edc1a9ee349e7e771e548ae0f"
+
+["norns/scripts/gridofrings"]
+check_time = "2024-04-22T23:37:30.894787088Z"
+change_time = "2023-12-07T10:06:41Z"
+commit_hash = "50e33dd5e28ea001aa46735c796d1e3e1c0e6d88"
 
 ["norns/scripts/grvl"]
 check_time = "2024-04-22T23:11:07.137409478Z"
@@ -2635,7 +2645,7 @@ change_time = "2020-05-09T16:34:43Z"
 commit_hash = "9d02176a11ea2333e7df6bec0c0f30f677b1fb38"
 
 ["pure-data/pd-cyclone"]
-check_time = "2024-04-22T18:14:24.300179868Z"
+check_time = "2024-04-22T23:37:33.175090800Z"
 change_time = "2024-03-13T17:02:44Z"
 commit_hash = "dc25f6b707b2f3a21b2622dd837e82f39ed47f61"
 
@@ -3681,7 +3691,7 @@ change_time = "2023-01-18T19:45:25Z"
 commit_hash = "c1fe48219d4e224f0c1e4903fc81b5b5a9ee5d80"
 
 ["vcvrack/modules/eightfold"]
-check_time = "2024-04-22T20:31:22.528042628Z"
+check_time = "2024-04-22T23:37:35.234740426Z"
 change_time = "2024-03-30T21:19:26Z"
 commit_hash = "85556372bee7e48cd5dd7ef2f5bb58bfd24a6276"
 
@@ -3761,7 +3771,7 @@ change_time = "2023-05-04T00:21:51Z"
 commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
 
 ["vcvrack/modules/sapphire"]
-check_time = "2024-04-22T23:15:35.783426874Z"
+check_time = "2024-04-22T23:37:37.106599623Z"
 change_time = "2024-04-22T18:01:31Z"
 commit_hash = "1852690e6557f1a3d54b813fcde5eb64c3a77f0b"
 
