@@ -2058,3 +2058,7 @@
 	path = norns/scripts/loom
 	url = https://github.com/markwheeler/loom.git
 	branch = master
+[submodule "markwheeler/passersby"]
+	path = norns/scripts/passersby
+	url = https://github.com/markwheeler/passersby.git
+	branch = master
