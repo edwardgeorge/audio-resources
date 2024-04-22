@@ -2130,3 +2130,7 @@
 	path = norns/scripts/eels
 	url = https://github.com/andr-ew/eels.git
 	branch = main
+[submodule "andr-ew/dirge"]
+	path = max/m4l-devices/dirge
+	url = https://github.com/andr-ew/dirge.git
+	branch = master
