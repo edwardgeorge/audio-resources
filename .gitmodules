@@ -2014,3 +2014,7 @@
 	path = plugins-and-standalone/andes
 	url = https://github.com/artfwo/andes.git
 	branch = master
+[submodule "ppooll-dev/ppooll"]
+	path = max/packages/ppooll
+	url = https://github.com/ppooll-dev/ppooll.git
+	branch = main
