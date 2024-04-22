@@ -2154,3 +2154,7 @@
 	path = norns/scripts/forge
 	url = https://github.com/cachilders/forge.git
 	branch = main
+[submodule "schollz/warmreload"]
+	path = norns/development/warmreload
+	url = https://github.com/schollz/warmreload.git
+	branch = main
