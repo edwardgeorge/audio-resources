@@ -229,7 +229,7 @@ change_time = "2024-02-09T19:58:59Z"
 commit_hash = "1808df294a76880f84e128e0faae98305ad96db3"
 
 ["embedded/rppicomidi-usb-midi-processor"]
-check_time = "2024-04-21T03:11:27.842062168Z"
+check_time = "2024-04-22T23:01:15.161283752Z"
 change_time = "2023-10-17T17:17:40Z"
 commit_hash = "284d27cf109b0c3c21664d05505d4d685b158d27"
 
@@ -374,7 +374,7 @@ change_time = "2024-02-10T09:08:24Z"
 commit_hash = "dfa0d4de3161c323f09769d4cb154bff43794882"
 
 ["hw-fw-eurorack/aciduino"]
-check_time = "2024-04-22T02:22:27.003188842Z"
+check_time = "2024-04-22T23:01:27.591820821Z"
 change_time = "2024-02-22T21:10:45Z"
 commit_hash = "0668d81354f77dc4430ab3eb88ac3772abb2c80f"
 
@@ -469,7 +469,7 @@ change_time = "2019-04-24T12:39:24Z"
 commit_hash = "9f5422dfe4892e7593434d352b45a07129f877a4"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-22T22:23:27.517939114Z"
+check_time = "2024-04-22T23:01:31.266481121Z"
 change_time = "2024-04-21T23:50:22Z"
 commit_hash = "ba9747e6f046459f0566b187da8b97f092131a46"
 
@@ -969,7 +969,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/cabbage"]
-check_time = "2024-04-22T22:50:09.763664024Z"
+check_time = "2024-04-22T23:01:41.064620115Z"
 change_time = "2024-04-22T13:16:54Z"
 commit_hash = "9c899c37c50a4a8a5440e7414bc76aaa22f152fd"
 
@@ -1519,7 +1519,7 @@ change_time = "2024-04-04T19:22:03Z"
 commit_hash = "d3c15fe641c20ad56056d0271f2f36a97a5e77b6"
 
 ["max/packages/ppooll"]
-check_time = "2024-04-22T20:18:45.371996470Z"
+check_time = "2024-04-22T23:01:47.030991156Z"
 change_time = "2024-03-16T20:00:28Z"
 commit_hash = "4f8705a8cfb91f6fa7fc42a873475a23db97f98f"
 
@@ -2209,6 +2209,11 @@ check_time = "2024-04-22T20:26:40.362091976Z"
 change_time = "2024-01-22T02:53:13Z"
 commit_hash = "12ffece898ad9b19766c4800f354968143d39fad"
 
+["norns/scripts/ndls"]
+check_time = "2024-04-22T23:01:54.804213465Z"
+change_time = "2024-01-30T03:34:39Z"
+commit_hash = "9e7264dc1a636616297950b392a054bf711b7e5f"
+
 ["norns/scripts/oooooo"]
 check_time = "2024-04-22T22:27:52.235303169Z"
 change_time = "2023-09-14T01:20:49Z"
@@ -2350,7 +2355,7 @@ change_time = "2022-04-22T04:38:11Z"
 commit_hash = "cfbffab4e2a1b162480264d4ef57c2bcb41580c6"
 
 ["ornament-and-crime/phazerville-suite"]
-check_time = "2024-04-22T22:56:20.495592348Z"
+check_time = "2024-04-22T23:01:56.936375962Z"
 change_time = "2024-04-22T16:54:41Z"
 commit_hash = "9ee332405dd125a8cfca148663211a30a65c9c7b"
 
@@ -2595,7 +2600,7 @@ change_time = "2024-01-31T11:15:52Z"
 commit_hash = "a5f66ce2ae4c7008becbfb35e73efbfe37ab0826"
 
 ["rust-libraries/clack"]
-check_time = "2024-04-21T12:20:15.123589662Z"
+check_time = "2024-04-22T23:01:58.665795716Z"
 change_time = "2024-02-29T09:13:46Z"
 commit_hash = "cc81801156f9aaf57e98bfdb1eae2b8a9e62bca0"
 
@@ -3656,7 +3661,7 @@ change_time = "2024-01-14T22:10:41Z"
 commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
 
 ["vcvrack/modules/pathsetmodules"]
-check_time = "2024-04-22T21:10:01.904175496Z"
+check_time = "2024-04-22T23:02:01.410388810Z"
 change_time = "2024-04-14T02:10:07Z"
 commit_hash = "bc99d82ee1a305679690f5d8002c90b5e340276f"
 
@@ -3726,7 +3731,7 @@ change_time = "2024-03-18T16:50:42Z"
 commit_hash = "a5a5bc2f4775632b62e1881f694f8ab77e0da2cf"
 
 ["vcvrack/modules/vcvrack-fv1-emu"]
-check_time = "2024-04-15T14:10:50.708011592Z"
+check_time = "2024-04-22T23:02:03.032312506Z"
 change_time = "2022-02-20T08:20:25Z"
 commit_hash = "5c5bb66ad78d8ad5ceb07d3e8bbec967edb4d438"
 
