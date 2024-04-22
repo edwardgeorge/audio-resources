@@ -2138,3 +2138,7 @@
 	path = norns/scripts/qfwfq
 	url = https://github.com/cachilders/qfwfq.git
 	branch = main
+[submodule "monome/norns-community"]
+	path = norns/norns-community
+	url = https://github.com/monome/norns-community.git
+	branch = main
