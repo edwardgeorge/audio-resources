@@ -2046,3 +2046,7 @@
 	path = plugins-and-standalone/tonez
 	url = https://github.com/retornz/ToneZ
 	branch = master
+[submodule "rorywalsh/cabbage"]
+	path = languages-and-frameworks/cabbage
+	url = https://github.com/rorywalsh/cabbage
+	branch = develop
