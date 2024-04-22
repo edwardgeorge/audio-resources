@@ -2182,3 +2182,7 @@
 	path = norns/scripts/reels
 	url = https://github.com/itsyourbedtime/reels.git
 	branch = master
+[submodule "itsyourbedtime/takt"]
+	path = norns/scripts/takt
+	url = https://github.com/itsyourbedtime/takt.git
+	branch = master
