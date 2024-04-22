@@ -2030,3 +2030,7 @@
 	path = norns/scripts/nb-drumcrow
 	url = https://github.com/entzmingerc/nb_drumcrow.git
 	branch = main
+[submodule "filipforsstrom/chord-buffer"]
+	path = hw-fw-eurorack/chord-buffer
+	url = https://github.com/filipforsstrom/chord-buffer
+	branch = main
