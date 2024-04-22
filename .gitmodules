@@ -2122,3 +2122,7 @@
 	path = norns/development/tune
 	url = https://github.com/andr-ew/tune.git
 	branch = main
+[submodule "andr-ew/grvl"]
+	path = norns/scripts/grvl
+	url = https://github.com/andr-ew/grvl.git
+	branch = main
