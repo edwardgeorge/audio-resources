@@ -2158,3 +2158,7 @@
 	path = norns/development/warmreload
 	url = https://github.com/schollz/warmreload.git
 	branch = main
+[submodule "schollz/bloom"]
+	path = norns/scripts/bloom
+	url = https://github.com/schollz/bloom.git
+	branch = main
