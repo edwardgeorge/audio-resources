@@ -2002,3 +2002,7 @@
 	path = monome/libs/pymonome
 	url = https://github.com/artfwo/pymonome.git
 	branch = master
+[submodule "artfwo/pymonome-apps"]
+	path = monome/pymonome-apps
+	url = https://github.com/artfwo/pymonome-apps.git
+	branch = master
