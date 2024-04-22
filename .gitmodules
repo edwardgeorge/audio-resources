@@ -2134,3 +2134,7 @@
 	path = max/m4l-devices/dirge
 	url = https://github.com/andr-ew/dirge.git
 	branch = master
+[submodule "cachilders/qfwfq"]
+	path = norns/scripts/qfwfq
+	url = https://github.com/cachilders/qfwfq.git
+	branch = main
