@@ -2070,3 +2070,7 @@
 	path = norns/scripts/doubledecker
 	url = https://github.com/sixolet/doubledecker.git
 	branch = main
+[submodule "sixolet/nb"]
+	path = norns/development/nb
+	url = https://github.com/sixolet/nb.git
+	branch = main
