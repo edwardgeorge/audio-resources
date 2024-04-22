@@ -2042,3 +2042,7 @@
 	path = norns/scripts/glut
 	url = https://github.com/artfwo/glut.git
 	branch = master
+[submodule "retornz/tonez"]
+	path = plugins-and-standalone/tonez
+	url = https://github.com/retornz/ToneZ
+	branch = master
