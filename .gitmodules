@@ -2142,3 +2142,7 @@
 	path = norns/norns-community
 	url = https://github.com/monome/norns-community.git
 	branch = main
+[submodule "cachilders/asterion"]
+	path = norns/scripts/asterion
+	url = https://github.com/cachilders/asterion.git
+	branch = main
