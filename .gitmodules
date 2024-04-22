@@ -2054,3 +2054,7 @@
 	path = norns/scripts/timber
 	url = https://github.com/markwheeler/timber.git
 	branch = master
+[submodule "markwheeler/loom"]
+	path = norns/scripts/loom
+	url = https://github.com/markwheeler/loom.git
+	branch = master
