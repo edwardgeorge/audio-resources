@@ -2038,3 +2038,7 @@
 	path = monome/3rd-party-hardware/telex-teensy4
 	url = https://github.com/miotislucifugis/Telex_teensy4.git
 	branch = main
+[submodule "artfwo/glut"]
+	path = norns/scripts/glut
+	url = https://github.com/artfwo/glut.git
+	branch = master
