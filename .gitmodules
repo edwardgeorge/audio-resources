@@ -1934,3 +1934,23 @@
 	path = vcvrack/modules/iggylabsmodules
 	url = https://github.com/isabelgk/IggyLabsModules.git
 	branch = master
+[submodule "rconstanzo/karma"]
+	path = max/packages/karma
+	url = https://github.com/rconstanzo/karma.git
+	branch = master
+[submodule "isabelgk/phasedisperser-tilde"]
+	path = max/packages/phasedisperser-tilde
+	url = https://github.com/isabelgk/phasedisperser_tilde.git
+	branch = main
+[submodule "isabelgk/melange"]
+	path = max/packages/melange
+	url = https://github.com/isabelgk/melange.git
+	branch = main
+[submodule "steve-meyer/geneseq"]
+	path = max/packages/geneseq
+	url = https://github.com/steve-meyer/geneseq.git
+	branch = master
+[submodule "isabelgk/airfx"]
+	path = max/packages/airfx
+	url = https://github.com/isabelgk/airfx.git
+	branch = main
