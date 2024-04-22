@@ -2066,3 +2066,7 @@
 	path = norns/scripts/molly-the-poly
 	url = https://github.com/markwheeler/molly_the_poly.git
 	branch = master
+[submodule "sixolet/doubledecker"]
+	path = norns/scripts/doubledecker
+	url = https://github.com/sixolet/doubledecker.git
+	branch = main
