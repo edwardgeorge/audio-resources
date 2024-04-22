@@ -2062,3 +2062,7 @@
 	path = norns/scripts/passersby
 	url = https://github.com/markwheeler/passersby.git
 	branch = master
+[submodule "markwheeler/molly_the_poly"]
+	path = norns/scripts/molly-the-poly
+	url = https://github.com/markwheeler/molly_the_poly.git
+	branch = master
