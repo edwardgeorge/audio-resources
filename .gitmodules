@@ -1926,3 +1926,7 @@
 	path = chuck/chugins
 	url = https://github.com/ccrma/chugins.git
 	branch = main
+[submodule "isabelgk/norns-ugen-cross"]
+	path = norns/development/norns-ugen-cross
+	url = https://github.com/isabelgk/norns-ugen-cross.git
+	branch = main
