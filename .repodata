@@ -309,12 +309,12 @@ change_time = "2024-04-16T09:28:51Z"
 commit_hash = "74e8bc2130d06ec78b9d080cfe1aaa1d7fe81a1d"
 
 ["faust/faust-live"]
-check_time = "2024-04-22T09:41:15.582966045Z"
+check_time = "2024-04-22T20:26:27.262519129Z"
 change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["faust/faust-wasm"]
-check_time = "2024-04-22T20:08:38.028522848Z"
+check_time = "2024-04-22T20:26:28.876731026Z"
 change_time = "2024-04-19T09:32:45Z"
 commit_hash = "a714fe13a9d0e28bd5f0088a88b4108b2e39456a"
 
@@ -394,7 +394,7 @@ change_time = "2021-02-15T00:23:05Z"
 commit_hash = "c305a21f717dfa2cc809e3488e7512d5c711304a"
 
 ["hw-fw-eurorack/awonak-hagiwomodulove"]
-check_time = "2024-04-22T16:13:43.470045777Z"
+check_time = "2024-04-22T20:26:30.559768116Z"
 change_time = "2024-04-16T23:32:59Z"
 commit_hash = "6885d287f5541f178114078f9f3fcdb81c47f903"
 
@@ -979,7 +979,7 @@ change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
 ["languages-and-frameworks/glicol"]
-check_time = "2024-04-22T19:10:34.690652187Z"
+check_time = "2024-04-22T20:26:32.836827836Z"
 change_time = "2024-04-22T06:31:56Z"
 commit_hash = "aecb323d1aec0dde6430ea0856eaa1e1195c444c"
 
@@ -1139,7 +1139,7 @@ change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
 ["libs/sst-basic-blocks"]
-check_time = "2024-04-22T01:52:46.826704349Z"
+check_time = "2024-04-22T20:26:34.413737491Z"
 change_time = "2024-03-26T14:18:03Z"
 commit_hash = "4276b8fc23ba36403ff34faf25ab3b42af534f54"
 
@@ -1404,7 +1404,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/packages/chuck-max"]
-check_time = "2024-04-22T20:09:05.642666597Z"
+check_time = "2024-04-22T20:26:37.440402677Z"
 change_time = "2024-04-22T16:37:50Z"
 commit_hash = "481a92499c7acdc79e83c34a1f3ca019221cfde0"
 
@@ -2143,6 +2143,11 @@ commit_hash = "0ebb533462fc6c72fb85ff71fc04c02e114a90a7"
 check_time = "2024-04-22T16:14:04.027203363Z"
 change_time = "2023-11-12T14:25:53Z"
 commit_hash = "36c95094ac223a7da7db1eed4546bd10a2b7a389"
+
+["norns/scripts/nb-drumcrow"]
+check_time = "2024-04-22T20:26:40.362091976Z"
+change_time = "2024-01-22T02:53:13Z"
+commit_hash = "12ffece898ad9b19766c4800f354968143d39fad"
 
 ["norns/scripts/oooooo"]
 check_time = "2024-04-22T14:11:22.110384135Z"
@@ -3021,7 +3026,7 @@ change_time = "2023-10-15T13:50:40Z"
 commit_hash = "c7f32998572984705d340e7c1b9ed9ad998a39b6"
 
 ["supercollider/quarks/superdirtmixer"]
-check_time = "2024-04-21T12:20:18.317117246Z"
+check_time = "2024-04-22T20:26:42.589815150Z"
 change_time = "2023-09-22T19:23:36Z"
 commit_hash = "f8d6abb6d300b2670fc4fe4901b5fb157b60851a"
 
@@ -3526,7 +3531,7 @@ change_time = "2024-04-09T04:24:07Z"
 commit_hash = "5ed79544161e0fa9a55faa7c0a5f299e828e12ab"
 
 ["vcvrack/modules/geodesics"]
-check_time = "2024-04-22T06:16:04.832662192Z"
+check_time = "2024-04-22T20:26:45.072556992Z"
 change_time = "2024-04-07T11:31:08Z"
 commit_hash = "e886ca92b8ae42bd4ba5a193f924108df4007e8d"
 
@@ -3591,9 +3596,9 @@ change_time = "2023-05-04T00:21:51Z"
 commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
 
 ["vcvrack/modules/sapphire"]
-check_time = "2024-04-22T18:14:37.687650193Z"
-change_time = "2024-04-21T20:06:12Z"
-commit_hash = "5950818ceb8039b417106703e9464f5995868d46"
+check_time = "2024-04-22T20:26:50.985956707Z"
+change_time = "2024-04-22T18:01:31Z"
+commit_hash = "1852690e6557f1a3d54b813fcde5eb64c3a77f0b"
 
 ["vcvrack/modules/seaside"]
 check_time = "2024-04-22T09:33:09.169216651Z"
