@@ -2010,3 +2010,7 @@
 	path = libs/aalink
 	url = https://github.com/artfwo/aalink.git
 	branch = main
+[submodule "artfwo/andes"]
+	path = plugins-and-standalone/andes
+	url = https://github.com/artfwo/andes.git
+	branch = master
