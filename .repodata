@@ -164,7 +164,7 @@ change_time = "2023-01-21T13:16:43Z"
 commit_hash = "f885e6031aa2a2b4113294d155a7f21433369f19"
 
 ["daisy/projects/mmm-daisy"]
-check_time = "2024-04-16T15:43:55.392732107Z"
+check_time = "2024-04-22T21:02:03.658346916Z"
 change_time = "2021-03-31T19:08:23Z"
 commit_hash = "65fee24ca44f5bf1e055ee80e6b750127f6d9960"
 
@@ -329,9 +329,9 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-04-22T19:10:18.840573427Z"
-change_time = "2024-04-20T20:04:40Z"
-commit_hash = "ea2b280fd57738d0e2f7bf3e86cde4b0ebc18f0d"
+check_time = "2024-04-22T21:02:11.250969369Z"
+change_time = "2024-04-22T20:43:32Z"
+commit_hash = "c5cef42d92d1bbbd79597f94f465357dd86513aa"
 
 ["hw-fw-eurorack/16n"]
 check_time = "2024-04-22T20:08:39.383089887Z"
@@ -619,7 +619,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-22T20:37:26.078370844Z"
+check_time = "2024-04-22T21:02:44.264051197Z"
 change_time = "2024-04-22T19:24:17Z"
 commit_hash = "9a8faec465c81dadf4cd2a44f0916333d81f171d"
 
@@ -1034,7 +1034,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-04-22T20:39:14.005071466Z"
+check_time = "2024-04-22T21:02:47.549275024Z"
 change_time = "2024-04-22T20:29:30Z"
 commit_hash = "ba945fa61ce6cd463d45cafe7985c737886ad4cf"
 
@@ -1409,7 +1409,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/packages/chuck-max"]
-check_time = "2024-04-22T20:26:37.440402677Z"
+check_time = "2024-04-22T21:02:51.601946423Z"
 change_time = "2024-04-22T16:37:50Z"
 commit_hash = "481a92499c7acdc79e83c34a1f3ca019221cfde0"
 
@@ -2075,7 +2075,7 @@ change_time = "2023-02-17T15:34:49Z"
 commit_hash = "871b4bd5197335d0037d7058cea23c9e41562b71"
 
 ["norns/scripts/arcologies"]
-check_time = "2024-04-21T13:15:55.055065563Z"
+check_time = "2024-04-22T21:02:54.233937249Z"
 change_time = "2023-05-16T18:58:09Z"
 commit_hash = "1c69c3eb31e92a903f1796b2d38684842639312c"
 
@@ -2424,6 +2424,11 @@ check_time = "2024-04-22T20:09:25.090931785Z"
 change_time = "2024-04-21T22:14:16Z"
 commit_hash = "74d4dde6c6af71cb0d69e64ccdd1331b1c976299"
 
+["plugins-and-standalone/tonez"]
+check_time = "2024-04-22T21:03:06.537307402Z"
+change_time = "2023-12-24T10:26:12Z"
+commit_hash = "7c112f690ea844451d242737d08e562a8de3f215"
+
 ["plugins-and-standalone/vaporizer2"]
 check_time = "2024-04-22T20:19:18.118253079Z"
 change_time = "2024-03-04T12:11:57Z"
@@ -2565,7 +2570,7 @@ change_time = "2023-03-27T08:01:38Z"
 commit_hash = "606aa644ba583fef7edc32b07e367375e81a941e"
 
 ["rust-libraries/johnston-rs"]
-check_time = "2024-04-16T06:15:31.739017037Z"
+check_time = "2024-04-22T21:03:08.725649408Z"
 change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
@@ -3121,7 +3126,7 @@ change_time = "2018-11-16T12:59:32Z"
 commit_hash = "40528cb0c17c440103e08f4c6938118e9a3b6aaa"
 
 ["supercollider/scripts/supercollisions"]
-check_time = "2024-04-22T20:13:17.942102968Z"
+check_time = "2024-04-22T21:03:14.122376178Z"
 change_time = "2024-04-22T16:04:05Z"
 commit_hash = "54a75746c05c9287b04f3b5eb500db7fa9e00c73"
 
@@ -3561,7 +3566,7 @@ change_time = "2021-12-09T01:29:38Z"
 commit_hash = "53c691a8c38f7fab76b130326e802fb50679cf4f"
 
 ["vcvrack/modules/impromptumodular"]
-check_time = "2024-04-22T19:11:16.365846896Z"
+check_time = "2024-04-22T21:03:17.079971865Z"
 change_time = "2024-04-08T23:22:13Z"
 commit_hash = "17e2c57f3943c3a089f1ac07f60b8175fa1f1522"
 
@@ -3606,12 +3611,12 @@ change_time = "2020-09-13T19:24:32Z"
 commit_hash = "1b639e389aab543a0b1a4eaaee68b3be0f68b5d4"
 
 ["vcvrack/modules/rjmodules"]
-check_time = "2024-04-17T17:10:12.822963410Z"
+check_time = "2024-04-22T21:03:20.638143709Z"
 change_time = "2023-05-04T00:21:51Z"
 commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
 
 ["vcvrack/modules/sapphire"]
-check_time = "2024-04-22T20:37:59.129406548Z"
+check_time = "2024-04-22T21:03:23.206301329Z"
 change_time = "2024-04-22T18:01:31Z"
 commit_hash = "1852690e6557f1a3d54b813fcde5eb64c3a77f0b"
 
