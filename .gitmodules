@@ -2022,3 +2022,7 @@
 	path = max/packages/ppooll-externals
 	url = https://github.com/ppooll-dev/ppooll_externals.git
 	branch = main
+[submodule "ppooll-dev/ppooll_contributions"]
+	path = max/packages/ppooll-contributions
+	url = https://github.com/ppooll-dev/ppooll_contributions.git
+	branch = main
