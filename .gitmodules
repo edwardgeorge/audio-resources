@@ -2018,3 +2018,7 @@
 	path = max/packages/ppooll
 	url = https://github.com/ppooll-dev/ppooll.git
 	branch = main
+[submodule "ppooll-dev/ppooll_externals"]
+	path = max/packages/ppooll-externals
+	url = https://github.com/ppooll-dev/ppooll_externals.git
+	branch = main
