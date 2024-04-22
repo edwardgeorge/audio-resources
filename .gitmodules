@@ -2050,3 +2050,7 @@
 	path = languages-and-frameworks/cabbage
 	url = https://github.com/rorywalsh/cabbage
 	branch = develop
+[submodule "markwheeler/timber"]
+	path = norns/scripts/timber
+	url = https://github.com/markwheeler/timber.git
+	branch = master
