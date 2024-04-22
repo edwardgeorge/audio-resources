@@ -2102,3 +2102,7 @@
 	path = norns/scripts/orgn
 	url = https://github.com/andr-ew/orgn.git
 	branch = master
+[submodule "andr-ew/wrms"]
+	path = wrms
+	url = https://github.com/andr-ew/wrms.git
+	branch = master
