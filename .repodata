@@ -554,7 +554,7 @@ change_time = "2023-07-21T15:32:19Z"
 commit_hash = "da1ff0cb7117034b533e7df34b185179406ceb51"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-04-22T22:04:51.790119072Z"
+check_time = "2024-04-22T22:49:26.685005487Z"
 change_time = "2024-04-22T14:20:14Z"
 commit_hash = "3fa75c36e5e27948bc052015fdfe0323d388a41a"
 
@@ -619,7 +619,7 @@ change_time = "2022-02-08T08:25:27Z"
 commit_hash = "5b9322221dcdc2bc072fe25f7eaad8bec7915648"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-04-22T22:27:09.286659840Z"
+check_time = "2024-04-22T22:49:58.279713406Z"
 change_time = "2024-04-22T21:22:13Z"
 commit_hash = "54a6d93f0097be1e95593a1a9812ff48d19b8026"
 
@@ -744,7 +744,7 @@ change_time = "2023-08-16T16:58:23Z"
 commit_hash = "08460a69a7e1f7a81c5a2abcc7189c9a6b7208d4"
 
 ["hw-fw-eurorack/mvmnt"]
-check_time = "2024-04-22T02:22:34.476951167Z"
+check_time = "2024-04-22T22:50:00.665453151Z"
 change_time = "2024-02-13T22:34:36Z"
 commit_hash = "1e0024b15a295bece4adc1a0826561330542e3f1"
 
@@ -969,7 +969,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/cabbage"]
-check_time = "2024-04-22T22:12:59.116829409Z"
+check_time = "2024-04-22T22:50:09.763664024Z"
 change_time = "2024-04-22T13:16:54Z"
 commit_hash = "9c899c37c50a4a8a5440e7414bc76aaa22f152fd"
 
@@ -1414,7 +1414,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/packages/chuck-max"]
-check_time = "2024-04-22T22:45:40.410441942Z"
+check_time = "2024-04-22T22:50:14.034725477Z"
 change_time = "2024-04-22T16:37:50Z"
 commit_hash = "481a92499c7acdc79e83c34a1f3ca019221cfde0"
 
@@ -2109,6 +2109,11 @@ check_time = "2024-04-19T23:13:23.788042374Z"
 change_time = "2021-06-14T13:26:04Z"
 commit_hash = "802996928967ff71ca8997d145170d5f4e7c38c4"
 
+["norns/scripts/delar"]
+check_time = "2024-04-22T22:50:17.858148038Z"
+change_time = "2024-03-10T14:00:26Z"
+commit_hash = "bec747eca501198618cbf073c10e8473d95eb8b6"
+
 ["norns/scripts/doubledecker"]
 check_time = "2024-04-22T22:23:38.255175110Z"
 change_time = "2023-06-20T03:39:52Z"
@@ -2475,7 +2480,7 @@ change_time = "2024-03-04T12:11:57Z"
 commit_hash = "f68a8109e03d254cac8777f6a84bad793cd4f6e9"
 
 ["pure-data/benjolin"]
-check_time = "2024-04-22T09:56:37.855344664Z"
+check_time = "2024-04-22T22:50:20.968011414Z"
 change_time = "2021-08-30T14:55:42Z"
 commit_hash = "a350693b29759c3b0629577cd156014759b52f48"
 
@@ -2515,7 +2520,7 @@ change_time = "2023-02-06T05:45:22Z"
 commit_hash = "6a6b6cbc3359a20d7741c9270c7690ab6b21c92a"
 
 ["pure-data/merda"]
-check_time = "2024-04-21T16:14:56.095499765Z"
+check_time = "2024-04-22T22:50:23.222327021Z"
 change_time = "2024-02-29T05:39:33Z"
 commit_hash = "fbebcf2aed6e68ff59bad63504fc273f20941c9f"
 
@@ -2820,7 +2825,7 @@ change_time = "2022-11-15T22:31:14Z"
 commit_hash = "ddc6ef3beee166dc14de7b69f8c3899aa69e7d96"
 
 ["software-and-tools/tidal-sound-explorer"]
-check_time = "2024-04-20T02:19:17.685696899Z"
+check_time = "2024-04-22T22:50:25.708271198Z"
 change_time = "2023-05-09T07:52:24Z"
 commit_hash = "56405c790cca89ff145b385638535a14f8064b22"
 
@@ -3056,7 +3061,7 @@ change_time = "2023-12-23T20:33:52Z"
 commit_hash = "8e826074b3a2e110f3771c8e243ca16d02589a77"
 
 ["supercollider/quarks/monomesc"]
-check_time = "2024-04-22T03:12:42.186438361Z"
+check_time = "2024-04-22T22:50:27.947702601Z"
 change_time = "2024-01-04T15:59:33Z"
 commit_hash = "51b6e8271ba75396d81fe9e3b359c25806ecf734"
 
@@ -3166,7 +3171,7 @@ change_time = "2018-11-16T12:59:32Z"
 commit_hash = "40528cb0c17c440103e08f4c6938118e9a3b6aaa"
 
 ["supercollider/scripts/supercollisions"]
-check_time = "2024-04-22T22:06:06.622198581Z"
+check_time = "2024-04-22T22:50:34.498698312Z"
 change_time = "2024-04-22T16:04:05Z"
 commit_hash = "54a75746c05c9287b04f3b5eb500db7fa9e00c73"
 
