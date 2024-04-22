@@ -2178,3 +2178,7 @@
 	path = norns/scripts/waver
 	url = https://github.com/ryleelyman/waver.git
 	branch = main
+[submodule "itsyourbedtime/reels"]
+	path = norns/scripts/reels
+	url = https://github.com/itsyourbedtime/reels.git
+	branch = master
