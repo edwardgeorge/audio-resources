@@ -1930,3 +1930,7 @@
 	path = norns/development/norns-ugen-cross
 	url = https://github.com/isabelgk/norns-ugen-cross.git
 	branch = main
+[submodule "isabelgk/iggylabsmodules"]
+	path = vcvrack/modules/iggylabsmodules
+	url = https://github.com/isabelgk/IggyLabsModules.git
+	branch = master
