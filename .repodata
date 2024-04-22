@@ -1,5 +1,5 @@
 ["chuck/chuck"]
-check_time = "2024-04-22T23:10:40.061337Z"
+check_time = "2024-04-22T23:11:42.903165367Z"
 change_time = "2024-04-21T07:37:57Z"
 commit_hash = "8242682fae3102a9170d41e97b2a845431288278"
 
@@ -89,7 +89,7 @@ change_time = "2024-03-13T18:04:53Z"
 commit_hash = "d4ccf168e897313c7ac2f079df99ce14ded88ffe"
 
 ["daisy/modules/bloom/blossom"]
-check_time = "2024-04-22T23:10:43.120437771Z"
+check_time = "2024-04-22T23:11:46.337196091Z"
 change_time = "2024-03-24T01:49:19Z"
 commit_hash = "7cf256d6694a2b7f950d21589c867746e21da5ef"
 
@@ -309,7 +309,7 @@ change_time = "2024-04-16T09:28:51Z"
 commit_hash = "74e8bc2130d06ec78b9d080cfe1aaa1d7fe81a1d"
 
 ["faust/faust-live"]
-check_time = "2024-04-22T20:26:27.262519129Z"
+check_time = "2024-04-22T23:11:50.318031277Z"
 change_time = "2024-04-02T08:41:18Z"
 commit_hash = "196f85fc7cc0ba66af94028ca401e18813194c6b"
 
@@ -399,7 +399,7 @@ change_time = "2024-04-16T23:32:59Z"
 commit_hash = "6885d287f5541f178114078f9f3fcdb81c47f903"
 
 ["hw-fw-eurorack/awonak-synthcard"]
-check_time = "2024-04-22T09:32:29.722664015Z"
+check_time = "2024-04-22T23:11:53.115327601Z"
 change_time = "2024-03-01T17:51:23Z"
 commit_hash = "7995dc939e8663bd46b88bb85681a1d767f9feef"
 
@@ -1039,7 +1039,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-04-22T23:10:55.388929819Z"
+check_time = "2024-04-22T23:11:57.409913277Z"
 change_time = "2024-04-22T20:29:30Z"
 commit_hash = "ba945fa61ce6cd463d45cafe7985c737886ad4cf"
 
@@ -1319,7 +1319,7 @@ change_time = "2021-01-23T01:12:14Z"
 commit_hash = "f8aec4403604b798e4ac6fac4a7f3c2b801a6434"
 
 ["max/m4l-devices/sidewinder"]
-check_time = "2024-04-22T10:13:31.010627809Z"
+check_time = "2024-04-22T23:12:00.142293842Z"
 change_time = "2024-04-06T17:59:21Z"
 commit_hash = "047ea13b0e3a3a82d0c14284f4e3791696306f40"
 
@@ -1419,7 +1419,7 @@ change_time = "2024-02-28T19:15:21Z"
 commit_hash = "7a653dc9feef4d10b82ff482ded589d7350e61a6"
 
 ["max/packages/chuck-max"]
-check_time = "2024-04-22T23:11:01.985062285Z"
+check_time = "2024-04-22T23:12:04.731557825Z"
 change_time = "2024-04-22T16:37:50Z"
 commit_hash = "481a92499c7acdc79e83c34a1f3ca019221cfde0"
 
@@ -1850,7 +1850,7 @@ change_time = "2021-06-03T12:43:13Z"
 commit_hash = "3d326b24984307c4d6f256985721518052920f06"
 
 ["monome/eurorack/ansible"]
-check_time = "2024-04-21T19:10:11.476735431Z"
+check_time = "2024-04-22T23:12:07.971481890Z"
 change_time = "2023-07-29T14:15:22Z"
 commit_hash = "2e077ec350c97568238170b6637229eac5a678e2"
 
@@ -2163,6 +2163,11 @@ commit_hash = "4c4a3b8ed398c905f38298b7237ec4ad22d2d3e1"
 check_time = "2024-04-20T22:11:08.895621436Z"
 change_time = "2021-09-10T18:30:28Z"
 commit_hash = "36674d9adb53b69cb0cbbe861b95e39df3598110"
+
+["norns/scripts/eels"]
+check_time = "2024-04-22T23:12:13.550976889Z"
+change_time = "2023-06-20T16:59:51Z"
+commit_hash = "3d9894dcb2319afa8f4ec8b1497a8acb97566e3d"
 
 ["norns/scripts/eggs"]
 check_time = "2024-04-22T23:09:06.870976566Z"
@@ -2515,7 +2520,7 @@ change_time = "2024-02-18T19:50:14Z"
 commit_hash = "b62d684a24f179cc969f086d53f7c7656cc36ca4"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-04-22T22:10:44.834463863Z"
+check_time = "2024-04-22T23:12:32.550585279Z"
 change_time = "2024-04-21T22:14:16Z"
 commit_hash = "74d4dde6c6af71cb0d69e64ccdd1331b1c976299"
 
@@ -3146,7 +3151,7 @@ change_time = "2023-09-22T19:23:36Z"
 commit_hash = "f8d6abb6d300b2670fc4fe4901b5fb157b60851a"
 
 ["supercollider/quarks/supersampler"]
-check_time = "2024-04-22T14:11:41.671601579Z"
+check_time = "2024-04-22T23:12:36.365001207Z"
 change_time = "2024-03-24T14:00:34Z"
 commit_hash = "52ab4ee053f87e268369e68c22f0d692f0461c4a"
 
@@ -3721,7 +3726,7 @@ change_time = "2023-06-27T07:06:50Z"
 commit_hash = "bf3ea150ffa2f3a753ef60bc27a4d7db8707561b"
 
 ["vcvrack/modules/sickocv"]
-check_time = "2024-04-22T20:10:55.801749882Z"
+check_time = "2024-04-22T23:12:40.258014625Z"
 change_time = "2024-04-12T16:22:21Z"
 commit_hash = "56246cad6227c0feb38fb88a28c88d7e05e88380"
 
