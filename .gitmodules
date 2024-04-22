@@ -2078,3 +2078,7 @@
 	path = norns/scripts/guttersyn
 	url = https://github.com/whosebodyisthis/guttersyn.git
 	branch = main
+[submodule "filipforsstrom/delar"]
+	path = norns/scripts/delar
+	url = https://github.com/filipforsstrom/delar.git
+	branch = main
