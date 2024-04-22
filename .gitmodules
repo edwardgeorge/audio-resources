@@ -2186,3 +2186,7 @@
 	path = norns/scripts/takt
 	url = https://github.com/itsyourbedtime/takt.git
 	branch = master
+[submodule "justmat/vcr"]
+	path = norns/scripts/vcr
+	url = https://github.com/justmat/vcr.git
+	branch = main
