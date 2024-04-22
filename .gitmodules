@@ -1998,3 +1998,7 @@
 	path = supercollider/docs/musical-design-in-supercollider
 	url = https://github.com/alikthename/Musical-Design-in-Supercollider.git
 	branch = master
+[submodule "artfwo/pymonome"]
+	path = monome/libs/pymonome
+	url = https://github.com/artfwo/pymonome.git
+	branch = master
