@@ -2074,3 +2074,7 @@
 	path = norns/development/nb
 	url = https://github.com/sixolet/nb.git
 	branch = main
+[submodule "whosebodyisthis/guttersyn"]
+	path = norns/scripts/guttersyn
+	url = https://github.com/whosebodyisthis/guttersyn.git
+	branch = main
