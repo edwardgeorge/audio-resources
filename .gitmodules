@@ -2098,3 +2098,7 @@
 	path = norns/scripts/rpls
 	url = https://github.com/andr-ew/rpls.git
 	branch = main
+[submodule "andr-ew/orgn"]
+	path = norns/scripts/orgn
+	url = https://github.com/andr-ew/orgn.git
+	branch = master
