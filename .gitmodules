@@ -2290,3 +2290,27 @@
 	path = norns/scripts/strides
 	url = https://github.com/justmat/strides.git
 	branch = master
+[submodule "justmat/showers"]
+	path = norns/scripts/showers
+	url = https://github.com/justmat/showers.git
+	branch = master
+[submodule "oliviercreurer/compass"]
+	path = norns/scripts/compass
+	url = https://github.com/oliviercreurer/compass.git
+	branch = master
+[submodule "oliviercreurer/dunes"]
+	path = norns/scripts/dunes
+	url = https://github.com/oliviercreurer/dunes.git
+	branch = master
+[submodule "oliviercreurer/patchwork"]
+	path = norns/scripts/patchwork
+	url = https://github.com/oliviercreurer/patchwork.git
+	branch = master
+[submodule "redraw/euclid-16"]
+	path = hw-fw-eurorack/euclid-16
+	url = https://github.com/redraw/euclid-16.git
+	branch = main
+[submodule "brokyo/circuits"]
+	path = norns/scripts/circuits
+	url = https://github.com/brokyo/circuits.git
+	branch = main
