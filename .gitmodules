@@ -2362,3 +2362,7 @@
 	path = norns/scripts/lamination
 	url = https://github.com/ryleelyman/lamination.git
 	branch = main
+[submodule "schollz/o-o-o"]
+	path = norns/scripts/o-o-o
+	url = https://github.com/schollz/o-o-o.git
+	branch = main
