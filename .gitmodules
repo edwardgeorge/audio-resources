@@ -2346,3 +2346,11 @@
 	path = hw-fw-eurorack/pico-cv-recorder
 	url = https://github.com/dwmorrin/pico-cv-recorder.git
 	branch = master
+[submodule "dstroud/minim"]
+	path = teletype/scripts/minim
+	url = https://github.com/dstroud/minim.git
+	branch = main
+[submodule "dstroud/subsequence"]
+	path = teletype/scripts/subsequence
+	url = https://github.com/dstroud/subsequence.git
+	branch = main
