@@ -2330,3 +2330,19 @@
 	path = norns/scripts/tidbit
 	url = https://github.com/markijzerman/tidbit.git
 	branch = main
+[submodule "supersynthesis/eurorack"]
+	path = hw-fw-eurorack/supersynthesis-eurorack
+	url = https://github.com/supersynthesis/eurorack.git
+	branch = main
+[submodule "paulstoffregen/phazerville-screen-capture"]
+	path = ornament-and-crime/phazerville-screen-capture
+	url = https://github.com/PaulStoffregen/Phazerville-Screen-Capture.git
+	branch = main
+[submodule "dhaillant/rec"]
+	path = hw-fw-eurorack/rec
+	url = https://github.com/dhaillant/REC.git
+	branch = main
+[submodule "dwmorrin/pico-cv-recorder"]
+	path = hw-fw-eurorack/pico-cv-recorder
+	url = https://github.com/dwmorrin/pico-cv-recorder.git
+	branch = master
