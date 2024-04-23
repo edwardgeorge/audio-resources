@@ -18,6 +18,7 @@ jobs:
       with:
         fetch-depth: 1
         token: ${{secrets.ACCESS_TOKEN}}
+        ref: ${{github.ref_name}}
     - env:
         GH_TOKEN: ${{ github.token }}
       run: |
