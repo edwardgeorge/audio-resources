@@ -2190,3 +2190,103 @@
 	path = norns/scripts/vcr
 	url = https://github.com/justmat/vcr.git
 	branch = main
+[submodule "justmat/otis"]
+	path = norns/scripts/otis
+	url = https://github.com/justmat/otis.git
+	branch = master
+[submodule "justmat/pools"]
+	path = norns/scripts/pools
+	url = https://github.com/justmat/pools.git
+	branch = master
+[submodule "justmat/silos"]
+	path = norns/scripts/silos
+	url = https://github.com/justmat/silos.git
+	branch = main
+[submodule "justmat/massif"]
+	path = norns/scripts/massif
+	url = https://github.com/justmat/massif.git
+	branch = master
+[submodule "justmat/phyllis"]
+	path = norns/scripts/phyllis
+	url = https://github.com/justmat/phyllis.git
+	branch = master
+[submodule "cfdrake/blippoo"]
+	path = norns/scripts/blippoo
+	url = https://github.com/cfdrake/blippoo.git
+	branch = main
+[submodule "cfdrake/bistro"]
+	path = norns/scripts/bistro
+	url = https://github.com/cfdrake/bistro.git
+	branch = main
+[submodule "cfdrake/dnd"]
+	path = norns/scripts/dnd
+	url = https://github.com/cfdrake/dnd.git
+	branch = main
+[submodule "bjc01/d-d-teensy"]
+	path = hw-fw-eurorack/d-d-teensy
+	url = https://github.com/bjc01/D-D_Teensy.git
+	branch = master
+[submodule "cfdrake/tropical"]
+	path = norns/scripts/tropical
+	url = https://github.com/cfdrake/tropical.git
+	branch = main
+[submodule "cfdrake/transmit"]
+	path = norns/scripts/transmit
+	url = https://github.com/cfdrake/transmit.git
+	branch = master
+[submodule "cfdrake/twine"]
+	path = norns/scripts/twine
+	url = https://github.com/cfdrake/twine.git
+	branch = main
+[submodule "cfdrake/grendy"]
+	path = norns/scripts/grendy
+	url = https://github.com/cfdrake/grendy.git
+	branch = master
+[submodule "cfdrake/stack"]
+	path = norns/scripts/stack
+	url = https://github.com/cfdrake/stack.git
+	branch = master
+[submodule "cfdrake/rudiments"]
+	path = norns/scripts/rudiments
+	url = https://github.com/cfdrake/rudiments.git
+	branch = master
+[submodule "cfdrake/segments"]
+	path = norns/scripts/segments
+	url = https://github.com/cfdrake/segments.git
+	branch = master
+[submodule "justmat/combos"]
+	path = norns/scripts/combos
+	url = https://github.com/justmat/combos.git
+	branch = master
+[submodule "monome-community/nc03-ds"]
+	path = norns/scripts/nc03-ds
+	url = https://github.com/monome-community/nc03-ds.git
+	branch = main
+[submodule "linusschrab/initenere"]
+	path = norns/scripts/initenere
+	url = https://github.com/linusschrab/initenere.git
+	branch = main
+[submodule "vicimity-dndrks/less-concepts"]
+	path = norns/scripts/less-concepts
+	url = https://github.com/vicimity-dndrks/less-concepts.git
+	branch = main
+[submodule "dndrks/cranes"]
+	path = norns/scripts/cranes
+	url = https://github.com/dndrks/cranes.git
+	branch = main
+[submodule "dndrks/cheat-codes"]
+	path = norns/scripts/cheat-codes
+	url = https://github.com/dndrks/cheat_codes.git
+	branch = master
+[submodule "dndrks/hospital-food"]
+	path = max/m4l-devices/hospital-food
+	url = https://github.com/dndrks/hospital_food.git
+	branch = master
+[submodule "scazan/benjolis"]
+	path = norns/scripts/benjolis
+	url = https://github.com/scazan/benjolis.git
+	branch = master
+[submodule "justmat/strides"]
+	path = norns/scripts/strides
+	url = https://github.com/justmat/strides.git
+	branch = master
