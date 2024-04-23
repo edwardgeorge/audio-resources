@@ -2358,3 +2358,7 @@
 	path = norns/scripts/islands
 	url = https://github.com/junklight/islands.git
 	branch = master
+[submodule "ryleelyman/lamination"]
+	path = norns/scripts/lamination
+	url = https://github.com/ryleelyman/lamination.git
+	branch = main
