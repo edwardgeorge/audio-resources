@@ -2354,3 +2354,7 @@
 	path = teletype/scripts/subsequence
 	url = https://github.com/dstroud/subsequence.git
 	branch = main
+[submodule "junklight/islands"]
+	path = norns/scripts/islands
+	url = https://github.com/junklight/islands.git
+	branch = master
