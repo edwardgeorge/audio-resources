@@ -2374,3 +2374,7 @@
 	path = norns/scripts/sway
 	url = https://github.com/carltesta/sway.git
 	branch = master
+[submodule "carltesta/manifold"]
+	path = norns/scripts/manifold
+	url = https://github.com/carltesta/manifold.git
+	branch = main
