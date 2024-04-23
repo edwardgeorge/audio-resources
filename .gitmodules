@@ -2366,3 +2366,7 @@
 	path = norns/scripts/o-o-o
 	url = https://github.com/schollz/o-o-o.git
 	branch = main
+[submodule "millxing/quence"]
+	path = norns/scripts/quence
+	url = https://github.com/millxing/QUENCE.git
+	branch = master
