@@ -2370,3 +2370,7 @@
 	path = norns/scripts/quence
 	url = https://github.com/millxing/QUENCE.git
 	branch = master
+[submodule "carltesta/sway"]
+	path = norns/scripts/sway
+	url = https://github.com/carltesta/sway.git
+	branch = master
