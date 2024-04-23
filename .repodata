@@ -289,7 +289,7 @@ change_time = "2023-01-22T22:43:17Z"
 commit_hash = "ee2855768083a2193114d2d36f1bfd3f2fcbbbe4"
 
 ["europi/source"]
-check_time = "2024-04-23T08:14:06.885466059Z"
+check_time = "2024-04-23T20:00:10.476810949Z"
 change_time = "2024-04-11T07:29:54Z"
 commit_hash = "5c7976106a365bb429d117824502a968f3f95d48"
 
@@ -1054,7 +1054,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-23T19:54:06.368300097Z"
+check_time = "2024-04-23T20:00:15.415072240Z"
 change_time = "2024-04-23T19:34:32Z"
 commit_hash = "6895224f2c8fe871e9d5a1959e7ab2c6735660da"
 
@@ -1169,7 +1169,7 @@ change_time = "2024-03-20T07:59:08Z"
 commit_hash = "342cd99dd9eec2cab8f750db23f32f77492177df"
 
 ["libs/softcut-lib"]
-check_time = "2024-04-22T03:12:27.150081257Z"
+check_time = "2024-04-23T20:00:17.722175827Z"
 change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
@@ -1669,7 +1669,7 @@ change_time = "2023-08-29T11:36:47Z"
 commit_hash = "69518bef9d36730c2de7eb0e81ab98fda7572dbd"
 
 ["max/patches/monome-crow"]
-check_time = "2024-04-23T05:11:48.871809759Z"
+check_time = "2024-04-23T20:00:20.785818649Z"
 change_time = "2023-04-18T17:26:25Z"
 commit_hash = "9eb724fc54decc726dcb1141fc3da52d2cb25614"
 
@@ -2255,7 +2255,7 @@ change_time = "2024-04-12T21:14:42Z"
 commit_hash = "b150fa58c41a7c73aea65c949539044fef728e55"
 
 ["norns/scripts/dreamsequence-dev"]
-check_time = "2024-04-23T09:22:40.102251708Z"
+check_time = "2024-04-23T20:00:23.371220599Z"
 change_time = "2024-04-05T20:34:45Z"
 commit_hash = "0169cbe42b337e06952d28550f82bc38e18fac21"
 
@@ -2455,7 +2455,7 @@ change_time = "2024-02-28T22:02:12Z"
 commit_hash = "ff0d8985855e960c9964eace31dd437f56dbc64e"
 
 ["norns/scripts/pit-orchisstra"]
-check_time = "2024-04-22T20:15:25.447890376Z"
+check_time = "2024-04-23T20:00:25.683999043Z"
 change_time = "2024-03-16T00:58:40Z"
 commit_hash = "39cad1ab65cf42091d519e81632418bd8d547372"
 
@@ -2480,7 +2480,7 @@ change_time = "2020-11-16T23:12:25Z"
 commit_hash = "00ed5a196d511bac81bd8393b8f816a767d5d4fd"
 
 ["norns/scripts/repl-looper"]
-check_time = "2024-04-22T09:56:27.316899292Z"
+check_time = "2024-04-23T20:00:27.893262997Z"
 change_time = "2023-11-08T18:42:45Z"
 commit_hash = "c55222dbf7fdea62c6499bf79848c73bf00a2fbb"
 
@@ -2518,6 +2518,11 @@ commit_hash = "14ba720d6d50b3474df6e6d167a0ff440cbb3d1f"
 check_time = "2024-04-23T08:32:48.005511075Z"
 change_time = "2020-11-17T14:51:55Z"
 commit_hash = "5f22b5a1a90ecfc46bc404459cf01afc045d1d4f"
+
+["norns/scripts/sway"]
+check_time = "2024-04-23T20:00:31.344809926Z"
+change_time = "2020-11-17T04:05:40Z"
+commit_hash = "5dc0b91818a45e406de3c14ff0f42f5a502ca629"
 
 ["norns/scripts/takt"]
 check_time = "2024-04-22T23:42:08.157136559Z"
@@ -2585,7 +2590,7 @@ change_time = "2022-07-10T18:41:54Z"
 commit_hash = "41e17ac2b048e8afeb914b611073a2c79657b10d"
 
 ["norns/scripts/zxcvbn"]
-check_time = "2024-04-23T16:14:09.060722652Z"
+check_time = "2024-04-23T20:00:33.843722738Z"
 change_time = "2024-04-20T21:22:03Z"
 commit_hash = "2da0712f6e129246f4d8f2caf6f97bc56af73ca3"
 
@@ -3736,7 +3741,7 @@ change_time = "2024-04-23T13:14:30Z"
 commit_hash = "267f58b7be4c4399fd7a319baa9650a584fa3ed2"
 
 ["tidal/tidalcycles"]
-check_time = "2024-04-23T17:12:17.297183518Z"
+check_time = "2024-04-23T20:00:38.358893662Z"
 change_time = "2024-04-18T13:07:09Z"
 commit_hash = "850fb7aaf847653db2dc2d4e5372cf26034e3599"
 
@@ -3996,7 +4001,7 @@ change_time = "2024-04-20T14:39:48Z"
 commit_hash = "e4ec6694b810466a0d688bcaf22d296f467717f3"
 
 ["vcvrack/modules/modulove"]
-check_time = "2024-04-22T20:12:17.840031481Z"
+check_time = "2024-04-23T20:00:40.730563864Z"
 change_time = "2024-02-24T20:12:49Z"
 commit_hash = "cf47052ec7ca7a3b5b7ff50707d8b205075ad6a0"
 
