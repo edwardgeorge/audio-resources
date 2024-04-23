@@ -2314,3 +2314,19 @@
 	path = norns/scripts/circuits
 	url = https://github.com/brokyo/circuits.git
 	branch = main
+[submodule "whosebodyisthis/whose-chaos-modules"]
+	path = pure-data/whose-chaos-modules
+	url = https://github.com/whosebodyisthis/whose-chaos-modules.git
+	branch = main
+[submodule "whosebodyisthis/whose-chaos-modules-v0.3"]
+	path = pure-data/whose-chaos-modules-v0.3
+	url = https://github.com/whosebodyisthis/whose-chaos-modules-v0.3.git
+	branch = main
+[submodule "solipd/audiolab"]
+	path = pure-data/audiolab
+	url = https://github.com/solipd/AudioLab.git
+	branch = master
+[submodule "markijzerman/tidbit"]
+	path = norns/scripts/tidbit
+	url = https://github.com/markijzerman/tidbit.git
+	branch = main
