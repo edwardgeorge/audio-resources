@@ -2582,3 +2582,71 @@
 	path = norns/scripts/digger
 	url = https://github.com/zjb-s/digger.git
 	branch = main
+[submodule "zjb-s/ddm"]
+	path = norns/mods/ddm
+	url = https://github.com/zjb-s/ddm.git
+	branch = main
+[submodule "sixolet/sacred-cyborg-harmony"]
+	path = norns/scripts/sacred-cyborg-harmony
+	url = https://github.com/sixolet/sacred_cyborg_harmony.git
+	branch = main
+[submodule "sixolet/sunflower"]
+	path = norns/scripts/sunflower
+	url = https://github.com/sixolet/sunflower.git
+	branch = main
+[submodule "sixolet/nb-wsyn"]
+	path = norns/mods/nb-wsyn
+	url = https://github.com/sixolet/nb_wsyn.git
+	branch = main
+[submodule "aidanreilly/sines"]
+	path = norns/scripts/sines
+	url = https://github.com/aidanreilly/sines.git
+	branch = main
+[submodule "aidanreilly/twill"]
+	path = norns/scripts/twill
+	url = https://github.com/aidanreilly/twill.git
+	branch = main
+[submodule "aidanreilly/mouse"]
+	path = norns/scripts/mouse
+	url = https://github.com/aidanreilly/mouse.git
+	branch = main
+[submodule "whimsicalraps/bowering"]
+	path = norns/scripts/bowering
+	url = https://github.com/whimsicalraps/bowering.git
+	branch = main
+[submodule "aidanreilly/saws"]
+	path = norns/scripts/saws
+	url = https://github.com/aidanreilly/saws.git
+	branch = master
+[submodule "aidanreilly/squares"]
+	path = norns/scripts/squares
+	url = https://github.com/aidanreilly/squares.git
+	branch = master
+[submodule "sixolet/toolkit"]
+	path = norns/scripts/toolkit
+	url = https://github.com/sixolet/toolkit.git
+	branch = main
+[submodule "21echoes/cyrene"]
+	path = norns/scripts/cyrene
+	url = https://github.com/21echoes/cyrene.git
+	branch = master
+[submodule "21echoes/crowify"]
+	path = norns/libs/crowify
+	url = https://github.com/21echoes/crowify.git
+	branch = main
+[submodule "21echoes/samsara"]
+	path = norns/scripts/samsara
+	url = https://github.com/21echoes/samsara.git
+	branch = master
+[submodule "21echoes/conductor"]
+	path = norns/scripts/conductor
+	url = https://github.com/21echoes/conductor.git
+	branch = main
+[submodule "sixolet/borgue"]
+	path = norns/scripts/borgue
+	url = https://github.com/sixolet/borgue.git
+	branch = main
+[submodule "sixolet/nydl"]
+	path = norns/scripts/nydl
+	url = https://github.com/sixolet/nydl.git
+	branch = main
