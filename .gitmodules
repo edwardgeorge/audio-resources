@@ -2458,3 +2458,55 @@
 	path = norns/scripts/supertonic
 	url = https://github.com/schollz/supertonic.git
 	branch = main
+[submodule "northern-information/yggdrasil"]
+	path = norns/scripts/yggdrasil
+	url = https://github.com/northern-information/yggdrasil.git
+	branch = main
+[submodule "northern-information/nornsilerplate"]
+	path = norns/development/nornsilerplate
+	url = https://github.com/northern-information/nornsilerplate.git
+	branch = main
+[submodule "northern-information/athenaeum"]
+	path = norns/libs/athenaeum
+	url = https://github.com/northern-information/athenaeum.git
+	branch = main
+[submodule "northern-information/gematria"]
+	path = norns/scripts/gematria
+	url = https://github.com/northern-information/gematria.git
+	branch = main
+[submodule "northern-information/bakeneko"]
+	path = norns/scripts/bakeneko
+	url = https://github.com/northern-information/bakeneko.git
+	branch = main
+[submodule "northern-information/soot"]
+	path = norns/libs/soot
+	url = https://github.com/northern-information/soot.git
+	branch = main
+[submodule "northern-information/survey"]
+	path = norns/scripts/survey
+	url = https://github.com/northern-information/survey.git
+	branch = main
+[submodule "ngwese/image-demo"]
+	path = norns/development/image-demo
+	url = https://github.com/ngwese/image_demo.git
+	branch = main
+[submodule "northern-information/u"]
+	path = norns/scripts/u
+	url = https://github.com/northern-information/u.git
+	branch = main
+[submodule "monome-community/grainstorm"]
+	path = max/patches/grainstorm
+	url = https://github.com/monome-community/grainstorm.git
+	branch = master
+[submodule "monome-community/nc02-rs"]
+	path = norns/scripts/nc02-rs
+	url = https://github.com/monome-community/nc02-rs.git
+	branch = master
+[submodule "monome-community/nc01-drone"]
+	path = norns/scripts/nc01-drone
+	url = https://github.com/monome-community/nc01-drone.git
+	branch = master
+[submodule "monome-community/teletype-codex"]
+	path = teletype/scripts/teletype-codex
+	url = https://github.com/monome-community/teletype-codex.git
+	branch = master
