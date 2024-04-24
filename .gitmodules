@@ -2570,3 +2570,15 @@
 	path = norns/scripts/sempra
 	url = https://github.com/zjb-s/sempra.git
 	branch = main
+[submodule "zjb-s/c201"]
+	path = monome/apps/c201
+	url = https://github.com/zjb-s/c201.git
+	branch = main
+[submodule "zjb-s/zeq"]
+	path = norns/scripts/zeq
+	url = https://github.com/zjb-s/zeq.git
+	branch = main
+[submodule "zjb-s/digger"]
+	path = norns/scripts/digger
+	url = https://github.com/zjb-s/digger.git
+	branch = main
