@@ -2510,3 +2510,7 @@
 	path = teletype/scripts/teletype-codex
 	url = https://github.com/monome-community/teletype-codex.git
 	branch = master
+[submodule "sixolet/nbout"]
+	path = norns/mods/nbout
+	url = https://github.com/sixolet/nbout.git
+	branch = main
