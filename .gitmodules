@@ -2386,3 +2386,75 @@
 	path = norns/development/norns-example-mod
 	url = https://github.com/monome/norns-example-mod.git
 	branch = main
+[submodule "distropolis/pixels"]
+	path = norns/scripts/pixels
+	url = https://github.com/distropolis/pixels.git
+	branch = main
+[submodule "normalised/prokmodularcore"]
+	path = hw-fw-eurorack/prokmodularcore
+	url = https://github.com/Normalised/ProkModularCore.git
+	branch = master
+[submodule "normalised/teensyeurolib"]
+	path = embedded/teensyeurolib
+	url = https://github.com/Normalised/TeensyEuroLib.git
+	branch = master
+[submodule "normalised/prok-drums-hardware"]
+	path = hw-fw-eurorack/prok-drums-hardware
+	url = https://github.com/Normalised/Prok-Drums-Hardware.git
+	branch = master
+[submodule "tomwhitwell/trs-midi-tester"]
+	path = hw-fw-eurorack/trs-midi-tester
+	url = https://github.com/TomWhitwell/TRS-Midi-Tester.git
+	branch = main
+[submodule "tomwhitwell/euclidean-sequencer-"]
+	path = hw-fw-eurorack/euclidean-sequencer-
+	url = https://github.com/TomWhitwell/Euclidean-sequencer-.git
+	branch = master
+[submodule "yaxu/slub"]
+	path = misc/slub
+	url = https://github.com/yaxu/slub.git
+	branch = master
+[submodule "catfact/thebangs"]
+	path = norns/engines/thebangs
+	url = https://github.com/catfact/thebangs.git
+	branch = main
+[submodule "speakerdamage/uhf"]
+	path = norns/scripts/uhf
+	url = https://github.com/speakerdamage/uhf.git
+	branch = master
+[submodule "speakerdamage/here-there"]
+	path = norns/scripts/here-there
+	url = https://github.com/speakerdamage/here-there.git
+	branch = master
+[submodule "speakerdamage/tunnels"]
+	path = norns/scripts/tunnels
+	url = https://github.com/speakerdamage/tunnels.git
+	branch = master
+[submodule "loudnumbers/ufo"]
+	path = norns/scripts/ufo
+	url = https://github.com/loudnumbers/ufo.git
+	branch = main
+[submodule "schollz/wobblewobble"]
+	path = norns/scripts/wobblewobble
+	url = https://github.com/schollz/wobblewobble.git
+	branch = main
+[submodule "schollz/thirtythree"]
+	path = norns/scripts/thirtythree
+	url = https://github.com/schollz/thirtythree.git
+	branch = main
+[submodule "pangrus/hachi"]
+	path = norns/scripts/hachi
+	url = https://github.com/pangrus/hachi.git
+	branch = master
+[submodule "kevinlindley/demoncore"]
+	path = norns/scripts/demoncore
+	url = https://github.com/kevinlindley/demoncore.git
+	branch = main
+[submodule "kevinlindley/delinquencer"]
+	path = norns/scripts/delinquencer
+	url = https://github.com/kevinlindley/delinquencer.git
+	branch = main
+[submodule "schollz/supertonic"]
+	path = norns/scripts/supertonic
+	url = https://github.com/schollz/supertonic.git
+	branch = main
