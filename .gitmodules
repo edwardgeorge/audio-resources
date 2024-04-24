@@ -2071,7 +2071,7 @@
 	url = https://github.com/sixolet/doubledecker.git
 	branch = main
 [submodule "sixolet/nb"]
-	path = norns/development/nb
+	path = norns/libs/nb
 	url = https://github.com/sixolet/nb.git
 	branch = main
 [submodule "whosebodyisthis/guttersyn"]
@@ -2513,4 +2513,60 @@
 [submodule "sixolet/nbout"]
 	path = norns/mods/nbout
 	url = https://github.com/sixolet/nbout.git
+	branch = main
+[submodule "sixolet/lepidoptery"]
+	path = norns/scripts/lepidoptery
+	url = https://github.com/sixolet/lepidoptery.git
+	branch = main
+[submodule "sixolet/fx"]
+	path = norns/libs/fx
+	url = https://github.com/sixolet/fx.git
+	branch = main
+[submodule "sixolet/nb-ansible"]
+	path = norns/libs/nb-ansible
+	url = https://github.com/sixolet/nb_ansible.git
+	branch = main
+[submodule "sixolet/fx-resonator"]
+	path = norns/libs/fx-resonator
+	url = https://github.com/sixolet/fx_resonator.git
+	branch = main
+[submodule "sixolet/fx-grains"]
+	path = norns/libs/fx-grains
+	url = https://github.com/sixolet/fx_grains.git
+	branch = main
+[submodule "sixolet/fx-delay"]
+	path = norns/libs/fx-delay
+	url = https://github.com/sixolet/fx_delay.git
+	branch = main
+[submodule "sixolet/nbin"]
+	path = norns/mods/nbin
+	url = https://github.com/sixolet/nbin.git
+	branch = main
+[submodule "sixolet/tg"]
+	path = norns/mods/tg
+	url = https://github.com/sixolet/tg.git
+	branch = main
+[submodule "sixolet/matrix"]
+	path = norns/mods/matrix
+	url = https://github.com/sixolet/matrix.git
+	branch = main
+[submodule "sixolet/formandvoid"]
+	path = norns/scripts/formandvoid
+	url = https://github.com/sixolet/formandvoid.git
+	branch = main
+[submodule "sixolet/fx-tanh"]
+	path = norns/libs/fx-tanh
+	url = https://github.com/sixolet/fx_tanh.git
+	branch = main
+[submodule "sixolet/nb-crow"]
+	path = norns/libs/nb-crow
+	url = https://github.com/sixolet/nb_crow.git
+	branch = main
+[submodule "zjb-s/oilcan"]
+	path = norns/mods/oilcan
+	url = https://github.com/zjb-s/oilcan.git
+	branch = main
+[submodule "zjb-s/sempra"]
+	path = norns/scripts/sempra
+	url = https://github.com/zjb-s/sempra.git
 	branch = main
