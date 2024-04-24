@@ -2650,3 +2650,15 @@
 	path = norns/scripts/nydl
 	url = https://github.com/sixolet/nydl.git
 	branch = main
+[submodule "ryleelyman/faeng"]
+	path = norns/scripts/faeng
+	url = https://github.com/ryleelyman/faeng.git
+	branch = main
+[submodule "sixolet/emplaitress"]
+	path = norns/mods/emplaitress
+	url = https://github.com/sixolet/emplaitress.git
+	branch = main
+[submodule "sixolet/nb-jf"]
+	path = norns/mods/nb-jf
+	url = https://github.com/sixolet/nb_jf.git
+	branch = main
