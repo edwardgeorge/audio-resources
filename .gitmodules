@@ -2662,3 +2662,15 @@
 	path = norns/mods/nb-jf
 	url = https://github.com/sixolet/nb_jf.git
 	branch = main
+[submodule "bparticle/extras"]
+	path = er-301/units/bparticle-extras
+	url = https://github.com/bparticle/Extras.git
+	branch = master
+[submodule "bparticle/bparticle"]
+	path = er-301/units/bparticle-presets
+	url = https://github.com/bparticle/bparticle.git
+	branch = master
+[submodule "bparticle/er301-hub"]
+	path = er-301/er301-hub
+	url = https://github.com/bparticle/er301-hub.git
+	branch = master
