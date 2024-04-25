@@ -354,9 +354,9 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-04-25T16:14:09.217200398Z"
-change_time = "2024-04-25T16:07:43Z"
-commit_hash = "956960e598f03fd26828589587de96313572c1a9"
+check_time = "2024-04-25T17:12:15.707878659Z"
+change_time = "2024-04-25T17:02:00Z"
+commit_hash = "7b18772fb465438776580df536edc41fc85b7526"
 
 ["hw-fw-eurorack/16n"]
 check_time = "2024-04-22T20:08:39.383089887Z"
@@ -499,7 +499,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-04-25T15:11:45.740814650Z"
+check_time = "2024-04-25T17:12:19.421003661Z"
 change_time = "2024-04-25T03:46:28Z"
 commit_hash = "149d907773be27aa5b2cf1485012404355de0005"
 
@@ -614,7 +614,7 @@ change_time = "2023-06-06T17:31:52Z"
 commit_hash = "5593657e00ec79ebf0836e7c57f68efbf2200caf"
 
 ["hw-fw-eurorack/knot"]
-check_time = "2024-04-25T16:14:36.708848326Z"
+check_time = "2024-04-25T17:12:32.502332042Z"
 change_time = "2024-04-25T10:42:22Z"
 commit_hash = "5f06841dd863d9a96eb42c1b96186d05dd851710"
 
@@ -674,7 +674,7 @@ change_time = "2024-04-22T22:45:53Z"
 commit_hash = "2fab19082b98a7f18b78ecc61c309d6409899996"
 
 ["hw-fw-eurorack/microresearch-allcolours"]
-check_time = "2024-04-24T18:14:38.375679292Z"
+check_time = "2024-04-25T17:12:56.474765603Z"
 change_time = "2024-04-11T15:34:24Z"
 commit_hash = "1bcfd57895e45fbbe83c46b8a2e7b79f0c685316"
 
@@ -1099,7 +1099,7 @@ change_time = "2024-02-22T16:37:41Z"
 commit_hash = "a273b36ccaba106958f79e73643dfe5f8fbe6c67"
 
 ["libs/amy"]
-check_time = "2024-04-25T14:09:06.455524913Z"
+check_time = "2024-04-25T17:13:00.549470279Z"
 change_time = "2024-04-23T22:01:22Z"
 commit_hash = "798442028203ef5d8d6e230f4bc469845eb87ac4"
 
@@ -1134,7 +1134,7 @@ change_time = "2024-04-22T15:59:15Z"
 commit_hash = "e286d28dc5309b744d748c60723e8d94141e1b3f"
 
 ["libs/clap/clap-plugins"]
-check_time = "2024-04-25T14:09:09.299217987Z"
+check_time = "2024-04-25T17:13:02.265061854Z"
 change_time = "2024-04-25T01:38:23Z"
 commit_hash = "010ca0de81483e8c44f752f81fbc66f260f08fa7"
 
@@ -1314,7 +1314,7 @@ change_time = "2021-06-17T16:20:58Z"
 commit_hash = "050ccc10e4587219854242e2e0b42ef8e851bf05"
 
 ["max/docs/ableton-maxdevtools"]
-check_time = "2024-04-25T12:34:24.772759991Z"
+check_time = "2024-04-25T17:13:04.344039890Z"
 change_time = "2024-04-22T08:42:07Z"
 commit_hash = "a41e727167dab2fab8c6430d839c3f0a4aa53e63"
 
@@ -1940,7 +1940,7 @@ change_time = "2021-09-18T18:37:06Z"
 commit_hash = "9a926c90cd04398e45063471ebeda223b20229e5"
 
 ["monome/3rd-party-hardware/telex-teensy4"]
-check_time = "2024-04-23T13:12:23.819319857Z"
+check_time = "2024-04-25T17:13:06.315988188Z"
 change_time = "2024-02-17T10:41:03Z"
 commit_hash = "80e8fc524bddf5a8bd10464e36521d469f3fec11"
 
@@ -2340,7 +2340,7 @@ change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
 ["norns/libs/soot"]
-check_time = "2024-04-24T08:15:51.824476524Z"
+check_time = "2024-04-25T17:13:09.871445582Z"
 change_time = "2023-01-15T03:02:26Z"
 commit_hash = "6eb418b0a5bf1cfd332ea1867e01580ec98d89d1"
 
@@ -2650,7 +2650,7 @@ change_time = "2024-03-13T20:52:46Z"
 commit_hash = "4898f457a04f1961612410fd3da2d3e21128b0a8"
 
 ["norns/scripts/graintopia"]
-check_time = "2024-04-25T08:41:05.037756445Z"
+check_time = "2024-04-25T17:13:11.926820763Z"
 change_time = "2024-03-09T18:50:37Z"
 commit_hash = "f59cb27e7fe4a84796ee53ab5778a98d51d144ff"
 
@@ -2915,7 +2915,7 @@ change_time = "2023-11-09T14:38:13Z"
 commit_hash = "198364feca6e903898e52128b5e958bd559b0cb5"
 
 ["norns/scripts/sines"]
-check_time = "2024-04-25T08:09:43.867731288Z"
+check_time = "2024-04-25T17:13:13.587968133Z"
 change_time = "2024-04-09T20:59:34Z"
 commit_hash = "3b9ea95cd79cc86e3f75953d0f5ae125bd4268c6"
 
@@ -2960,7 +2960,7 @@ change_time = "2021-11-08T00:13:53Z"
 commit_hash = "19c42bfa41662feb85a48771a0216b88839deb31"
 
 ["norns/scripts/takt"]
-check_time = "2024-04-22T23:42:08.157136559Z"
+check_time = "2024-04-25T17:13:15.009901819Z"
 change_time = "2022-02-28T05:50:32Z"
 commit_hash = "c74380a93708a8ebffdade4dfe9031ac7e26302e"
 
@@ -3295,7 +3295,7 @@ change_time = "2024-04-21T22:14:16Z"
 commit_hash = "74d4dde6c6af71cb0d69e64ccdd1331b1c976299"
 
 ["plugins-and-standalone/tonez"]
-check_time = "2024-04-25T05:11:55.625394981Z"
+check_time = "2024-04-25T17:13:20.513114112Z"
 change_time = "2023-12-24T10:26:12Z"
 commit_hash = "7c112f690ea844451d242737d08e562a8de3f215"
 
@@ -3665,7 +3665,7 @@ change_time = "2022-11-15T22:31:14Z"
 commit_hash = "ddc6ef3beee166dc14de7b69f8c3899aa69e7d96"
 
 ["software-and-tools/tidal-sound-explorer"]
-check_time = "2024-04-23T19:09:43.361573248Z"
+check_time = "2024-04-25T17:13:22.308627902Z"
 change_time = "2023-05-09T07:52:24Z"
 commit_hash = "56405c790cca89ff145b385638535a14f8064b22"
 
@@ -3846,7 +3846,7 @@ change_time = "2023-12-23T20:33:52Z"
 commit_hash = "8e826074b3a2e110f3771c8e243ca16d02589a77"
 
 ["supercollider/plugins/community-plugins"]
-check_time = "2024-04-25T11:12:04.435821633Z"
+check_time = "2024-04-25T17:13:24.501541365Z"
 change_time = "2023-08-16T19:56:44Z"
 commit_hash = "aff09e4fadf93d48f40708ec86c80af7e3a21cc8"
 
@@ -3891,7 +3891,7 @@ change_time = "2024-04-13T10:38:09Z"
 commit_hash = "ecd7420dc66e6db0111e2a2ee3a42db717516dbc"
 
 ["supercollider/quarks/influx"]
-check_time = "2024-04-24T22:13:43.376421834Z"
+check_time = "2024-04-25T17:13:25.887250372Z"
 change_time = "2024-01-06T09:34:40Z"
 commit_hash = "8ce8cedb039832ad23db5a7ec8bcc14928ab1586"
 
@@ -4011,7 +4011,7 @@ change_time = "2018-11-16T12:59:32Z"
 commit_hash = "40528cb0c17c440103e08f4c6938118e9a3b6aaa"
 
 ["supercollider/scripts/supercollisions"]
-check_time = "2024-04-25T13:11:21.445804446Z"
+check_time = "2024-04-25T17:13:30.491517059Z"
 change_time = "2024-04-23T14:12:47Z"
 commit_hash = "50c551b66c66ea2f406547d7c25dedc56fb9f3cc"
 
@@ -4541,7 +4541,7 @@ change_time = "2024-04-09T15:50:55Z"
 commit_hash = "b8f505c8e44f198d04274c4bc1501b3872e07124"
 
 ["vcvrack/modules/stoermelder-packtau"]
-check_time = "2024-04-25T12:29:34.141941823Z"
+check_time = "2024-04-25T17:13:32.131213950Z"
 change_time = "2024-04-20T07:29:13Z"
 commit_hash = "01d43a38509ff6b539ea726e29f43d6771f9b24f"
 
