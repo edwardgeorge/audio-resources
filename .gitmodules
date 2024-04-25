@@ -2718,3 +2718,27 @@
 	path = norns/docs/softcut-studies
 	url = https://github.com/monome/softcut-studies.git
 	branch = main
+[submodule "shakfu/groovin"]
+	path = max/applications/groovin
+	url = https://github.com/shakfu/groovin.git
+	branch = master
+[submodule "shakfu/luajit-max"]
+	path = max/packages/luajit-max
+	url = https://github.com/shakfu/luajit_max.git
+	branch = main
+[submodule "zevv/worp"]
+	path = misc/worp
+	url = https://github.com/zevv/worp.git
+	branch = master
+[submodule "thestk/stk"]
+	path = libs/stk
+	url = https://github.com/thestk/stk.git
+	branch = master
+[submodule "thestk/rtaudio"]
+	path = libs/rtaudio
+	url = https://github.com/thestk/rtaudio.git
+	branch = master
+[submodule "thestk/rtmidi"]
+	path = libs/rtmidi
+	url = https://github.com/thestk/rtmidi.git
+	branch = master
