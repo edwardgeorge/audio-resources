@@ -371,7 +371,7 @@
 	url = https://github.com/sergree/matchering.git
 	branch = master
 [submodule "monome/softcub-lib"]
-	path = libs/softcut-lib
+	path = norns/libs/softcut-lib
 	url = https://github.com/monome/softcut-lib.git
 	branch = main
 [submodule "schollz/supercollisions"]
@@ -2713,4 +2713,8 @@
 [submodule "monome/firstlight"]
 	path = norns/docs/firstlight
 	url = https://github.com/monome/firstlight.git
+	branch = main
+[submodule "monome/softcut-studies"]
+	path = norns/docs/softcut-studies
+	url = https://github.com/monome/softcut-studies.git
 	branch = main
