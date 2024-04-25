@@ -2742,3 +2742,19 @@
 	path = libs/rtmidi
 	url = https://github.com/thestk/rtmidi.git
 	branch = master
+[submodule "andr-ew/crops"]
+	path = norns/libs/crops
+	url = https://github.com/andr-ew/crops.git
+	branch = main
+[submodule "andr-ew/produce"]
+	path = norns/libs/produce
+	url = https://github.com/andr-ew/produce.git
+	branch = main
+[submodule "andr-ew/keymap"]
+	path = norns/libs/keymap
+	url = https://github.com/andr-ew/keymap.git
+	branch = main
+[submodule "andr-ew/pattern-time-extended"]
+	path = norns/libs/pattern-time-extended
+	url = https://github.com/andr-ew/pattern_time_extended.git
+	branch = main
