@@ -2758,3 +2758,7 @@
 	path = norns/libs/pattern-time-extended
 	url = https://github.com/andr-ew/pattern_time_extended.git
 	branch = main
+[submodule "imminentgloom/st-y"]
+	path = norns/scripts/st-y
+	url = https://github.com/imminentgloom/st-y.git
+	branch = main
