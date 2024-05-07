@@ -2762,3 +2762,15 @@
 	path = norns/scripts/st-y
 	url = https://github.com/imminentgloom/st-y.git
 	branch = main
+[submodule "abluenautilus/acidusversio"]
+	path = daisy/modules/versio/acidusversio
+	url = https://github.com/abluenautilus/AcidusVersio.git
+	branch = main
+[submodule "jacobvosmaer/daisyaudiomangler"]
+	path = daisy/modules/misc/daisyaudiomangler
+	url = https://github.com/jacobvosmaer/DaisyAudioMangler.git
+	branch = master
+[submodule "maddanio/open303"]
+	path = plugins-and-standalone/open303
+	url = https://github.com/maddanio/open303.git
+	branch = master
