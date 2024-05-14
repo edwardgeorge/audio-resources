@@ -2806,3 +2806,7 @@
 	path = hw-fw-eurorack/needles
 	url = https://github.com/rubarbs/needles.git
 	branch = master
+[submodule "mi-creative/mi-gen"]
+	path = max/packages/mi-gen
+	url = https://github.com/mi-creative/mi-gen.git
+	branch = master
