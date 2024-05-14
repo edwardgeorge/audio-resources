@@ -2802,3 +2802,7 @@
 	path = libs/cplug
 	url = https://github.com/Tremus/CPLUG.git
 	branch = master
+[submodule "rubarbs/needles"]
+	path = hw-fw-eurorack/needles
+	url = https://github.com/rubarbs/needles.git
+	branch = master
