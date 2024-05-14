@@ -2774,3 +2774,23 @@
 	path = plugins-and-standalone/open303
 	url = https://github.com/maddanio/open303.git
 	branch = master
+[submodule "a999s/monomachine-fm-stat"]
+	path = max/patches/monomachine-fm-stat
+	url = https://github.com/a999s/Monomachine_FM-STAT.git
+	branch = main
+[submodule "a999s/monomachine-fm-par"]
+	path = max/patches/monomachine-fm-par
+	url = https://github.com/a999s/Monomachine_FM-PAR.git
+	branch = main
+[submodule "a999s/monomachine-fm-dyn"]
+	path = max/patches/monomachine-fm-dyn
+	url = https://github.com/a999s/Monomachine-FM-DYN.git
+	branch = main
+[submodule "a999s/hardsyncvectorphaseshaping"]
+	path = max/patches/hardsyncvectorphaseshaping
+	url = https://github.com/a999s/hardsyncVectorPhaseShaping.git
+	branch = main
+[submodule "a999s/gen-multinotch"]
+	path = max/patches/gen-multinotch
+	url = https://github.com/a999s/gen-multinotch.git
+	branch = main
