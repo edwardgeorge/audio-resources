@@ -1,5 +1,5 @@
 ["chuck/chuck"]
-check_time = "2024-05-14T15:13:16.793396827Z"
+check_time = "2024-05-14T15:38:50.259129326Z"
 change_time = "2024-05-14T12:07:33Z"
 commit_hash = "146a8e9916623dc665b191d706289048388fc67d"
 
@@ -104,7 +104,7 @@ change_time = "2024-05-05T18:26:50Z"
 commit_hash = "8f04c8245042c3de379754b971cf4d1b22393cc3"
 
 ["daisy/modules/misc/veno-echo"]
-check_time = "2024-05-10T22:11:57.366999944Z"
+check_time = "2024-05-14T15:38:52.671060906Z"
 change_time = "2022-01-20T01:30:20Z"
 commit_hash = "f30b30ceebe792035aef82ba8588627fdc8c0763"
 
@@ -364,7 +364,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-05-14T14:10:44.989890070Z"
+check_time = "2024-05-14T15:38:55.523714765Z"
 change_time = "2024-05-13T20:08:19Z"
 commit_hash = "3d837fe2bafa4e7c4c11cc2e9d89b38e81810ca4"
 
@@ -474,7 +474,7 @@ change_time = "2024-02-22T18:45:17Z"
 commit_hash = "fabc74b003a0a1533bae8a6473995f92af3252a7"
 
 ["hw-fw-eurorack/blippoo-for-wingie2"]
-check_time = "2024-05-11T23:11:41.755380394Z"
+check_time = "2024-05-14T15:38:57.113661977Z"
 change_time = "2023-02-27T01:02:48Z"
 commit_hash = "93306d953c35dcc39126826756f6c113ed277b2a"
 
@@ -599,7 +599,7 @@ change_time = "2024-01-08T00:35:55Z"
 commit_hash = "3648cd6525d198c2a8913af8d82bc49a5e904575"
 
 ["hw-fw-eurorack/hypjolin"]
-check_time = "2024-05-11T06:14:01.685541543Z"
+check_time = "2024-05-14T15:39:03.784159437Z"
 change_time = "2023-07-21T15:32:19Z"
 commit_hash = "da1ff0cb7117034b533e7df34b185179406ceb51"
 
@@ -724,7 +724,7 @@ change_time = "2023-06-27T16:11:22Z"
 commit_hash = "29856f2470c3751c09cfe9cc65efe647fca88572"
 
 ["hw-fw-eurorack/minidexed"]
-check_time = "2024-05-14T00:53:00.640595661Z"
+check_time = "2024-05-14T15:39:05.139971714Z"
 change_time = "2024-05-09T17:58:46Z"
 commit_hash = "d08280bc7005499773df5c27fe9f0d53cda1ebab"
 
@@ -769,7 +769,7 @@ change_time = "2022-03-13T09:28:46Z"
 commit_hash = "510916b710c1cd722fd7fe1437fe1c58b129d162"
 
 ["hw-fw-eurorack/miniverb"]
-check_time = "2024-05-09T21:12:14.734310124Z"
+check_time = "2024-05-14T15:39:07.477629918Z"
 change_time = "2023-08-24T09:59:34Z"
 commit_hash = "4628405597a05731c7b8f108498832e1ebed2d22"
 
@@ -802,6 +802,11 @@ commit_hash = "409353cb100a572e7f2f0672c10e67e31f0593e8"
 check_time = "2024-05-08T05:11:58.398244062Z"
 change_time = "2020-01-27T10:17:40Z"
 commit_hash = "59c13985d03cecb3e74f02f21d9a14821a5d0b25"
+
+["hw-fw-eurorack/needles"]
+check_time = "2024-05-14T15:39:10.051189689Z"
+change_time = "2020-04-05T17:47:19Z"
+commit_hash = "164ba2d931371ec88abdd6e4108a4f14047a6f13"
 
 ["hw-fw-eurorack/neptune"]
 check_time = "2024-05-13T18:13:39.095208063Z"
@@ -1454,7 +1459,7 @@ change_time = "2015-08-24T18:28:55Z"
 commit_hash = "e1af1f477bfc409a6fe15b6ea6c05e684e6ecdda"
 
 ["max/m4l-devices/thwomp"]
-check_time = "2024-05-13T03:12:51.448073523Z"
+check_time = "2024-05-14T15:39:12.782591908Z"
 change_time = "2024-04-06T17:56:13Z"
 commit_hash = "9f68cf5f53cf276e3b30d109a516ac731b0e6fb3"
 
@@ -1799,7 +1804,7 @@ change_time = "2019-05-24T08:18:39Z"
 commit_hash = "ddf5cca5f737b92bf89a7278891d8778a67a61c8"
 
 ["max/patches/the-party-van"]
-check_time = "2024-05-10T00:53:19.990582283Z"
+check_time = "2024-05-14T15:39:22.078505480Z"
 change_time = "2019-02-03T07:30:51Z"
 commit_hash = "e352acca23792ec96c8e303798b8c4dd857a928d"
 
@@ -2550,7 +2555,7 @@ change_time = "2024-03-01T22:44:57Z"
 commit_hash = "acf646026a9f91e6ac184855361d7e82931b497f"
 
 ["norns/scripts/circuits"]
-check_time = "2024-05-14T10:14:44.254523306Z"
+check_time = "2024-05-14T15:39:23.964770799Z"
 change_time = "2024-05-13T00:41:18Z"
 commit_hash = "5a277a518c996970350c3bbc6647b03e995ba5c2"
 
@@ -2855,7 +2860,7 @@ change_time = "2022-12-04T00:16:00Z"
 commit_hash = "774e1518992c6fee5d21747da564a18f5f880aac"
 
 ["norns/scripts/otis"]
-check_time = "2024-05-12T23:12:40.420895069Z"
+check_time = "2024-05-14T15:39:25.502684807Z"
 change_time = "2023-02-22T20:11:18Z"
 commit_hash = "ca63f5bfe8d57bc32e124da8ef3c084b5666d08c"
 
@@ -2880,7 +2885,7 @@ change_time = "2024-02-28T22:02:12Z"
 commit_hash = "ff0d8985855e960c9964eace31dd437f56dbc64e"
 
 ["norns/scripts/pit-orchisstra"]
-check_time = "2024-05-13T17:10:21.027877118Z"
+check_time = "2024-05-14T15:39:26.756679350Z"
 change_time = "2024-03-16T00:58:40Z"
 commit_hash = "39cad1ab65cf42091d519e81632418bd8d547372"
 
@@ -3435,7 +3440,7 @@ change_time = "2020-07-24T16:23:06Z"
 commit_hash = "478dd8a248d91e2b2d2d0ef157ff4c96e5845afa"
 
 ["pure-data/pure-data"]
-check_time = "2024-05-14T15:14:18.881559376Z"
+check_time = "2024-05-14T15:39:29.712285255Z"
 change_time = "2024-05-14T07:11:20Z"
 commit_hash = "b00725132b13a29566b9188f01a6bf277c5c7a07"
 
@@ -3545,7 +3550,7 @@ change_time = "2024-05-02T17:41:38Z"
 commit_hash = "4865c87f9bd6d1d7f7c312cb58f2b315b24df965"
 
 ["rust-libraries/rust-music-theory"]
-check_time = "2024-05-08T16:15:08.648925019Z"
+check_time = "2024-05-14T15:39:31.035884183Z"
 change_time = "2022-05-26T13:27:37Z"
 commit_hash = "e863c15f8ff73ff31d4ec1b3637c439fad01e7ec"
 
@@ -3941,7 +3946,7 @@ change_time = "2024-04-01T09:43:21Z"
 commit_hash = "0746ffbd949fd2b3adbc547c219b567430f20b70"
 
 ["supercollider/quarks/clothesline"]
-check_time = "2024-05-13T22:12:59.889378443Z"
+check_time = "2024-05-14T15:39:32.528363316Z"
 change_time = "2024-04-13T10:38:09Z"
 commit_hash = "ecd7420dc66e6db0111e2a2ee3a42db717516dbc"
 
@@ -4066,7 +4071,7 @@ change_time = "2018-11-16T12:59:32Z"
 commit_hash = "40528cb0c17c440103e08f4c6938118e9a3b6aaa"
 
 ["supercollider/scripts/supercollisions"]
-check_time = "2024-05-13T16:17:18.709842984Z"
+check_time = "2024-05-14T15:39:36.525771590Z"
 change_time = "2024-04-23T14:12:47Z"
 commit_hash = "50c551b66c66ea2f406547d7c25dedc56fb9f3cc"
 
@@ -4591,7 +4596,7 @@ change_time = "2019-02-06T10:35:12Z"
 commit_hash = "2bdfa2a736306dd7a6722c3b1565704a8027427d"
 
 ["vcvrack/modules/stoermelder-packone"]
-check_time = "2024-05-13T23:12:44.798835596Z"
+check_time = "2024-05-14T15:39:39.502038284Z"
 change_time = "2024-04-09T15:50:55Z"
 commit_hash = "b8f505c8e44f198d04274c4bc1501b3872e07124"
 
