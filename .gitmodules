@@ -2794,3 +2794,11 @@
 	path = max/patches/gen-multinotch
 	url = https://github.com/a999s/gen-multinotch.git
 	branch = main
+[submodule "tremus/fastmaths"]
+	path = libs/fastmaths
+	url = https://github.com/Tremus/fastmaths.git
+	branch = master
+[submodule "tremus/cplug"]
+	path = libs/cplug
+	url = https://github.com/Tremus/CPLUG.git
+	branch = master
