@@ -2810,3 +2810,15 @@
 	path = max/packages/mi-gen
 	url = https://github.com/mi-creative/mi-gen.git
 	branch = master
+[submodule "madronalabs/madronalib"]
+	path = libs/madronalib
+	url = https://github.com/madronalabs/madronalib.git
+	branch = master
+[submodule "madronalabs/utu"]
+	path = software-and-tools/utu
+	url = https://github.com/madronalabs/utu.git
+	branch = main
+[submodule "madronalabs/vutu"]
+	path = software-and-tools/vutu
+	url = https://github.com/madronalabs/vutu.git
+	branch = main
