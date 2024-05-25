@@ -309,7 +309,7 @@ change_time = "2021-03-19T12:29:28Z"
 commit_hash = "2d9d3e059481ae593d9c192c5e805efa6af8d80a"
 
 ["er-301/units/bparticle-presets"]
-check_time = "2024-05-17T19:09:37.608828281Z"
+check_time = "2024-05-25T23:10:53.774718713Z"
 change_time = "2021-03-19T12:33:11Z"
 commit_hash = "e96ccd6aaa4d57baedcc8baf4b766ea4b69be6dc"
 
@@ -329,7 +329,7 @@ change_time = "2024-05-23T01:24:23Z"
 commit_hash = "71f178ac054e3e2b76d932e1461a487145b1ee3f"
 
 ["faust/faust"]
-check_time = "2024-05-25T22:10:56.926110208Z"
+check_time = "2024-05-25T23:11:07.332621709Z"
 change_time = "2024-05-25T18:16:38Z"
 commit_hash = "b486c24e183bb4b397ed79143bf51ebd1a431298"
 
@@ -364,9 +364,9 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-05-25T22:11:01.355062786Z"
-change_time = "2024-05-25T22:06:58Z"
-commit_hash = "70643ca416cfdc44d0af8de1877f167374697bda"
+check_time = "2024-05-25T23:11:11.590729850Z"
+change_time = "2024-05-25T22:16:50Z"
+commit_hash = "0c440e5ab595d10da3e4b1e5728dc1a957720065"
 
 ["hw-fw-eurorack/16n"]
 check_time = "2024-05-24T20:12:40.251538075Z"
@@ -509,7 +509,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-05-25T22:11:06.470856521Z"
+check_time = "2024-05-25T23:11:14.575918851Z"
 change_time = "2024-05-25T20:19:50Z"
 commit_hash = "2e9b543a342d7485d9295793ff259b29e170510a"
 
@@ -559,9 +559,9 @@ change_time = "2024-04-11T07:29:54Z"
 commit_hash = "5c7976106a365bb429d117824502a968f3f95d48"
 
 ["hw-fw-eurorack/eurorack-blocks"]
-check_time = "2024-05-24T14:11:44.701500416Z"
-change_time = "2024-03-30T00:14:37Z"
-commit_hash = "96e41955c56145a4abe7753a88d1074ab4d253c2"
+check_time = "2024-05-25T23:11:20.327460607Z"
+change_time = "2024-05-25T11:12:35Z"
+commit_hash = "5285b2702131ecc7d67db063b766232b67d472bd"
 
 ["hw-fw-eurorack/eurorackbusboardjst"]
 check_time = "2024-05-25T09:11:38.870530138Z"
@@ -644,7 +644,7 @@ change_time = "2024-05-08T13:36:26Z"
 commit_hash = "690b04e9dbf4920bbb38c6a40873b296675b52aa"
 
 ["hw-fw-eurorack/little-scale-eurorack"]
-check_time = "2024-05-24T08:14:58.623024772Z"
+check_time = "2024-05-25T23:11:21.491131436Z"
 change_time = "2024-03-06T00:19:55Z"
 commit_hash = "1d7bfce4ec6fc8d1ae1378af97ab87c228ce9ab6"
 
@@ -684,7 +684,7 @@ change_time = "2024-05-13T22:11:34Z"
 commit_hash = "5b19ec53033f4ae66ba0159b94bdffc124f342b4"
 
 ["hw-fw-eurorack/microresearch-allcolours"]
-check_time = "2024-05-25T10:13:15.114321867Z"
+check_time = "2024-05-25T23:11:40.837848625Z"
 change_time = "2024-05-16T18:30:07Z"
 commit_hash = "5a6d3604b91bd464729792a1672dce8a8aa449ef"
 
@@ -1119,12 +1119,12 @@ change_time = "2024-04-30T13:11:00Z"
 commit_hash = "8fab47228794f69a70beefaf31074e47e1b66bca"
 
 ["libs/aubio"]
-check_time = "2024-05-24T14:11:51.483147882Z"
+check_time = "2024-05-25T23:11:42.556323347Z"
 change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-05-25T17:12:29.636399649Z"
+check_time = "2024-05-25T23:11:43.931443477Z"
 change_time = "2024-05-22T01:26:02Z"
 commit_hash = "7524678696d97f42ffe734200273f8fb5e55fa5d"
 
@@ -1584,7 +1584,7 @@ change_time = "2019-10-29T03:37:20Z"
 commit_hash = "92b8f7b3d5e73b46cb9d212d69d4f3cb56826ead"
 
 ["max/packages/grainflow"]
-check_time = "2024-05-25T22:12:04.284005726Z"
+check_time = "2024-05-25T23:11:45.733960440Z"
 change_time = "2024-05-19T20:13:00Z"
 commit_hash = "32fa6ddd4916d4bbb1211b7c224a93ce4829e25c"
 
@@ -1694,7 +1694,7 @@ change_time = "2020-01-28T21:51:04Z"
 commit_hash = "7cc81ce3396501aa567d1fa01cfd313f18ea5a3d"
 
 ["max/packages/sonus"]
-check_time = "2024-05-25T12:21:02.804137059Z"
+check_time = "2024-05-25T23:11:48.203852259Z"
 change_time = "2024-05-16T18:12:36Z"
 commit_hash = "7dfde71a216d96f10147e80ff0599a1542bd0472"
 
@@ -1704,7 +1704,7 @@ change_time = "2021-08-19T15:02:04Z"
 commit_hash = "6e5761ae0b42a670fb1c2baa7dd224f9f51855c8"
 
 ["max/packages/th.comp"]
-check_time = "2024-05-23T17:12:24.226881991Z"
+check_time = "2024-05-25T23:11:48.992969992Z"
 change_time = "2022-12-12T20:16:56Z"
 commit_hash = "06b074f015b5b79b3be1a703b7c86d8def9c9334"
 
@@ -2000,7 +2000,7 @@ change_time = "2021-09-18T18:37:06Z"
 commit_hash = "9a926c90cd04398e45063471ebeda223b20229e5"
 
 ["monome/3rd-party-hardware/telex-teensy4"]
-check_time = "2024-05-25T12:21:04.447766335Z"
+check_time = "2024-05-25T23:11:50.493266879Z"
 change_time = "2024-05-16T20:07:29Z"
 commit_hash = "fc8d0ea4cff9914c1317454d835f8345bd469b04"
 
@@ -2105,7 +2105,7 @@ change_time = "2023-10-19T18:11:04Z"
 commit_hash = "eb834b98742219d2b5a08e523fc0e5d9000e97ec"
 
 ["monome/libs/libmonome"]
-check_time = "2024-05-24T11:11:39.773585403Z"
+check_time = "2024-05-25T23:11:51.472782612Z"
 change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
@@ -2130,7 +2130,7 @@ change_time = "2024-03-19T15:04:26Z"
 commit_hash = "03b15ce0dfe4559b8bfb496deff42d4b1a97c74a"
 
 ["monome/pymonome-apps"]
-check_time = "2024-05-24T11:11:40.616261876Z"
+check_time = "2024-05-25T23:11:52.273270717Z"
 change_time = "2024-02-21T21:16:41Z"
 commit_hash = "5a6aaba7cb15755f37bf6c1d3f478325f67980cd"
 
@@ -2220,7 +2220,7 @@ change_time = "2023-06-16T00:46:48Z"
 commit_hash = "503be3ae9a7f4368a8bc35d6081795e0a130cadf"
 
 ["norns/development/norns-desktop"]
-check_time = "2024-05-25T05:11:25.739100811Z"
+check_time = "2024-05-25T23:11:53.107136093Z"
 change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
@@ -2550,7 +2550,7 @@ change_time = "2021-07-08T14:33:14Z"
 commit_hash = "6205750e1a27f1ec76ff5e465da52ba0c30215c7"
 
 ["norns/scripts/buoys"]
-check_time = "2024-05-24T23:12:11.010513927Z"
+check_time = "2024-05-25T23:11:54.258712683Z"
 change_time = "2023-08-13T01:55:13Z"
 commit_hash = "93f74db42b1badc26cce3aa274f89884200dc962"
 
@@ -2655,7 +2655,7 @@ change_time = "2023-09-30T19:33:15Z"
 commit_hash = "4c4a3b8ed398c905f38298b7237ec4ad22d2d3e1"
 
 ["norns/scripts/dunes"]
-check_time = "2024-05-18T16:14:04.978852853Z"
+check_time = "2024-05-25T23:11:55.240593269Z"
 change_time = "2022-05-20T16:35:07Z"
 commit_hash = "400e23eaac9df21fbccea88e97c6bb3ec572ee2e"
 
@@ -3035,7 +3035,7 @@ change_time = "2022-02-28T05:50:32Z"
 commit_hash = "c74380a93708a8ebffdade4dfe9031ac7e26302e"
 
 ["norns/scripts/tapedeck"]
-check_time = "2024-05-23T00:53:06.991540480Z"
+check_time = "2024-05-25T23:11:56.688657651Z"
 change_time = "2023-05-14T13:34:49Z"
 commit_hash = "7430f65451c831a8d563b6b9ed52986707d03072"
 
@@ -3105,7 +3105,7 @@ change_time = "2020-10-06T03:21:46Z"
 commit_hash = "524b56669ac31387da76f40fd752fbcff2e07d5a"
 
 ["norns/scripts/vcr"]
-check_time = "2024-05-23T01:54:15.665073190Z"
+check_time = "2024-05-25T23:11:57.589826900Z"
 change_time = "2023-08-04T19:18:55Z"
 commit_hash = "7df61601dbae7a9eb27450a74bd6e1ef3e5f0945"
 
@@ -4491,7 +4491,7 @@ change_time = "2022-08-20T17:30:46Z"
 commit_hash = "bac14bc7fa8ac36942216e397b7a9586bc265943"
 
 ["vcvrack/modules/80instruments"]
-check_time = "2024-05-23T12:22:22.867260040Z"
+check_time = "2024-05-25T23:11:59.771716036Z"
 change_time = "2023-03-18T22:57:12Z"
 commit_hash = "ef316e7251a57cce2b955d94e06b0f439be40c24"
 
@@ -4521,9 +4521,9 @@ change_time = "2024-05-02T18:53:35Z"
 commit_hash = "bc4976d08b74876e3d14e252585065e71359734f"
 
 ["vcvrack/modules/eightfold"]
-check_time = "2024-05-25T17:12:47.242640075Z"
-change_time = "2024-05-23T22:52:37Z"
-commit_hash = "1e6288ac59033662be7eb57486ccf985f2746702"
+check_time = "2024-05-25T23:12:02.958946280Z"
+change_time = "2024-05-25T20:49:41Z"
+commit_hash = "c7fe927589f963cb2ff3833b92d8744abb4ea2e3"
 
 ["vcvrack/modules/eseries"]
 check_time = "2024-05-20T19:10:42.903846392Z"
@@ -4611,7 +4611,7 @@ change_time = "2023-06-27T07:06:50Z"
 commit_hash = "bf3ea150ffa2f3a753ef60bc27a4d7db8707561b"
 
 ["vcvrack/modules/sickocv"]
-check_time = "2024-05-25T18:14:40.114207726Z"
+check_time = "2024-05-25T23:12:04.749144786Z"
 change_time = "2024-05-24T09:04:08Z"
 commit_hash = "19e2a5e8b2d21fc13ac2cb233a9268c5e479f155"
 
