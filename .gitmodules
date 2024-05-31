@@ -2826,3 +2826,7 @@
 	path = norns/scripts/ca
 	url = https://github.com/imminentgloom/CA.git
 	branch = main
+[submodule "antisvin/mypatches"]
+	path = misc/antisvin-patches
+	url = https://github.com/antisvin/MyPatches.git
+	branch = master
