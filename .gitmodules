@@ -2838,3 +2838,7 @@
 	path = plugins-and-standalone/cassetter
 	url = https://github.com/algorifer/cassetter.git
 	branch = master
+[submodule "neauoire/enfer"]
+	path = plugins-and-standalone/enfer
+	url = https://github.com/neauoire/Enfer.git
+	branch = master
