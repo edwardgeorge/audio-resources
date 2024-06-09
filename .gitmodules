@@ -2834,3 +2834,7 @@
 	path = hw-fw-eurorack/aleatorium
 	url = https://github.com/jonbro/aleatorium.git
 	branch = main
+[submodule "algorifer/cassetter"]
+	path = plugins-and-standalone/cassetter
+	url = https://github.com/algorifer/cassetter.git
+	branch = master
