@@ -2830,3 +2830,7 @@
 	path = misc/antisvin-patches
 	url = https://github.com/antisvin/MyPatches.git
 	branch = master
+[submodule "jonbro/aleatorium"]
+	path = hw-fw-eurorack/aleatorium
+	url = https://github.com/jonbro/aleatorium.git
+	branch = main
