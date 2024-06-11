@@ -2846,3 +2846,7 @@
 	path = libs/control-surface
 	url = https://github.com/tttapa/Control-Surface.git
 	branch = main
+[submodule "emissioncontrol2/emissioncontrol2"]
+	path = plugins-and-standalone/emissioncontrol2
+	url = https://github.com/EmissionControl2/EmissionControl2.git
+	branch = master
