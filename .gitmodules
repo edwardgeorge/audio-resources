@@ -2850,3 +2850,7 @@
 	path = plugins-and-standalone/emissioncontrol2
 	url = https://github.com/EmissionControl2/EmissionControl2.git
 	branch = master
+[submodule "boddlnagg/midir"]
+	path = rust-libraries/midir
+	url = https://github.com/Boddlnagg/midir.git
+	branch = master
