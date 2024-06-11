@@ -2842,3 +2842,7 @@
 	path = plugins-and-standalone/enfer
 	url = https://github.com/neauoire/Enfer.git
 	branch = master
+[submodule "tttapa/control-surface"]
+	path = libs/control-surface
+	url = https://github.com/tttapa/Control-Surface.git
+	branch = main
