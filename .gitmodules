@@ -2858,3 +2858,7 @@
 	path = max/packages/max-thirdparty-externals
 	url = https://github.com/v7b1/max-thirdParty_externals.git
 	branch = main
+[submodule "v7b1/vb.mi-dev"]
+	path = max/packages/vb.mi-dev
+	url = https://github.com/v7b1/vb.mi-dev.git
+	branch = main
