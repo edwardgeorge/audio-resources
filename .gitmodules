@@ -2854,3 +2854,7 @@
 	path = rust-libraries/midir
 	url = https://github.com/Boddlnagg/midir.git
 	branch = master
+[submodule "v7b1/max-thirdparty-externals"]
+	path = max/packages/max-thirdparty-externals
+	url = https://github.com/v7b1/max-thirdParty_externals.git
+	branch = main
