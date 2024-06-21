@@ -2866,3 +2866,7 @@
 	path = hw-fw-eurorack/rawwaves
 	url = https://github.com/SherpaModular/RawWaves.git
 	branch = main
+[submodule "lenomdesfleurs/laminaria"]
+	path = plugins-and-standalone/laminaria
+	url = https://github.com/LeNomDesFleurs/Laminaria.git
+	branch = main
