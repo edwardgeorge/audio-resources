@@ -2870,3 +2870,7 @@
 	path = plugins-and-standalone/laminaria
 	url = https://github.com/LeNomDesFleurs/Laminaria.git
 	branch = main
+[submodule "toilmodular/fujin"]
+	path = hw-fw-eurorack/fujin
+	url = https://github.com/TOILmodular/FUJIN.git
+	branch = main
