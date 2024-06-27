@@ -2874,3 +2874,7 @@
 	path = hw-fw-eurorack/fujin
 	url = https://github.com/TOILmodular/FUJIN.git
 	branch = main
+[submodule "emute-lab-instruments/useq"]
+	path = hw-fw-eurorack/useq
+	url = https://github.com/Emute-Lab-Instruments/uSEQ.git
+	branch = main
