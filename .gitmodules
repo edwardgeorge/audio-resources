@@ -2878,3 +2878,11 @@
 	path = hw-fw-eurorack/useq
 	url = https://github.com/Emute-Lab-Instruments/uSEQ.git
 	branch = main
+[submodule "oamodular/time-machine"]
+	path = hw-fw-eurorack/time-machine
+	url = https://github.com/oamodular/time-machine.git
+	branch = main
+[submodule "oamodular/passive-expander"]
+	path = hw-fw-eurorack/time-machine-passive-expander
+	url = https://github.com/oamodular/passive-expander.git
+	branch = main
