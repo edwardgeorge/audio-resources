@@ -2886,3 +2886,15 @@
 	path = hw-fw-eurorack/time-machine-passive-expander
 	url = https://github.com/oamodular/passive-expander.git
 	branch = main
+[submodule "sonicpotions/penrose"]
+	path = hw-fw-eurorack/penrose
+	url = https://github.com/SonicPotions/Penrose.git
+	branch = master
+[submodule "sonicpotions/lxr"]
+	path = hw-fw-eurorack/lxr
+	url = https://github.com/SonicPotions/LXR.git
+	branch = master
+[submodule "kassu/kassutronicsquantizer"]
+	path = hw-fw-eurorack/kassutronicsquantizer
+	url = https://github.com/kassu/KassutronicsQuantizer.git
+	branch = master
