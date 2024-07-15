@@ -2914,3 +2914,7 @@
 	path = hw-fw-eurorack/cvpal
 	url = https://github.com/pichenettes/cvpal.git
 	branch = master
+[submodule "meebleeps/meebleeps-freaq-fm-synth"]
+	path = hw-fw-eurorack/meebleeps-freaq-fm-synth
+	url = https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth.git
+	branch = master
