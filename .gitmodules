@@ -2950,3 +2950,7 @@
 	path = rust-libraries/staff
 	url = https://github.com/staff-rs/staff.git
 	branch = main
+[submodule "x31eq/regular-rust"]
+	path = rust-libraries/regular-rust
+	url = https://github.com/x31eq/regular_rust.git
+	branch = master
