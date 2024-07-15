@@ -2926,3 +2926,19 @@
 	path = rust-libraries/music-math-rs
 	url = https://github.com/madskjeldgaard/music-math-rs.git
 	branch = main
+[submodule "madskjeldgaard/osccli"]
+	path = software-and-tools/osccli
+	url = https://github.com/madskjeldgaard/osccli.git
+	branch = master
+[submodule "yoggy/sendosc"]
+	path = software-and-tools/sendosc
+	url = https://github.com/yoggy/sendosc.git
+	branch = master
+[submodule "72nd/osc-utility"]
+	path = software-and-tools/osc-utility
+	url = https://github.com/72nd/osc-utility.git
+	branch = master
+[submodule "karnpapon/oscd"]
+	path = software-and-tools/oscd
+	url = https://github.com/karnpapon/oscd.git
+	branch = main
