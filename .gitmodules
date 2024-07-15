@@ -2918,3 +2918,7 @@
 	path = hw-fw-eurorack/meebleeps-freaq-fm-synth
 	url = https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth.git
 	branch = master
+[submodule "madskjeldgaard/birdhouse"]
+	path = hw-fw-eurorack/birdhouse
+	url = https://github.com/madskjeldgaard/Birdhouse.git
+	branch = main
