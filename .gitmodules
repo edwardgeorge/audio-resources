@@ -2922,3 +2922,7 @@
 	path = hw-fw-eurorack/birdhouse
 	url = https://github.com/madskjeldgaard/Birdhouse.git
 	branch = main
+[submodule "madskjeldgaard/music-math-rs"]
+	path = rust-libraries/music-math-rs
+	url = https://github.com/madskjeldgaard/music-math-rs.git
+	branch = main
