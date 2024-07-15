@@ -2942,3 +2942,11 @@
 	path = software-and-tools/oscd
 	url = https://github.com/karnpapon/oscd.git
 	branch = main
+[submodule "veminovici/musika-rs"]
+	path = rust-libraries/musika-rs
+	url = https://github.com/veminovici/musika-rs.git
+	branch = main
+[submodule "staff-rs/staff"]
+	path = rust-libraries/staff
+	url = https://github.com/staff-rs/staff.git
+	branch = main
