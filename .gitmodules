@@ -2898,3 +2898,19 @@
 	path = hw-fw-eurorack/kassutronicsquantizer
 	url = https://github.com/kassu/KassutronicsQuantizer.git
 	branch = master
+[submodule "pichenettes/ambika"]
+	path = hw-fw-eurorack/ambika
+	url = https://github.com/pichenettes/ambika.git
+	branch = master
+[submodule "pichenettes/shruthi-1"]
+	path = hw-fw-eurorack/shruthi-1
+	url = https://github.com/pichenettes/shruthi-1.git
+	branch = master
+[submodule "pichenettes/midipal"]
+	path = hw-fw-eurorack/midipal
+	url = https://github.com/pichenettes/midipal.git
+	branch = master
+[submodule "pichenettes/cvpal"]
+	path = hw-fw-eurorack/cvpal
+	url = https://github.com/pichenettes/cvpal.git
+	branch = master
