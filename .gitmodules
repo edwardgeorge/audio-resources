@@ -2954,3 +2954,7 @@
 	path = rust-libraries/regular-rust
 	url = https://github.com/x31eq/regular_rust.git
 	branch = master
+[submodule "playbenny/benny"]
+	path = max/applications/benny
+	url = https://github.com/playbenny/benny.git
+	branch = main
