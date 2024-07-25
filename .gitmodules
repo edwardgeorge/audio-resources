@@ -2958,3 +2958,7 @@
 	path = max/applications/benny
 	url = https://github.com/playbenny/benny.git
 	branch = main
+[submodule "seismicindustries/spink0"]
+	path = hw-fw-eurorack/spink0
+	url = https://github.com/seismicindustries/spink0.git
+	branch = master
