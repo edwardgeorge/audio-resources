@@ -2962,3 +2962,7 @@
 	path = hw-fw-eurorack/spink0
 	url = https://github.com/seismicindustries/spink0.git
 	branch = master
+[submodule "shaduzlabs/pink-0"]
+	path = hw-fw-eurorack/pink-0
+	url = https://github.com/shaduzlabs/pink-0.git
+	branch = master
