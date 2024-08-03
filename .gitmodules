@@ -1191,7 +1191,7 @@
 	url = https://github.com/surge-synthesizer/pffft.git
 	branch = surge
 [submodule "bwhitman/amy"]
-	path = libs/amy
+	path = libs/amy-bwhitman
 	url = https://github.com/bwhitman/amy.git
 	branch = main
 [submodule "tidalcycles/tidal"]
@@ -1243,11 +1243,11 @@
 	url = https://github.com/bwhitman/learnfm.git
 	branch = master
 [submodule "bwhitman/tulipcc"]
-	path = hw-fw-eurorack/tulipcc
+	path = hw-fw-eurorack/tulipcc-bwhitman
 	url = https://github.com/bwhitman/tulipcc.git
 	branch = main
 [submodule "bwhitman/alles"]
-	path = hw-fw-eurorack/alles
+	path = hw-fw-eurorack/alles-bwhitman
 	url = https://github.com/bwhitman/alles.git
 	branch = main
 [submodule "stoermelder/vcvrack-packone/v2"]
@@ -2966,3 +2966,15 @@
 	path = hw-fw-eurorack/pink-0
 	url = https://github.com/shaduzlabs/pink-0.git
 	branch = master
+[submodule "shorepine/amy"]
+	path = libs/amy
+	url = https://github.com/shorepine/amy.git
+	branch = main
+[submodule "shorepine/tulipcc"]
+	path = hw-fw-eurorack/tulipcc
+	url = https://github.com/shorepine/tulipcc.git
+	branch = main
+[submodule "shorepine/alles"]
+	path = hw-fw-eurorack/alles
+	url = https://github.com/shorepine/alles.git
+	branch = main
