@@ -139,7 +139,7 @@ change_time = "2024-03-16T07:54:29Z"
 commit_hash = "4218b072e7420dd788cd3c98c36b3eba445f8886"
 
 ["daisy/modules/versio/proteus"]
-check_time = "2024-08-08T09:13:08.092745291Z"
+check_time = "2024-08-12T20:13:03.959360240Z"
 change_time = "2022-09-12T17:09:25Z"
 commit_hash = "4a3efe684e598b53880086ebdb05072315071a35"
 
@@ -204,12 +204,12 @@ change_time = "2023-05-03T02:30:59Z"
 commit_hash = "e58b0c22ec5bcd8508e8627d619b5c27dfe5b9c7"
 
 ["embedded/mozzi"]
-check_time = "2024-08-12T08:17:09.300984575Z"
+check_time = "2024-08-12T20:13:05.521339649Z"
 change_time = "2024-07-30T12:45:00Z"
 commit_hash = "acda05409538d4d5cd48cd7bd80caf503465997a"
 
 ["embedded/osc"]
-check_time = "2024-08-11T02:36:26.006395311Z"
+check_time = "2024-08-12T20:13:06.347412095Z"
 change_time = "2024-06-02T07:50:36Z"
 commit_hash = "778dd98ab517f7a878492c8a22ba53928801e865"
 
@@ -329,7 +329,7 @@ change_time = "2024-08-10T20:02:05Z"
 commit_hash = "134125a508c36271e744c7e86f3b61ba05061883"
 
 ["faust/faust"]
-check_time = "2024-08-12T19:11:10.985118265Z"
+check_time = "2024-08-12T20:13:20.787545726Z"
 change_time = "2024-08-12T16:57:44Z"
 commit_hash = "c7ec49d4128329ab6da1735b2669150d58cabdc8"
 
@@ -384,7 +384,7 @@ change_time = "2024-07-24T15:53:03Z"
 commit_hash = "e26bbf03d33ded7260fb43e8c296814b4bd71c31"
 
 ["hw-fw-eurorack/4ms-sampler-firmware"]
-check_time = "2024-08-11T02:36:30.006947024Z"
+check_time = "2024-08-12T20:13:23.221106414Z"
 change_time = "2024-03-26T21:39:18Z"
 commit_hash = "487f3363437da51703f5df5fe4274b480c085111"
 
@@ -534,7 +534,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-08-12T19:11:18.329144918Z"
+check_time = "2024-08-12T20:13:26.271853251Z"
 change_time = "2024-08-12T13:43:17Z"
 commit_hash = "ac4ff1cbbcfff89945ae8c969e070432c9963786"
 
@@ -634,7 +634,7 @@ change_time = "2023-07-21T15:32:19Z"
 commit_hash = "da1ff0cb7117034b533e7df34b185179406ceb51"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-08-12T19:11:28.368330829Z"
+check_time = "2024-08-12T20:13:28.523046488Z"
 change_time = "2024-08-12T14:15:52Z"
 commit_hash = "3d95872092ed5d34c7eab6fea5c2129f5140ca8c"
 
@@ -1084,7 +1084,7 @@ change_time = "2022-06-06T13:50:54Z"
 commit_hash = "e630356af1d45a97b8f4e54f65d95efe116ab165"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-08-12T19:12:03.743106743Z"
+check_time = "2024-08-12T20:13:37.697817894Z"
 change_time = "2024-08-08T14:59:38Z"
 commit_hash = "b09085a36ef467e95241083904305b2e4d198b59"
 
@@ -1209,7 +1209,7 @@ change_time = "2024-07-02T09:58:54Z"
 commit_hash = "41d9aa111f702e78b6fbaee9d3e06dda1db6420d"
 
 ["libs/amy"]
-check_time = "2024-08-12T19:12:17.270198612Z"
+check_time = "2024-08-12T20:13:40.786771824Z"
 change_time = "2024-08-12T18:24:12Z"
 commit_hash = "0fe08d96d6522cf57d263c7892f84478a6e00ec3"
 
@@ -1224,7 +1224,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-08-12T09:14:14.314016906Z"
+check_time = "2024-08-12T20:13:42.148601160Z"
 change_time = "2024-07-31T23:42:02Z"
 commit_hash = "6b01f4bd0c532f52dfb1838822d3c0d4b2c09197"
 
@@ -1319,7 +1319,7 @@ change_time = "2024-08-07T17:08:39Z"
 commit_hash = "504dd19e199fde955d5a07549d6e4468e561be4f"
 
 ["libs/madronalib"]
-check_time = "2024-08-12T15:15:22.479541110Z"
+check_time = "2024-08-12T20:13:43.264888189Z"
 change_time = "2024-08-08T02:43:23Z"
 commit_hash = "380951564f83feed60fed229a550caea7c07dfb8"
 
@@ -1364,9 +1364,9 @@ change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
 ["libs/sst-basic-blocks"]
-check_time = "2024-08-12T14:14:41.751059326Z"
-change_time = "2024-08-06T16:46:21Z"
-commit_hash = "b7778de90aa5a4eaca56de69f43c249e5bdf3bcd"
+check_time = "2024-08-12T20:13:46.258704485Z"
+change_time = "2024-08-12T20:04:20Z"
+commit_hash = "351196f0e7bcdd35083b2928bcd65cdbe874e3ee"
 
 ["libs/sst-rackhelpers"]
 check_time = "2024-08-12T04:16:13.957944304Z"
@@ -1549,7 +1549,7 @@ change_time = "2019-09-06T08:26:54Z"
 commit_hash = "e4dc13bdb40e478b61306bf1bb4950e76e22503e"
 
 ["max/m4l-devices/parrot"]
-check_time = "2024-08-09T18:18:12.206087284Z"
+check_time = "2024-08-12T20:13:47.138342097Z"
 change_time = "2022-05-11T10:00:11Z"
 commit_hash = "d1f23201bb583fafe836e73d683101dd0b9db8d8"
 
@@ -1864,7 +1864,7 @@ change_time = "2022-05-11T10:00:11Z"
 commit_hash = "d1f23201bb583fafe836e73d683101dd0b9db8d8"
 
 ["max/patches/circular-wavetable"]
-check_time = "2024-08-04T09:12:29.079275705Z"
+check_time = "2024-08-12T20:13:48.215245138Z"
 change_time = "2022-10-02T21:34:54Z"
 commit_hash = "741ac78e3b975bd2ce5e93ef4fe5ef49f336c1a4"
 
@@ -2535,7 +2535,7 @@ change_time = "2023-01-17T20:32:30Z"
 commit_hash = "3fcaefa35a036a6b5da8727e75dbc56c659fe5d9"
 
 ["norns/mods/emplaitress"]
-check_time = "2024-08-10T13:13:48.140214909Z"
+check_time = "2024-08-12T20:13:49.546669121Z"
 change_time = "2024-02-18T05:29:57Z"
 commit_hash = "5ababb191cb66b6d083cb406547f1e956d13746a"
 
@@ -2735,7 +2735,7 @@ change_time = "2023-04-25T04:45:43Z"
 commit_hash = "cc99a6d5f0a7f678375e1b0ec30d2cf1c1121f81"
 
 ["norns/scripts/delar"]
-check_time = "2024-08-10T14:12:25.113033664Z"
+check_time = "2024-08-12T20:13:50.571708880Z"
 change_time = "2024-03-10T14:00:26Z"
 commit_hash = "bec747eca501198618cbf073c10e8473d95eb8b6"
 
@@ -2820,7 +2820,7 @@ change_time = "2023-06-12T22:58:59Z"
 commit_hash = "3e03e730446ae9d2f957f9fd57fa1ad21618cf55"
 
 ["norns/scripts/foulplay"]
-check_time = "2024-08-11T22:14:09.122944027Z"
+check_time = "2024-08-12T20:13:51.465157325Z"
 change_time = "2024-01-13T18:32:27Z"
 commit_hash = "952ba47cc798c40239724d84ecac8d051429eaa8"
 
@@ -3230,7 +3230,7 @@ change_time = "2020-10-06T03:21:46Z"
 commit_hash = "524b56669ac31387da76f40fd752fbcff2e07d5a"
 
 ["norns/scripts/vcr"]
-check_time = "2024-08-08T22:12:54.683345226Z"
+check_time = "2024-08-12T20:13:52.815325450Z"
 change_time = "2023-08-04T19:18:55Z"
 commit_hash = "7df61601dbae7a9eb27450a74bd6e1ef3e5f0945"
 
@@ -3360,7 +3360,7 @@ change_time = "2024-01-24T12:48:17Z"
 commit_hash = "962b73d20ad17cc7c662062ab13c860edbc5e6fb"
 
 ["ornament-and-crime/phazerville-suite"]
-check_time = "2024-08-12T16:17:31.975277962Z"
+check_time = "2024-08-12T20:13:54.059302793Z"
 change_time = "2024-08-10T20:56:17Z"
 commit_hash = "a2038afdcfda2ce640244cfa296bf1489dcf2b96"
 
@@ -3500,9 +3500,9 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-08-12T19:12:34.731965315Z"
-change_time = "2024-08-12T18:32:52Z"
-commit_hash = "46d8902f5826e87946eea3ce33a9b1bab7df2ace"
+check_time = "2024-08-12T20:13:58.015304561Z"
+change_time = "2024-08-12T19:59:02Z"
+commit_hash = "e0775c58af0a8f14c21fe7808b41c2f9ae1e2322"
 
 ["plugins-and-standalone/stochas"]
 check_time = "2024-08-11T11:11:23.278614404Z"
@@ -4236,7 +4236,7 @@ change_time = "2023-04-14T06:37:58Z"
 commit_hash = "7c176dfc7bb61c59cce7baa22f46fc1906e2dab9"
 
 ["supercollider/quarks/wavesettransformer-fortrevorwishart"]
-check_time = "2024-08-10T19:11:20.355694588Z"
+check_time = "2024-08-12T20:13:59.685907779Z"
 change_time = "2024-01-19T21:43:48Z"
 commit_hash = "386228f39b58b0104f0dbde1b3681ed404c31645"
 
@@ -4801,7 +4801,7 @@ change_time = "2023-06-27T07:06:50Z"
 commit_hash = "bf3ea150ffa2f3a753ef60bc27a4d7db8707561b"
 
 ["vcvrack/modules/sickocv"]
-check_time = "2024-08-12T15:16:11.420699906Z"
+check_time = "2024-08-12T20:14:01.866910841Z"
 change_time = "2024-08-07T20:25:15Z"
 commit_hash = "cf11e104b693d9cfaf038d727090eec34788a2d5"
 
