@@ -2982,3 +2982,7 @@
 	path = hw-fw-eurorack/petrock
 	url = https://github.com/jsenzel1/petrock.git
 	branch = main
+[submodule "shorepine/amy-dual-core-esp32"]
+	path = embedded/amy-dual-core-esp32
+	url = https://github.com/shorepine/amy_dual_core_esp32.git
+	branch = main
