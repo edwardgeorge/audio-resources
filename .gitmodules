@@ -2978,3 +2978,7 @@
 	path = hw-fw-eurorack/alles
 	url = https://github.com/shorepine/alles.git
 	branch = main
+[submodule "jsenzel1/petrock"]
+	path = hw-fw-eurorack/petrock
+	url = https://github.com/jsenzel1/petrock.git
+	branch = main
