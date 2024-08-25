@@ -2986,3 +2986,11 @@
 	path = embedded/amy-dual-core-esp32
 	url = https://github.com/shorepine/amy_dual_core_esp32.git
 	branch = main
+[submodule "madronalabs/mlvg"]
+	path = libs/mlvg
+	url = https://github.com/madronalabs/mlvg.git
+	branch = main
+[submodule "iplug2/iplug2"]
+	path = libs/iplug2
+	url = https://github.com/iPlug2/iPlug2.git
+	branch = master
