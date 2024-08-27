@@ -2994,3 +2994,7 @@
 	path = libs/iplug2
 	url = https://github.com/iPlug2/iPlug2.git
 	branch = master
+[submodule "soundspear/formula/develop"]
+	path = plugins-and-standalone/formula
+	url = https://github.com/soundspear/formula.git
+	branch = develop
