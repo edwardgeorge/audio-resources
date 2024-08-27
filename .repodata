@@ -24,7 +24,7 @@ change_time = "2023-03-15T19:06:48Z"
 commit_hash = "c8aac3ca6ec770a025551d14dd3e9cfc85e12ee4"
 
 ["crow/druid"]
-check_time = "2024-08-24T15:12:26.492440973Z"
+check_time = "2024-08-27T12:23:51.564214789Z"
 change_time = "2023-11-09T22:17:02Z"
 commit_hash = "4c9209ff9c12b8951d78ee5da125c230021b5fd2"
 
@@ -99,7 +99,7 @@ change_time = "2024-03-24T01:49:19Z"
 commit_hash = "7cf256d6694a2b7f950d21589c867746e21da5ef"
 
 ["daisy/modules/misc/daisyaudiomangler"]
-check_time = "2024-08-26T03:15:51.944079111Z"
+check_time = "2024-08-27T12:23:52.610726845Z"
 change_time = "2024-05-21T06:39:14Z"
 commit_hash = "f6f2c4882e922339c554c39332806b40781286ef"
 
@@ -229,7 +229,7 @@ change_time = "2023-05-28T11:36:06Z"
 commit_hash = "bd45fe16d921ca36e31b26a005d4368d542ea3fb"
 
 ["embedded/rppicomidi-midi2usbhost"]
-check_time = "2024-08-27T11:11:37.498651446Z"
+check_time = "2024-08-27T12:23:53.735222094Z"
 change_time = "2024-08-23T22:37:43Z"
 commit_hash = "45c598240276c155f7ed203db2b613e52894431a"
 
@@ -249,7 +249,7 @@ change_time = "2024-08-24T03:11:57Z"
 commit_hash = "a64d35d4879da0d1dc2fe30ec3b6f43bd47ec9bc"
 
 ["embedded/rppicomidi-usb-midi-processor"]
-check_time = "2024-08-27T09:13:37.205456176Z"
+check_time = "2024-08-27T12:23:55.356975154Z"
 change_time = "2024-08-24T21:51:09Z"
 commit_hash = "4a2e1dcc97d3ee4e61e20cd5c79b34f348cd6c99"
 
@@ -334,7 +334,7 @@ change_time = "2024-08-14T07:44:26Z"
 commit_hash = "ca0e79ff9854f7fd592692330207004ac075816a"
 
 ["faust/faust"]
-check_time = "2024-08-27T09:13:51.600034783Z"
+check_time = "2024-08-27T12:24:11.200579712Z"
 change_time = "2024-08-26T13:19:32Z"
 commit_hash = "6208af3b4d8f31632365304ee615c1bac9a48358"
 
@@ -344,9 +344,9 @@ change_time = "2023-10-18T08:00:12Z"
 commit_hash = "cc01591856ebc817c118a9e0545556511075d009"
 
 ["faust/faust-libraries"]
-check_time = "2024-08-27T07:12:20.198358241Z"
-change_time = "2024-08-26T13:33:43Z"
-commit_hash = "069935a95a4696c08bd0f578e9598849449f28cc"
+check_time = "2024-08-27T12:24:15.472304720Z"
+change_time = "2024-08-27T08:29:49Z"
+commit_hash = "2aa306eb640563e56e374dc4aad5bdbdd6bc4bd8"
 
 ["faust/faust-live"]
 check_time = "2024-08-27T08:26:56.090259040Z"
@@ -514,7 +514,7 @@ change_time = "2024-02-25T14:06:03Z"
 commit_hash = "b28bdbecc5b37165b3b91eafe1df97f263d02860"
 
 ["hw-fw-eurorack/chord-buffer"]
-check_time = "2024-08-26T17:11:53.412017708Z"
+check_time = "2024-08-27T12:24:16.587506280Z"
 change_time = "2024-04-04T18:37:17Z"
 commit_hash = "95d39abe2a3b9820476a2b26dae6d668b1855c28"
 
@@ -539,7 +539,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-08-27T11:11:45.260899130Z"
+check_time = "2024-08-27T12:24:19.386943868Z"
 change_time = "2024-08-26T23:16:54Z"
 commit_hash = "10a2e01175826dc142ec11962863ce86fea2716d"
 
@@ -619,7 +619,7 @@ change_time = "2024-07-14T14:44:02Z"
 commit_hash = "55ce2c8b4bee26215bf8451cb2d6dfbc333fff05"
 
 ["hw-fw-eurorack/gliss-firmware"]
-check_time = "2024-08-27T11:11:46.332166135Z"
+check_time = "2024-08-27T12:24:20.619951163Z"
 change_time = "2024-08-27T00:50:09Z"
 commit_hash = "328205acf936417f996bdf6b34f064256be487c2"
 
@@ -874,7 +874,7 @@ change_time = "2023-01-18T17:19:32Z"
 commit_hash = "fe646e4243fbcbcdfdb4c04496b49d2d6a80196e"
 
 ["hw-fw-eurorack/oamodular-uncertainty"]
-check_time = "2024-08-26T21:12:13.980299122Z"
+check_time = "2024-08-27T12:24:22.177876402Z"
 change_time = "2024-06-25T17:48:01Z"
 commit_hash = "537a2f40bbc96aff0bcef4cacfe19a9a4192006d"
 
@@ -954,7 +954,7 @@ change_time = "2018-09-12T21:34:34Z"
 commit_hash = "d7c80a37ef2166222f8bdfcea6276958f2d53c06"
 
 ["hw-fw-eurorack/plinky"]
-check_time = "2024-08-26T09:13:58.269273642Z"
+check_time = "2024-08-27T12:24:29.663305137Z"
 change_time = "2024-08-01T21:03:45Z"
 commit_hash = "5fffef41b9d02f38d0a571be1d53c6c8581d306e"
 
@@ -964,7 +964,7 @@ change_time = "2020-09-05T12:28:44Z"
 commit_hash = "3fa94deab9c8128b4d2075da33d1b1262110afeb"
 
 ["hw-fw-eurorack/prok-drums-hardware"]
-check_time = "2024-08-26T00:59:21.339500145Z"
+check_time = "2024-08-27T12:24:30.599830224Z"
 change_time = "2024-01-16T14:04:31Z"
 commit_hash = "9b2144a2c0c36791a4a9a6b2f7126a1007c52e1f"
 
@@ -1409,7 +1409,7 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-08-27T02:09:40.501172524Z"
+check_time = "2024-08-27T12:24:32.708626408Z"
 change_time = "2024-08-23T20:57:02Z"
 commit_hash = "dcdeb9d775dfd93c0f59eca192bc402c3898310f"
 
@@ -2490,7 +2490,7 @@ change_time = "2024-03-16T14:29:05Z"
 commit_hash = "143cc75a9e5901a28ec786aec6b564e0e2d0ab28"
 
 ["norns/libs/fx-delay"]
-check_time = "2024-08-23T20:14:47.814821264Z"
+check_time = "2024-08-27T12:24:34.672342105Z"
 change_time = "2023-10-15T22:03:19Z"
 commit_hash = "37d6a9d0f12a725d75c85497a28e2a7e7e615c3e"
 
@@ -2870,7 +2870,7 @@ change_time = "2021-02-22T01:57:55Z"
 commit_hash = "b9111da40f53ff42dd5b199cbe186728c2caad83"
 
 ["norns/scripts/gridofpoints"]
-check_time = "2024-08-26T22:13:41.512032193Z"
+check_time = "2024-08-27T12:24:36.044997768Z"
 change_time = "2024-07-31T06:54:16Z"
 commit_hash = "61182ba26dc9c1f4d5a2efeeca9e7c883bbb86b7"
 
@@ -2970,7 +2970,7 @@ change_time = "2023-11-12T14:25:53Z"
 commit_hash = "36c95094ac223a7da7db1eed4546bd10a2b7a389"
 
 ["norns/scripts/nb-drumcrow"]
-check_time = "2024-08-27T10:13:25.123377455Z"
+check_time = "2024-08-27T12:24:37.014780492Z"
 change_time = "2024-08-27T03:21:09Z"
 commit_hash = "d67b299e2c857d5cce18d9a91adf4c85c67f373c"
 
@@ -3425,7 +3425,7 @@ change_time = "2024-06-17T06:39:36Z"
 commit_hash = "2d77bdcd946f1673a8a1e7be596982842d3d6844"
 
 ["plugins-and-standalone/conduit"]
-check_time = "2024-08-26T02:08:45.035260848Z"
+check_time = "2024-08-27T12:24:38.726429482Z"
 change_time = "2024-07-29T22:01:00Z"
 commit_hash = "3b15d2cb2cd6aeec5e2fa51c1822e3691ad68d8f"
 
@@ -3525,9 +3525,9 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-08-27T10:13:29.475740639Z"
-change_time = "2024-08-26T23:58:26Z"
-commit_hash = "fa91e96031c10629fcd5c3e10d3c87bcd14f3a2f"
+check_time = "2024-08-27T12:24:42.849805897Z"
+change_time = "2024-08-27T12:19:37Z"
+commit_hash = "a02c04a4cf7dccd8486cec4460229964098b129e"
 
 ["plugins-and-standalone/stochas"]
 check_time = "2024-08-27T08:17:46.692278201Z"
@@ -3770,7 +3770,7 @@ change_time = "2024-08-07T19:38:22Z"
 commit_hash = "cc8ba755438ea1d186e024fec68db9390594e495"
 
 ["rust-libraries/rustaudio-dasp"]
-check_time = "2024-08-24T15:14:05.150054101Z"
+check_time = "2024-08-27T12:24:44.120708925Z"
 change_time = "2023-11-11T15:49:44Z"
 commit_hash = "4f573d69451c9cafba65f746a6ff19ec251ee826"
 
@@ -4321,7 +4321,7 @@ change_time = "2016-09-21T23:08:27Z"
 commit_hash = "199f89a3be23ea49004118173aa7420453a06e0c"
 
 ["supercollider/scripts/z-elements"]
-check_time = "2024-08-26T16:58:50.243889447Z"
+check_time = "2024-08-27T12:24:45.950687273Z"
 change_time = "2023-08-11T07:49:43Z"
 commit_hash = "c137a16a0e64b4695ea9af9377c1b203c89a93d1"
 
@@ -4526,7 +4526,7 @@ change_time = "2021-04-03T19:09:47Z"
 commit_hash = "85fbecf1bec32553395625ea659e2a56dfd7c0e1"
 
 ["tidal/strudel"]
-check_time = "2024-08-27T08:18:22.357384103Z"
+check_time = "2024-08-27T12:24:47.634015994Z"
 change_time = "2024-08-23T15:12:28Z"
 commit_hash = "812ed6b60d05c4b072362eef91b8e79c152e4937"
 
@@ -4766,7 +4766,7 @@ change_time = "2021-12-09T01:29:38Z"
 commit_hash = "53c691a8c38f7fab76b130326e802fb50679cf4f"
 
 ["vcvrack/modules/impromptumodular"]
-check_time = "2024-08-26T15:25:55.068123084Z"
+check_time = "2024-08-27T12:24:49.143662135Z"
 change_time = "2024-07-28T19:54:58Z"
 commit_hash = "5ba4ccd49cd657d04bb73b9143daa7ab490baf2b"
 
@@ -4816,7 +4816,7 @@ change_time = "2023-05-04T00:21:51Z"
 commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
 
 ["vcvrack/modules/sapphire"]
-check_time = "2024-08-27T09:14:52.140864065Z"
+check_time = "2024-08-27T12:24:50.742336175Z"
 change_time = "2024-08-23T23:07:55Z"
 commit_hash = "70152bc03b156f1f07bd60296da46d6430c1b66f"
 
