@@ -2998,3 +2998,51 @@
 	path = plugins-and-standalone/formula
 	url = https://github.com/soundspear/formula.git
 	branch = develop
+[submodule "moffenzeefmodular/deviant"]
+	path = hw-fw-eurorack/deviant
+	url = https://github.com/moffenzeefmodular/deviant.git
+	branch = master
+[submodule "moffenzeefmodular/1800"]
+	path = hw-fw-eurorack/1800
+	url = https://github.com/moffenzeefmodular/1800.git
+	branch = master
+[submodule "moffenzeefmodular/stargazer"]
+	path = hw-fw-eurorack/stargazer
+	url = https://github.com/moffenzeefmodular/stargazer.git
+	branch = master
+[submodule "moffenzeefmodular/count"]
+	path = hw-fw-eurorack/count
+	url = https://github.com/moffenzeefmodular/count.git
+	branch = master
+[submodule "moffenzeefmodular/badidea18214"]
+	path = hw-fw-eurorack/badidea18214
+	url = https://github.com/moffenzeefmodular/badidea18214.git
+	branch = master
+[submodule "moffenzeefmodular/msg"]
+	path = hw-fw-eurorack/msg
+	url = https://github.com/moffenzeefmodular/MSG.git
+	branch = master
+[submodule "moffenzeefmodular/muskrat"]
+	path = hw-fw-eurorack/muskrat
+	url = https://github.com/moffenzeefmodular/Muskrat.git
+	branch = master
+[submodule "moffenzeefmodular/gmo"]
+	path = hw-fw-eurorack/gmo
+	url = https://github.com/moffenzeefmodular/GMO.git
+	branch = master
+[submodule "moffenzeefmodular/dialup"]
+	path = hw-fw-eurorack/dialup
+	url = https://github.com/moffenzeefmodular/dialup.git
+	branch = master
+[submodule "moffenzeefmodular/jarmaggedon"]
+	path = hw-fw-eurorack/jarmaggedon
+	url = https://github.com/moffenzeefmodular/jarmaggedon.git
+	branch = master
+[submodule "moffenzeefmodular/mito"]
+	path = hw-fw-eurorack/mito
+	url = https://github.com/moffenzeefmodular/MITO.git
+	branch = master
+[submodule "mackron/miniaudio"]
+	path = libs/miniaudio
+	url = https://github.com/mackron/miniaudio.git
+	branch = master
