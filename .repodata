@@ -34,7 +34,7 @@ change_time = "2023-05-30T00:20:22Z"
 commit_hash = "9ec04c134668175ce73a2f9a93ec29b2b36cdb36"
 
 ["crow/firmware"]
-check_time = "2024-08-29T13:18:29.865396630Z"
+check_time = "2024-08-31T20:14:13.164126620Z"
 change_time = "2023-07-25T01:00:13Z"
 commit_hash = "7027d2971a5491b021d8b309101cf2f75a7b5787"
 
@@ -174,7 +174,7 @@ change_time = "2023-12-05T14:26:28Z"
 commit_hash = "efcdf25b36afbc3c890f238d625f0dedd4814bfb"
 
 ["daisy/projects/mfb"]
-check_time = "2024-08-30T03:13:54.034402591Z"
+check_time = "2024-08-31T20:14:14.157591718Z"
 change_time = "2023-01-21T13:16:43Z"
 commit_hash = "f885e6031aa2a2b4113294d155a7f21433369f19"
 
@@ -204,7 +204,7 @@ change_time = "2023-05-03T02:30:59Z"
 commit_hash = "e58b0c22ec5bcd8508e8627d619b5c27dfe5b9c7"
 
 ["embedded/amy-dual-core-esp32"]
-check_time = "2024-08-31T15:12:48.565003009Z"
+check_time = "2024-08-31T20:14:14.890760112Z"
 change_time = "2024-08-21T23:30:41Z"
 commit_hash = "fb7f72051ae04bf55ced44ac28fa684d1bbae8e6"
 
@@ -344,7 +344,7 @@ change_time = "2023-10-18T08:00:12Z"
 commit_hash = "cc01591856ebc817c118a9e0545556511075d009"
 
 ["faust/faust-libraries"]
-check_time = "2024-08-31T15:12:51.018331569Z"
+check_time = "2024-08-31T20:14:16.322741984Z"
 change_time = "2024-08-30T07:07:50Z"
 commit_hash = "3e74c39a9fc7c00c1b4caceff2731af643706181"
 
@@ -369,7 +369,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-08-31T17:10:42.579705324Z"
+check_time = "2024-08-31T20:14:18.472616365Z"
 change_time = "2024-08-30T06:25:51Z"
 commit_hash = "667a993b34a7bbb61d1cb406615ecf93d4861782"
 
@@ -389,7 +389,7 @@ change_time = "2017-05-22T18:08:17Z"
 commit_hash = "dfc4295fc9ca71be6243217ab544c2ef71705e3b"
 
 ["hw-fw-eurorack/4ms-looping-delay"]
-check_time = "2024-08-31T08:17:00.492569121Z"
+check_time = "2024-08-31T20:14:20.335809795Z"
 change_time = "2024-07-24T15:53:03Z"
 commit_hash = "e26bbf03d33ded7260fb43e8c296814b4bd71c31"
 
@@ -519,7 +519,7 @@ change_time = "2024-07-31T20:22:17Z"
 commit_hash = "1d462bf435e69fa54f38036bc36c4aba94ddf99f"
 
 ["hw-fw-eurorack/cats-eurosynth"]
-check_time = "2024-08-28T21:48:08.907365181Z"
+check_time = "2024-08-31T20:14:45.468590162Z"
 change_time = "2024-02-25T14:06:03Z"
 commit_hash = "b28bdbecc5b37165b3b91eafe1df97f263d02860"
 
@@ -554,9 +554,9 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-08-31T19:09:45.581621609Z"
-change_time = "2024-08-31T18:22:57Z"
-commit_hash = "fe357f3de3bebd3d27aa898888b4eb23b7e00ebf"
+check_time = "2024-08-31T20:14:50.633754067Z"
+change_time = "2024-08-31T19:16:55Z"
+commit_hash = "501d29be65cd06d8b2854109116bf1e7e63622a6"
 
 ["hw-fw-eurorack/deviant"]
 check_time = "2024-08-31T10:41:54.161031105Z"
@@ -604,7 +604,7 @@ change_time = "2023-08-06T22:29:44Z"
 commit_hash = "2ed6d513e96b224d5f8be8fccc68e442f166c620"
 
 ["hw-fw-eurorack/euclidean-sequencer-"]
-check_time = "2024-08-11T10:12:54.631090433Z"
+check_time = "2024-08-31T20:14:51.475203874Z"
 change_time = "2012-07-05T22:23:43Z"
 commit_hash = "c79feb21b0a7e3b374a338ba03422149b3d9726e"
 
@@ -669,7 +669,7 @@ change_time = "2023-07-21T15:32:19Z"
 commit_hash = "da1ff0cb7117034b533e7df34b185179406ceb51"
 
 ["hw-fw-eurorack/intech-grid-firmware"]
-check_time = "2024-08-31T16:15:26.783983031Z"
+check_time = "2024-08-31T20:14:53.531593288Z"
 change_time = "2024-08-30T13:35:56Z"
 commit_hash = "b287439ac1042688cfc3fa25983e79f3e167d487"
 
@@ -984,7 +984,7 @@ change_time = "2024-03-22T09:40:01Z"
 commit_hash = "111bf010468c095e477d6d5d8866307ceff393cb"
 
 ["hw-fw-eurorack/pico-cv-recorder"]
-check_time = "2024-08-31T09:13:04.464103858Z"
+check_time = "2024-08-31T20:14:54.754629416Z"
 change_time = "2024-08-26T02:58:37Z"
 commit_hash = "4a5dd4adbe9fdbd9810aa9c72b5f3184bacc470c"
 
@@ -1274,12 +1274,12 @@ change_time = "2024-07-02T09:58:54Z"
 commit_hash = "41d9aa111f702e78b6fbaee9d3e06dda1db6420d"
 
 ["libs/amy"]
-check_time = "2024-08-31T19:10:27.296096262Z"
+check_time = "2024-08-31T20:14:57.493718681Z"
 change_time = "2024-08-31T17:18:10Z"
 commit_hash = "13da5eb1d66c63107d3719cdc893dfa7071992d4"
 
 ["libs/amy-bwhitman"]
-check_time = "2024-08-31T19:10:29.990167872Z"
+check_time = "2024-08-31T20:14:59.916858413Z"
 change_time = "2024-08-31T17:18:10Z"
 commit_hash = "13da5eb1d66c63107d3719cdc893dfa7071992d4"
 
@@ -1309,7 +1309,7 @@ change_time = "2024-02-12T21:19:03Z"
 commit_hash = "ff9895432cb77c1ee348e39b64c3012b7c9feb99"
 
 ["libs/clap/clap-juce-extensions"]
-check_time = "2024-08-31T09:13:19.954929597Z"
+check_time = "2024-08-31T20:15:00.799045941Z"
 change_time = "2024-07-17T13:31:55Z"
 commit_hash = "24e70f7f7cde2842528bb66ff50260b1dc0f4dae"
 
@@ -1384,9 +1384,9 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 ["libs/libossia"]
-check_time = "2024-08-31T12:23:45.101312423Z"
-change_time = "2024-08-29T00:15:25Z"
-commit_hash = "e7d54254a939d350732c1291d6849f79e150f345"
+check_time = "2024-08-31T20:15:04.628719404Z"
+change_time = "2024-08-31T18:32:34Z"
+commit_hash = "c43ce263fb320c7f7f9efe521d07f0b47372bcd6"
 
 ["libs/madronalib"]
 check_time = "2024-08-31T19:10:32.593749444Z"
@@ -1464,12 +1464,12 @@ change_time = "2024-06-05T10:11:49Z"
 commit_hash = "74ff8f5f288a66250d898f59136a7f9c602e9e06"
 
 ["libs/tuning-library"]
-check_time = "2024-08-30T12:24:53.516479200Z"
+check_time = "2024-08-31T20:15:05.497688438Z"
 change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-08-31T16:16:00.766994059Z"
+check_time = "2024-08-31T20:15:06.925707228Z"
 change_time = "2024-08-29T20:37:42Z"
 commit_hash = "b67885c708b6f04b7082f68e57d9b562b56ece71"
 
@@ -1774,9 +1774,9 @@ change_time = "2019-10-29T03:37:20Z"
 commit_hash = "92b8f7b3d5e73b46cb9d212d69d4f3cb56826ead"
 
 ["max/packages/grainflow"]
-check_time = "2024-08-31T17:11:31.829301067Z"
-change_time = "2024-08-31T03:49:48Z"
-commit_hash = "65cf7f4a22a8d61459e9dc3540be34a88fde4417"
+check_time = "2024-08-31T20:15:11.403043409Z"
+change_time = "2024-08-31T18:23:22Z"
+commit_hash = "4093eb23f7de08e7e75ee01c7225e69f3be25523"
 
 ["max/packages/karma"]
 check_time = "2024-08-31T12:24:00.049765581Z"
@@ -1889,7 +1889,7 @@ change_time = "2020-01-28T21:51:04Z"
 commit_hash = "7cc81ce3396501aa567d1fa01cfd313f18ea5a3d"
 
 ["max/packages/sonus"]
-check_time = "2024-08-31T12:24:07.462153874Z"
+check_time = "2024-08-31T20:15:14.722035027Z"
 change_time = "2024-08-29T18:24:02Z"
 commit_hash = "6a33cba38a6b63cda17cde89145b3a51a81c0635"
 
@@ -2430,7 +2430,7 @@ change_time = "2024-03-16T22:26:14Z"
 commit_hash = "701f641b9285136c562892d9941452419ed131ef"
 
 ["norns/development/norns-example-mod"]
-check_time = "2024-08-27T10:13:21.572983082Z"
+check_time = "2024-08-31T20:15:15.939029256Z"
 change_time = "2023-11-18T01:54:49Z"
 commit_hash = "ef15c9ef21ed7c490fed754fa437bf26832717ae"
 
@@ -2445,7 +2445,7 @@ change_time = "2022-04-10T20:35:17Z"
 commit_hash = "08c1a01d417e00dbca0f2c1af0a944d012f2da98"
 
 ["norns/development/patcher"]
-check_time = "2024-08-31T13:16:08.879170766Z"
+check_time = "2024-08-31T20:15:16.640842801Z"
 change_time = "2024-08-23T17:27:42Z"
 commit_hash = "c39cbdbf68e60d9239de53416f7e4c5cae65d4bb"
 
@@ -2600,7 +2600,7 @@ change_time = "2024-05-22T05:41:50Z"
 commit_hash = "581020d69282d49313c764f1109488699610eea5"
 
 ["norns/libs/softcut-lib"]
-check_time = "2024-08-28T18:17:37.157051060Z"
+check_time = "2024-08-31T20:15:17.512335333Z"
 change_time = "2023-11-09T23:04:32Z"
 commit_hash = "ce870c55fae1b58fd357ca639bbfe0754c0760e4"
 
@@ -2970,7 +2970,7 @@ change_time = "2020-04-13T14:58:20Z"
 commit_hash = "5c84d6736656175afbe77efe839e4ee580f1229a"
 
 ["norns/scripts/l-ll--l-"]
-check_time = "2024-08-30T01:01:18.041154424Z"
+check_time = "2024-08-31T20:15:18.765874753Z"
 change_time = "2023-05-16T14:56:16Z"
 commit_hash = "86a2d96f446531f593538d79a60498fcb1bd295e"
 
@@ -3075,7 +3075,7 @@ change_time = "2023-01-28T03:36:09Z"
 commit_hash = "6d8e38e0ac9a9cb779dfd4553b9f89b98283b7ea"
 
 ["norns/scripts/orgn"]
-check_time = "2024-08-28T22:12:46.780781680Z"
+check_time = "2024-08-31T20:15:19.990349352Z"
 change_time = "2022-12-04T00:16:00Z"
 commit_hash = "774e1518992c6fee5d21747da564a18f5f880aac"
 
@@ -3285,7 +3285,7 @@ change_time = "2019-11-15T03:05:22Z"
 commit_hash = "ceba64329be4e710e48ab969d749591bd9e3f1e6"
 
 ["norns/scripts/twill"]
-check_time = "2024-08-26T20:15:14.978724262Z"
+check_time = "2024-08-31T20:15:20.980391948Z"
 change_time = "2022-03-20T23:42:08Z"
 commit_hash = "f113ea04b3dbd24581552e5df0d5a3a96fe00ed7"
 
@@ -3585,9 +3585,9 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-08-31T19:10:44.767307776Z"
-change_time = "2024-08-31T16:54:57Z"
-commit_hash = "286b6f7c93ffc80b9ee0b268a29cca740f3bd13d"
+check_time = "2024-08-31T20:15:24.654879066Z"
+change_time = "2024-08-31T20:08:38Z"
+commit_hash = "5b4e44303c8831dc2eb1f85e8fd70320f441843f"
 
 ["plugins-and-standalone/stochas"]
 check_time = "2024-08-31T12:24:25.226758097Z"
@@ -4861,7 +4861,7 @@ change_time = "2024-01-14T22:10:41Z"
 commit_hash = "16827b0d3fe8c8d291d903dc6d84102718007e9a"
 
 ["vcvrack/modules/pathsetmodules"]
-check_time = "2024-08-29T07:15:31.444387047Z"
+check_time = "2024-08-31T20:15:27.237815953Z"
 change_time = "2024-05-05T20:26:47Z"
 commit_hash = "2f55b4b115e76623ef54e24c30daad4d576a4446"
 
@@ -4876,7 +4876,7 @@ change_time = "2023-05-04T00:21:51Z"
 commit_hash = "809ad4f0b11cf227f6fcd6b4fed66110d4348b61"
 
 ["vcvrack/modules/sapphire"]
-check_time = "2024-08-31T13:16:58.169095139Z"
+check_time = "2024-08-31T20:15:28.526680483Z"
 change_time = "2024-08-29T18:08:50Z"
 commit_hash = "caa0b4bfc3747bf49b0c9b46912897f1e0d60baf"
 
