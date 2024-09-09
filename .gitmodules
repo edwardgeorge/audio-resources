@@ -3058,3 +3058,7 @@
 	path = daisy/modules/patch-init/sidekick
 	url = https://github.com/schollz/sidekick.git
 	branch = main
+[submodule "schollz/comms"]
+	path = software-and-tools/comms
+	url = https://github.com/schollz/comms.git
+	branch = main
