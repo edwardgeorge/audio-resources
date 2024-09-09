@@ -3054,3 +3054,7 @@
 	path = libs/choc
 	url = https://github.com/Tracktion/choc.git
 	branch = main
+[submodule "schollz/sidekick"]
+	path = daisy/modules/patch-init/sidekick
+	url = https://github.com/schollz/sidekick.git
+	branch = main
