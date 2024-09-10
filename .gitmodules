@@ -3062,3 +3062,7 @@
 	path = software-and-tools/comms
 	url = https://github.com/schollz/comms.git
 	branch = main
+[submodule "apfelaudio/eurorack-pmod"]
+	path = hw-fw-eurorack/eurorack-pmod
+	url = https://github.com/apfelaudio/eurorack-pmod.git
+	branch = master
