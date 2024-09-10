@@ -3066,3 +3066,11 @@
 	path = hw-fw-eurorack/eurorack-pmod
 	url = https://github.com/apfelaudio/eurorack-pmod.git
 	branch = master
+[submodule "apfelaudio/tiliqua"]
+	path = hw-fw-eurorack/tiliqua
+	url = https://github.com/apfelaudio/tiliqua.git
+	branch = main
+[submodule "apfelaudio/verilog-vcvrack"]
+	path = vcvrack/modules/verilog-vcvrack
+	url = https://github.com/apfelaudio/verilog-vcvrack.git
+	branch = master
