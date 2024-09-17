@@ -124,7 +124,7 @@ change_time = "2024-01-25T23:40:01Z"
 commit_hash = "77405a1e256de07361a5753891dbc67e39666a40"
 
 ["daisy/modules/patch-init/proteus"]
-check_time = "2024-09-14T13:15:40.700962886Z"
+check_time = "2024-09-17T20:13:45.978165708Z"
 change_time = "2022-10-11T07:14:55Z"
 commit_hash = "946723d667e85feaa077882236e30e600b81a3be"
 
@@ -379,7 +379,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-09-17T19:10:56.686659953Z"
+check_time = "2024-09-17T20:13:48.446860248Z"
 change_time = "2024-09-17T15:11:23Z"
 commit_hash = "b6963921fd792698b1e348774045e5f57fcd6f68"
 
@@ -564,9 +564,9 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-09-17T19:11:03.402708030Z"
-change_time = "2024-09-17T14:28:06Z"
-commit_hash = "12cb9fdd4111b2d8aafecf97716af81fb763eece"
+check_time = "2024-09-17T20:13:53.772214024Z"
+change_time = "2024-09-17T19:08:07Z"
+commit_hash = "c6585b39384e4549af1077d5bebf1593089752a5"
 
 ["hw-fw-eurorack/deviant"]
 check_time = "2024-09-15T23:12:52.081669397Z"
@@ -849,7 +849,7 @@ change_time = "2022-02-15T18:55:26Z"
 commit_hash = "ff772316f204b27844232c1d50c45b07b7997878"
 
 ["hw-fw-eurorack/miniosc"]
-check_time = "2024-09-17T10:14:00.758497523Z"
+check_time = "2024-09-17T20:13:55.578067067Z"
 change_time = "2024-09-06T15:34:31Z"
 commit_hash = "722a6fadd7171866a6620fde93f2de22d9383fc9"
 
@@ -1199,7 +1199,7 @@ change_time = "2023-06-09T03:47:48Z"
 commit_hash = "28e31ba2ba8bae6af7ba41835d6d7853fe9eb66f"
 
 ["hw-fw-eurorack/useq"]
-check_time = "2024-09-17T12:26:18.937294318Z"
+check_time = "2024-09-17T20:13:58.170702181Z"
 change_time = "2024-08-30T11:06:20Z"
 commit_hash = "3f07e0ee4b107b04098509cc5696eba60a6e7427"
 
@@ -1234,7 +1234,7 @@ change_time = "2021-09-05T23:57:47Z"
 commit_hash = "b855341a8bef6718be9f4905f2f39b2dfaf4178f"
 
 ["languages-and-frameworks/cabbage"]
-check_time = "2024-09-17T10:14:11.420933473Z"
+check_time = "2024-09-17T20:14:05.302840702Z"
 change_time = "2024-09-14T11:09:04Z"
 commit_hash = "495673cb7479324104191d5787490b5be82ab62c"
 
@@ -1309,7 +1309,7 @@ change_time = "2024-01-02T20:16:48Z"
 commit_hash = "152d6819b360c2e7b379ee3f373d444ab3df0895"
 
 ["libs/choc"]
-check_time = "2024-09-17T10:14:15.509650533Z"
+check_time = "2024-09-17T20:14:06.988896223Z"
 change_time = "2024-09-05T17:10:15Z"
 commit_hash = "85149958b6d0e51885eefba8816b51798570b54b"
 
@@ -1499,7 +1499,7 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-09-17T19:11:48.944195935Z"
+check_time = "2024-09-17T20:14:08.828991489Z"
 change_time = "2024-09-17T16:55:52Z"
 commit_hash = "aa402e034d89ebace85855b6106b97bedb6b3fa0"
 
@@ -1514,7 +1514,7 @@ change_time = "2023-08-14T09:28:33Z"
 commit_hash = "efa4737af31febf09bd746a45bd9cd57c88f74b1"
 
 ["max/applications/nnirror"]
-check_time = "2024-09-13T08:17:18.542873213Z"
+check_time = "2024-09-17T20:14:10.281520049Z"
 change_time = "2022-10-07T15:42:23Z"
 commit_hash = "f3d86fde97e4b45adb449be53f2353ed2acef2c0"
 
@@ -1669,7 +1669,7 @@ change_time = "2021-01-23T01:12:14Z"
 commit_hash = "f8aec4403604b798e4ac6fac4a7f3c2b801a6434"
 
 ["max/m4l-devices/sidewinder"]
-check_time = "2024-09-17T05:15:52.966862636Z"
+check_time = "2024-09-17T20:14:11.434997222Z"
 change_time = "2024-08-17T10:44:31Z"
 commit_hash = "35a6f4dd809640c5d476a78262382bda71094275"
 
@@ -2625,7 +2625,7 @@ change_time = "2024-08-21T19:01:19Z"
 commit_hash = "afa8cb458222b831c8d15e804e4de6748c673bec"
 
 ["norns/libs/produce"]
-check_time = "2024-09-17T13:21:42.594170679Z"
+check_time = "2024-09-17T20:14:13.255743624Z"
 change_time = "2024-09-05T14:49:41Z"
 commit_hash = "fd2dfecd213632ae03e0db36800a68a8d9091d00"
 
@@ -2875,7 +2875,7 @@ change_time = "2023-06-20T03:39:52Z"
 commit_hash = "8729b9ceee71d2b07067e89fbef5d8b98d6a0c89"
 
 ["norns/scripts/dreamsequence"]
-check_time = "2024-09-17T10:14:26.281091325Z"
+check_time = "2024-09-17T20:14:14.588725348Z"
 change_time = "2024-09-10T20:25:20Z"
 commit_hash = "6f4cf581e39811a7894040c8377167a70ba7b901"
 
@@ -3480,7 +3480,7 @@ change_time = "2024-07-02T13:45:52Z"
 commit_hash = "e030c30de0926df688975d38da35675b8c4db07a"
 
 ["plugins-and-standalone/analog-tape-model"]
-check_time = "2024-09-16T09:17:28.584697552Z"
+check_time = "2024-09-17T20:14:18.659167759Z"
 change_time = "2023-11-05T19:17:38Z"
 commit_hash = "604372e4ffd9690c3e283362e4598cb43edbb475"
 
@@ -3545,7 +3545,7 @@ change_time = "2023-03-10T18:03:16Z"
 commit_hash = "9326faf7dad38913c6fedb35e227743e83ad643c"
 
 ["plugins-and-standalone/fm-synth"]
-check_time = "2024-09-08T22:12:09.030680392Z"
+check_time = "2024-09-17T20:14:19.654473549Z"
 change_time = "2014-01-25T21:17:24Z"
 commit_hash = "56ab81c3520f777b4fe0ba66106c36a3919ddfbb"
 
@@ -3615,9 +3615,9 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-09-17T18:18:08.509291843Z"
-change_time = "2024-09-17T13:51:24Z"
-commit_hash = "2f4c13bed52b6e41ffb5e16fbbbbd21c35c5be62"
+check_time = "2024-09-17T20:14:23.830331253Z"
+change_time = "2024-09-17T19:06:38Z"
+commit_hash = "b3559b41e06def720fc5499c891bfa2505562abf"
 
 ["plugins-and-standalone/stochas"]
 check_time = "2024-09-17T15:14:59.051074524Z"
@@ -3625,7 +3625,7 @@ change_time = "2024-08-21T19:18:30Z"
 commit_hash = "9f2f4fb1f9d37c8dd96b01214e632b4b30609e1b"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-09-17T19:12:31.942532483Z"
+check_time = "2024-09-17T20:14:36.190748451Z"
 change_time = "2024-09-17T14:09:23Z"
 commit_hash = "736ca19b670b1b7c3b328103a7b4da922973b029"
 
@@ -3915,7 +3915,7 @@ change_time = "2024-06-19T04:23:19Z"
 commit_hash = "cc8798e75ad665f1d283ea54800d357d015b3b49"
 
 ["rust-libraries/yanel-dsp-rs"]
-check_time = "2024-09-12T07:13:18.464127475Z"
+check_time = "2024-09-17T20:14:37.708547257Z"
 change_time = "2023-07-08T12:32:56Z"
 commit_hash = "592a9e04823ae9c4416cb25fda5c92a141aee5bf"
 
