@@ -3074,3 +3074,7 @@
 	path = vcvrack/modules/verilog-vcvrack
 	url = https://github.com/apfelaudio/verilog-vcvrack.git
 	branch = master
+[submodule "thesquaregroot/aurora-hso"]
+	path = daisy/modules/aurora/aurora-hso
+	url = https://github.com/thesquaregroot/aurora-hso.git
+	branch = main
