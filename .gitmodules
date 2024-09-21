@@ -3078,3 +3078,7 @@
 	path = daisy/modules/aurora/aurora-hso
 	url = https://github.com/thesquaregroot/aurora-hso.git
 	branch = main
+[submodule "bastianspctrl/vision"]
+	path = hw-fw-eurorack/vision
+	url = https://github.com/BastianSPCTRL/VISION.git
+	branch = main
