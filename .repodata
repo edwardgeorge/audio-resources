@@ -409,7 +409,7 @@ change_time = "2017-05-22T18:08:17Z"
 commit_hash = "dfc4295fc9ca71be6243217ab544c2ef71705e3b"
 
 ["hw-fw-eurorack/4ms-looping-delay"]
-check_time = "2024-09-23T21:12:47.242342588Z"
+check_time = "2024-09-24T18:18:02.057013863Z"
 change_time = "2024-07-24T15:53:03Z"
 commit_hash = "e26bbf03d33ded7260fb43e8c296814b4bd71c31"
 
@@ -514,7 +514,7 @@ change_time = "2021-10-27T20:27:53Z"
 commit_hash = "e55855ac66ede40b76e689feb365b19f10d6ec92"
 
 ["hw-fw-eurorack/birdhouse"]
-check_time = "2024-09-24T01:04:46.691351714Z"
+check_time = "2024-09-24T18:18:05.225146181Z"
 change_time = "2024-08-20T14:51:26Z"
 commit_hash = "61a475dc83839c6d498ac138ab5a2a9ff15f5c87"
 
@@ -1074,7 +1074,7 @@ change_time = "2024-06-11T11:30:00Z"
 commit_hash = "a0d4ab5b6e670dff941f5adccebceed1adef548c"
 
 ["hw-fw-eurorack/recur"]
-check_time = "2024-09-15T13:17:23.287675941Z"
+check_time = "2024-09-24T18:18:07.464060321Z"
 change_time = "2020-12-05T22:34:27Z"
 commit_hash = "9a556bb1e622bed7c3897767dfd98cde2074b200"
 
@@ -1149,7 +1149,7 @@ change_time = "2017-09-19T06:56:13Z"
 commit_hash = "2dc135acd1c45d6bceca9a82e1cd8dc8c8a4a8bb"
 
 ["hw-fw-eurorack/tiliqua"]
-check_time = "2024-09-24T17:13:23.544556074Z"
+check_time = "2024-09-24T18:18:09.859518936Z"
 change_time = "2024-09-24T14:12:38Z"
 commit_hash = "a46f35e9b3000a623b3ffa37560b4be86c1a1d00"
 
@@ -1209,7 +1209,7 @@ change_time = "2023-06-09T03:47:48Z"
 commit_hash = "28e31ba2ba8bae6af7ba41835d6d7853fe9eb66f"
 
 ["hw-fw-eurorack/useq"]
-check_time = "2024-09-24T11:11:44.280794960Z"
+check_time = "2024-09-24T18:18:12.452020607Z"
 change_time = "2024-08-30T11:06:20Z"
 commit_hash = "3f07e0ee4b107b04098509cc5696eba60a6e7427"
 
@@ -1329,12 +1329,12 @@ change_time = "2024-09-05T17:10:15Z"
 commit_hash = "85149958b6d0e51885eefba8816b51798570b54b"
 
 ["libs/chowdsp-utils"]
-check_time = "2024-09-24T08:19:06.332594189Z"
-change_time = "2024-09-17T21:24:42Z"
-commit_hash = "10ca93dd417b66d1936417aaa74168b3c5ed4338"
+check_time = "2024-09-24T18:18:17.621836387Z"
+change_time = "2024-09-24T08:45:00Z"
+commit_hash = "ca1f0e4ce02aed7bc829e7a31c0d33e3f4e601cb"
 
 ["libs/chowdsp-wdf"]
-check_time = "2024-09-23T18:18:18.655419108Z"
+check_time = "2024-09-24T18:18:18.992327486Z"
 change_time = "2024-09-08T23:09:04Z"
 commit_hash = "39ff3f4912c10a98da63361b7ab09ccb02088082"
 
@@ -1514,9 +1514,9 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-09-24T17:13:38.378985947Z"
-change_time = "2024-09-24T14:15:24Z"
-commit_hash = "3ee58902352ad7cf893070097a0ce4c3f1170614"
+check_time = "2024-09-24T18:18:24.069203212Z"
+change_time = "2024-09-24T18:15:06Z"
+commit_hash = "fe3ba7af3b7f5fa4e0f67b267980e32e69c60e36"
 
 ["max/applications/groovin"]
 check_time = "2024-09-23T04:17:30.260439791Z"
@@ -2360,7 +2360,7 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 ["monome/libs/multipass"]
-check_time = "2024-09-23T17:12:40.484863641Z"
+check_time = "2024-09-24T18:18:26.402087705Z"
 change_time = "2024-08-25T21:28:04Z"
 commit_hash = "6616e9d1fe5c523958625b69e1f32a3f6c46466c"
 
@@ -3400,7 +3400,7 @@ change_time = "2024-05-06T22:32:48Z"
 commit_hash = "3dd01360cd8ae8c0d4474fd6fd25138493c19725"
 
 ["norns/source"]
-check_time = "2024-09-24T16:17:28.628100877Z"
+check_time = "2024-09-24T18:18:29.766340950Z"
 change_time = "2024-09-16T19:45:04Z"
 commit_hash = "8746306353319e93174105015339c9ef2d4179ec"
 
@@ -3720,7 +3720,7 @@ change_time = "2024-09-02T16:03:03Z"
 commit_hash = "0ed14fb5377ec644a5c2ef39cd22a510a2a7f3d3"
 
 ["pure-data/pd-else"]
-check_time = "2024-09-24T16:17:34.292292774Z"
+check_time = "2024-09-24T18:18:35.621251559Z"
 change_time = "2024-09-23T21:39:55Z"
 commit_hash = "94545f5cc021e769172f671832efd1317d393349"
 
@@ -4446,7 +4446,7 @@ change_time = "2020-05-18T20:27:39Z"
 commit_hash = "69e5826b11354e810501a4cbab418d900851e52e"
 
 ["supercollider/source"]
-check_time = "2024-09-24T16:17:43.362258418Z"
+check_time = "2024-09-24T18:18:41.557051850Z"
 change_time = "2024-09-24T10:04:49Z"
 commit_hash = "57615d160a876dd7b78e6e8f259b471ca6487de9"
 
@@ -4636,7 +4636,7 @@ change_time = "2021-04-03T19:09:47Z"
 commit_hash = "85fbecf1bec32553395625ea659e2a56dfd7c0e1"
 
 ["tidal/strudel"]
-check_time = "2024-09-24T16:17:45.000007287Z"
+check_time = "2024-09-24T18:18:43.869438984Z"
 change_time = "2024-09-23T15:18:34Z"
 commit_hash = "2d320c459b71757ff331473764f1a822b369580e"
 
