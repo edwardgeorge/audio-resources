@@ -3082,3 +3082,11 @@
 	path = hw-fw-eurorack/vision
 	url = https://github.com/BastianSPCTRL/VISION.git
 	branch = main
+[submodule "16n-faderbank/16nx"]
+	path = hw-fw-eurorack/16nx
+	url = https://github.com/16n-faderbank/16nx.git
+	branch = main
+[submodule "16n-faderbank/16next-firmware"]
+	path = hw-fw-eurorack/16next-firmware
+	url = https://github.com/16n-faderbank/16next_firmware.git
+	branch = main
