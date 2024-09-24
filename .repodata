@@ -89,7 +89,7 @@ change_time = "2024-09-20T19:22:56Z"
 commit_hash = "4ec3a5f25ce1d4de3387be59a2ff0f0569c050f5"
 
 ["daisy/modules/aurora/aurora-hso"]
-check_time = "2024-09-23T20:15:34.435270173Z"
+check_time = "2024-09-24T05:13:22.620267900Z"
 change_time = "2024-08-25T01:03:17Z"
 commit_hash = "427a3d784aae9d60ccc388903c54232fed1052fa"
 
@@ -364,7 +364,7 @@ change_time = "2024-09-19T14:16:41Z"
 commit_hash = "a3762352b5102bf1f75ea47409a60b6ee29a3ad2"
 
 ["faust/faust-wasm"]
-check_time = "2024-09-23T23:12:57.243595181Z"
+check_time = "2024-09-24T05:13:24.546414686Z"
 change_time = "2024-09-19T07:32:42Z"
 commit_hash = "4b8163ea6761cc70a34d9eb59be7104b31f0b5a8"
 
@@ -659,7 +659,7 @@ change_time = "2024-07-14T14:44:02Z"
 commit_hash = "55ce2c8b4bee26215bf8451cb2d6dfbc333fff05"
 
 ["hw-fw-eurorack/gliss-firmware"]
-check_time = "2024-09-24T01:04:51.613479226Z"
+check_time = "2024-09-24T05:13:26.424411984Z"
 change_time = "2024-09-19T23:12:45Z"
 commit_hash = "8fa6f40931489daecb329a82581edee44074a01d"
 
@@ -934,7 +934,7 @@ change_time = "2024-02-13T15:10:05Z"
 commit_hash = "bfbd5a19991ff4e1807b8c434b14c5ac0a4c7f58"
 
 ["hw-fw-eurorack/nystrom-drum-machine"]
-check_time = "2024-09-17T12:26:09.245580700Z"
+check_time = "2024-09-24T05:13:28.043437999Z"
 change_time = "2023-01-18T17:19:32Z"
 commit_hash = "fe646e4243fbcbcdfdb4c04496b49d2d6a80196e"
 
@@ -1169,7 +1169,7 @@ change_time = "2022-06-06T13:50:54Z"
 commit_hash = "e630356af1d45a97b8f4e54f65d95efe116ab165"
 
 ["hw-fw-eurorack/tulipcc"]
-check_time = "2024-09-24T01:05:38.829973379Z"
+check_time = "2024-09-24T05:13:32.555494441Z"
 change_time = "2024-09-18T18:56:12Z"
 commit_hash = "7214609faa925c4a648dba005a23e8500f2303f6"
 
@@ -1299,7 +1299,7 @@ change_time = "2024-07-02T09:58:54Z"
 commit_hash = "41d9aa111f702e78b6fbaee9d3e06dda1db6420d"
 
 ["libs/amy"]
-check_time = "2024-09-24T02:46:53.077189402Z"
+check_time = "2024-09-24T05:13:35.990033912Z"
 change_time = "2024-09-23T12:31:37Z"
 commit_hash = "a399bf96675bfbcd3c7f60c173491bc22146ff15"
 
@@ -1504,7 +1504,7 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-09-24T02:47:05.436348826Z"
+check_time = "2024-09-24T05:13:38.349560666Z"
 change_time = "2024-09-23T15:31:59Z"
 commit_hash = "00b1bc74f89bc4f363901bd97912077d2286c470"
 
@@ -1554,9 +1554,9 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["max/devkit/min-api"]
-check_time = "2024-09-22T13:16:45.864824610Z"
-change_time = "2024-09-05T19:54:36Z"
-commit_hash = "ef02bd5dd05d50af366f9b552ac11c989340dc6f"
+check_time = "2024-09-24T05:13:42.764219106Z"
+change_time = "2024-09-23T14:39:39Z"
+commit_hash = "10b70d44590ee6a8078432c676a544b216fcf021"
 
 ["max/devkit/min-devkit"]
 check_time = "2024-09-22T23:14:51.737410111Z"
@@ -1889,7 +1889,7 @@ change_time = "2022-09-08T21:44:02Z"
 commit_hash = "d7fbfc2ecc38085a51b6d60c395916b4a6279da5"
 
 ["max/packages/philip-meyer-max-tutorials"]
-check_time = "2024-09-23T23:13:45.307844630Z"
+check_time = "2024-09-24T05:13:45.147450093Z"
 change_time = "2024-06-06T01:20:36Z"
 commit_hash = "d9d6b82cc9bd0fe0e5a4462ac5a302b39699234b"
 
@@ -1924,7 +1924,7 @@ change_time = "2020-01-28T21:51:04Z"
 commit_hash = "7cc81ce3396501aa567d1fa01cfd313f18ea5a3d"
 
 ["max/packages/sonus"]
-check_time = "2024-09-24T02:47:10.822056203Z"
+check_time = "2024-09-24T05:13:48.921472583Z"
 change_time = "2024-09-23T17:27:58Z"
 commit_hash = "d8258c345be01814d50edaaad6c754e36dbe30ca"
 
@@ -2385,7 +2385,7 @@ change_time = "2022-06-18T23:57:36Z"
 commit_hash = "71280e7f16949c433607db623dd5abdd4f47b1ba"
 
 ["monome/tools/serialosc"]
-check_time = "2024-09-23T13:23:06.103776091Z"
+check_time = "2024-09-24T05:13:50.819540231Z"
 change_time = "2024-09-15T15:50:45Z"
 commit_hash = "c35d3263cf7391c6f8bc46b7f8ab638484209ff0"
 
@@ -2980,7 +2980,7 @@ change_time = "2024-09-03T05:52:22Z"
 commit_hash = "02ac14cb33f690583d12315d84240a0e668d23b0"
 
 ["norns/scripts/guttersyn"]
-check_time = "2024-09-22T19:10:35.632701490Z"
+check_time = "2024-09-24T05:13:52.641946664Z"
 change_time = "2023-09-24T14:10:29Z"
 commit_hash = "4786b50045ffdb388c68e746732ce1464a78998d"
 
@@ -3620,7 +3620,7 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-09-24T04:17:43.681567169Z"
+check_time = "2024-09-24T05:13:55.880778914Z"
 change_time = "2024-09-24T01:34:02Z"
 commit_hash = "f3fda0c9b137347a53de7d2e9fd257871e9fd844"
 
@@ -3635,12 +3635,12 @@ change_time = "2024-09-21T15:46:06Z"
 commit_hash = "86c8ec7b4722d9525febbec00bb2605876644ca1"
 
 ["plugins-and-standalone/tonez"]
-check_time = "2024-09-22T17:14:37.390921436Z"
+check_time = "2024-09-24T05:14:00.625632799Z"
 change_time = "2023-12-24T10:26:12Z"
 commit_hash = "7c112f690ea844451d242737d08e562a8de3f215"
 
 ["plugins-and-standalone/vaporizer2"]
-check_time = "2024-09-24T01:06:58.904217013Z"
+check_time = "2024-09-24T05:14:25.313938301Z"
 change_time = "2024-09-14T15:20:53Z"
 commit_hash = "1c56c4be304255f1c397dad725ea784f15a55ef5"
 
@@ -3670,7 +3670,7 @@ change_time = "2023-12-05T07:26:22Z"
 commit_hash = "06958d03525e75f81c90e9b006fbbfbfe6f9d7d4"
 
 ["pure-data/docs/live-electronics-tutorial"]
-check_time = "2024-09-24T03:20:00.353177752Z"
+check_time = "2024-09-24T05:14:27.530229257Z"
 change_time = "2024-09-23T18:34:37Z"
 commit_hash = "3eadc7778f4ea9f10274519357090acf22d1938a"
 
@@ -3680,7 +3680,7 @@ change_time = "2024-06-28T09:39:44Z"
 commit_hash = "6a73fb493a19da1152f42a2848835af62d8a08eb"
 
 ["pure-data/hvcc"]
-check_time = "2024-09-23T22:14:47.672794173Z"
+check_time = "2024-09-24T05:14:29.861025994Z"
 change_time = "2024-09-22T08:10:57Z"
 commit_hash = "cb3183af6075e402b925bf00c4450bc4ad8acb14"
 
@@ -3710,7 +3710,7 @@ change_time = "2024-09-02T16:03:03Z"
 commit_hash = "0ed14fb5377ec644a5c2ef39cd22a510a2a7f3d3"
 
 ["pure-data/pd-else"]
-check_time = "2024-09-24T04:17:49.077527118Z"
+check_time = "2024-09-24T05:14:35.228626883Z"
 change_time = "2024-09-23T21:39:55Z"
 commit_hash = "94545f5cc021e769172f671832efd1317d393349"
 
@@ -3815,7 +3815,7 @@ change_time = "2024-04-21T13:50:26Z"
 commit_hash = "602ddbaaa5d0717c1c26e51dc169a2ef3dba56f6"
 
 ["rust-libraries/music-math-rs"]
-check_time = "2024-09-22T18:18:27.638081956Z"
+check_time = "2024-09-24T05:14:36.788044300Z"
 change_time = "2024-04-16T10:44:16Z"
 commit_hash = "fc88204a0d0ef999a634d6865723b5df449a4807"
 
@@ -3875,7 +3875,7 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-09-23T14:13:49.754641419Z"
+check_time = "2024-09-24T05:14:38.573843374Z"
 change_time = "2024-09-16T22:06:23Z"
 commit_hash = "e116660568974eb1b4038aef224df254abb791b4"
 
@@ -3940,7 +3940,7 @@ change_time = "2023-12-18T19:01:55Z"
 commit_hash = "9d2693f0ef3569fd4fd506fe2091853a94760e12"
 
 ["software-and-tools/comms"]
-check_time = "2024-09-23T18:18:53.371330883Z"
+check_time = "2024-09-24T05:14:39.809439421Z"
 change_time = "2024-09-11T15:36:29Z"
 commit_hash = "aeb3d28b77f174e5a88f88b333298af0bee813a5"
 
@@ -4035,7 +4035,7 @@ change_time = "2024-08-12T12:17:12Z"
 commit_hash = "7c5af25d6b55b4ed87bcaa657e95ef7ae6982ee3"
 
 ["software-and-tools/sendosc"]
-check_time = "2024-09-23T02:47:57.222826783Z"
+check_time = "2024-09-24T05:14:41.009995957Z"
 change_time = "2021-12-26T10:01:09Z"
 commit_hash = "e2709805b6f6395019871bcf1cb6233b9f1d65cc"
 
@@ -4361,7 +4361,7 @@ change_time = "2023-04-14T06:37:58Z"
 commit_hash = "7c176dfc7bb61c59cce7baa22f46fc1906e2dab9"
 
 ["supercollider/quarks/wavesettransformer-fortrevorwishart"]
-check_time = "2024-09-20T23:14:12.370314137Z"
+check_time = "2024-09-24T05:14:42.531752273Z"
 change_time = "2024-01-19T21:43:48Z"
 commit_hash = "386228f39b58b0104f0dbde1b3681ed404c31645"
 
@@ -4626,7 +4626,7 @@ change_time = "2021-04-03T19:09:47Z"
 commit_hash = "85fbecf1bec32553395625ea659e2a56dfd7c0e1"
 
 ["tidal/strudel"]
-check_time = "2024-09-24T02:47:43.928105738Z"
+check_time = "2024-09-24T05:14:44.673390144Z"
 change_time = "2024-09-23T15:18:34Z"
 commit_hash = "2d320c459b71757ff331473764f1a822b369580e"
 
@@ -4991,7 +4991,7 @@ change_time = "2024-09-22T20:27:05Z"
 commit_hash = "fd80d8d24231c6d73abce0acfe9a97bb7aaa5253"
 
 ["vult/vult"]
-check_time = "2024-09-23T13:23:24.656289917Z"
+check_time = "2024-09-24T05:14:46.668845231Z"
 change_time = "2024-09-04T06:18:48Z"
 commit_hash = "cc56038e06ae4745b17bcd7e611e7b21d87ea51c"
 
