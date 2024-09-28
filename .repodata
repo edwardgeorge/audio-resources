@@ -254,9 +254,9 @@ change_time = "2024-08-24T21:53:03Z"
 commit_hash = "0139f9360716bbd19a395704e5214079494623b3"
 
 ["embedded/rppicomidi-usb-midi-host"]
-check_time = "2024-09-28T07:11:41.188558044Z"
-change_time = "2024-08-24T03:11:57Z"
-commit_hash = "a64d35d4879da0d1dc2fe30ec3b6f43bd47ec9bc"
+check_time = "2024-09-28T23:12:19.257019080Z"
+change_time = "2024-09-28T12:38:02Z"
+commit_hash = "79e2c153dfaccd4042f092d810383828f94fd6fe"
 
 ["embedded/rppicomidi-usb-midi-processor"]
 check_time = "2024-09-28T16:15:19.630957324Z"
@@ -379,7 +379,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-09-28T22:12:23.524933007Z"
+check_time = "2024-09-28T23:12:21.774270177Z"
 change_time = "2024-09-28T19:00:51Z"
 commit_hash = "70e0808e89cc06c4695cc700b481810cf1347a4e"
 
@@ -494,7 +494,7 @@ change_time = "2019-12-27T17:19:24Z"
 commit_hash = "fd794f72efa275e21fbcc718f4888889835da8f5"
 
 ["hw-fw-eurorack/bastl-eurorack"]
-check_time = "2024-09-20T14:13:05.771084411Z"
+check_time = "2024-09-28T23:12:22.842771721Z"
 change_time = "2018-07-23T14:51:29Z"
 commit_hash = "808641ff17d50d1d65e3127ff94170a7d2c71e91"
 
@@ -794,7 +794,7 @@ change_time = "2024-09-20T23:22:19Z"
 commit_hash = "7e08a4cc61586342ce6d5c6c91e2003ab69be99f"
 
 ["hw-fw-eurorack/microresearch-allcolours"]
-check_time = "2024-09-28T22:13:03.858333997Z"
+check_time = "2024-09-28T23:12:44.052277448Z"
 change_time = "2024-09-28T16:39:33Z"
 commit_hash = "5fca024333393cb3452e39d3a6dd58f175f394e3"
 
@@ -859,7 +859,7 @@ change_time = "2022-02-15T18:55:26Z"
 commit_hash = "ff772316f204b27844232c1d50c45b07b7997878"
 
 ["hw-fw-eurorack/miniosc"]
-check_time = "2024-09-28T21:13:25.854326006Z"
+check_time = "2024-09-28T23:12:46.588750008Z"
 change_time = "2024-09-28T15:49:22Z"
 commit_hash = "d5d8ad8fa7d8b3269e047d8e83626aa68d1ff4c1"
 
@@ -1124,7 +1124,7 @@ change_time = "2023-01-11T08:11:21Z"
 commit_hash = "ed8b34c4b99a08bfd41c659a50852e556b334f12"
 
 ["hw-fw-eurorack/synth-dexed"]
-check_time = "2024-09-27T07:13:53.401222559Z"
+check_time = "2024-09-28T23:12:49.841814045Z"
 change_time = "2024-06-25T08:44:51Z"
 commit_hash = "f3c29b8af2ad29db4d3005e41b36a76cd237a297"
 
@@ -1514,7 +1514,7 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-09-28T22:13:14.346280247Z"
+check_time = "2024-09-28T23:12:51.881368897Z"
 change_time = "2024-09-28T17:36:22Z"
 commit_hash = "45a34c305c157069c7bf9f1c6fe619f1cf43ec9d"
 
@@ -2240,7 +2240,7 @@ change_time = "2024-06-10T20:40:10Z"
 commit_hash = "894c89ef92aba8b1aadf7725fe1163fba9beb442"
 
 ["monome/3rd-party-hardware/shieldxl"]
-check_time = "2024-09-27T20:16:25.463896176Z"
+check_time = "2024-09-28T23:12:55.095676825Z"
 change_time = "2024-08-29T22:12:50Z"
 commit_hash = "5e8169b59a78971e80420cbb27a1caf54f8c49ec"
 
@@ -2975,7 +2975,7 @@ change_time = "2021-02-22T01:57:55Z"
 commit_hash = "b9111da40f53ff42dd5b199cbe186728c2caad83"
 
 ["norns/scripts/gridofpoints"]
-check_time = "2024-09-28T15:15:59.948336094Z"
+check_time = "2024-09-28T23:12:56.802892314Z"
 change_time = "2024-07-31T06:54:16Z"
 commit_hash = "61182ba26dc9c1f4d5a2efeeca9e7c883bbb86b7"
 
@@ -3565,7 +3565,7 @@ change_time = "2014-01-25T21:17:24Z"
 commit_hash = "56ab81c3520f777b4fe0ba66106c36a3919ddfbb"
 
 ["plugins-and-standalone/formula"]
-check_time = "2024-09-28T06:18:39.258777938Z"
+check_time = "2024-09-28T23:12:59.051015590Z"
 change_time = "2024-09-03T11:30:49Z"
 commit_hash = "e8d07372c3612bca00288ed39da1026cb69cf00a"
 
@@ -3630,7 +3630,7 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-09-28T22:13:28.794668117Z"
+check_time = "2024-09-28T23:13:00.844737896Z"
 change_time = "2024-09-28T22:13:13Z"
 commit_hash = "3ee7f2f13a2079b9d480bc508c6c482698cc6ba0"
 
@@ -3640,7 +3640,7 @@ change_time = "2024-08-21T19:18:30Z"
 commit_hash = "9f2f4fb1f9d37c8dd96b01214e632b4b30609e1b"
 
 ["plugins-and-standalone/surge"]
-check_time = "2024-09-28T22:13:39.515757949Z"
+check_time = "2024-09-28T23:13:11.778982806Z"
 change_time = "2024-09-28T15:22:11Z"
 commit_hash = "fb5016166dc2b772098a4de050b74488b0b9a79b"
 
@@ -3825,7 +3825,7 @@ change_time = "2024-04-21T13:50:26Z"
 commit_hash = "602ddbaaa5d0717c1c26e51dc169a2ef3dba56f6"
 
 ["rust-libraries/music-math-rs"]
-check_time = "2024-09-24T05:14:36.788044300Z"
+check_time = "2024-09-28T23:13:13.107832059Z"
 change_time = "2024-04-16T10:44:16Z"
 commit_hash = "fc88204a0d0ef999a634d6865723b5df449a4807"
 
@@ -3835,7 +3835,7 @@ change_time = "2024-03-24T07:00:00Z"
 commit_hash = "dfef39e875ca500a868ddb38f7a17e78bf6e8dfb"
 
 ["rust-libraries/nih-plug-rs"]
-check_time = "2024-09-28T05:13:26.829682557Z"
+check_time = "2024-09-28T23:13:14.113804922Z"
 change_time = "2024-08-18T19:45:01Z"
 commit_hash = "dfafe90349aa3d8e40922ec031b6d673803d6432"
 
@@ -3940,7 +3940,7 @@ change_time = "2024-08-12T13:10:08Z"
 commit_hash = "30e290dcbd7d7c4ae84890a1f512b9568e4ee1e5"
 
 ["software-and-tools/bend-rust"]
-check_time = "2024-09-26T05:14:32.739979382Z"
+check_time = "2024-09-28T23:13:15.037202575Z"
 change_time = "2024-01-11T06:46:58Z"
 commit_hash = "494d957005d65f84b3e25278c89edde7faa3c55f"
 
@@ -3950,9 +3950,9 @@ change_time = "2023-12-18T19:01:55Z"
 commit_hash = "9d2693f0ef3569fd4fd506fe2091853a94760e12"
 
 ["software-and-tools/comms"]
-check_time = "2024-09-28T04:16:34.292769379Z"
-change_time = "2024-09-11T15:36:29Z"
-commit_hash = "aeb3d28b77f174e5a88f88b333298af0bee813a5"
+check_time = "2024-09-28T23:13:17.685819168Z"
+change_time = "2024-09-28T17:49:17Z"
+commit_hash = "a05df30ad699207d4f80b76d0a88c5b210a22035"
 
 ["software-and-tools/cuecat"]
 check_time = "2024-09-28T06:18:44.800601765Z"
@@ -4025,7 +4025,7 @@ change_time = "2023-11-24T22:46:28Z"
 commit_hash = "aca2846f5bcf4414ddc3f4efb03f4e82b7463fdd"
 
 ["software-and-tools/osc-utility"]
-check_time = "2024-09-17T19:12:44.675278432Z"
+check_time = "2024-09-28T23:13:18.501740130Z"
 change_time = "2020-11-28T21:05:27Z"
 commit_hash = "a4b3be74320a442c750e9bcee43e52bb521a824b"
 
@@ -4996,7 +4996,7 @@ change_time = "2024-04-07T17:33:20Z"
 commit_hash = "15f349848b24f737f6059d2425bf4a0abbfc9866"
 
 ["vcvrack/modules/voxglitch"]
-check_time = "2024-09-28T10:13:45.734256777Z"
+check_time = "2024-09-28T23:13:20.628034642Z"
 change_time = "2024-09-22T20:27:05Z"
 commit_hash = "fd80d8d24231c6d73abce0acfe9a97bb7aaa5253"
 
