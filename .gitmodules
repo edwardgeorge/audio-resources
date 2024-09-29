@@ -3090,3 +3090,7 @@
 	path = hw-fw-eurorack/16next-firmware
 	url = https://github.com/16n-faderbank/16next_firmware.git
 	branch = main
+[submodule "shorepine/amychip"]
+	path = hw-fw-eurorack/amychip
+	url = https://github.com/shorepine/amychip.git
+	branch = main
