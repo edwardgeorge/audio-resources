@@ -399,7 +399,7 @@ change_time = "2024-09-11T14:42:46Z"
 commit_hash = "ca7de2233011407fdd791839d711547bf41d33d3"
 
 ["hw-fw-eurorack/1800"]
-check_time = "2024-09-27T11:12:16.396513954Z"
+check_time = "2024-10-01T08:49:16.487407446Z"
 change_time = "2023-05-27T19:51:59Z"
 commit_hash = "d0e9ac0f19583a03c53c01054a47233af4533646"
 
@@ -469,7 +469,7 @@ change_time = "2019-11-18T19:10:24Z"
 commit_hash = "2c4a6908f373ea0d4191ef7355929691b87941ef"
 
 ["hw-fw-eurorack/amychip"]
-check_time = "2024-10-01T04:17:18.247200381Z"
+check_time = "2024-10-01T08:49:18.659676713Z"
 change_time = "2024-09-28T18:08:21Z"
 commit_hash = "272793c60523b2af8888452e0fd9c0c3e00759e9"
 
@@ -579,7 +579,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-10-01T07:14:18.610016142Z"
+check_time = "2024-10-01T08:49:23.849070341Z"
 change_time = "2024-09-30T20:23:17Z"
 commit_hash = "55eabecb849e2357cb2e957c21a1a3bf9aa47f60"
 
@@ -709,7 +709,7 @@ change_time = "2021-09-27T15:45:47Z"
 commit_hash = "fbc01ffb67ac741565d4129895707171be860c7b"
 
 ["hw-fw-eurorack/jarmaggedon"]
-check_time = "2024-09-23T03:18:48.623502535Z"
+check_time = "2024-10-01T08:49:27.461441094Z"
 change_time = "2017-09-18T18:34:17Z"
 commit_hash = "8893f8e729401723a217231388018228bd5546f3"
 
@@ -789,7 +789,7 @@ change_time = "2024-06-21T12:10:08Z"
 commit_hash = "c30955409ad93e4731652a96b223297cb2b6fcc0"
 
 ["hw-fw-eurorack/microdexed-touch"]
-check_time = "2024-10-01T07:14:53.701119707Z"
+check_time = "2024-10-01T08:49:58.680056500Z"
 change_time = "2024-09-28T20:52:38Z"
 commit_hash = "e04e21f4a772fc04c4def344fb04dc60d6f04a7f"
 
@@ -909,7 +909,7 @@ change_time = "2019-02-28T21:38:22Z"
 commit_hash = "357141b7617bafb63afb84464ebf9e6de720dcd0"
 
 ["hw-fw-eurorack/msg"]
-check_time = "2024-09-26T08:18:25.415610549Z"
+check_time = "2024-10-01T08:50:02.778128998Z"
 change_time = "2019-04-06T17:20:10Z"
 commit_hash = "fed276e7f9cab1a1b79c74ac290cfe2a18e04830"
 
@@ -1034,7 +1034,7 @@ change_time = "2021-10-04T13:15:55Z"
 commit_hash = "3d5d471a65a701a93b2a258fffaae6b9439ba5c9"
 
 ["hw-fw-eurorack/pikocore"]
-check_time = "2024-10-01T02:56:46.026213114Z"
+check_time = "2024-10-01T08:50:05.262109962Z"
 change_time = "2024-09-18T13:33:17Z"
 commit_hash = "4e60ad46d4baaa482a63e98dff8effb28d46ee54"
 
@@ -1478,6 +1478,11 @@ check_time = "2024-09-29T12:24:51.237119076Z"
 change_time = "2022-12-29T22:55:13Z"
 commit_hash = "96292e6965f74d5e08108f5f717df0bf8aa06b57"
 
+["libs/q"]
+check_time = "2024-10-01T08:50:28.758264266Z"
+change_time = "2024-09-29T05:36:24Z"
+commit_hash = "146fec8e087244dfaa92180c37e0f76ff13dccaa"
+
 ["libs/rtaudio"]
 check_time = "2024-09-30T16:18:01.204455567Z"
 change_time = "2024-09-18T13:41:31Z"
@@ -1529,7 +1534,7 @@ change_time = "2024-07-27T17:25:53Z"
 commit_hash = "262337b1afe59ccfcc88a96db1ff1966c0e9e312"
 
 ["max/applications/benny"]
-check_time = "2024-10-01T03:28:07.379782130Z"
+check_time = "2024-10-01T08:50:32.213966157Z"
 change_time = "2024-09-28T17:36:22Z"
 commit_hash = "45a34c305c157069c7bf9f1c6fe619f1cf43ec9d"
 
@@ -1684,7 +1689,7 @@ change_time = "2023-12-28T02:28:13Z"
 commit_hash = "7400b20cb513640c9776dbfa7091f43913fd7b07"
 
 ["max/m4l-devices/monome-grainfields-m4l"]
-check_time = "2024-09-28T14:11:33.394918911Z"
+check_time = "2024-10-01T08:50:34.719106952Z"
 change_time = "2019-09-06T08:26:54Z"
 commit_hash = "e4dc13bdb40e478b61306bf1bb4950e76e22503e"
 
@@ -4461,7 +4466,7 @@ change_time = "2020-05-18T20:27:39Z"
 commit_hash = "69e5826b11354e810501a4cbab418d900851e52e"
 
 ["supercollider/source"]
-check_time = "2024-10-01T01:13:05.077731624Z"
+check_time = "2024-10-01T08:50:44.956948628Z"
 change_time = "2024-09-26T11:25:15Z"
 commit_hash = "6248da1a7f244ef3f648d06e072b67d69541f867"
 
