@@ -3098,3 +3098,7 @@
 	path = hw-fw-eurorack/oras
 	url = https://github.com/benjiaomodular/Oras.git
 	branch = main
+[submodule "recursinging/kxmx-bluemchen"]
+	path = hw-fw-eurorack/kxmx-bluemchen
+	url = https://github.com/recursinging/kxmx_bluemchen.git
+	branch = main
