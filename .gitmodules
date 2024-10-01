@@ -3094,3 +3094,7 @@
 	path = hw-fw-eurorack/amychip
 	url = https://github.com/shorepine/amychip.git
 	branch = main
+[submodule "benjiaomodular/oras"]
+	path = hw-fw-eurorack/oras
+	url = https://github.com/benjiaomodular/Oras.git
+	branch = main
