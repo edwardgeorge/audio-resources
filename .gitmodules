@@ -3102,3 +3102,7 @@
 	path = hw-fw-eurorack/kxmx-bluemchen
 	url = https://github.com/recursinging/kxmx_bluemchen.git
 	branch = main
+[submodule "cycfi/q"]
+	path = libs/q
+	url = https://github.com/cycfi/q.git
+	branch = master
