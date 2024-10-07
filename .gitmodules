@@ -3134,3 +3134,11 @@
 	path = supercollider/plugins/mapperugen
 	url = https://github.com/libmapper/MapperUGen.git
 	branch = main
+[submodule "torsoelectronics/link-esp"]
+	path = libs/link-esp
+	url = https://github.com/torsoelectronics/link-esp.git
+	branch = master
+[submodule "libpd/libpd"]
+	path = libs/libpd
+	url = https://github.com/libpd/libpd.git
+	branch = master
