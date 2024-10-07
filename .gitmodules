@@ -3106,3 +3106,31 @@
 	path = libs/q
 	url = https://github.com/cycfi/q.git
 	branch = master
+[submodule "libmapper/libmapper"]
+	path = libs/libmapper
+	url = https://github.com/libmapper/libmapper.git
+	branch = main
+[submodule "libmapper/mapper4live"]
+	path = max/m4l-devices/mapper4live
+	url = https://github.com/libmapper/Mapper4Live.git
+	branch = main
+[submodule "libmapper/libmapper-rs"]
+	path = rust-libraries/libmapper-rs
+	url = https://github.com/libmapper/libmapper-rs.git
+	branch = main
+[submodule "libmapper/umapper"]
+	path = software-and-tools/umapper
+	url = https://github.com/libmapper/umapper.git
+	branch = main
+[submodule "libmapper/mathr"]
+	path = software-and-tools/mathr
+	url = https://github.com/libmapper/mathr.git
+	branch = main
+[submodule "libmapper/libmapper-max"]
+	path = max/packages/libmapper-max
+	url = https://github.com/libmapper/libmapper-max.git
+	branch = main
+[submodule "libmapper/mapperugen"]
+	path = supercollider/plugins/mapperugen
+	url = https://github.com/libmapper/MapperUGen.git
+	branch = main
