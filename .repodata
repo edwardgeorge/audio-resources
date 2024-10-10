@@ -39,7 +39,7 @@ change_time = "2023-07-25T01:00:13Z"
 commit_hash = "7027d2971a5491b021d8b309101cf2f75a7b5787"
 
 ["crow/scripts/bowery"]
-check_time = "2024-10-09T03:19:10.301058636Z"
+check_time = "2024-10-10T18:18:00.133912416Z"
 change_time = "2024-01-16T20:57:50Z"
 commit_hash = "687e848d9ba5804ec159f193d267c2cd0215682f"
 
@@ -109,7 +109,7 @@ change_time = "2024-05-21T06:39:14Z"
 commit_hash = "f6f2c4882e922339c554c39332806b40781286ef"
 
 ["daisy/modules/misc/veno-echo"]
-check_time = "2024-10-07T15:48:10.114571481Z"
+check_time = "2024-10-10T18:18:02.020518353Z"
 change_time = "2022-01-20T01:30:20Z"
 commit_hash = "f30b30ceebe792035aef82ba8588627fdc8c0763"
 
@@ -119,7 +119,7 @@ change_time = "2022-12-29T07:33:22Z"
 commit_hash = "1dd88a12b854ec1e447e1afeccfcd72b468ccd55"
 
 ["daisy/modules/patch-init/ndonald2-patches"]
-check_time = "2024-10-09T17:12:44.724164246Z"
+check_time = "2024-10-10T18:18:03.918893980Z"
 change_time = "2024-01-25T23:40:01Z"
 commit_hash = "77405a1e256de07361a5753891dbc67e39666a40"
 
@@ -344,7 +344,7 @@ change_time = "2024-09-12T01:54:03Z"
 commit_hash = "4d382130b640c8682482975e8d5c7f6784c1ecb8"
 
 ["faust/faust"]
-check_time = "2024-10-10T16:16:42.282080526Z"
+check_time = "2024-10-10T18:18:18.330083322Z"
 change_time = "2024-10-10T11:30:03Z"
 commit_hash = "ce365cc3b0fb64f3aa966f877501eba6112a6177"
 
@@ -359,7 +359,7 @@ change_time = "2024-10-03T16:21:33Z"
 commit_hash = "98f44f970658b1b0f81c25ff43c16daffa917825"
 
 ["faust/faust-live"]
-check_time = "2024-10-09T14:13:18.178630671Z"
+check_time = "2024-10-10T18:18:19.871182772Z"
 change_time = "2024-09-19T14:16:41Z"
 commit_hash = "a3762352b5102bf1f75ea47409a60b6ee29a3ad2"
 
@@ -379,7 +379,7 @@ change_time = "2024-02-16T03:50:42Z"
 commit_hash = "0b872bb239c69fce7bf7d24f71790cd08b8d862f"
 
 ["hw-fw-eurorack/-core"]
-check_time = "2024-10-10T17:12:58.118134413Z"
+check_time = "2024-10-10T18:18:22.342010879Z"
 change_time = "2024-10-10T16:44:42Z"
 commit_hash = "843f28502645341d6c76aa0f9cd996f3cca8318e"
 
@@ -469,7 +469,7 @@ change_time = "2019-11-18T19:10:24Z"
 commit_hash = "2c4a6908f373ea0d4191ef7355929691b87941ef"
 
 ["hw-fw-eurorack/amychip"]
-check_time = "2024-10-10T09:14:58.707230523Z"
+check_time = "2024-10-10T18:18:23.326806971Z"
 change_time = "2024-10-05T00:46:12Z"
 commit_hash = "c0df9fdca5911bb58181130bcb11d71bdbb6d2fc"
 
@@ -579,7 +579,7 @@ change_time = "2023-09-16T17:05:24Z"
 commit_hash = "118bce9ffe4f9e66e34bcde786141e2124840ab1"
 
 ["hw-fw-eurorack/delugefirmware"]
-check_time = "2024-10-10T17:13:02.049182269Z"
+check_time = "2024-10-10T18:18:26.339662629Z"
 change_time = "2024-10-09T14:22:41Z"
 commit_hash = "1eb23399d06d2edf0aff1d978efbcd2076a90609"
 
@@ -804,7 +804,7 @@ change_time = "2024-09-20T23:22:19Z"
 commit_hash = "7e08a4cc61586342ce6d5c6c91e2003ab69be99f"
 
 ["hw-fw-eurorack/microresearch-allcolours"]
-check_time = "2024-10-10T14:13:43.932160004Z"
+check_time = "2024-10-10T18:18:48.567081841Z"
 change_time = "2024-10-09T11:37:13Z"
 commit_hash = "427109c1631c8997c4676ab9a133242ce7797c94"
 
@@ -1444,9 +1444,9 @@ change_time = "2024-01-13T15:58:13Z"
 commit_hash = "9faf60cda6fe5d6a80cb053716e6aaacdca846b8"
 
 ["libs/libossia"]
-check_time = "2024-10-10T15:14:29.685472956Z"
-change_time = "2024-10-09T15:33:46Z"
-commit_hash = "f4fc4dfaa89efeabc33123d0b240f9088c63cfd5"
+check_time = "2024-10-10T18:18:54.169411690Z"
+change_time = "2024-10-10T16:21:12Z"
+commit_hash = "157552b0a422de4aaab7f17e51665d9a0b7efa0f"
 
 ["libs/libpd"]
 check_time = "2024-10-10T12:27:29.983739287Z"
@@ -1544,14 +1544,14 @@ change_time = "2024-10-08T15:29:54Z"
 commit_hash = "32cf351f19a5222e16d273b52250a7eba5526bbf"
 
 ["libs/tuning-library"]
-check_time = "2024-10-10T15:14:34.423213842Z"
+check_time = "2024-10-10T18:18:55.134647078Z"
 change_time = "2024-10-07T14:07:50Z"
 commit_hash = "466626ffaab4036212b121d1ec1de45c56b2297b"
 
 ["max/applications/benny"]
-check_time = "2024-10-10T17:13:30.494052229Z"
-change_time = "2024-10-10T14:41:15Z"
-commit_hash = "4524c661c123f01b2b2f27d8d9e1597282f34f27"
+check_time = "2024-10-10T18:18:59.797234260Z"
+change_time = "2024-10-10T17:53:48Z"
+commit_hash = "24dc0a414b7f5ad5fa3f0be659058b3cf5bcaa95"
 
 ["max/applications/groovin"]
 check_time = "2024-10-09T19:44:55.968193266Z"
@@ -1599,7 +1599,7 @@ change_time = "2023-06-29T20:20:56Z"
 commit_hash = "168bd8e01971cb263c94c12cabc49d75c461f761"
 
 ["max/devkit/min-api"]
-check_time = "2024-10-10T17:13:34.961998350Z"
+check_time = "2024-10-10T18:19:00.790271121Z"
 change_time = "2024-10-10T14:54:47Z"
 commit_hash = "65a663c4a21d9fc4a17d54d624efd36ea1ed3133"
 
@@ -2069,7 +2069,7 @@ change_time = "2022-08-12T17:26:15Z"
 commit_hash = "d6dffe88e2cae656583bb0760b0643040b9be9ed"
 
 ["max/patches/meta-meta-maxpatches"]
-check_time = "2024-10-10T14:14:05.446291247Z"
+check_time = "2024-10-10T18:19:08.111768001Z"
 change_time = "2024-10-09T04:47:38Z"
 commit_hash = "a0b415c15bfc40856162c7de3436279e2ed835ba"
 
@@ -2350,7 +2350,7 @@ change_time = "2015-05-11T11:54:25Z"
 commit_hash = "82ea33b4b67bcb746d52ba9b11efa9c7c1fbf625"
 
 ["monome/docs/grid-studies-python"]
-check_time = "2024-10-07T01:07:40.687897984Z"
+check_time = "2024-10-10T18:19:09.540506064Z"
 change_time = "2023-02-02T01:48:57Z"
 commit_hash = "5cd21e030832d75e051838a93f43750733dc0372"
 
@@ -2920,7 +2920,7 @@ change_time = "2021-03-30T09:08:11Z"
 commit_hash = "89ae13841779d4470c2e13afeb37267755e50bcd"
 
 ["norns/scripts/digger"]
-check_time = "2024-10-09T10:15:24.643225090Z"
+check_time = "2024-10-10T18:19:11.023871507Z"
 change_time = "2023-02-20T15:42:18Z"
 commit_hash = "3d079a8d834b39ca32fc71ce5a57d576ff861560"
 
@@ -2980,7 +2980,7 @@ change_time = "2022-11-26T21:15:28Z"
 commit_hash = "3cdbbf7133bcac91c61a39558b89b6743e86151a"
 
 ["norns/scripts/forge"]
-check_time = "2024-10-09T03:20:02.621749186Z"
+check_time = "2024-10-10T18:19:11.934426780Z"
 change_time = "2024-01-27T17:46:37Z"
 commit_hash = "b88c7d09a2d76664ace9cbfb4453ab15a880efdf"
 
@@ -3080,7 +3080,7 @@ change_time = "2023-01-28T23:43:01Z"
 commit_hash = "ba1b59223df677be4ecb98f696bb851e3f4e9dc2"
 
 ["norns/scripts/less-concepts"]
-check_time = "2024-10-09T20:16:36.384849902Z"
+check_time = "2024-10-10T18:19:12.831034980Z"
 change_time = "2023-05-16T14:22:24Z"
 commit_hash = "d98bfd9d1cce8a958b0aaaabaeea3700c1b45112"
 
@@ -3675,7 +3675,7 @@ change_time = "2021-04-30T16:40:26Z"
 commit_hash = "d0033765a9abec0f4eaed9404f3d19e89135ada6"
 
 ["plugins-and-standalone/shortcircuit-xt"]
-check_time = "2024-10-10T14:14:27.720937440Z"
+check_time = "2024-10-10T18:19:15.334466966Z"
 change_time = "2024-10-09T22:56:21Z"
 commit_hash = "67900f750d70caaec3b7b39579c0aaef5066ef3d"
 
@@ -3935,7 +3935,7 @@ change_time = "2021-05-22T14:41:08Z"
 commit_hash = "b9838d078adedf4cfdfd2ae06e14972797d0ee87"
 
 ["rust-libraries/rustaudio-rodio"]
-check_time = "2024-10-10T14:15:07.827253403Z"
+check_time = "2024-10-10T18:19:16.883870332Z"
 change_time = "2024-10-10T00:14:25Z"
 commit_hash = "a7f67b3eea84643a673da94b37ca7c127cdad98e"
 
@@ -4215,7 +4215,7 @@ change_time = "2016-09-18T21:20:30Z"
 commit_hash = "32cf809564a3fa1b258ef91bbbcc089f7a644152"
 
 ["supercollider/compositions/superclean-code"]
-check_time = "2024-10-10T12:28:11.039983426Z"
+check_time = "2024-10-10T18:19:18.872289956Z"
 change_time = "2024-10-04T00:13:01Z"
 commit_hash = "c57b758879be6898bc60b0df5ae34ed7e012af2a"
 
@@ -4511,9 +4511,9 @@ change_time = "2020-05-18T20:27:39Z"
 commit_hash = "69e5826b11354e810501a4cbab418d900851e52e"
 
 ["supercollider/source"]
-check_time = "2024-10-10T09:16:06.596451614Z"
-change_time = "2024-09-26T11:25:15Z"
-commit_hash = "6248da1a7f244ef3f648d06e072b67d69541f867"
+check_time = "2024-10-10T18:19:25.470617602Z"
+change_time = "2024-10-10T13:38:53Z"
+commit_hash = "dd5d4fb578e09c529e25c930f9490d58c2519227"
 
 ["supercollider/steno"]
 check_time = "2024-03-27T08:15:10.890060377Z"
@@ -5056,7 +5056,7 @@ change_time = "2024-09-09T01:36:45Z"
 commit_hash = "b91a8b7227892aa7fae8a15aa1caaa780cc1be21"
 
 ["vcvrack/modules/verilog-vcvrack"]
-check_time = "2024-10-06T13:18:35.731588013Z"
+check_time = "2024-10-10T18:19:26.831233050Z"
 change_time = "2024-04-07T17:33:20Z"
 commit_hash = "15f349848b24f737f6059d2425bf4a0abbfc9866"
 
