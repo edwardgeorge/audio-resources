@@ -3146,3 +3146,7 @@
 	path = vcvrack/modules/vcv
 	url = https://github.com/BlackNoiseModular/VCV.git
 	branch = master
+[submodule "schollz/pitter-patter"]
+	path = norns/scripts/pitter-patter
+	url = https://github.com/schollz/pitter-patter.git
+	branch = main
