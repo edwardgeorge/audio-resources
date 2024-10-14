@@ -3142,3 +3142,7 @@
 	path = libs/libpd
 	url = https://github.com/libpd/libpd.git
 	branch = master
+[submodule "blacknoisemodular/vcv"]
+	path = vcvrack/modules/vcv
+	url = https://github.com/BlackNoiseModular/VCV.git
+	branch = master
