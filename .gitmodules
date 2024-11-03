@@ -3170,3 +3170,11 @@
 	path = norns/scripts/descartes
 	url = https://github.com/keenanmcdonald/descartes.git
 	branch = main
+[submodule "frederickk/stjoernuithrott/primary"]
+	path = norns/scripts/stjoernuithrott
+	url = https://github.com/frederickk/stjoernuithrott.git
+	branch = primary
+[submodule "frederickk/kreislauf/primary"]
+	path = norns/scripts/kreislauf
+	url = https://github.com/frederickk/kreislauf.git
+	branch = primary
