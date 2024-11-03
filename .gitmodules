@@ -3154,3 +3154,15 @@
 	path = norns/scripts/form-without-matter
 	url = https://github.com/imminentgloom/form_without_matter.git
 	branch = main
+[submodule "synthux-academy/simple-designer-instruments"]
+	path = hw-fw-eurorack/simple-designer-instruments
+	url = https://github.com/Synthux-Academy/simple-designer-instruments.git
+	branch = main
+[submodule "synthux-academy/simple-fix-instruments"]
+	path = hw-fw-eurorack/simple-fix-instruments
+	url = https://github.com/Synthux-Academy/simple-fix-instruments.git
+	branch = main
+[submodule "synthux-academy/simple-touch-instruments"]
+	path = hw-fw-eurorack/simple-touch-instruments
+	url = https://github.com/Synthux-Academy/simple-touch-instruments.git
+	branch = main
