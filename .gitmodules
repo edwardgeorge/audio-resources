@@ -3178,3 +3178,7 @@
 	path = norns/scripts/kreislauf
 	url = https://github.com/frederickk/kreislauf.git
 	branch = primary
+[submodule "niklaskramer/rounds"]
+	path = norns/scripts/rounds
+	url = https://github.com/NiklasKramer/rounds.git
+	branch = main
